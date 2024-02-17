@@ -1,62 +1,93 @@
 /* ************************* */
-
 /* EVT 2.0 CUSTOM STYLESHEET */
-
 /* ***************************************************************** */
-
 /*                                                                   */
-
 /* Add here your CSS to customize the style of the elements          */
-
 /* If you'll not see any changes, try adding !important to the rule  */
-
 /*                                                                   */
-
 /* For generic TEI elements, use the tagName as class                */
-
 /* e.g. <del/> => .del{ # your style goes here # }                   */
-
 /*                                                                   */
-
 /* ***************************************************************** */
+
+@font-face {
+    font-family: 'Libertinus';
+    src: local('Libertinus Serif Regular'), local('Libertinus-Serif-Regular'),
+        url('../fonts/LibertinusSerif-Regular.woff2') format('woff2'),
+        url('../fonts/LibertinusSerif-Regular.woff') format('woff'),
+        url('../fonts/LibertinusSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libertinus';
+    src: local('Libertinus Serif Italic'), local('Libertinus-Serif-Italic'),
+        url('../fonts/LibertinusSerif-Italic.woff2') format('woff2'),
+        url('../fonts/LibertinusSerif-Italic.woff') format('woff'),
+        url('../fonts/LibertinusSerif-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Libertinus';
+    src: local('Libertinus Serif Bold Italic'), local('Libertinus-Serif-Bold-Italic'),
+        url('../fonts/LibertinusSerif-BoldItalic.woff2') format('woff2'),
+        url('../fonts/LibertinusSerif-BoldItalic.woff') format('woff'),
+        url('../fonts/LibertinusSerif-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Libertinus';
+    src: local('Libertinus Serif Bold'), local('Libertinus-Serif-Bold'),
+        url('../fonts/LibertinusSerif-Bold.woff2') format('woff2'),
+        url('../fonts/LibertinusSerif-Bold.woff') format('woff'),
+        url('../fonts/LibertinusSerif-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
 .term {
-	background-color: coral;
+    background-color: coral;
 }
 
 .figDesc {
-	display: block;
-	border-left: 5px solid #b30000;
-	background-color: #ffe6e6;
-	padding: 5px 5px 5px 8px;
-	margin-bottom: 3%;
-	text-align: justify;
-	font-size: 95%;
-	font-style: italic;
+    display: block;
+    border-left: 5px solid #b30000;
+    background-color: #ffe6e6;
+    padding: 5px 5px 5px 8px;
+    margin-bottom: 3%;
+    text-align: justify;
+    font-size: 95%;
+    font-style: italic;
 }
 
 span.analogue span.analogue__text span.quote {
-	font-style: italic;
+    font-style: italic;
 }
 
 span.quote sup.iconbis-evt_quote-left,
 span.quote sup.iconbis-evt_quote-right {
-	display: none;
+    display: none;
 }
 
 body {
-	font-family: 'Libertinus Serif', Times, Junicode, serif;
-/*	font-size: 150%;*/
-	text-align: justify;
+    font-family: 'Libertinus', Times, Junicode, serif;
+    /*	font-size: 150%;*/
+    text-align: justify;
 }
 
 .name {
-	color: blue;
+    color: blue;
 }
 
 .p {
-	font-size:1em;
+    font-size: 1em;
 }
 
 .head {
-	font-size:2em;
+    font-size: 2em;
 }
