@@ -44,7 +44,7 @@ span.quote sup.iconbis-evt_quote-right {
 }
 
 body {
-	font-family: 'Libertinus Serif', Junicode, serif;
+	font-family: 'Libertinus Serif', Times, Junicode, serif;
 /*	font-size: 150%;*/
 	text-align: justify;
 }
@@ -54,7 +54,7 @@ body {
 }
 
 .p {
-/*	font-size:1.1em;*/
+	font-size:1em;
 }
 
 .head {
