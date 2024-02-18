@@ -21,7 +21,7 @@
         "AUTHOR": "Auteur/autrice",
         "YEAR": "Année",
         "TITLE": "Titre",
-        "PUBLISHER": "Maison d’édition",
+        "PUBLISHER": "Publié par",
         "ORDER": "Ordre",
         "ASC": "Ascendant",
         "DESC": "Descendant"
@@ -46,7 +46,7 @@
         "FONT_INCREASE": "Augmenter la taille de la police",
         "FONT_RESET": "Réinitialiser la taille de la police",
         "HEAT_MAP": "Carte thermique (heat map)",
-        "INFO": "Info",
+        "INFO": "",
         "INFO_ABOUT_TEXT": "Informations sur ce texte",
         "IMAGE_TEXT_LINKING": "Lien image-texte",
         "HOTSPOTS": "Hotspots",
@@ -59,8 +59,8 @@
         "OBJ": "Description 3D",
         "OPEN_LIST": "Voir dans la liste",
         "PIN_REMOVE": "Supprimer l’épingle",
-        "PIN_TOGGLE": "Activer ou non l’épingle",
-        "SHOW_PINNED_ENTRIES": "Afficher les éléments épinglés",
+        "PIN_TOGGLE": "Épingler/désélectionner",
+        "SHOW_PINNED_ENTRIES": "Afficher/masquer les éléments épinglés",
         "SHOW_PINNED_APP_ENTRIES": "Afficher les unités critiques épinglées",
         "THUMBS": "Vignettes",
         "THUMBNAILS": "Vignettes",
@@ -73,7 +73,7 @@
         "PAGE_PREVIOUS": "Page précédente",
         "PAGE_NEXT": "Page suivante",
         "GO_TO_PAGE": "Aller à la page",
-        "TOGGLE_NAVBAR": "Afficher ou non la barre de navigation",
+        "TOGGLE_NAVBAR": "Afficher/masquer la barre de navigation",
         "SCHEMA": "Schéma",
         "SEARCH": "Requête",
         "SEARCHINDEX": "Index"
@@ -92,12 +92,12 @@
         "TABS":
         {
             "CRITICAL_NOTE": "Note critique",
-            "MORE_INFO": "Davantage d’informations",
+            "MORE_INFO": "En savoir plus",
             "ORTHOGRAPHIC_VARIANTS": "Variantes orthographiques",
             "XML": "XML"
         },
         "WITNESS_REF_CURRENT": "{{witness}} est le témoin affiché",
-        "WITNESS_REF_OPEN": "Ouvrir le témoin {{witness}} à côté de cette boîte"
+        "WITNESS_REF_OPEN": "Ouvrir le témoin {{witness}} dans un panneau latéral"
     },
     "DIALOGS":
     {
@@ -177,7 +177,7 @@
     },
     "NAMED_ENTITIES":
     {
-        "MORE_INFO": "Davantage d’informations",
+        "MORE_INFO": "En savoir plus",
         "OCCURRENCES": "Occurrences",
         "XML": "XML",
         "MAP": "Carte"
@@ -205,7 +205,7 @@
         "INTERP_GRP": "Interprétations",
         "INTERPRETATION": "Informations pertinentes pour l’interprétation",
         "INTRO": "Introduction",
-        "LANG_USAGE": "Usages linguistiques",
+        "LANG_USAGE": "Langues utilisées",
         "MS_CONTENTS": "Contenu du manuscrit",
         "MS_IDENTIFIER": "Identifiant du manuscrit",
         "MS_NAME": "Nom du manuscrit",
@@ -214,23 +214,23 @@
         "ORIGIN": "Origine",
         "PARTIC_DESC": "Participation",
         "PHYS_DESC": "Description physique",
-        "PRINCIPAL": "Responsable principal des recherches",
+        "PRINCIPAL": "Responsabilité principale des recherches",
         "PROJECT_DESC": "Description du projet",
         "PUB_PLACE": "Lieu de publication",
         "PUBLICATION_STMT": "À propos de la publication",
-        "PUBLISHER": "Maison d’édition",
+        "PUBLISHER": "Publié par ",
         "PUNCTUATION": "Principes de ponctuation",
         "QUOTATION": "Principes de citation",
         "REFERENCES": "Références",
         "REFS_DECL": "Déclaration des références",
         "REPOSITORY": "Lieu de conservation",
-        "RESP_STMT": "Responsable",
+        "RESP_STMT": "Responsables",
         "REVISION_DESC": "Description des révisions",
         "SEGMENTATION": "Principes de segmentation",
         "SERIES_STMT": "Série",
         "SETTLEMENT": "Site",
         "SOURCE_DESC": "Description de la source",
-        "SPONSOR": "Soutien financier (sponsor)",
+        "SPONSOR": "Soutien (sponsor)",
         "SUPPORT_DESC": "Description du support",
         "STD_VALS": "Valeurs standard",
         "TEXT_CLASS": "Catégorisation du texte",
@@ -279,8 +279,8 @@
         "BODY": "Texte",
         "DIVS": "Sections",
         "FRONT": "Pages liminaires (front matter)",
-        "HEADER": "Paratexte",
-        "PAGES": "Folios",
+        "HEADER": "Paratexte et métadonnées",
+        "PAGES": "Folios/pages",
         "TITLE": "Sommaire"
     },
     "VERSIONS":
@@ -291,7 +291,7 @@
         "METADATA_FOR_ORTHOGRAPHIC_READING": "Métadonnées concernant la variante orthographique",
         "METADATA_FOR_SIGNIFICANT_READING": "Métadonnées concernant la variante sémantique",
         "MORE_INFO_ABOUT_VERSION": "Davantage d’informations sur la version",
-        "MORE_INFO": "Davantage d’informations",
+        "MORE_INFO": "En savoir plus",
         "OPEN_TEXT": "Ouvrir le texte de la version",
         "ORTHOGRAPHIC_VARIANTS": "Variantes orthographiques",
         "SIGNIFICANT_VARIANTS": "Variantes sémantiques",
@@ -301,10 +301,10 @@
     "VIEW_MODES":
     {
         "READING_TEXT": "Texte édité",
-        "MULTIPLE_RECENSIONS": "Collations multiples",
-        "IMAGE_TEXT": "Texte comme image",
+        "MULTIPLE_RECENSIONS": "Versions multiples",
+        "IMAGE_TEXT": "Images du texte",
         "TEXT_TEXT": "Texte comme texte",
-        "COLLATION": "Collation",
+        "COLLATION": "Comparaison des versions",
         "SOURCE_TEXT": "Texte source",
         "3DHOP": "Texte en 3D"
     },
@@ -349,7 +349,7 @@
         "ORTHOGRAPHIC_CAMERA": "Vue orthographique",
         "MODEL_COLOR": "Modèle en couleurs",
         "SOLID_COLOR": "Couleurs pleines",
-        "HIDE_HOTSPOTS": "Ne pas afficher les hotspots",
+        "HIDE_HOTSPOTS": "Masquer les hotspots",
         "SHOW_HOTSPOTS": "Afficher les hotspots",
         "DISABLE_MEASURE_TOOL": "Désactiver l’outil de mesure",
         "ENABLE_MEASURE_TOOL": "Activer l’outil de mesure",
