@@ -374,6 +374,58 @@
                         πεντακοσίοις ἱππεῦσιν ἐκ Γέλας ποτὲ καταλύσασιν ὡς αὐτὸν χειμῶνος ὥρᾳ ἔδωκεν
                         ἑκάστῳ χιτῶνα καὶ ἱμάτιον.</p>
                 </div>
+                
+                <div n="1" type="chapitre">
+                    <div n="1" type="section">
+                        <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_1.jpg"/>
+                        <p> In nomine domini <name>Iesus</name>
+                            <app>
+                                <lem>Christi</lem>
+                                <rdg>Chisti</rdg>
+                            </app>. Liber est <name type="divin">Hynothéon</name> sapientissimi
+                                <persName>Salomonis</persName> regis, filii
+                                <persName>David</persName>
+                            <persName>Israël</persName>, de <app>
+                                <lem>Chaldaeo</lem>
+                                <rdg>Caldes</rdg>
+                            </app> in Latinum. Altitudines orientis sunt nouem de quibus in hoc
+                            libro primo tractatu tractandum est, et de illius uirtutibus. In
+                            secundo, est tractandum de altitudinibus occidentalibus, quæ sunt
+                            septem, et meridionalibus quæ sunt quinque, et septentrionalibus quæ
+                            sunt tres. In tertio, de modo faciendi sanctum <name type="divin"
+                                >Hælaon</name>, et de modo <app>
+                                <lem>seruandi</lem>
+                                <rdg>seruandia</rdg>
+                            </app> artista antequam et postquam operationem suam hanc inceperit et
+                            de preparatione <del>artistiae</del> artistæ et de multis adnotationibus
+                            ad hanc artem pertinentibus.</p>
+                    </div>
+                    <div n="2" type="section">
+                        <pb n="im_2" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_2.jpg"/>
+                        <p> Prima altitudo orientis altitudo prima uocatur <name type="divin"
+                                >Cynos</name>, et principes huius altitudinis uocantur <name
+                                type="divin">Hrauel</name>, <name type="divin">Gabriel</name>, <name
+                                type="divin">Barachiel</name>, <name type="divin">Libes</name>,
+                                <name type="divin">Heliram</name>, et hæc altitudo habet operationem
+                            suam et potentiam die Solis et eius hora Luna crescente in bona
+                            dispositione et cum ista altitudine disponuntur natiuitates natorum ad
+                            bonum uel malum finem aliqua mulier concipere vel non et arbores fructus
+                            facere in quantitate, uel non, et hæc similia. </p>
+                    </div>
+                    <div n="3" type="section">
+                        <pb n="im_3" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_3.jpg"/>
+                        <p> Secunda altitudo. Hæc altitudo uocatur <name type="divin">Corora</name>
+                            et habet operationem et potentiam suam super omnem acquisitionem rerum
+                            transitarum per manus illius principis, et etiam habet potestatem
+                            distribuere, auferre, donare pro ut eis uidetur redditus et pecuniam,
+                            habet operationem suam die Solis et eius hora luna crescente. Nomina
+                            principum huius altitudinis sunt <name type="divin">Pax</name>, <name
+                                type="divin">Alpharaym</name>, <name type="divin">Geongereon</name>,
+                                <name type="divin">Armon</name>, <name type="divin"
+                            >Gænerion</name>.</p>
+
+                    </div>
+                </div>
             </div>
         </body>
     </text>
