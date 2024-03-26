@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="normal">Liber Hynotheon</title>
+                <title type="source">Manuscrit Rennes, 5Fb 1 ADIV</title>
+                <title type="medium">transcription électronique</title>
+                <author>inconnu</author>
+                <respStmt>
+                    <resp>Transcription du manuscrit, encodage XML</resp>
+                    <name type="person" xml:id="NC">Nicolas Corre</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>France</country>
+                        <settlement>Rennes</settlement>
+                        <repository>ADIV</repository>
+                        <idno>5Fb 1</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>papier</support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>170</height>
+                                        <width>135</width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="transcription" xml:lang="lat">
+                <head>Liber Hynotheon</head>
+                <div>
+
+                    <div n="1" type="chapitre">
+                        <div n="1" type="section">
+                            <p> In nomine domini <name>Iesus</name>
+                                <app>
+                                    <lem>Christi</lem>
+                                    <rdg>Chisti</rdg>
+                                </app>. Liber est <name type="divin">Hynothéon</name> sapientissimi
+                                    <persName>Salomonis</persName> regis, filii
+                                    <persName>David</persName>
+                                <persName>Israël</persName>, de <app>
+                                    <lem>Chaldaeo</lem>
+                                    <rdg>Caldes</rdg>
+                                </app> in Latinum. Altitudines orientis sunt nouem de quibus in hoc
+                                libro primo tractatu tractandum est, et de illius uirtutibus. In
+                                secundo, est tractandum de altitudinibus occidentalibus, quæ sunt
+                                septem, et meridionalibus quæ sunt quinque, et septentrionalibus quæ
+                                sunt tres. In tertio, de modo faciendi sanctum <name type="divin"
+                                    >Hælaon</name>, et de modo <app>
+                                    <lem>seruandi</lem>
+                                    <rdg>seruandia</rdg>
+                                </app> artista antequam et postquam operationem suam hanc inceperit
+                                et de preparatione <del>artistiae</del> artistæ et de multis
+                                adnotationibus ad hanc artem pertinentibus.</p>
+                        </div>
+                        <div n="2" type="section">
+                            <p> Prima altitudo orientis altitudo prima uocatur <name type="divin"
+                                    >Cynos</name>, et principes huius altitudinis uocantur <name
+                                    type="divin">Hrauel</name>, <name type="divin">Gabriel</name>,
+                                    <name type="divin">Barachiel</name>, <name type="divin"
+                                    >Libes</name>, <name type="divin">Heliram</name>, et hæc
+                                altitudo habet operationem suam et potentiam die Solis et eius hora
+                                Luna crescente in bona dispositione et cum ista altitudine
+                                disponuntur natiuitates natorum ad bonum uel malum finem aliqua
+                                mulier concipere vel non et arbores fructus facere in quantitate,
+                                uel non, et hæc similia. </p>
+                        </div>
+                        <div n="3" type="section">
+                            <p> Secunda altitudo. Hæc altitudo uocatur <name type="divin"
+                                    >Corora</name> et habet operationem et potentiam suam super
+                                omnem acquisitionem rerum transitarum per manus illius principis, et
+                                etiam habet potestatem distribuere, auferre, donare pro ut eis
+                                uidetur redditus et pecuniam, habet operationem suam die Solis et
+                                eius hora luna crescente. Nomina principum huius altitudinis sunt
+                                    <name type="divin">Pax</name>, <name type="divin"
+                                    >Alpharaym</name>, <name type="divin">Geongereon</name>, <name
+                                    type="divin">Armon</name>, <name type="divin"
+                                >Gænerion</name>.</p>
+                        </div>
+                        <div n="4" type="section">
+                            <p> Tertia altitudo. Hæc vocatur <name type="divin"><app>
+                                        <lem>Hernimoy</lem>
+                                        <rdg>Hernimoij</rdg>
+                                    </app></name>
+                                <del>Hermoij</del> et habet potentiam suam super amicos, fratres,
+                                propinquos et vicinos et super motum omnium aquarum, maris et
+                                fluminum, et super mutationem corporalem omnium rerum de loco ad
+                                locum et super omne id quod mouet. Motum localem impediunt et
+                                expediunt prout principibus huius altitudinis placet. Nomina
+                                principum huius altitudinis sunt <name type="divin">Yachanay</name>,
+                                    <name type="divin">Ziziel </name>, <name type="divin"
+                                    >Prinuemator</name>
+                                <del>Priuemator</del>, <name type="divin">Yachanay</name>, <name
+                                    type="divin">Helem</name>, <name type="divin">Enthithoi</name>.
+                            </p>
+                        </div>
+                        <div n="5" type="section">
+                            <p> Quarta altitudo. Hæc uocatur <name type="divin">Panteon</name> et
+                                principes qui morantur in ea habent potestatem, et potentiam super <app>
+                                    <lem>thesaurizantes</lem>
+                                    <rdg>thesaurisantes</rdg>
+                                </app> successiones, <app>
+                                    <lem>res</lem>
+                                    <rdg>rera</rdg>
+                                </app> et donare dignitates pro ut eis uidetur. Nomina principum
+                                huius altitudinis sunt <name type="divin">Yaræth</name>, <name
+                                    type="divin">Yran</name>, <name type="divin">Arneth </name>,
+                                    <name type="divin">Zanay</name>, <name type="divin"
+                                    >Aranoy</name>, <del>susee</del>
+                                <name type="divin">Susceye</name>. </p>
+                        </div>
+                        <div n="6" type="section">
+                            <p> Quinta altitudo. Hæc uocatur <name type="divin">Cym</name> et
+                                principes qui morantur in ea habent potestatem <del>potentiam</del>
+                                ex officio suo cum motu cæli mouere omnia animantia secundum naturam
+                                ad filios procreandi multiplicandi in genere omnium <app>
+                                    <lem>specietatum</lem>
+                                    <rdg>spetie earum</rdg>
+                                </app>, tam sub terra <supplied>quam supra terram</supplied>, ut
+                                sunt pisces et uolatilia animantia ; et gubernant et regunt motum
+                                animalium et ex dono Dei possunt naturales scientias infundere super
+                                homines cuius modi sunt <app>
+                                    <lem>physica</lem>
+                                    <rdg>phisica</rdg>
+                                </app>, medicina, alchimia et earum partem. Nomina principum huius
+                                altitudinis sunt <name type="divin">Abnay</name>, <name type="divin"
+                                    >Cercy</name>, <name type="divin">Crahel</name>
+                                <del>Erahel</del>, <name type="divin">Monosim</name>, <name
+                                    type="divin">Aurache</name>, <name type="divin">Hanalay</name>.
+                            </p>
+                        </div>
+                        <div n="7" type="section">
+                            <p> Sexta altitudo. Hæc uocatur <name type="divin">Noxin</name>, et
+                                principes, qui morantur in ea, habent potestatem et uirtutem suam ex
+                                officio super status mundi et mouent et mutant monarchias, imperia
+                                et dominia mundi de regione in regionem per motum cælestem et
+                                ordinationem eorum ; et distingunt dominos ii et a seruis ipsos
+                                uirtutibus et moribus illustrant, et mutant ipsas leges, fides ;
+                                regunt subditos in potestate dominorum et mutant pro ut uolunt in
+                                dominos, et in seruos dominos ; et rogant demones et constringunt
+                                eos ; et ex dignitate propria possunt infundere scientiam hominibus
+                                uidelicet musicam, logicam et moralem philosophiam. Nomina principum
+                                huius altitudinis sunt <name type="divin">Heros</name>, <name
+                                    type="divin">Bissezeos</name>, <name type="divin">
+                                    Onayora</name>, <name type="divin">Echuel</name>, <name
+                                    type="divin">Oymali</name>, <name type="divin"> Sytain</name>,
+                                    <name type="divin">Ythos</name>, <name type="divin"
+                                    >Alphareth</name>, <name type="divin">Alay </name>. </p>
+                        </div>
+                        <div n="8" type="section">
+                            <p> Septima altitudo. Hæc altitudo appellatur <name type="divin"
+                                    >Creor</name> et principes qui morantur in ea habent potestatem
+                                super sacramentis <del>puramentis</del> quæ fiunt inter <app>
+                                    <lem>creaturas</lem>
+                                    <rdg>craturas</rdg>
+                                </app> et Deum, et inter creaturas et creaturas. Et cogunt eos per
+                                poenales angustias ad obseruantiam <app>
+                                    <lem>illius</lem>
+                                    <rdg>illus</rdg>
+                                </app> pacti, et cogunt demones obseruare <app>
+                                    <lem>pacta</lem>
+                                    <rdg>pacte</rdg>
+                                </app> hominibus et e conuerso et puniunt utrosque iussu Dei tam in
+                                primis quam in secundis motibus. Et habent potestatem super animas
+                                separatas et eas regunt et ordinant ad bonum uel malum finem et <app>
+                                    <lem>exercent</lem>
+                                    <rdg>exessent</rdg>
+                                </app> mortem et uitam super creaturas et ex dignitate infundere
+                                habent geomantiam, theologiam et magiam. Nomina principum huius
+                                altitudinis sunt <name type="divin"> Amayn</name>, <name
+                                    type="divin">Amas</name>, <name type="divin">Anay</name>, <name
+                                    type="divin">Geomitio </name>, <name type="divin"
+                                    >Gebedonay</name>, <name type="divin">Pas</name>,<add place="supra linea">ne</add> <name
+                                    type="divin">Sarama</name>, <name type="divin">Clyominth</name>.
+                            </p>
+                        </div>
+                        <div n="9" type="section">
+                            <p> Octaua altitudo. Hæc altitudo appellatur <name type="divin"
+                                    >Sapheth</name> et principes qui morantur in ea habent
+                                potestatem et uirtutem infundendi generationes <app>
+                                    <lem>generationis</lem>
+                                </app> elementorum ab animalibus et generationes concedere ad
+                                animalia et principes huius altitudinis iussu Dei ferunt homines de
+                                regione in regionem cursu uelocissimo et omni motui prædominium
+                                habent. Nomina principum huius altitudinis sunt <name type="divin"
+                                    >Zajar</name>, <name type="divin">Zabin</name> , <name
+                                    type="divin">Zadanay</name>, <name type="divin">Arphel</name>,
+                                    <name type="divin">Alphanay</name>, <name type="divin"
+                                    >Ladatin</name>. </p>
+                        </div>
+                        <div n="10" type="section">
+                            <p> Nona altitudo. Hæc uocatur <name type="divin">Suphor</name> et
+                                principes qui morantur in ea habent potestatem et uirtutem dare
+                                pecunias hominibus et etiam illas auferre quomodo illis placet et ex
+                                officio faciunt homines pulcherrimos et etiam uirtutem habent
+                                infundendi omnes scientias. Nomina principum huius altitudinis sunt
+                                    <name type="divin">Paymon</name>, <name type="divin">Egy</name>,
+                                    <name type="divin">Egysta</name>, <name type="divin">Zayn
+                                </name>, <name type="divin">Zæthau</name>, <name type="divin"
+                                    >Gratyn</name>. </p>
+                        </div>
+                        <div n="11" type="section">
+                            <p> Et est sciendum quod omnes hæ altitudines habent uirtutem suam die
+                                solis, et eius hora, id est in prima hora die solis usque ad
+                                meridiem et quando ab artista fiunt, debet esse tempus clarum, et
+                                serenum non nubilosum luna crescente. Finis primi tractatus.</p>
+                        </div>
+                    </div>
+                    <div n="2" type="chapitre">
+                        <div n="1" type="section">
+                            <p> Tractatus secundus de altitudinibus occidentalibus, meridionalibus
+                                    <del>meridionalib</del> et septentrionalibus. In primis
+                                tractandum est de occidentalibus quæ sunt septem et primum de prima.
+                            </p>
+                        </div>
+                        <div n="2" type="section">
+                            <p> Prima altitudo occidentalis. Hæc altitudo occidentalis uocatur <name
+                                    type="divin">Giphor</name> et principes, qui morantur in ea,
+                                potestatem habent super inimicitias et amicitias omnium creaturarum
+                                et super <app>
+                                    <lem>prœlia</lem>
+                                    <rdg>praesia</rdg>
+                                </app> et contentiones et contumelias et omnino super exercitus
+                                adducendos et arma utique seruare nihil ad finem perduci boni uel
+                                mali nisi ordinatione et permissu eorum. Et ex dono Dei possunt
+                                super homines. Nomina principum huius altitudinis sunt <name
+                                    type="divin">Melach</name>, <name type="divin">Bedahoih</name>,
+                                    <name type="divin">Gylor</name>, <name type="divin"
+                                    >Vauhael</name>, <name type="divin">Fumabel</name>, <name
+                                    type="divin">Aryl</name>.</p>
+                        </div>
+                        <div n="3" type="section">
+                            <p> Secunda altitudo. Hæc appellatur <name type="divin">Nayn</name>, et
+                                principes qui morantur in ea potestatem habent super inimicos et
+                                amicos, super homines amatores et mulieres amatrices. Et potestatem
+                                habent et uirtutem ex officio faciendi illos et illas inimicari. Et
+                                dominium habent super rixas et quæstiones. Et faciunt homines
+                                bellicosos et <app>
+                                    <lem>pusillanimos</lem>
+                                    <rdg>pussilanimos</rdg>
+                                </app>
+                                <del>pusilanimos></del>, uictoriosos et non. Nomina principum huius
+                                altitudinis sunt <name type="divin">Briel</name>, <name type="divin"
+                                    >Malamacoy</name>, <name type="divin">Malachim</name>, <name
+                                    type="divin">Radasieh</name>, <name type="divin"
+                                    >Baidahath</name>, <name type="divin">Odmachiel</name>.</p>
+                        </div>
+                        <div n="4" type="section">
+                            <p> Tertia altitudo. Hæc uocatur <name type="divin">Lehæsor</name>, et
+                                principes qui morantur in ea habent potestatem et uirtutem super
+                                omnes infirmitates et ex officio reddunt homines infirmos uel non.
+                                Dant somnum hominibus uel non, et faciunt hæc similia. Nomina
+                                principum huius altitudinis sunt <name type="divin">Selon</name>,
+                                    <name type="divin">Belfry</name>, <name type="divin"
+                                >Ahey</name>, <name type="divin">Verechiel</name>, <name
+                                    type="divin">Pactohabret</name>
+                                <del>Pactohahet</del>, <name type="divin">Machdeynchi</name>, <name
+                                    type="divin">Nobemarach</name>
+                                <del>Noberiarach</del>. </p>
+                        </div>
+                        <div n="5" type="section">
+                            <p> Quarta altitudo. Hæc uocatur <name type="divin">Chrimehit</name>, et
+                                principes, qui morantur in ea, habent potestatem et potentiam super
+                                aquas maris et fluminum, et submergere uel non, homines et omnia
+                                animalia inundare uel non. Faciunt mercatores diuites et pauperes et
+                                ex officio dant hominibus cognitionem et <app>
+                                    <lem>uirtutum</lem>
+                                    <rdg>uirtutem</rdg>
+                                </app> omnium herbarum. Nomina principum huius altitudinis sunt
+                                    <name type="divin">Galfu</name>, <name type="divin"
+                                    >Melchiel</name>, <name type="divin">Clbeday</name>, <name
+                                    type="divin">Lauyson</name>, <name type="divin">Ratyeh</name>,
+                                    <name type="divin">Alyabith</name>. </p>
+                        </div>
+                        <div n="6" type="section">
+                            <p> Quinta altitudo. Hæc uocatur <name type="divin">Giephatin</name>, et
+                                principes qui morantur in ea habent potentiam et uirtutem infundere
+                                artus super homines et intellectus illustrare uel non, faciunt
+                                homines sapientes et non, et ex officio faciunt homines uictores in
+                                ludo, uel non, sicut illis uidetur. Nomina principum huius
+                                altitudinis sunt Osthos, <name type="divin">Layngyron</name>, <name
+                                    type="divin">Pessino</name>, <name type="divin">Fas</name>,
+                                    <name type="divin">Han</name>, <name type="divin">Syachy</name>,
+                                    <name type="divin">Zamnathor</name>, <name type="divin"
+                                    >Camyn</name>. </p>
+                        </div>
+                        <div n="7" type="section">
+                            <p> Sexta altitudo. Hæc <app>
+                                    <lem>uocantur</lem>
+                                    <rdg>uocatur</rdg>
+                                </app>
+                                <name type="divin">Agusth</name> et principes qui morantur in ea
+                                habent potestatem et uirtutem super omnia uolatilia cæli et animalia
+                                terræ <app>
+                                    <lem>cantatores</lem>
+                                    <rdg>cauiatores</rdg>
+                                </app> capere <app>
+                                    <lem>illa</lem>
+                                    <rdg>illas</rdg>
+                                </app> uel non, ut illis uidetur. Nomina principum huius altitudinis
+                                sunt <name type="divin">Bachay</name>, <name type="divin"
+                                >Son</name>, <name type="divin"> Balchochanth</name>, <name
+                                    type="divin">Anay</name>, <name type="divin">Anyal</name>, <name
+                                    type="divin"> Salmet</name>, <name type="divin"
+                                >Chamael</name>.</p>
+                        </div>
+                        <div n="8" type="section">
+                            <p> Septima et ultima altitudo occidentalis. Hæc uocatur <name
+                                    type="divin">Steher</name>
+                                <del>Heher</del> , et principes qui morantur in ea potestatem habent
+                                notum facere furtum uel non, et super insidias latronum tam terræ
+                                quam maris et periculare faciunt homines et mulieres uel non, ut
+                                illis placet. Nomina principum huius altitudinis sunt <name
+                                    type="divin">Maxuel</name>, <name type="divin">Arahath</name>,
+                                    <name type="divin">Sarohoth</name>, <name type="divin"
+                                    >Maguth</name>, <name type="divin">Mehestrach</name>, <name
+                                    type="divin">Dyebuzon</name>.</p>
+                        </div>
+                        <div n="9" type="section">
+                            <p> Et est sciendum quod omnes hæ altitudines
+                                    <supplied>habent</supplied> uirtutem suam die ♂ id est Martis et
+                                artista incipere debet operationem suam a meridie usque ad occasum
+                                sicut adnotauimus in tertio tractatu. Finis altitudinum
+                                occidentalium.</p>
+                        </div>
+                    </div>
+                    <div n="3" type="chapitre">
+                        <div n="1" type="section">
+                            <p> Hæ sunt altitudines meridionales et sunt quinque. Prima altitudo
+                                meridionalis. Hæc uocatur <name type="divin">Rahath</name>, et
+                                principes huius altitudinis uirtutem et <del>potem habent super oia
+                                    uenena atterminata et non cognita, et faciunt hoes perire et
+                                    non, faciunt aperire terras et claudere ut illis uidetur, noa
+                                    principum huius alnis sunt, Agariel Animirnaormes Bijleth
+                                    Sathouiel Mahardehel</del> potentiam habent super omnes
+                                scientias superstitiosas et super maleficia et cogunt demones facere
+                                quidquid uolunt homines uel non, ut illis placet. Nomina principum
+                                huius altitudinis sunt <name type="divin">Alaharahel</name>, <name
+                                    type="divin"><app>
+                                        <lem> Casahorohoth</lem>
+                                        <rdg>Sasahorohath</rdg>
+                                    </app></name>, <name type="divin">Hamaliel</name>, <name
+                                    type="divin">Mirthoath</name>, <name type="divin"
+                                    >Sulthurohath</name>.</p>
+                        </div>
+                        <div n="2" type="section">
+                            <p>Secunda altitudo. <add place="supra linea">haec</add> Hæc uocatur <name type="divin">Ahahager</name> et
+                                principes qui morantur in ea uirtutem et potestatem habent super
+                                omnia uenena atterminata et non cognita et faciunt homines perire et
+                                non, faciunt aperire terras et claudare ut illis uidetur. Nomina
+                                principum huius altitudinis sunt <name type="divin">Agariel</name>,
+                                    <name type="divin">Animirnaornus</name>
+                                <del>Anirmirnaornus</del>, <name type="divin">Byleth</name>, <name
+                                    type="divin">Sathouiel</name>, <name type="divin"
+                                    >Mahardahel</name>.</p>
+                        </div>
+                        <div n="3" type="section">
+                            <p> Tertia altitudo. Hæc uocatur <name type="divin"><app>
+                                        <lem>Aehechym</lem>
+                                        <rdg>Ahecchijm</rdg>
+                                    </app></name> et principes, qui morantur in ea, uirtutem et
+                                potentiam habent super omnia instrumenta musicæ et reddunt homines
+                                sapientissimos in illo exercitio, uel non, ita et taliter ut ipsi
+                                sonauerint quælibet genera instrumentorum, uel non, ut illis
+                                uidetur. Nomina principum huius altitudinis sunt <name type="divin"
+                                    >Gebal</name>, <name type="divin">Lezioccil</name>, <name
+                                    type="divin">Vahathicy</name>, <name type="divin"><app>
+                                        <lem>Ychehnal</lem>
+                                        <rdg>Ijchenal></rdg>
+                                    </app></name>
+                                <del>Ijchehal</del>, <name type="divin">Batthoual</name>, <name
+                                    type="divin">Hyersehul</name>.</p>
+                        </div>
+                        <div n="4" type="section">
+                            <p> Quarta altitudo. Hæc uocatur <name type="divin">Saharnahoar</name>,
+                                et principes huius altitudinis, qui morantur in ea, habent
+                                potestatem super amorem mulierum et faciunt homines amari ab illis
+                                uel non et super amorem principum et super beneuolentiam et faciunt
+                                homines amari uel non ut illis uidetur. Nomina principum huius
+                                altitudinis sunt <name type="divin">Anæl</name>, <name type="divin"
+                                    >Michæl</name>, <name type="divin">Fabriel</name>, et <name
+                                    type="divin">Raphæl</name>, <name type="divin">Abriel</name>,
+                                    <name type="divin">Vriel</name>.</p>
+                        </div>
+                        <div n="5" type="section">
+                            <p> Quinta et ultima altitudo meridionalis. Hæc uocatur <name
+                                    type="divin">Iahothahu</name> et principes, qui morantur in ea,
+                                habent uirtutem et potestatem super <app>
+                                    <lem>inuisibilitatem</lem>
+                                    <rdg>inuisibilitatum</rdg>
+                                </app> et faciunt homines inuisibiles uel non. Et etiam faciunt ut
+                                homo possit accipere uarias et diuersas formas, uel non, pro ut eis
+                                uidetur. Nomina principum huius altitudinis sunt <name type="divin"><app>
+                                        <lem>Orchy</lem>
+                                        <rdg>Orchij</rdg>
+                                    </app></name>, <name type="divin">Opscihir</name>, <name
+                                    type="divin">Omagistas</name>, <name type="divin"><app>
+                                        <lem>Onchy</lem>
+                                        <rdg>Onchij</rdg>
+                                    </app></name>, <name type="divin">Hæhuel</name>, <name
+                                    type="divin"><app>
+                                        <lem>Pyleth</lem>
+                                        <rdg>Pijleth</rdg>
+                                    </app></name>, <name type="divin"><app>
+                                        <lem>Sacay</lem>
+                                        <rdg>Sacaij</rdg>
+                                    </app></name>.</p>
+                        </div>
+                        <div n="6" type="section">
+                            <p> Et est sciendum quod omnes hæ altitudines habent uirtutem suam et
+                                potentiam in nocte ♃, id est Iouis, et eius hora, sicut adnotauimus
+                                in tertio tractatu.</p>
+                        </div>
+                    </div>
+                    <div n="4" type="chapitre">
+                        <div n="1" type="section">
+                            <p> De <app>
+                                    <lem>altitudinibus</lem>
+                                    <rdg>altitunibus</rdg>
+                                </app> septentrionalibus et sunt tres. Prima altitudo. Hæc uocatur
+                                    <name type="divin">Hahanahor</name> et principes qui morantur in
+                                ea habent uirtutem et potentiam super fortunam omnis maris et
+                                faciunt pluere et <app>
+                                    <lem>grandirare</lem>
+                                    <rdg>grandirari</rdg>
+                                </app> faciunt <del>faaunt</del> terræ motus, cadere fulgura,
+                                coruscare uentos maximos, uel non, ut eis uidetur. Nomina principum
+                                huius altitudinis sunt <name type="divin">Lohod</name>, <name
+                                    type="divin">Hadid</name>, <name type="divin">Pereon</name>,
+                                    <name type="divin">Chelchezub</name>, <name type="divin"
+                                    >Belysuth</name>, <name type="divin">Phetuar</name>, <name
+                                    type="divin">Gadghahor</name>.</p>
+                            <div n="2" type="section">
+                                <p> Secunda altitudo. Hæc altitudo uocatur <name type="divin"
+                                        >Mahasyoth</name>, et principes huius altitudinis habent
+                                    uirtutem et potentiam suam super omnes linguas et faciunt, ut
+                                    homines loquantur omnes linguas uel non, et faciunt consumare
+                                    homines et cuncta animantia et non, pro ut eis uidetur. Nomina
+                                    principum huius altitudinis sunt <name type="divin"
+                                        >Hyshahabhel</name>, <name type="divin">Sohamuhahyz</name>,
+                                        <name type="divin"><app>
+                                            <lem>Mothocyhohan</lem>
+                                            <rdg>Mothocijhohan</rdg>
+                                        </app></name> Motholijhohan , <name type="divin"
+                                        >Zachohohur</name>, <name type="divin">Neher</name>, <name
+                                        type="divin">Dahaol</name>
+                                    <del>Dahaal</del>, <name type="divin">Bochur</name>.</p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Tertia et ultima altitudo. Hæc uocatur <name type="divin"
+                                        >Sephaphahan</name> et principes huius altitudinis qui
+                                    morantur in ea habent uirtutem et potentiam suam <app>
+                                        <lem>distribuendi</lem>
+                                        <rdg>distrugendi</rdg>
+                                    </app> omnia semina et faciunt illa nasci uel non. Et habent
+                                    dominium super omnia genera armorum et faciunt offendere homines
+                                    inuincibiles uel non, et etiam faciunt homines sapientissimos in
+                                    arte <app>
+                                        <lem>luxuriae</lem>
+                                        <rdg>luxoriae</rdg>
+                                    </app> et apparentiam faciunt ut ipsi faciant quidquid uolunt
+                                    uel non, ut eis uidetur. Nomina principum huius altitudinis sunt
+                                        <name type="divin">Auubzelon</name>, <name type="divin"
+                                        >Zharahol</name>, <name type="divin">Raphahasel</name>,
+                                        <name type="divin">Zechriahauel</name>, <name type="divin"
+                                        >Naniel</name>. </p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Et est sciendum quod omnes hæ altitudines habent uirtutem et
+                                    potentiam suam dei ♄ id est Saturni et in eius hora ut in tertio
+                                    tractatu adnotauimus.</p>
+                            </div>
+                        </div>
+
+                        <div n="5" type="chapitre">
+                            <div n="1" type="section">
+                                <p>Tractatus tertius De modo fabricandi sanctum <name type="divin"
+                                        >Stahelaon</name>
+                                    <del>Haelaon</del>. Nos fabricamus sanctum <name type="divin"
+                                        >Stahelaon</name>
+                                    <del>Haelaon</del> hoc modo. In die ☿, id est Mercurii, <app>
+                                        <lem>accepimus</lem>
+                                        <rdg>accipiemus</rdg>
+                                    </app> ceram nouam albam absque ulla sorde de <app>
+                                        <lem>immunditia</lem>
+                                        <rdg>imunditia</rdg>
+                                    </app> et illam suffumigauimus <app>
+                                        <lem>olibano</lem>
+                                        <rdg>olebano</rdg>
+                                    </app>, costo et croco. Et postea formauimus illum ut in exemplo
+                                    apparet : in primis de illa cera fac capsulam longitudinis palmi
+                                    unius et latitudinis palmi semis <del>fermix</del> et in
+                                    quolibet angulo foramen. Et in foramine scribatur cum <app>
+                                        <lem>stilo</lem>
+                                        <rdg>stillo</rdg>
+                                    </app>
+                                    <app>
+                                        <lem>argenteo</lem>
+                                        <rdg>argento</rdg>
+                                    </app> nouo ad hoc fabricato ; et nomina Dei <del>diuini</del>
+                                    uiui scripti debent die operationis. In primo foramine,
+                                    scribatur <name type="divin"> Adonay</name>, <name type="divin"
+                                        >Helyon</name>, <name type="divin">Pius</name>. In secundo,
+                                        <name type="divin"><app>
+                                            <lem>Hhælym</lem>
+                                            <rdg>Hhælijm</rdg>
+                                        </app></name>
+                                    <del>Sthælijm</del>, <name type="divin"><app>
+                                            <lem>Steloy</lem>
+                                            <rdg>Hhælijm</rdg>
+                                            <rdg>Steloij</rdg>
+                                        </app></name><del>Stheloij</del>, <name type="divin"
+                                        >Stely</name>. In tertio, <name type="divin">Ioth</name>,
+                                        <name type="divin">Beth</name>, <name type="divin"
+                                        >Agla</name>. In quarto, <name type="divin"
+                                        >Tethagramaton</name>
+                                    <del>Chethagramaton</del>, <name type="divin">Suday</name> et
+                                        <name type="divin">Ya</name>.</p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Et est sciendum quod sanctum <name type="divin">Hælaon</name>
+                                    <del>Sthaelaon</del>, dum fabricatur, in angulum et angulum ut
+                                    in figura signum nostrum faciendum est ; et inter <app>
+                                        <lem>signa</lem>
+                                        <rdg>signum</rdg>
+                                    </app> ut <del>et</del> signum scribatur cum <app>
+                                        <lem>stilo</lem>
+                                        <rdg>stillo</rdg>
+                                    </app> argenteo ad hoc fabricato, ut in exemplo, in medio autem
+                                    ficti debet nomen sanctum <name type="divin">Hel</name>, ut in
+                                    exemplo, in medio <app>
+                                        <lem>sanctum</lem>
+                                        <rdg>stanctum</rdg>
+                                    </app> nomen <name type="divin">Hel</name> ; et capsula non
+                                    debet esse uacua et supra <app>
+                                        <lem>capsulam</lem>
+                                        <rdg>capsula</rdg>
+                                    </app> illam alia fabricari debet de eadem cera ut in exemplo,
+                                    longitudinis palmi semis et latitudinis ad proportionem. Et hæc
+                                    debet esse uacua et supra primam capsulam candelæ septem debent
+                                    permanere et supra capsulam debent esse foramina mittendi dictas
+                                    candelas. </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Cauendum autem est ne aliqua illius candelæ <add place="supra linea">t</add> accendatur nisi
+                                    tempore operationis. Cum autem sanctum <name type="divin"
+                                        >Stæleion</name> compositum fuit, fiat sigillum in quod
+                                    sculpantur ipsa nomina uerso modo et sigillum sit purissimi
+                                    argenti et auri et tempore operationis ponatur intus secundam <app>
+                                        <lem>capsulam</lem>
+                                        <rdg>capsula</rdg>
+                                    </app>. Et mittatur in <add place="in margine">diua</add> <supplied>diua</supplied> secunda capsula
+                                    de odoribus <app>
+                                        <lem>olibani</lem>
+                                        <rdg>olebani</rdg>
+                                    </app>, ligni <app>
+                                        <lem>aloes</lem>
+                                        <rdg>aloe</rdg>
+                                    </app>, storacis et calamitæ et illa cooperiatur panno serico
+                                    albo. Hæc sunt nomina sigilli <name type="divin">Steloen</name>
+                                    <name type="divin">Adonay</name>, <name type="divin"
+                                    >Pius</name>, <name type="divin">Anabona</name>, <name
+                                        type="divin">Aranithan</name>, ut melius uideri potest in
+                                    exemplo et tempore operationis non preparationis accenduntur
+                                    candelæ. Et habeas petitionem scriptam in carta uirginea non
+                                    petendo aliquid quod non pertineat ad officium illius
+                                    altitudinis et dictam petitionem mitte apud sigillum in
+                                    capsula.</p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Et nota quod illud sigillum sufficit in omnibus altitudinibus et
+                                    operationibus sed <del>ad</del> sanctum <name type="divin"
+                                        >Hahelaon</name>
+                                    <del>Haelaon</del> est fabricandum secundum altitudines. Prima
+                                    altitudo, fabricatur de cera alba et etiam candelæ. Secunda,
+                                    sanctum <name type="divin">Hælaon</name>
+                                    <del>Staelaon</del> secundæ altitudinis et etiam candelæ
+                                    fabricatur de cera <app>
+                                        <lem>rufi</lem>
+                                        <rdg>neffei</rdg>
+                                    </app>
+                                    <del>reffei</del> coloris. Tertia, sanctum <name type="divin"
+                                        >Hælaon</name>
+                                    <del>Staelaon</del> tertiæ altitudinis et etiam candelæ de cera
+                                        <del>azzurea</del>
+                                    <app>
+                                        <lem>crocea</lem>
+                                        <rdg>croca</rdg>
+                                    </app>. Quarta, sanctum <name type="divin">Hælaon</name>
+                                    <del>Staelaon</del> quartæ altitudinis et etiam candelæ de cera <app>
+                                        <lem>azurea</lem>
+                                        <rdg>azzura</rdg>
+                                    </app>. Quinta, sanctum <name type="divin">Hælaon</name> quintæ
+                                    altitudinis de cera <app>
+                                        <lem>uiridis</lem>
+                                        <rdg>uiridi</rdg>
+                                    </app> coloris. Sexta, sanctum <name type="divin">Hælaon</name>
+                                    sextæ altitudinis de cera uiolacea. Septima, sanctum <name
+                                        type="divin">Haelaon</name> septimæ altitudinis de cera
+                                    carnei coloris. Octaua, sanctum <name type="divin">
+                                        Hælaon</name> octauæ altitudinis de cera coloris <app>
+                                        <lem>uiridis</lem>
+                                        <rdg>uiridi</rdg>
+                                    </app> et liuidi. Nona, sanctum <name type="divin">Hælaon
+                                    </name> nonæ altitudinis de cera byssima.</p>
+                            </div>
+                            <div n="5" type="section">
+                                <p> Nunc <app>
+                                        <lem>sequitur</lem>
+                                        <rdg>sequuntur</rdg>
+                                    </app> sanctum <name type="divin">Stælaon</name> altitudinum
+                                    occidentalium. Prima altitudo, fabricatur de cera <app>
+                                        <lem>uiridis</lem>
+                                        <rdg>uiridi</rdg>
+                                    </app> coloris et etiam candelæ. Secunda, secundae de cera
+                                    rubicundici. Tertia, tertiæ de cera <app>
+                                        <lem>aurea</lem>
+                                        <rdg>zaura</rdg>
+                                    </app>. Quarta, quartæ de cera alba. Quinta, quintæ de cera
+                                    leonata. Sexta, sextæ de cera rubea. Septima, septimæ de cera <app>
+                                        <lem>uiridis</lem>
+                                        <rdg>uiridi</rdg>
+                                    </app> coloris. </p>
+                            </div>
+                            <div n="6" type="section">
+                                <p> Nunc <app>
+                                        <lem>sequitur</lem>
+                                        <rdg>sequuntur</rdg>
+                                    </app> sanctum <name type="divin">Stahelaon</name> altitudinum
+                                    meridionalum. Prima, primæ sanctum <name type="divin"
+                                        >Stahelaon</name> et eius candelæ in ista altitudine
+                                    fabricantur de cera crocei coloris. Secunda, secundæ de cera
+                                    albi coloris sed fusca. Tertia, tertiæ de cera uiolacea. Quarta,
+                                    quartæ de cera coloris florem <app>
+                                        <lem>pessicarum</lem>
+                                        <rdg>pesicarum</rdg>
+                                    </app>
+                                    <del>perricarum</del>. Quinta, quintæ de cera carnea et etiam
+                                    candelæ.</p>
+                            </div>
+                            <div n="7" type="section">
+                                <p> Nunc <app>
+                                        <lem>sequitur</lem>
+                                        <rdg>sequuntur</rdg>
+                                    </app> sanctum <name type="divin">Stælaon</name> altitudinis <app>
+                                        <lem>septentrionalis</lem>
+                                        <rdg>septemtrionalis</rdg>
+                                    </app>. Prima, primum sanctum <name type="divin"
+                                        >Stahelaon</name> primæ altitudinis et etiam candelæ de cera
+                                    nigra. Secunda, secundum sanctum <name type="divin"
+                                        >Stahelaon</name> secundæ altitudinis et etiam candelæ de
+                                    cerea coloris sanguinei. Tertia, tertium sanctum <name
+                                        type="divin">Stahelaon</name> tertiæ altitudinis et etiam
+                                    candelæ nigri coloris sed clari.</p>
+                                
+                            </div>
+                        </div>
+
+                        <div>
+                            <p>Figura prima. 
+                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_1.jpg"/>
+                                Modus formandi <del>fomandi</del> sanctum <name
+                                    type="divin">Stahelaon</name> THETAGRAMMATON HEL 1. <name
+                                    type="divin">Hynoytheon</name> 2. <name type="divin"
+                                    >Pthiaeumaton</name> 3. <name type="divin">Anbona</name> 4.
+                                    <name type="divin">Yhehoua</name>
+                            </p>
+                        </div>
+
+                        <div>
+                            <p>Figura secunda. 
+                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_2.jpg"/>
+                                <name type="divin">THETHAGRAMMATON</name> HEL 1.
+                                    <name type="divin">Hynoytheon</name> 2. <name type="divin"
+                                    >Ptihaeumaton</name> 3. <name type="divin">Anabona</name> 4.
+                                    <name type="divin">Ihehoua</name>
+                            </p>
+                        </div>
+
+                        <div n="6" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Et est sciendum quod omnes altitudines orientales habent
+                                    potentiam suam et uirtutem die solis et eius hora et tempus
+                                    operationis est <del>et</del> a principio diei solis usque ad
+                                    meridiem. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Omnes altitudines occidentales habent uirtutem et potentiam suam
+                                    die ♂, id est Martis, et tempus operationis est a meridie usque
+                                    ad occasum. </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Omnes altitudines meridionales habent potentiam suam in nocte
+                                        <supplied>♃</supplied>, id est Iouis, et tempus operationis <app>
+                                        <lem>est</lem>
+                                        <rdg>et</rdg>
+                                    </app> incipiendum a tertia hora noctis usque ad octauam. </p>
+                            </div>
+                            <div n="4" type="section">
+                                <p>. Omnes altitudines <app>
+                                        <lem>septentrionales</lem>
+                                        <rdg>septemtrionales</rdg>
+                                    </app> habent uirtutem et operationem suam ♄, id est Saturni, et
+                                    in eius hora luna decrescente si ad malum finem, si autem ad
+                                    bonum finem in nocte ☿, id est Mercurii, incipiendo a secunda
+                                    (<add place="in margine">uelaia</add>
+                                        <supplied>uel a prima</supplied>) hora 
+                                        noctis usque ad nonam operatione luna crescente in pari
+                                    numero. </p>
+                            </div>
+                            <div n="6" type="section">
+                                <p> Sciendum etiam et quod omnia sanctissima Hahelam sunt facienda
+                                    ut primum <app>
+                                        <lem>orientis</lem>
+                                        <rdg>orientes</rdg>
+                                    </app> et nulla alia differentia est nisi coloris et omnia
+                                    nomina scripta in primo subscribenda etiam sunt in cæteris et
+                                    sunt facienda quomodo superius dictum est.</p>
+                            </div>
+                        </div>
+                        <div n="7" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Et est sciendum quod omnes altitudines habent <app>
+                                        <lem>suffumigiationes</lem>
+                                        <rdg>suffumigia</rdg>
+                                    </app> separata ; idcirco illa adnotauimus primum de altitunibus
+                                    orientalibus. Prima altitudo orientalis suffumiganda est
+                                    odoribus olibani et <app>
+                                        <lem>costi</lem>
+                                        <rdg>costis</rdg>
+                                    </app>. Secunda, secunda cum odoribus <app>
+                                        <lem>myrrhæ</lem>
+                                        <rdg>mirre</rdg>
+                                    </app> et <app>
+                                        <lem>masticis</lem>
+                                        <rdg>mastici</rdg>
+                                    </app>. Tertia, tertia cum odoribus <app>
+                                        <lem>camphoræ</lem>
+                                        <rdg>camphere</rdg>
+                                    </app> atque <app>
+                                        <lem>cinnamomi</lem>
+                                        <rdg>cijnamomo</rdg>
+                                    </app>. Quarta, quarta cum odoribus <app>
+                                        <lem>sandali</lem>
+                                        <rdg>sandaloni</rdg>
+                                    </app>
+                                    <app>
+                                        <lem>rubri</lem>
+                                        <rdg>rubroni</rdg>
+                                    </app> et croci. Quinta, quinta cum odoribus garofilorum. Sexta,
+                                    sexta cum odoribus <add place="supra linea">h</add> storacis calamiti et <app>
+                                        <lem>cinnamomi</lem>
+                                        <rdg>cinamomi</rdg>
+                                    </app>. Septima, septima cum odoribus olibani et croci. Octaua,
+                                    octaua cum odoribus <app>
+                                        <lem>sandali</lem>
+                                        <rdg>sandasoni</rdg>
+                                    </app> et <app>
+                                        <lem>myrrhæ</lem>
+                                        <rdg>mirrhæ</rdg>
+                                    </app>. Nona, nona cum odoribus ligni <app>
+                                        <lem>aloes</lem>
+                                        <rdg>aloe</rdg>
+                                    </app> et <app>
+                                        <lem>benzoini</lem>
+                                        <rdg>belguioni</rdg>
+                                    </app>. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Nunc sequuntur suffumigationes altitudinum occidentalium. Prima
+                                    altitudo occidentalis suffumiganda est cum odoribus cinnamomi
+                                    storacis <app>
+                                        <lem>calamiti</lem>
+                                        <rdg>calamitæ</rdg>
+                                    </app>. Secunda cum odoribus croci et camphoræ. Tertia cum
+                                    odoribus thuris et myrrhæ. Quarta cum odoribus <app>
+                                        <lem>benzoini</lem>
+                                        <rdg>bongici</rdg>
+                                    </app> et garofilorum. Quinta cum odoribus storacis calamiti et
+                                    croci. Sexta cum odoribus camphoræ et <app>
+                                        <lem>benzoini</lem>
+                                        <rdg>bengioi</rdg>
+                                    </app>. Septima cum odoribus radicum <app>
+                                        <lem>phiæ</lem>
+                                        <rdg>phie</rdg>
+                                    </app> et anglicæ. </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Nunc sequuntur suffumigationes altitudinum meridionalium. Prima
+                                    altitudo meridionalis suffumiganda est cum odoribus croci <app>
+                                        <lem>storacis calamiti</lem>
+                                        <rdg>sturacis calamite</rdg>
+                                    </app>. Secunda cum odoribus thuris et radicum iridis. Tertia,
+                                    cum odoribus, cum odoribus myrrhæ et radicum ciceris. Quarta cum
+                                    odoribus camphoræ et storacis calamiti. Quinta cum odoribus
+                                    radicum <app><lem>asari</lem><rdg>assari</rdg></app> et ligni aloes. </p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Sequuntur suffumigationes altitudinium septentrionalium. Prima
+                                    cum odoribus storacis et cinnamomi. Secunda cum odoribus cum
+                                    ligno aloes et camphoræ. Tertia cum odoribus myrrhæ et
+                                    thuris.</p>
+                            </div>
+                        </div>
+                        <div n="8" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Sciendum est quod omnes altitudines ad bonam partem tam
+                                    orientales quam occidentales, meridionales et septentrionales,
+                                    sint incipiendæ istæ operationes tempore sereno et claro et non
+                                    nubiloso luna crescente in pari numero ; si autem ad malum finem
+                                    incipiendæ modo contrario id est tempore nubiloso. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Nota quod <app><lem>stilum</lem><rdg>stillum</rdg></app> argenteum est fabricandum die solis hora ☿ id
+                                    est Mercurii luna crescente et cum illo scribe nomina : sanctum
+                                    est <name type="divin">Stælaon</name>. </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Nota quod in secunda capsula scribi debet tempore operationis
+                                    (finita <app><lem>inuocatio</lem><rdg>inuocat</rdg></app> ?) cum stilo nomen magni imperatoris et
+                                    creatoris omnium creaturarum quod est + <name type="divin"
+                                        >Thethagramaton</name> ut in exemplo. </p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Nota quod omnes principes omnium altitudinum habent colores et
+                                    odores pro eo quod iussu Dei omnipotentis regunt et gubernant
+                                    mundum et faciunt nasci et corrumpi <del>corumpi</del> colores et odores ut eis
+                                    uidetur. </p>
+                            </div>
+                            <div n="5" type="section">
+                                <p> Nota quod sanctissimum <name type="divin">Stahelaon</name> ut
+                                    diximus est fabricandum die ☿, id est Mercurii, luna crescente
+                                    ad bonam partem, si autem ad malum a contrario ; et finito illud
+                                    reponat in loco mundissimo. Et antequam reponatur, <app><lem>suffumigandum</lem><rdg>suffumagandum</rdg></app>
+                                    est odoribus propriis altitudinis et tempore operationis illo
+                                    uti ut dicendum est. </p>
+                            </div>
+                            <div n="6" type="section">
+                                <p> Nota quod nomina et signa ex utraque parte capsulæ scribenda
+                                    sunt et in aliis duabus partibus signum nostrum sufficit.</p>
+                            </div>
+                        </div>
+                        <div n="9" type="chapitre">
+                            <div n="1" type="section">
+                                <p> De preparationibus artistæ. Ante operationem, oportet ut artista
+                                    sit secretus et solus uel cum uno socio fidelissimo et habeat
+                                    cubiculum mundatum ab omni sorde et immunditia. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Et illud ante preparationem suffumiget et cum odoribus illius
+                                    altitudinis quod efficere uult per spatium quinque dierum bis in
+                                    die finitis quinque diebus, debet ieiunare tres dies et mane et
+                                    sero etiam suffumigare cubiculum odoribus propriis illius
+                                    altitudinis. </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Finita suffumigatione, recitare debet psalmos patris nostri
+                                        <name>Dauid</name> scilicet 71 ; 142 ; 85 ; 45 ; 16 ; 5 ; 1
+                                    ; quibus finitis, dicere debet Deo orationem hanc genibus flexis
+                                    in medio cubiculi.</p>
+                            </div>
+                        </div>
+                        <div n="10" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Oratio. « Deus <name>Abraham</name>, Deus <name>Isaac</name>,
+                                    Deus <name>Iacob</name>, Deus <name>Moisi</name>, Deus omnium in
+                                    te sperantium, Deus meus et protector uitæ meæ, Domine, o
+                                    Benignissime, Domine, rogo tuam diuinam maiestatem quantum
+                                    rogare possum ut mihi famulo tuo n. (n. id est nomen <add place="in margine">id est nomen</add>) tantam
+                                    gratiam concedere digneris </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> atque concedas ut possim et <app><lem>uolam</lem><rdg>uoleam</rdg></app> facere operationem meam quam
+                                    uolo incipere et tantam gratiam concedere ut petitionem cordis
+                                    mei habeat absque fallacia per tuam maximam uirtutem et
+                                    potestatem. </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Domine, Deus meus, auribus percipe orationem meam et intende <del>intenda</del>
+                                    uoci deprecationis meæ, dum oro ad te, dum oro ad te, dum
+                                    extollo manus meas ad templum sanctum tuum. Fiat, fiat, fiat
+                                    ».</p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Nota quod in cubiculo sit tabula parata cum linteis et supra
+                                    <app><lem>tabulam</lem><rdg>stabulam</rdg></app> <app><lem>ponat</lem><rdg>ponatura</rdg></app> artista sanctum <name type="divin"
+                                        >Stahelaon</name> cum maxima ueneratione et genuflexus
+                                    suffumiget illud odoribus illius altitudinis <app><lem>postquam</lem><rdg>quam posse</rdg></app> operatur
+                                    et finita suffumigatione dicat :</p>
+                            </div>
+                        </div>
+                        <div n="11" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Oratio. « Deus <del>meus</del> cuius <app><lem>deitas</lem><rdg>dietas</rdg></app> sine fine, Deus creator omnium
+                                    creaturarum, principium et finis, Deus <name type="divin">
+                                        Adonay</name>, Deus <name type="divin">Iahoua</name>, Deus
+                                        <name type="divin">Cados</name> et Deus omnium in te
+                                    sperantium, Deus uirtuosissimus atque sapientissimus et seruator
+                                    cordium, miserere mei et intende uoci deprecationis meæ dum oro
+                                    ad te, <del>deum</del> dum extollo manus meas ad templum sanctum tuum. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Tu autem <del>domine</del>, Deus meus, suauis et <app><lem>uerus</lem><rdg>uenis</rdg></app> et patiens, et, et in
+                                    consilio tuo disponens omnia, Domine Deus qui sedes sub
+                                    Cherubim, tu es solus regum omnium terræ, tu fecisti cælum et
+                                    terram inclina aurem tuam et exaudi, aperi Domine <app><lem>oculos</lem><rdg>occulos</rdg></app> tuos.
+                                    Et uide et exaudi omnia uerba mea et exaudi me </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Deus qui creasti de terra hominem, et secundum imaginem <del>immaginem</del> tuam
+                                    fecisti, et iterum conuertisti ipsum in <app><lem>illam</lem><rdg>illum</rdg></app>, et secundum tuam
+                                    diuinitatem uestisti illum <app><lem>iuirtutem</lem><rdg>uirtute</rdg></app>, numerum dierum et tempus
+                                    dedisti illi potestatem eorum quæ sunt super terram.</p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Posuisti timorem illius super omnem carnem et dominatus
+                                    bestiarum et uolatilium, creasti ex ipso adiutorium simile sibi
+                                    consilium et linguam et oculos et aures et cor dedisti illis
+                                    excogitandi, et disciplina <app><lem>intellectus</lem><rdg>intellectis</rdg></app> repleuisti illos ;
+                                   <app><lem>scientiam</lem><rdg>scientia</rdg></app>, spiritus, sensu impleuisti cor illorum, et mala et
+                                    bona ostendisti illis. </p>
+                            </div>
+                            <div n="5" type="section">
+                                <p> Recordare, benignissime Deus quoniam dixisti in æternum
+                                    misericordia edificabitur. Exaudi, piissime Domine, uocem meam
+                                    et petitionem uocis meæ concede. Fiat, fiat, fiat. ».</p>
+                            </div>
+                            <div n="6" type="section">
+                                <p> Et hæc est preparatio antequam incipiat operationem suam
+                                    artista.</p>
+                            </div>
+                        </div>
+                        <div n="12" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Nota quod, dum artista genuflexus orat, debent esse sex candelæ
+                                    accensæ super tabulam et finita supra dicta oratione, scribere
+                                    debebit nomen magnum et terribile cum maxima deuotione. Hoc est
+                                        <name type="divin"> Thethagramaton</name> <app><lem>dilectans</lem><rdg>dilectens</rdg></app>
+                                    maiusculis cum stilo argenteo. Et est scribendum dictum sanctum
+                                    nomen in secunda capsula, ut dictum est, et artista habeat
+                                    petitionem scriptam in carta uirginea et mittat <add place="in margine">uel u</add> illam prope
+                                    sigillum, ut supra adnotauimus. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Et postea, cum maxima ueneratione, candelas accendat sanctissimi
+                                    Stahelaon ; quibus accensis suffumiget denuo sanctissumum
+                                    Stahelaon. Et finita suffumigatione genuflexu incipiat
+                                    operationem suam hoc modo.</p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Nos supra diximus quod prima capsula non debeat esse uacua et
+                                    non debet esse uacua sed debebit fieri foramen intus ab artista
+                                    cum <app><lem>stilo</lem><rdg>stillo</rdg></app> argenteo usque ad sanctum nomen Stahelaon et intus
+                                    mittere sigillum altitudinis et caractera principum cum suis
+                                    nominibus et postea foramen illud claudere. Antequam artista
+                                    mittat sigillum altitudinis et caractera principum <del>in formaine debet suffumigare</del> in foramine
+                                    debet suffumigare illa odoribus propriis. </p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Nota quod sigilla et caractera principum sunt scribenda in carta
+                                    uirginea, coloribus propriis illius altitudinis, uel in panno
+                                    <app><lem>serico</lem><rdg>seic</rdg></app> eiusdem coloris cum croco <del>aqua</del> aqua rosarum et musco. </p>
+                            </div>
+                            <div n="5" type="section">
+                                <p> Et sciendum est quod sigilla altitudinum orientalum sunt
+                                    scribenda calamo aquilino et etiam caractera principum. Sigilla
+                                    altitudinum occidentalium sunt scribenda et caractera principum
+                                    calamo pauonis. </p>
+                            </div>
+                            <div n="6" type="section">
+                                <p> Sigilla altitudinum meridionalium et etiam caractera principum
+                                    sunt scribenda calamo ~ papæ, extracto ex ala sinistra. Sigilla
+                                    altitudinum septentrionalium ac etiam caractera principum
+                                    scribenda sunt cum calamo hirundinis extracto ex ala dextra si
+                                    ad bonum finem sunt, si ad malum finem calamo galli nigri. </p>
+                            </div>
+                            <div n="7" type="section">
+                                <p> Hæc sunt sigilla et caractera altitudinum occidentalium, postea
+                                    uero adnotabimus illa de cæteris altitudinibus sequentes.</p>
+                            </div>
+                        </div>
+                        <div>
+                            <p>Figura tertia. 
+                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_3.jpg"/>
+                                Sigillum primæ altitudinis orientalis Caractera
+                                principum</p>
+                        </div>
+
+                        <div>
+                            <p>Figura quarta.
+                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_4.jpg"/>
+                                Sigillum secundæ altitudinis orientalis 2.</p>
+                        </div>
+
+                        <div>
+                            <p>Figura quinta. 
+                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_5.jpg"/>
+                                Sigillum tertiæ altitudinis</p>
+                        </div>
+
+
+                        <div n="13" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Est enim sciendum quod sigillum altitudinis et caractera
+                                    principum sunt scribenda hora operationis ab artista et sunt
+                                    mittenda in foramine et postea illud claudatur et artista
+                                    sequatur operationem suam. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Nos supra diximus quod artista genuflexus suffumigare debet
+                                    sanctissimum Hælaon et, finita suffumigatione, incipere in
+                                    tractatum sequentem coniurationem etiam genuflexus.</p>
+                            </div>
+                        </div>
+                        <div n="14" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Nota. Sciendum tamen est quod preparatio illa seu oratio quæ
+                                    incipit « Deus <name>Abraham</name>, Deus <name>Israel</name> »
+                                    et est dicenda ante primam horam illius planetæ, quæ <del>qua</del> operatur
+                                    altitudo. Etiam est sciendum quod artista, dum scribit sigillum
+                                    altitudinis et caractera principum debet etiam genuflexus
+                                    permanere. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Hæc est inuocatio seu coniuratio principum altitudinis et est
+                                    dicenda ab artista magno robore et credere quod petitionem
+                                    cordis sui quam misit prope sigillum in prima capsula quæ manet
+                                    super sanctum Hahelaon certe habuerit </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> quoniam experientiam fecimus et habuimus quidquid a nobis
+                                    optatum est. In primis est dicendum nomen altitudinis et postea
+                                    nomen principum illius altitudinis et debet manere artista dum
+                                    hæc dicit genuflexus.</p>
+                            </div>
+                        </div>
+                        <div n="15" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Inuocatio seu coniuratio. « Sic adoro nomen sanctum Dei
+                                    adorabile in æternum quod uos <add place="in margine">e</add> cælestes potestates atque angelicæ
+                                    uirtutes inuitis et obeditis creatori uestro. Adiuro, exoro,
+                                    expostulo Deum sanctum, Deum uiuum, Deum uerum, uisibilium et
+                                    inuisibilium creaturarum creatorem omnium, per <app><lem>diadema</lem><rdg>diademam</rdg></app>, coronam
+                                    sui capitis, per nomen illud quod est timendum ab omnibus
+                                    creatoris cælestibus <app><lem>terrestribus</lem><rdg>terestribus</rdg></app> et infernalibus quod scribitur
+                                    quatuor litteris, id est <name type="divin">Voth</name>, <name
+                                        type="divin">Beth</name>, <name type="divin">Agla</name>,
+                                        <name type="divin">Aenar</name>
+                                </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> et omnia alia nomina nobis cognita quae sunt hæc uidelicet <name
+                                        type="divin">On</name>, <name type="divin"> Caph</name>,
+                                        <name type="divin">Adicarday</name>, <name type="divin"
+                                        >Cby</name>, <name type="divin">On </name>, <name
+                                        type="divin">Abuinon</name>, <name type="divin"
+                                    >Ydios</name>, <name type="divin">Thethagramaton </name>,<del>Hussio, Hel, Helij, Heloij, Heloa</del> <name
+                                        type="divin">Emanuel</name>, <name type="divin"
+                                        >Adonay</name>, <name type="divin">Agloto</name>, <name
+                                        type="divin">Pantongraton</name>, <name type="divin"
+                                        >Hussio</name>, <name type="divin">Hel</name>, <name
+                                        type="divin">Hely</name>, <name type="divin">Heloy</name>,
+                                        <name type="divin">Heloa</name>, <name type="divin"
+                                        >Helya</name>, <name type="divin">Helyen</name>, <name
+                                        type="divin">Elyoa</name>, <name type="divin">Elyona</name>,
+                                        <name type="divin">Ely</name>, <name type="divin"
+                                        >Vasala</name>, <name type="divin">Valy</name>, <name
+                                        type="divin">Teul</name>, <name type="divin">Vaul</name>,
+                                        <name type="divin">Vau</name>, <name type="divin"
+                                    >Seu</name>, <name type="divin">Signasis</name>, <name
+                                        type="divin">Aghetan</name>, <name type="divin"
+                                        >Abyonitas</name>, <name type="divin">Ieue</name>, <name
+                                        type="divin">Techtron</name>, <name type="divin"
+                                        >Techtron</name>, <name type="divin">Alausim</name>, <name
+                                        type="divin">Chalbatl</name>,<del>Ieue</del> <name type="divin"
+                                        >Iobel</name>, <name type="divin">Onio</name>, <name
+                                        type="divin">Vna</name>, <name type="divin">Saluator</name>,
+                                        <name type="divin">A et Ω</name> ego sum qui sum, <name
+                                        type="divin">Aehec</name>, <name type="divin">Sehoua</name>,
+                                        <name type="divin">Anabona</name>, <name type="divin"
+                                        >Ysaron</name>, <name type="divin">Alyeon</name>, <name
+                                        type="divin">Syalos</name>, <name type="divin">Ane</name>,
+                                        <name type="divin">Adneth</name>, <name type="divin"
+                                        >Esba</name>, <name type="divin">Athoth</name>, <name
+                                        type="divin">Yotlya</name>, <name type="divin">Ayan</name>,
+                                        <name type="divin">Ayac</name>, <name type="divin"
+                                        >Dyeron</name>, <name type="divin">Zasaday</name>, <name
+                                        type="divin">Oin</name>, <name type="divin">Vlath</name>,
+                                        <name type="divin">Vnias</name>, <name type="divin"
+                                        >Yonas</name>, <name type="divin">Otheth</name>, <name
+                                        type="divin">Ihegh</name>, <name type="divin">Abamor</name>,
+                                        <name type="divin">Adyos</name>, <name type="divin"
+                                        >Vertahel</name>, <name type="divin">Bemon</name>, <name
+                                        type="divin">Zeloy</name>, <name type="divin">Zeray</name>,
+                                        <name type="divin">Manay</name>, <name type="divin"
+                                        >Alba</name>, <name type="divin">Abatha</name>, <name
+                                        type="divin">Nethon</name>, <name type="divin"
+                                    >Auhulo</name>, <name type="divin">Anarna</name>, <name
+                                        type="divin">Sanel</name>, <name type="divin"
+                                        >Ferglaon</name>, <name type="divin">Dayclan</name>, <name
+                                        type="divin">Machanhal</name>, <name type="divin"
+                                        >Agya</name>, <name type="divin">Aray</name>, <name
+                                        type="divin">Looh</name>, <name type="divin"
+                                        >Pothozetda</name>, <name type="divin">Zelietenero</name>,
+                                        <name type="divin">Aga</name>, <name type="divin"
+                                        >Betha</name>, <name type="divin">Than</name>, <name
+                                        type="divin">Opeto</name>, <name type="divin">Ypatos</name>,
+                                        <name type="divin">Sosa</name>, <name type="divin"
+                                        >Sayeth</name>, <name type="divin">Bonsaga</name>, <name
+                                        type="divin">Arasy</name>, <name type="divin">Yael</name>,
+                                        <name type="divin">Lanur</name>, <name type="divin"
+                                        >Abyacs</name>, <name type="divin">Bagoge</name>, <name
+                                        type="divin">Byonel</name>, <name type="divin">Ogoga</name>,
+                                        <name type="divin">Asæ</name>, <name type="divin"
+                                        >Faufalon</name>, <name type="divin">Alon</name>, <name
+                                        type="divin">Vla</name>, <name type="divin">Elaon</name>,
+                                        <name type="divin">Heman</name>, <name type="divin"
+                                        >Halla</name>, <name type="divin">Euay</name>, <name
+                                        type="divin">Lienederon</name>, <name type="divin"
+                                        >Thegal</name>, <name type="divin">Seghahab</name>, <name
+                                        type="divin">Zachyhe</name>, <name type="divin"
+                                        >Aghata</name>, <name type="divin">Abratha</name>, <name
+                                        type="divin">Abrateh</name>, <name type="divin"
+                                        >Athamay</name>, <name type="divin">Anahoman</name>, <name
+                                        type="divin">Yota</name>, <name type="divin">Yot</name>,
+                                        <name type="divin">Onan</name>, <name type="divin"
+                                        >Nathaman</name>, <name type="divin">Ban</name>, <name
+                                        type="divin">Tagas</name>, <name type="divin">Gadeon</name>,
+                                        <name type="divin">Iehu</name>, <name type="divin"
+                                        >Ogiron</name>, <name type="divin">Vzion</name>, <name
+                                        type="divin">Orinhi</name>, <name type="divin">On</name>,
+                                        <name type="divin">Oleha</name>, <name type="divin"
+                                        >Dansath</name>, <name type="divin">Neouul</name>, <name
+                                        type="divin">Soray</name>, <name type="divin">I</name>,
+                                        <name type="divin">Iender</name>, <name type="divin"
+                                        >Onoico</name>, <name type="divin">Agor</name>, <name
+                                        type="divin">Sahuh</name>, <name type="divin">Vam</name>,
+                                        <name type="divin">Hemon</name>, <name type="divin"
+                                        >Vam</name>, <name type="divin">Amas</name>, <name
+                                        type="divin">Saophay</name>, <name type="divin"
+                                        >Abgiach</name>, <name type="divin">Ylen</name>, <name
+                                        type="divin">Araham</name>, <name type="divin">Eyn</name>,
+                                        <name type="divin">Castos</name>, <name type="divin"
+                                        >Rabo</name>, <name type="divin">Sey</name>, <name
+                                        type="divin">Gule</name>, <name type="divin">Hase</name>,
+                                        <name type="divin">Cassiacolo</name>, <name type="divin"
+                                        >Igas</name>, <name type="divin">Taco</name>, <name
+                                        type="divin">Orchie</name>, <name type="divin"
+                                    >Aranel</name>, <name type="divin">Aimix</name>, <name
+                                        type="divin">Sarsamahehim</name>, <name type="divin"
+                                        >Malathim</name>, <name type="divin">Sabachyssim</name>,
+                                        <name type="divin">Osturmina</name>, <name type="divin"
+                                        >Hel</name>, <name type="divin">Sarday</name>, <name
+                                        type="divin">Panthangramaton</name>, <name type="divin"
+                                        >Edicos</name>, <name type="divin">Pachay</name>, <name
+                                        type="divin">Moel</name>, <name type="divin"
+                                        >Medandala</name>, <name type="divin">Nehauch</name>, <name
+                                        type="divin">Soray</name>, <name type="divin">Cados</name>,
+                                        <name type="divin">Nau</name>, <name type="divin"
+                                        >Anona</name>, <name type="divin">Alabay</name>, <name
+                                        type="divin">Amura</name>, <name type="divin">Araora</name>,
+                                        <name type="divin">ARANTHAN</name>, <name type="divin"
+                                        >Homousyon</name>, <name type="divin">Esenehye</name>, <name
+                                        type="divin">Achata</name>, <name type="divin">Au</name>,
+                                        <name type="divin">Ah</name>, <name type="divin"
+                                        >Iender</name>, <name type="divin"> Cos</name>, <name
+                                        type="divin">Zhye</name>, <name type="divin">Hhasidz</name>,
+                                        <name type="divin">Zadie </name>, <name type="divin"
+                                        >Seday</name>, <name type="divin">Gibor</name>, <name
+                                        type="divin">Hhesed</name>, <name type="divin"
+                                        >Relsidion</name>, <name type="divin">Malahahh</name>, <name
+                                        type="divin">Ruaahhton</name>, <name type="divin"
+                                        >Mesahh</name>, <name type="divin">Tazahh</name>, <name
+                                        type="divin">Nispha</name>, <name type="divin"
+                                    >Abtyso</name>, <name type="divin">Abhelahab</name>, <name
+                                        type="divin">Ylen</name>, <name type="divin"
+                                    >Eyhelnas</name>, <name type="divin">Rasni</name>, <name
+                                        type="divin">Fas</name>, <name type="divin">Ary</name>,
+                                        <name type="divin">Rirhohh</name>, <name type="divin"
+                                        >Heehfilo</name>, <name type="divin">Hemehey</name>, <name
+                                        type="divin">Lehohth</name>, <name type="divin">Nyas</name>,
+                                        <name type="divin">Glagla</name>, <name type="divin"
+                                        >Asato</name>, <name type="divin">Hascheye</name>, <name
+                                        type="divin">Aumar</name>, <name type="divin">Sol</name>,
+                                        <name type="divin">Thauth</name>, <name type="divin"
+                                        >Va</name>, <name type="divin">Benchi</name>, <name
+                                        type="divin">Sthason</name>, <name type="divin"
+                                        >Adonias</name>, <name type="divin">Adon</name>, <name
+                                        type="divin">Abiashar</name>, <name type="divin"
+                                        >Abiagail</name>, <name type="divin">Elcana</name>, <name
+                                        type="divin">Elnathan</name>, <name type="divin"
+                                        >Ezieniel</name>, <name type="divin">Cios</name>, <name
+                                        type="divin">Sachiel</name>, <name type="divin"
+                                        >Sedecsias</name>, <name type="divin">Sadael</name>, <name
+                                        type="divin">Ozielozias</name>, <del>Ieosna Selum Somer Thari</del> <name type="divin"
+                                        >Meschias</name>, <name type="divin">Manahem</name>, <name
+                                        type="divin">Tesitas</name>, <name type="divin"
+                                        >Iohacas</name>, <name type="divin">Ieosna</name>, <name
+                                        type="divin">Selum</name>, <name type="divin">Somer</name>,
+                                        <name type="divin">Thari</name>, <name type="divin"
+                                        >Salomich</name>, <name type="divin">Phanuel</name>, <name
+                                        type="divin">Oscheo</name>
+                                </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> ut hanc petitionem sanctam super sanctum Hahelaon prope sigillum
+                                    quæ complenda est ex officio uestro compleatis. O uos potestates
+                                    angelicæ splendidissimæ et decore a Deo electæ et præordinatæ,
+                                    complete hanc petitionem. Amen. Fiat, fiat, fiat ».</p>
+                            </div>
+                        </div>
+                        <div n="16" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Finita inuocatione, apparebit unus princeps <app><lem>illius</lem><rdg>illus</rdg></app> altitudinis,
+                                    indutus stola candida in uiso pulcherrimi iuuenis et flores
+                                    <app><lem>roseos</lem><rdg>roseis</rdg></app> in capite suo deferens ad modum coronæ. Tunc artista
+                                    habeat <app><lem>paruum</lem><rdg>parum</rdg></app> uas ad modum <app><lem>praxedis</lem><rdg>praxidis</rdg></app> noui, et intus mittat
+                                    carbones ex <app><lem>rosmarino</lem><rdg>rosma uino</rdg></app> accensos et super illos proiiciat de
+                                    odoribus altitudinis. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Et quam cito ipse sentiat odores, tunc dulciter <app><lem>alloquetur</lem><rdg>alloquentur</rdg></app>
+                                    artistæ. Et dicet « quid petis ? adquid uocatis principes nostræ
+                                    altitudinis ? ». Et artista cum ueneratione respondeat ut « hæc
+                                    petitio quæ eis ex officio incumbit, mihi ab eis sit concedenda
+                                    ». </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Et debet artista dicere suam petitionem non petendo aliquid quod
+                                    non pertineat ad illorum officium, et procul dubio obtinebit
+                                    petitionem suam. Tunc respondet « concedimus tibi petitionem
+                                    tuam » et dabit artistæ signum unum et nomen ignotum
+                                    hominibus.</p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Et quando uoluerit cum illo postea loqui, <app><lem>suffumiget</lem><rdg>suffimigit</rdg></app>, et
+                                    genuflexus, dicat nomen principis illius altitudinis et ueniet
+                                    et alloquetur cum eo.</p>
+                            </div>
+                        </div>
+                        <div n="17" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Nota. Et nota, o artista, quod debes ter dicere inuocationem, et
+                                    si non non uenerit, tunc cum maxima ueneratione <app><lem>lotis</lem><rdg>letis</rdg></app> manibus
+                                    aqua rosarum cum sigillo magni Dei, sigilla, candelas sancti
+                                    Hahelaon, in pari numero, et postea ad locum suum repones
+                                    sigillum et reitera per duas alias uices inuocationem, et procul
+                                    dubio, antequam lumen ueniat, ad figuram sigilli, nuntius
+                                    apparebit et quidquid uoleris obtinebis. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Postquam princeps dabit artistæ nomen ignotum et petitionem
+                                    cordis sui satisfecerit, artista <del>debebit</del> debet genuflexus iterum
+                                    suffimigium illi facere cum odoribus illius altitudinis et
+                                    finito dicere cum ueneratione : </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> « Maximas gratias ago uobis principibus altitudinis », et debet
+                                    nominare nomen altitudinis « quoniam meæ <app><lem>satisfecisti</lem><rdg>satisfecistis</rdg></app> uoluntati
+                                    idcirco, o potestas incomprehensibilis, uide cor meum et pete
+                                    quiquid uis quoniam sum paratus facere omnia ».</p>
+                            </div>
+                            <div n="4" type="section">
+                                <p>. Tunc ipse maxima cum grauitate cum artista alloquetur, et
+                                    postea euocarit tunc artista surget et extinguet candelas. Et
+                                    cum maxima ueneratione, sanctum Hahelaon reponat in loco
+                                    mundissimo cum odoribus illius altitudinis.</p>
+                            </div>
+                        </div>
+                        <div n="18" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Scias, o Artista, quod quando operationem tuam facis, debes te
+                                    uestire ueste alba ut subucula sacerdotalis, et in ueste sunt
+                                    scribenda cum coloribus altitudinis hæc nomina et caractera ut
+                                    exemplo apparebit. </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Et postquam <app><lem>inceperis</lem><rdg>siue peris</rdg></app> suffumigare illam odoribus altitudinis. Et
+                                    nota quod in ueste scribere debes nomina et caractera die ☿, id
+                                    est Mercurii, et hora solis, luna crescente, in pari numero.
+                                </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Et postea illam seruare in loco mundissimo, et tempore
+                                    operationis (non preparationis) se uestire illa, et finita
+                                    operatione illam lauare aqua rosarum et seruare. </p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Et in omnibus altitudinibus sunt scribenda nomina et nulla alia
+                                    differentia est nisi color et ueste illa potest uti in omnibus
+                                    operationibus, multa alia mihi erant dicenda sed quoniam cognoui
+                                    non esse necessaria, idcirco finem ponam Hynothitheo. </p>
+                            </div>
+                            <div n="5" type="section">
+                                <p> Et scias, o Artista, quod melior est liber hic quam thesaurum,
+                                    quoniam si feceris operationes altitudinis, habebis quidquid
+                                    optaueris. </p>
+                            </div>
+                            <div n="6" type="section">
+                                <p> Et scias quod omnes altitudines operati sumus. Et uerae sunt
+                                    quoniam habuimus optatum nostrum. Et liber iste uere uocari
+                                    posest thesaurum thesaurorum.</p>
+                            </div>
+                        </div>
+
+                        <div>
+                            <p>Figura sexta. 
+                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_6.jpg"/>
+                                Forma uestis artistæ Ex alia parte <name type="divin"
+                                    >ELIZBETH</name>
+                                <name type="divin">ABESSALOM</name>
+                                <name type="divin">AVORRA</name>
+                                <name type="divin">ADONAY</name>
+                                <name type="divin">EMANVEL</name>
+                                <name type="divin">OZA</name>
+                                <name type="divin">SAPHAD</name>
+                                <name type="divin">ELCANA</name>
+                                <name type="divin">ELIMELGH</name>
+                            </p>
+                        </div>
+
+                        <div n="19" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Supra diximus quod erat fabricandum sigillum magni Dei et erant
+                                    sculpenda in illo nomina ut supra. Sed non diximus modum neque
+                                    tempus quando debet fabricari.</p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> Idcirco sigillum est fabricandum die ♃, id est Iouis, uel solis,
+                                    hora ☿, id est Mercurii, et nomina et signa ut in exemplo sunt
+                                    sculpenda die solis uel ♀, luna <del>cresce</del> crescente, in pari numero et
+                                    eius hora uel hora Iouis. </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> Et postquam sigillum erit completum, suffumigare illud debet
+                                    artista cum odoribus ligni aloe, costi, <app><lem>storacis</lem><rdg>storauis</rdg></app> <app><lem>calamiti</lem><rdg>calamite</rdg></app>,
+                                    <app><lem>benzoini</lem><rdg>bengioi</rdg></app> et <app><lem>olibani</lem><rdg>olebani</rdg></app>. Finita <del>sul</del> suffumigatione <del>suffumigare</del> illud reponere in
+                                    sanctum Hahelaon. </p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Et scias quod sufficit in omnibus altitudinibus hoc sigilum et
+                                    etiam quod finita operatione illud est seruandum in panno serico
+                                    rubeo cum odoribus et est mittendum in capsula lignea cum maxima
+                                    ueneratione. </p>
+                            </div>
+                            <div n="5" type="section">
+                                <p> Scias quod finita suffumigatione cum ueneratione genuflexus
+                                    debes <app><lem>dicere</lem><rdg>dice</rdg></app> hanc orationem Deo.</p>
+                            </div>
+                        </div>
+                        <div n="20" type="chapitre">
+                            <div n="1" type="section">
+                                <p> Oratio. O <name type="divin">Adonay</name>, <name type="divin"
+                                        >Saday</name>,<name type="divin">Heloyn</name>, qui es <name
+                                        type="divin">A et ω</name>, hoc est principium et finis
+                                    absque principio et fine, in quo uiuens homo cognoscit, Rex
+                                    <app><lem>summe</lem><rdg>sum</rdg></app> Imperator excellens qui Deus es, Rex regum, dominantium
+                                    Dominus, qui etiam es pius, misericors, clemens, benignus,
+                                    gloriosus </p>
+                            </div>
+                            <div n="2" type="section">
+                                <p> mundum tenens manu tua, et omne quod creatur est in potestate
+                                    tua et conseruas, qui cælorum continens firmamentum, qui tronos
+                                    et <app><lem>abyssos</lem><rdg>abistos</rdg></app> intueris, qui montes ponderas terramque magnam
+                                    concludis a palmo, qui fecisti spiritus angelicos flammam ignis
+                                </p>
+                            </div>
+                            <div n="3" type="section">
+                                <p> qui producis uentos de thesauris suis, qui ambulas super <app><lem>pennas</lem><rdg>penas</rdg></app>
+                                    uentorum, qui <app><lem>percussisti</lem><rdg>percusisti</rdg></app> primo genita <app><lem>Aegypti</lem><rdg>Aegipti</rdg></app> ab homine usque
+                                    ad pecus, qui diuisisti lumen a tenebris, qui fecisti <app><lem>luminaria</lem><rdg>luminam</rdg></app>
+                                    magna, solem et lunam, </p>
+                            </div>
+                            <div n="4" type="section">
+                                <p> Deus <app><lem>totius</lem><rdg>totus</rdg></app> <app><lem>misericordiae</lem><rdg>misericordis</rdg></app>, ego famulus tuus N., rogo tuam
+                                   <app><lem>pretiosissimam</lem><rdg>pitiosissimam</rdg></app> <app><lem>maiestatem</lem><rdg>maiestat</rdg></app> ut petitionem cordis mei concedas mihi
+                                    per tuam maximam potentiam. Amen. Fiat, fiat, fiat.</p>
+                            </div>
+                        </div>
+                        <div>
+                            <p>Figura Septima.
+                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_7.jpg"/>
+                                Hoc est sigillum magnum Dei <name type="divin"
+                                    >HELOEN</name>
+                                <name type="divin">ADONAY</name>
+                                <name type="divin">PIUS</name>
+                                <name type="divin">ANABONA</name>
+                                <name type="divin">ARANITAN</name> Hæc est <app><lem>secunda</lem><rdg>segunda</rdg></app> <app><lem>pars</lem><rdg>partis</rdg></app> sigilli
+                                    <name type="divin">TETHAGRAMMATON</name>
+                                <name type="divin">ANABONA</name>
+                                <name type="divin">IHEHOVA</name>
+                                <name type="divin">HELOEN</name>
+                                <name type="divin">A ω</name>
+                                <name type="divin">ADONA</name>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

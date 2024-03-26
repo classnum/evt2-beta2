@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="normal">Glosa</title>
+                <title type="source">Veronse 2012</title>
+                <title type="medium">transcription électronique</title>
+                <author>inconnu</author>
+                <respStmt>
+                    <resp>Transcription du manuscrit, encodage XML</resp>
+                    <name type="person" xml:id="NC">Nicolas Corre</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country></country>
+                        <settlement></settlement>
+                        <repository></repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height></height>
+                                        <width></width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="transcription" xml:lang="lat">
+                <head>Glosa</head>
+                <div>
+<div n="1" type="chapitre"><p> Incipit glosa beati <name>Ieronimi</name> super sanctum <name type="divin">almadel</name> 
+<name>Salomonis</name>, quod ipse transtulit de greco in latinum.
+In nomine sancte et indiuidue Trinitas incipit glosa super sanctum <name type="divin">almadel</name> <name>Salomonis</name>, quod sibi diuinitus 
+per angelum super altare aureum perhibetur traditum. Quoniam hoc sanctum <name type="divin">almadel</name> sibi in hebraico ydeomate 
+scriptum et editum fuerat, quapropter sapientissimus appellatus est. Cum enim quadam nocte seraphyn de altitudine secunda, dicens :
+« Quoniam scrire tu desideras secreta celestia, que sine uirtutibus nunquam haberi possunt, sed quia uistum 
+tribuisti iudicium de diuisione uiui pueri duarum mulerium meretricum et mutuo obiurgantium, ideoque omnipotens Deus, 
+uolens desiderium cordis tui adimplere, dabit, tibi scientiam omnem cum cognitione earundem, ideoque uenient tibi 
+omnia bona pariter cum illa ».</p></div> 
+<div n="2" type="chapitre"><p>Sed, ut dictum est, liber iste scriptus erat in ebrayco. Superueniens autem philosophus maximus <name>Solinus</name>,
+ intraturus partes Atheniensium, inueniens ibi sanctum <name type="divin">almadel</name> <name>Salomonis</name> cum sua glosa, celebrato capitulo 
+ uniuersali propter quod ibi uenerat, scribens predictum sanctum <name type="divin">almadel</name> cum sua glosa, transferens se ad partes suas, 
+ scilicet Arabiam, transtulit predictum librum cum sua glosa in linguam arabicam, quia et ipse Arabs erat, 
+ uolens hoc secretum magnum suis fratribus et sodalibus innotescere.</p></div>
+<div n="3" type="chapitre"><p>Sed quia missus es philosophus maximus <name>Symachus</name> a papa sanctissimo <name>Johanne Secundo</name> felicis 
+recordationis propter causas quasdam certas, 
+determinandas et expediendas, uenit in Arabiam, ubi cum magno honore est sisceptus, quia aduentus eius dudum antea fuerat expectatus 
+et predictus. Qui, postquam negotium expleuerat pro quo ibi missus fuerat, mansit apud regem illius terre per menses tres et dies quinque.
+ Vidit ibi sanctum <name type="divin">almadel</name> <name>Salomonis</name> cum suo commento in arabica lingua scriptum, 
+ quod cum uidisset nimio amore succensus 
+ scripsit propriis manibus eundem librum cum omni diligentia, nulli hominum tantam fidem adhibens quam sibi ipsi.
+  Veniens igitur ad patriam suam, transtulit sepedictom <name type="divin">Almadel</name> in Grecum, quia ipse Grecus erat,
+   uolens hoc magnum secretum suis electis fratribus et amicis patefacere, quia lux in tenebris manere non debet sed potius effulgere’, 
+   secundum uerba lectionis.</p></div> 
+<div n="4" type="chapitre"><p> Secuntur uerba <name>Ieronimi</name>
+Nunc uero ego <name>Ieronimus</name>, minimus doctorum, qui non sum dignus nec uocari doctor nec dici, 
+missus in Euangelii predicationem ad partes Grecas, ibi inueni sapientissimos magistros et doctores expertissimos,
+ unde multum mirabar. Cim quadam hora uacarem orationibus, dictim est mihi : 
+ « Ne mireris super spaientia magistrorum et doctorum huius regionis, habent enim sanctum <name type="divin">almadel</name> <name>Salomonis</name>, 
+ cum quo deuenitur in cognitionem omnium scientiarum metaphysicarum et artium etiam exceptiuarum ».</p></div> 
+<div n="5" type="chapitre"><p> Cum igitur ibi per tempus aliquod moratus fuissem, diligenter requisiui sanctum 
+<name type="divin">almadel</name> <name>Salomonis</name>, 
+quod cum traditu mihi fuerat, simmopere perlegi et in eo suidui, et quia in toto intelligere non potui, 
+unde sepe doctores et magistros uisitaui, interrogando de terminis mihi incognitis, instructus humiliter per eos,
+ gratias egi summo Deo, qui talem suam gratiam mihi indigno famulo dignitatus est elargiri.  
+ Expedito Evangelice predicationis officio, redii Romam, narrans factum bene completum pro quo misus eram, 
+ et accepta apostolica benedictione redii ad domum propriam, ibique parumper per breue temporis 
+ spatium amplius studens et legens in eodem libro et orationibus uacans, Deo diu noctuque seruiens,
+  ut mihi intellectum tribueret et facultatem, ut hoc sanctum almadel possem ipso adiutore in latinum transferre.</p></div>
+<div n="6" type="chapitre"><p>Cogitans ergo cottidie quando et qualiter hoc onus aggrederer timens prolixitatem difficultatemque orationum,
+ submisi frequenter et longis temporibus quod prius incipere proponebam, unde factum est quod omnipotens 
+ Deus suam misericordiam mihi ostendere peramplius dignatus est, uolens lumen sue diuine clementie poni 
+ super candelabrum et non sub modio inualuit uox angelica, dicens : « Incipe, perficias. Quare tot tempora pausas ? 
+ Incipe perficias, auxiliante Deo ». Confortatus itaque hac uoce incidit menti mee illud propheticum :
+  « Apperi os tuum et ego implebo illud ». Et iterum : « Ego do uobis os et sapientiam cui contradicere 
+  non possunt omnes aduersarii uestri ». Commendans ergo me diuine clementie et pietati, 
+  opus hoc humiliter iniunctum cum magno gaudio suscepi atque diuino iuuamine adimpleui. 
+  Parcant igitur lectores et magistri mee rusticitati quia si quid bene posui, de diuina gratia fore factum non hesitent 
+  si quid minuns bene posui, peto per uos humiliter excusari, quia plus ualet aliquid utilitatis 
+  poni inter plura que cum non sint utilia quuam nihil positum inuenitur.</p></div> 
+<div n="7" type="chapitre"><p>Incipiunt capitula per modum registri in sanctissimi <name type="divin">almadel</name>
+ <name>Salomonis</name> et primo de inpedimentis huius sancti operis. 
+Inueniuntur impedimenta huius scani operis. Ideo necesse est, ut caute in hoc opere procedatur. 
+Oportet ergo accedere in hoc omnes sensus uolentem esse sobrium et non ebrium, quia 
+in ebrioso homine omnes sensus concluduntur, oculi caliginantur, lingua obtumescit, 
+sensus tactus et gressus ebetescunt. Ideo super omnia principaliter requiritur 
+sobrietas quia per ebrietam <name>Loth</name> fuit denudatus ab genitalia et ambe filie sue ex eo conceperunt. 
+Item <name>Sampsonem</name> legimus interfectum ab inimicis. Ideo ne inimici nostri demones nos excecarent et 
+uisum spiritualem a nobis tollentur. Oportet nos et unumquemque in hoc opere procedere uolentem esse sobrium, quia, 
+ut dixi, omnes sensus caliginantur corporaliter et cum homo ssit priuatus sensibus et ratione, querit 
+illum acquirere a quo omnis procedit sapientia indesinenter. Et cum ratio supernaturalis intellectui humano ministrat, 
+necesse est ergo hominem principaliter esse sobrium, ne inueniatur luxuriosus ut <name>Loth</name>, ne sompnolentus ut <name>Sampson</name> et excecatus, 
+ne inuiniatur rancorosus ut <name>Miphibozeth</name>, qui est iugulatus.</p></div> 
+<div n="8" type="chapitre"><p> Propterea de castitate nequaquam est tacendum, quia castitas est soror angelorum et amica summi Dei. 
+Cum in creatione omnium creaturarum, in sua proma creatione uirgo <name>Adam</name> in paradiso creatus est, uirgo permansit usque ad lapsum.
+ Qui igitur in hoc opere uoluerit operari, neccesse est ut sit castus et continens. Hoc idcirco dixerim, quia aliud est castitas, 
+ aliud continentia. Castitas siue uirginitas, quod idem est, est corpus omnibus diebus uite, mentem, cor, uerba inuiolatum 
+ et immaculatum conseruare. Continentia est corpus per luxuriam maculatum macerare, castigare, refrenare, per aliquod 
+ tempus penitentie insistere. Sit quasi de nouo mundatum, deinceps a concubitu et concupiscentia custodire. 
+Hoc utique dixi, quia si solum casti et uirgines in hoc opere procedere deberent, inter mille milia uix 
+unus aut duo inuenirentur ibi uera continentia ante omnia xl dies in signum uere castigationis.
+ Incidens ponitur : si quis pollutus fuerit per nocturnum sompnum, confiteatur et agat penitentiam 
+ secundum consilium confesoris, et tunc licite potest procedere in hoc opere, nullo alio impedimento resistente.</p></div> 
+<div n="9" type="chapitre"><p> Item requiritur orationis continuitas, iuxta illud sine intermisione : « Orate ne fuga uestra fiat in hyeme ». 
+Yemps autem tempus infructuosum et ideo oratio inutilis yemi comparatur. Ne igitur aliquis in peccatis 
+mortalibus irritus sit orationem faciens inutiliter. Annexa est etiam orationi confessio. 
+Confessio est oris et cordis fassio et operatorem oportet similiter de mortalibus peccatis confiteri 
+si cupit habere uitam sempiternam. Si modo illaqueatus saltem peccatis mortalibus, iam mortuus dicetur. 
+Quando quereret uitam, iuxta illud Psalmi, « qui est homo qui uult uitam diligit, etc. »,
+ non solum confiteri debet maiora peccata sed etiam minora. Nunquam aliorum sed tui ipsius peccata confiteberis, iuxta illud : 
+ « dixi : confitebor aduersum me iniusticiam meam Domino ». 
+ Per iugem confessionem confortatur quis in oratione. Nam omnia deficiunt in hominum adiutorio ut dixi circa illud :
+  « Respiciens eram ad adiutorium meum et non erat ». Dei uero adiutorium semper assistit, 
+  unde Psalmus : « Deus, in adiutorium meum intende ».</p></div> 
+<div n="10" type="chapitre"><p> Vt ergo oratio uestra semper ascendat in conspectu Dei, iuxta illud « dirigatur oratio mea etc. », 
+necesse est ut precedat pura confessio cum deuotione sine tedio, cum dolore sine uicio, cum amore et hylaritate  
+sine murmure, cum continuitate sine obliuione. His similia requiruntur pro confidente. Quid uero
+ sit oratio est nunctius ad Deum missus, secundum quoslibet aliter oratio est clauis ad aurem Dei,
+  ut ergo nostra oratio ad Deum perueniat, requiritur ut sit effcax et salubris. 
+  Si quis petit quod esset contra salutem anime sue, nequaquam exaudietur. 
+  Vnde dictum est beato <name>Paulo</name> cum rogaret Dominum ut aufferetur ab eo Spiritus collaphisans ipsum : 
+  « Sufficit tibi gratiam meam, nam uirtus in infirmitate perficitur », et alibi : « Petite et accepietis », 
+  Vnde Dominus Mt VI docens modum orandi dixit : « Panem nostrum quottidianum ». Quid nam per panem nisi sapientia designatur ? 
+  Et sicut panis corpus reficit, sic scientia animam sustentat et confortat.</p></div> 
+<div n="11" type="chapitre"><p> Requiritur etiam loci congruitas quamuis et in Psalmo dicitur :
+ « In omni loco dominationis benedic anima mea Domino ». Peramplius tamen orandum est un locis dedicatus, 
+ iuxta illud « duo homines ascenderunt in templum », non solum in templo sed etiam in aliis locis secretis et mundis est orandum, 
+ unde et « clauso hostio ora Deum et Patrem tuum ». Temporis oportunitas in ha cuita in hoc mundo ualet oratio, unde in canonica Iacobi :
+  « Multum ualet enim deprecatio uisti assidua », quia diues ille frustra « dixit : 
+  Pater <name>Abraham</name> misere mei » in inferno, quia utiliter per se rogasset in mundo ibi gutta maque denegauit qua linguam suam refrigeraret. 
+  Hic pro eo sanguinem suum fudit. Non dico solum de templo exteriori, quod etiam debet esse mundum et ornatum, 
+  unde « Dominum, dilexi decorem, etc. », sed de interiori templo : "Templum Dei sanctum est quod estis uos ». 
+  Est ergo quantum est in nobis iugiter orationibus et aliis operibus bonis insistendum, ut ab eo mereamur exaudiri, 
+  pariter prouehi ad gaudia sempiterna, cui est honor et gloria in secula seculorum, amen.</p></div> 
+<div n="12" type="chapitre"><p> Sequitur capitulum de miraculo
+Nunc restat dicere in libro in translationibus de greco in latinum nunc transacto de miraculo. 
+Tempore quodam cum quidam onus huius sanctissimi operis suscepisset et quodam modo aliquatenus continuasset,
+ per sompnum uidit quandam puellam summe pulchram, cum quia diuersis uerbis ac blandis uocabatur, 
+ que sibi dulcissima uidebatur. Tandem extendens manus suas in ipsius amplexum, prorumpens ait : 
+ « O mea dulcissima et pre cunctis amantissima, cupio te intentio cordis mei affectum osculari, 
+ ne sis mihi igitur super hoc indigna », quibus talis fuit pollutus. 
+Mane euigilans, nihil sibi quid acciderat constabat, qui rursus insistens orationibus, ut solitus fuerat. 
+Adueniente autem hora noctis, iterum orationes suas deuote fundens ad Dominum, angelus qui sibi cum magno fulgore apparere 
+consuieuerat nusquam apparuit, unde uir Dei nimium contristatus ultra quam credit potest dixit :
+ « Heu ! Me Miserum et indignum, quibus moris et peccatis offendi Deum meum creatorem, unde angelus eius qui mihi eius sepius apparuit 
+ amplius non apparet. Quid faciam, quia amaritudine plenus sum ? Sed tamen scio quid faciam. Conuertam ergo me
+  ad Dominum Deum meum toto corde meo, quia multus est ad ignoscendum et placabilis super malicia ».</p></div>
+<div n="13" type="chapitre"><p> Quo dicto dedit se ieiunio 30 diebus in aqua et pane, sperans placare indignationem Dei, et his diebis continuus 
+in orationibus et bons operibus inherebat, petens sibi indulgeri de peccatis, quibus iram meruit Dei omnipotentis incurrere. 
+Fagitatus tandem ex longa mora ieiunii et orationum, sompnum arripuit, quo depressus uidit quendam iuuenem pulcrum ultu decorum, 
+uestitu preciosum, sed tamen faciem suam obnubilantem, qui dixit ei : « Dormis, dormis ? ». Illo uero euigilante ait : « non ». 
+Angelo dicente sibi : « Surge ! ». Qui continuo surgens ait : « Peccator sum, angele ! Quid est quod me dereliquisti, 
+quia per te quondam consolatus de toto desiderio uidere ualerem ? » Cui angelus respondit, dicens : 
+« Tu grauiter peccasti et ideo in indignationem summi Deo incidisti. Confitere ergo peccata tua et age penitentiam, 
+ut faciem meam pure ualeas intueri ». Interrogante autem eo que essent peccata quibus Deum offendisset, dixit angelus siue puer
+ : « Vna noctium uidebas puellam quandam pulchram, in cuius amore accensus, fueras unde corpus tuum et animam tuam polluisti 
+ et peccatum tuum non innotuisti nec domum plus benedixti. Ideo hec tribulatio et indignatio tibi superuenit. 
+ Age igitur penitentiam triduanam in cilicio et asperge caput tuum cinere, sedebisque in terra per tres dies 
+ et habebis Dominium Deum tuum placatum de offensa ». Hoc ideo dixi : si quis non poterit procedere 
+ in hoc opere pollutus mente et corpore per suggestionem dyabolicum in sompnis, quanto minus potest aliquis promoueri pollutus 
+ ex presumptione et operatione mentis et corporis desiderii.</p></div> 
+<div n="14" type="chapitre"><p>  Aliud miraculum meo tempore factum.  
+In Arabona fuit quedam monachus Deo deuotus seduinolentus, qui cum sanctissimum hoc opus inchoasset more solito et consueto, 
+iterum repltus uino ut assoluit quadam nocte cum orationibus insisteret orationes insuper positas sine deuocione dixerat, 
+tandem uomitum faciens obdormiuit. Mane autem surgens, uidens quod factum fuerat, accessit pauorem, 
+confitens peccata sua orationibus se dederat continuis, orans Dominium, ut sibi parceret de delicits. 
+Persuerante idcirco in penitentia et oriationibus, supplicauit sibi diuinitus aliquod signum si dignus uel indignus 
+huius operis esset exhiberi. Nocite igitur sequente in oratione positus, lacrimas fundens, cor penitens, pectus tendens, 
+audiuit uocem sibi dicentem :
+« Neminem inuidentem desistere et desine talia secreta experiri, quia indignum te fecisti ». Vlulante illo et plorante ait :
+ « Quare illo, Domine, hoc ? ». Respondit : « Quia uir polluti corporis es. Ideo Dominus abstulit misericordiam suam a te, 
+ ne hoc opere prospereris ».
+Dixitque : 
+« Quid faciam, ut seruus tuus indignissimus inueniat misericordiam in conspectu Dei mei uiui ? Est mihi graue ferre indignationem eius ».
+ Angelus ad hanc uocem : quidem audisti sen non me uidisti. Respexit Dominus ululatum tuum et ploratum, dans tibi petitionem offendisti,
+  et age penitentiam 21 dies in pane et aqua et utere cilicio et esperge caput tuum cinere more Niniuitarum, 
+  et habebis Dominum mitem et placatum ». 
+Monachus gauisus de uerbis angeli egit pentitentiam, qua facta processit in hoc opere sanctissimo sicut angelus ipsum docuerat, 
+et peruenit in omnem scientiam et in secretum spirituum supernorum. Hoc non dixi sine causa et ratione, 
+quia multi estimant postquam inciderunt in peccatis mortalibus, quia tunc opus sit reiterandum, 
+quod nullatenus est, credendum, sed ubi ante lapsum peccati processus fuerat, ibi confessione et penitentia completa inchoetur.</p></div> 
+<div n="15" type="chapitre"><p> Sequitur capitulum de comodi dispositione
+Restat nunc dicere et declarare de comodi dispositione. Qualiter operans secure ualeat permanere ?
+ Nam ille malignissimus insidiator nititur unumque in hoc sanctissimo almadel laborantem distrahere 
+ et distractum reddere, ne in cognitionem summi Dei et uiui et suorum archangelorum ac spirituum supernorum perueniat. 
+De comodo tibi datur doctrina. Sit comodum mundum, scopis mundatum, aqua benedicta aspersum, 
+insuper et sale benedicto munitum et fiat in eo suffumigato de artomesia et absintheo et uerbena, 
+que omnia sint consecrata in festo assumptionis <name>Marie</name>. 
+Deinde thurificetur comodum in quatuor angulis cum thure et thymiamate, ita ut percipiatur odor redolens ex eis,
+ ut fugiant maligni spiritus a comodo. Insuper comodum ante inchoationem huius operis sit penitus mundum ab ingressu mulierum, 
+ insuper et uirgine per 30 dies. Sit autem in comodo altare mundum in sede uel in scampno et sit coopertum optimis sericis uel 
+ lineis indumentis siue mappis. Et in altari sit tabula depicta cum misericordia Dei saluatoris, et ymago sit illius dispsitionis : 
+ corpus nudum manus coniuncte, caput punctum corona et in corpore ulnera et sit sine cruce. Sit etiam ymago sancte crucis picta
+  in eodem altari cum ymagine beate Virginis et <name>Iohannis</name> evangeliste et ymago duorum archangelorum. Procedens autem ad altare dicat 
+  : « Miserere mei, Deus, secundum magnam misericordiam tuam », trina uice. Erignes se dicat : « Domine, non secundum peccata nostra, etc. » 
+  cum illa collecta : « Parce, Domine, parce populo tuo, ut dignis flagellationibus castigatus in tua miseratione respirem per <name type="divin">Christum</name> Dominum nostrum ». 
+  Sit autem altare ad orientiem si comode haberi potest. Sin autem sit in meridie, nunquam uel raro in aliis partibus mundi, et per dictos 30 dies omnie 
+  die comodum aspergatur aqua benedicta, et si benedictum, et si suffumigium haberi potest, etiam continuetur per eosdem dies. Si uero non, adminus die 
+  dominico suffumigium requiratur, et per hos predictos dies nulli hominum in comodum licet habere ingressum nisi soli operanti.</p></div> 
+<div n="16" type="chapitre"><p> Pretera Dei adiuturio dicere propono de disponendis quomodo tutus accedere poterit ad huius sanctissimi operis inchoationem. 
+Est autem initium huius operis dies Solis que dominica dicitur, in qua Deus fecit lucem, id est splendorum nubium, non quod Soli,
+ tali die factus sit, dies Solis dicitur. Cum enim Sol et Luna et stelle quarta feria creata sint, Luna existente 
+ in Ariete uel alis et melius Sole existente in Thauro et Luna etiam existente in eodem signo plus ualet,
+  tamen ut didici et fieri uidi, omni hora, omni die, omni tempore ualet huius operis initium, 
+  cim prescripta omnia sunt prout operari uolente debite seruata. Sit autem operans balneatus, mundis lineis uestimentis indutus,
+   et si fieri potest, sint noua linea uestimenta, et oportet operari uolentem ieiunare per mensem ante inchoationem,
+    uidelicet secundis feriis quartis et sabbatis in lacticiniis, sexta feria in quadragesimalibus, 
+    sed melius est sextis feriis ut pane et uino uel ceruisia, et dicat omni die de diebus predictis primo postquam surrexerit
+     ter ante lectum suum « Misere mei, Deus, secundum magnam misericordiam tuam », cum collecta « Parce, Domine, 
+     parce populo tuo secundo », de uespere ».</p></div>
+<div n="17" type="chapitre"><p>  De lecto talis datur modus. Ante lectum sternaturculcitrum siue tapetum et lectus sit a terra ad modum unius pedis eleuatus, 
+et lecti sternia tua sint noua uel munda, nouiter lota. Et antequam uadis ad lectum, dic hunc Psalmum : 
+« In te, Domine, speraui », primum ex toto, deinde, « Deus miseratur nostri ». 
+Prius uero induerecilicio et desuper camisia munda uel noua, et ponas te dormitum in dextro latere 
+et capiti supponas manum dextram, nihil loquendo, sed de Dei misericordia et pietate meditando quosque sompnum ceperis. 
+Lectus uero omni hora uespertina et etiam de mane quando surrexris thurificetur et qua benedicta modice aspergatur,
+ et si quid tibi patefactum fuerit in sompno sileto et refer grates Deo summo qui tibi suam misericordiam dignatus est impertiri.
+  Item caue quod nullus tempore operationis tue uir vuel mulier uirgo uel puer comodum tuum ingrediatur, 
+  sed si quis tibi forte loqui uoluerit, comodum tuum eseas et ibi breuibus uerbis negotiuum tuum expedias.
+   Sed melius tamen est, ut omnia negotia secularia et temporalia ullo tempore sint postposita et amota,
+    sic securius et quietus poteris orationibus insistere.</p></div> 
+<div n="18" type="chapitre"><p>Secuntur notabilia
+Hiis uisis, nucn uidendum est de notabilius, que summe nessaria sunt operari uolenti, et si ea menti 
+sue fideliter inseruerit et memorie commendauerit, ab hoc sanctissimo <name type="divin">almadel</name> nunquam excludetur,
+ et sicut factum fuerat tempore <name>Symachi</name> philosophi illustrissimi, sic eueniet ; ergo diligenter attendat unusquisque 
+ desiderans operari in isto opere.</p></div> 
+<div n="19" type="chapitre"><p> Sequitur de altitudinibus
+Est autem notandum quod quatuor sunt altitudines et quelibet earum continet quatuor mansiones, quarum prima est in oriente, 
+secunda in meridie, tertia in occidente, quarta in aquilone. Nunc sicut audistis distincte sunt altitudines 
+secundum climata regionum. Videas ergo studiose, quia prima altitudo cum suis mansionibus postia est in parte orientis,
+ ubi stelle dulciter oriuntur, non solum stelle sed et Sol ibidem oritur, ut dies humanis aspectibus conferatur. 
+Nota quod in hac altitudine talis est diuisio manionum : prime due mansiones continent agelos et archangelos coram summo 
+Deo iugiter residentes, et sunt mayoris diginitatis officii principatus potestatis quam cherubin et seraphin, 
+qui sine intermissione Domino decantat cantum laudis et honoris, dicentes : 
+« Sanctus, sanctus, sanctus Dominus Deus omnipotens, qui erat et qui est et qui uenturus est ». 
+Ex his patet quod quidam sunt angeli residentes, quidam uero assistentes : residentes ut dixi, assistentes ut <name type="divin">Gabriel</name>,
+<name type="divin">Raphael</name>, <name type="divin">Michael</name> et ceteri compares, qui in aliis duabus inferioribus mansionibus continentur. 
+ Vt ante hoc taliter fuerit patet <name>Luce</name> 2° ubi ait : « Ego sum <name type="divin">Gabriel</name> angelus, qui asto cottidie ante Deum ». 
+Sic et primi president, ut imperatores et reges, sed secundi status stant, ut duces, comites, marchiones, etc. 
+Ex his collige quod primi habent impetrare misericordiam Dei super rem quam petits, 
+sed secundi habent tibi misericordiam et gratiam super rem factam presentare. </p></div>
+<div n="20" type="chapitre"><p>Sequitur de secunda altitudine
+Secunda altitudo posita est in meridie. Similiter continet quatuor mansiones, 
+que mansiones diuise sunt ad inuicem ut prime quatuor statu, uoluntatem Dei cognoscentes et ardent in Dei amore iugiter, 
+ut sunt seraphin et cherubin. Si in amore accensus fueris, cognosce statum de mansione seraphin sanctorum. 
+Si in cognitione Dei illuminatus existis, cognocas statum de numero sanctorum cherubin. Isti sunt modo continui status, 
+et hoc etiam innuit <name>Dyonisius</name> de celesti ierarchia. Sed alie due mansiones sub his contente sunt continuum motus 
+et quidquid in primis duabus mansionibus secunde altitudinis impetratur, per angelos duarum mansionum secunde altitudinis tibi ministratur.</p></div> 
+<div n="21" type="chapitre"><p>Sequitur de tertia altitudine
+Tertia altitudo ad occasum Solis tendens similiter continet quatuor mansiones, et sunt diuise 
+ad inuicem sicut prime due altitudines cum suis mansionibus. Nam in primis duabus mansionibus 
+huius altitudinis in his Dominus quiesceuit et sedere dicitur, et angeli in mansionibus contenti troni dicuntur,
+ eo quod in eis Dominus sedea ut iudex, et in his Dominus ad iudicium ueniet. Vnde dicitur per Psalmum :
+  « Deus qui sedes super thronum et iudicas equitatem ». 
+  Sed due secunde mansiones his subiecte famulantur superioribus ut supra dictum est,
+   quia quidquid per superiores impetratur, per minores presentatur.</p></div> 
+<div n="22" type="chapitre"><p>Quarta altitudo aquilonaris siue in aquilone posita similiter diuisa est ut cetere premisse, 
+ita quod prima continet duas mansiones, secunda similiter duas, et ut uidi in libro <name>Plathonis</name> De Phedrone, 
+ubi sic dicitur quod stella in aquilorani parte numquam uel raro lucet et assignat ibidem rationem, 
+quia in aquilone sunt mulute et diuerse paludes, unde exeunt fumi multi stellas obfuscantes,
+ et ideo in insta regione raro lucet stella. Hec ideo dixi ut uideat unusquisque in aquilonari parte. 
+ Nam ibi continuum est frigus. Quia cognitionem in hoc opere cupiens perficere uideat quod sit in honore Dei accensus,
+  et paludes iracundie et inuidie penitus a corde ipsius sint conuulse et ammote. 
+  Prime due mansiones huius altitudinis habent impetrare intellectum et due secunde mansiones huius altitudinis 
+  habent tibi petita et obtenta presentatr sicut prius uisum est in aliis altitudinibus antedictis. 
+Item nota quod altitudo in presenti non sumitur pro quadam distancia locali nec sumitur 
+pro quadam eleuatione situs uel motus a terra tendens ad primam aeris regionem, sed sumitur hic secuntatiue quasi 
+ille terminus yerarchia. Et dico nominaliter, quia tantum tres sunt yerarchie, quarum quelibet continet mansiones duas, 
+et hec quelibet altitudo continet quatuor mansiones.</p></div> 
+<div n="23" type="chapitre"><p> Item nota de sanctissimo nomine « <name type="divin">almadel</name> » quod magistri et doctores diuersimode exponunt. 
+	Quidam enim dicunt quod <name type="divin">almadel</name> situ na splendissima stella, habens homini influere beniuolentiam 
+    et bonitatem cum ceteris uirtutibus, et sic uidetur quod esset planeta, quia proprium planetarum 
+    est influere bonum siue malum secundum distinctas planetas. 
+	Alii quidem uolunt quod situ nus de supremis angelis uel potius archangelis coram Deo residens, 
+    cuius proprium est impetrare coram Deo omnia postulata uel ipsi petenti obtenta per infimos suos ministrare. 
+	Alii autem dicunt sic quod <name type="divin">almadel</name> fuit quidam liber signatus et scriptus iussu Dei, in quo continebantur
+     nomina gloriosissimi Dei et sanctorum archangelorum, angelorum et spirituum supernorum, qui diuinitus 
+     <name>Salomoni</name> traditus fuerat, unde potens fuerat liberare obsessos et demones ab eisdem effugare. 
+	Alii dicunt quod sit celeste signum in celo lucens die ac nocte ciuius disposito est sicut in presenti 
+    libro declaratur, et ratione istius hic liber <name type="divin">almadel</name> est appellatus. Sed tamen due ultime rationes magis probabiles 
+    sunt quam prime. Item nota quod sanctum <name type="divin">almadel</name> in diuersis altitudinibus diuersa operatur, sicut post in capitulis plenius apparebit.</p></div> 
+	<div n="24" type="chapitre"><p> Item nota quod in translationibus librorum sacre theologye et aliorum nunquam leniori stilo et dictamine peruersus 
+    fui Et est ratio quia aliquando simplices et rudes et minus intelligente splus legunt et student 
+    quam maximi magistri theologie et doctores. Illi enim propter eorum pompam et arrogantiam ceteris 
+    detrahunt propter lenitatem translationis scripturarum, ideo aufert Dominus gratiam suamm ab eis 
+    ne in hoc opere proficiant. Sed aliquando rudes, ut dixi, student in hoc opere. Ne igitur ueniant 
+    in errorem usus fui et sum quo potui stilo leniori, quia Dominus suam gratiam dat deuotis et humilibus, 
+    iuxta illud « Confitebor tibi, Domine, rex celi et terre, quia abscondisti ea a sapientibus ». Item « intellectum dat paruulis ».</p></div> 
+	<div n="25" type="chapitre"><p> Nota quod in hoc opere factao prandio est orandum, quod infra scriptum est : « Te Deum laudamus »,
+     « Benedicte omnia opera Domini, Domino », et simbolum <name>Anastasii</name>, « Quicumque uult saluus esse », 
+     quibus dictis dicatur dominica oratio, « Aue <name>Maria</name> », « Credo in Deum », « Benedicamus Patrem et Filium, etc. », 
+     collecta « Omnipotens sempiterne Deus qui dedisti nobis famulis tuis etc. », « Parce, Domine populo tuo », ut supra. 
+	Item scias quod nullus hoc opus assumere debet, nisi fuerit sacerdos. Si autem non fuerit, sit istius 
+    intentionis quod uelit probari cum aliqui tempus suppetat. 
+Item nota quod quilibet sacerdos expertus in hoc opere sanctissimo potest pro suo amico semel hoc idem experiri, 
+et eidem amico suo potest eandem scientiam et artem acquirere per administrationem angelicam, conditione 
+tamen tali quod ieiunium, statum et continentiam et alia attinetia amicus prop quo laborat sacerdos 
+diligenter obseruet, preter orationes, quas solum dicat sacerdos et preter illa que sacerdotem concernunt, 
+sed ipse pro quo laborat dicat orationem dominicam sepius in die et consequetur effectum salutarem.</p></div>
+<div n="26" type="chapitre"><p> Item, ut habetur ibidem in hoc translationis <name>Symachi</name> philosophi illustrissimi, inueni ibidem 
+quod nulla mulierum neque uirginum cuiuscumque exmplo sanctitatis fulserit hoc opus aggredi presumat 
+sub pena dampnationis eterne et sub pena corporali, quam Deus Dominus eis infligerat si presumerant attemptari, 
+quia oprtet solum consecratum uel consecrandum operari. Et ideo ista sannctissima nomina et preciosissima 
+in orationibus prescriptis mulieribus pronuntiari non debent.
+Item nota quod quicumque in hoc opere sanctissimo semel practicauerit et in cognitionem uenerit ueritatis,
+ numquam amplius reiterabit. Quod si denuo amplius inceperit propter archangelorum et angelorum 
+ uisionem cuius amore inardescit, addet Dominus super eum plagas prescriptas et supradcitas. 
+ Item si semel incipit hoc opus et nondum in cognitionem ueritatis peruenerit, licite poterit
+  reiterare, quia non temptat Dominum gratis, nec hoc facit propter angelicam uisionem. 
+  Item quicumque in hoc opere errauerit et ad te propter informari uenerit, quantumcumque potes 
+  de Dei gratia dirige eum in uiam ueritatis et ueri processus et regiminis.</p></div>
+<div n="27" type="chapitre"><p> Incipit textus cum suis orationibus de qualibet altitudine et glosa super totum librum et primo prohemium. 
+Completo pro modulo intentionis mee de opere inchoationis, nunc superest dicere de sequentibus, 
+ut in capitulis suis infrascriptis lucidissime apparebit. Cum enim omnem hominem quem in tantum dilexerat quod eum ad ymaginem suam fecerat,
+ posuitque eum in paradisum uoluptatis, ut dominaretur uinersis fructibus, ut utetur lapsum et transgressionem Domini mandati inuenerat. 
+ Condolens ei et tamen in eternum non condempnans eum fecerat humiliter Filiu Dei propria morte eum Patri reconciliauit.
+Volens igitur ipsum sua sapientia informari, ut fidelibus sibi in futurum cum omni sua posteritate famularetur, 
+tradidit sud ipsius hominis potestate omnia animantia. Insuper et angelicam administrationem uoluit etiam,
+ ut per angelos omnia cognosceret, quod carnalis homo intelligere pre infirmitate humane nature nequiret, 
+ nisi diuino auxilio confortaretur et in scientia Dei roboraretur. Hinc est quod presens liber intitulatur 
+ de diuisionibus altitudinum in operationibus earundem.</p></div>
+<div n="28" type="chapitre"><p> Sequitur textus cum sua glosa. Reurum omnium opifex, Deus, uirtutes creaturarum 
+in summas altitudines omnium potestate regnorum creaturis rationalibus mirifice insigniuit. Deinde et operationes […]
+Quia tanta et uis amoris de suis creaturis rationalibus, ut non solum domita et ferocia animantia 
+eius dictioni subiugauit ut cognoscens que potiora sunt, sed inferiora omnia quasi uilia reputaret, 
+et mundum cum suis amplexibus abiiceret despernendo propter rationabilitem sibi a Deo diuinitus collatam 
+et donatam, quod nusquam alteri creature est concessum.</p></div>
+<div n="29" type="chapitre"><p> […] oportet per terminos rationis eidem decoratarum uirtututm que sub xii altitudinibus primis 
+in quibus angelice potestates quam plurimum enitescunt, tamen a causalibus primis ordinationis assumpte
+ originem trahere dinoscuntur, per operationes cunctarum altitudinum recipere impressiones primas, 
+ que per communicationem earundem ab intelligentia prima hominibus in uniuersis partibus terrarum tribuere asseruntur, 
+ ut per scientia Dei uiui que in specie sanctorum spirituum residere decernitur, per operationes dictarum altitudinum hominibus elucescat.
+Cum enim intellectus hominis ualde sit obscurus cognoscere originem ordinationum angelicarum altitudinum 
+in quibus reuirescunt, necesse est originem earum cognoscere per operationes. Nam impressiones
+ – nec per se ita loquendo – sunt impressiones causantes in uniuersis orbibus climatum. 
+Videamus igitur et ad Solis cursum recurramus. Cum enim motus Solis ut testatur <name>Averoys</name> quid est quod 
+sol habeat diuersas operationes, nam secundum eundem manifeste uidemus quod tempore hyemali ipsum corpus 
+solare operatur glacies, pluuias, niues, grandines, etc. Et tempore estiuali operatur diuersos fructus terre,
+ ut segetes, fruges, poma et alia. 
+Hoc autem non causat nisi diuersitas stellarum Solem precedentium. Nam tempore hyemali alia stella precedit Solem, 
+alia tempore estiuali. Et quia stelle sunt cause istius diuerse operationis, uidendum ergo est quare in altitudinibus 
+talis datur diersitas. Nam in qualibet altitudine duarum primarum mansionum uubi petitio impetratur, 
+causa est stella precedens Solem tempore estiuali ; causa quare impetratum mittitur est stella precedens 
+Solem tempore hyemali. Et illud documentum est intelligendum in unaquaque altitudine.</p></div> 
+<div n="30" type="chapitre"><p> Habet enim decor harum altitudinum refulgenciam ameni splendoris, cuius uirtus existit adequare 
+hominibus intelligentias et hominum intelligentias illustrare. Et in hoc quadripartitus est ordo, 
+pro eo quaod in quatuor partibus celi potestates assumptarum altitudinum uniuersaliter reperiuntur,
+ uidelicet in partibus orientis tres, in medio celi tres, et in occidente tres, quarum officia et uirtutes, 
+ subtiliter intuenti in sequentibus apparebunt.
+Pro quos sciendum quod altitudines diuerse in suis mansionibus est intelligendum quod quattuor 
+altitudines possunt comprehendi sub tribus, ita quod quelibet altitudo habet quatuor mansiones, 
+uidelicet duas separatas et duas coniunctas sicut superius est dictum, quia in quarta altitudine 
+acquilonari est stella que numquam uel raro lucet, ergo ibi raro uel numquam est operandum. 
+Alliter exponnitur sic quidquid prius dixi de qualibet altitudine et similiter de primis duabus 
+mansionibus et duabus secundis sicut superius patet, intelligendum est solum de una mansione, 
+in qua tamen plures angeli residere dinoscuntur, et quamuis pluraliter dictum sit de eis, non tamen pluraliter 
+intelligitur mansio sed persone in ea residentes. Et sic in qualibet altitudine reperiuntur 
+tantum tres mansiones et non quatuor mansiones essent xvi quod non est intelligendum quia tantum sunt 12, 
+ut per diuisionem iam factam patuit. Quamuis enim <name>Solinus</name> et <name>Symachus</name> philosophi expertissimi sic distinxerunt, 
+credo tamen quod sicut iam dixi intellixerunt.</p></div>
+<div n="31" type="chapitre"><p> Vnde sequitur et sciendum est quibus ista archana scientia conceditur et quibus non. 
+Cum enim aliquis igne diuini amoris cum omni desiderio cordis ultra omnes uires suas medullitus est accensus,
+ huius artis poterit exequi siue consequi frunctum salutarem. Quidam enim reperiuntur digni ad hoc opus, ut humiles et deuoti, 
+ quibus Deus suam administrat gratiam. Quidam uero digniores, ut qui Deum ex toto corde et ex tota anima et mente et ex totis uiribus amant,
+  qui cum sapiente dicere possunt, « forits est ut mors dilectio tua ». Quidam autem sunt dignissimi et ad hanc scientiam acquirendam aptissimi, 
+  qui mundum cum suis pompis et delectationibus despexerunt, carnem propriam crucifixerunt, Christo tanquam uiti uere adheserunt, 
+  et quamuis hi omnes scientiam Dei inuisibilis secundum suam immensam clementiam acquirunt, tamen sub quadam duritia habitus atque modi.</p></div> 
+<div n="32" type="chapitre"><p>Sequitur capitulum de tribus primis altitudinibus orientis 
+Notandum quod principes huius altitudinis dicuntur <name type="divin">Thaor</name> et apropriatus est huic altitudini dies Solis 
+ cum operatione efficaci, et habet cuncta sua officia disponere et ordinare circa pueros nascentes, ministrans 
+ eis bonum siue malum, quod intelligendim est finem bonum siue malum. Si quis in hac altitudine operari uoluerit, 
+ laboret pro toto posse suo, ut initium sumat in die Solis, Luna existente in Ariete et Sole in martio,
+  et cum hoc angelus habet dare dona gratuita, insuper habet ligare et absoluere omnem creaturam, 
+  concedere mulieribus partum et arboribus fructum et aufferre quando uelit. 
+Et scias quod debet recepi <name type="divin">almadel</name> sanctum <name>Salominis</name> et fieri de cera munda et alba, semipedale quadratum, 
+et in quolibet angulo sit factum unum foramen, et inter quodlibet foramen et foramen scribantur 
+ista nomina cum stilo argenteo nouo, et operatio fiat in die Solis et in ipsa hora Solis. Et nomina sunt hec. 
+In prima quadra : <name type="divin">Adonay</name>, <name type="divin">Eloy</name>, <name type="divin">Pius</name>. 
+In secunda : <name type="divin">Helyon</name>, <name type="divin">Helaym</name>, <name type="divin">Helym</name>.
+ In tertia quadra : <name type="divin">Yoth</name>, <name type="divin">Beth</name>, <name type="divin">Agla</name>. 
+In quarta figura : <name type="divin">Thetagramathon</name>, <name type="divin">Zadai</name>, <name type="divin">Yaya</name>. 
+Et est sciendum quod inter quadram et contraditam debet scribi 
+nomen <name>Salomonis</name>, ut patebit. Item in quolibet angulo unum foramen existat illius signi, et inter signum 
+et signum prime quadre scribatur hoc nomen : <name type="divin">Honoytheon</name>, et inter signum alterius quadre : <name type="divin">Pneumathon</name>,
+ et inter signum tertie quadre : <name type="divin">Yatha</name>. Et inter signum quarte quadre : <name type="divin">Anabona</name>.</p></div>
+<div n="33" type="chapitre"><p> Et scias quod in medio <name type="divin">almadel</name> debet esse exagonus <name>Salomonis</name>, id est ab « exa » quod est sex 
+et « agos » angulus, quasi sex habens angulos, ut in figura siue <name type="divin">almadel</name> apparebit, 
+et in quolibet angulo foramen unum, et inter angulos quoslibet scribatur nomen Dei : <name type="divin">El</name>. 
+Et fiant de eadem cera quatuor candelabra et taliter se habeant, quod due partes sunt super <name type="divin">almadel</name> 
+et pars tertia infra, ita quod labium sit aliquod in candelabro ubi resquiescat sanctum <name type="divin">almadel</name>, 
+et de eadem cera fiant quatuor candele in summitatibus cuiuslibet candelabri, debet esse foramen unum, 
+in quo ponatur candela. Et non accendatur ulla candela nisi tempore. 
+Nota quod in qualibet altitudine debet sanctum <name type="divin">almadel</name> immutari secundum colores inscriptos, 
+et homo debet esse uestitus eodem colore. Item candelabra et candele debent esse eiusdem coloris. 
+Item est notandum quod tempore accensionis candelarum si angelus non apparuerit fiat sigillum <name>Salomonis</name> ex aduerso, 
+in quo sculpantur preciosa ista nomina Dei : <name type="divin">Helyon</name>, <name type="divin">Adonay</name>, ut in figura patebit, de Luna uel de Sole, 
+id est de auro uel argenteo, et tempore operationis ponatur super <name type="divin">almadel</name>. 
+Et <name type="divin">almadel</name> ponatur in loco mundo et secreto, et candele accendatur et petitio tua scripta in carta uirginea, 
+et nihil aliquid petas quamquod angeli iustius altitudinis habent tibi administrare,
+ et inuoca nomina principum istius altitudinis que sunt : <name type="divin">Vriel</name>, <name type="divin">Gabriel</name>, <name type="divin">Barachiel</name>,
+<name type="divin">Lybes</name>, <name type="divin">Elysan</name>, <name type="divin">Helyson</name>. Et dicas</p></div>
+<div n="34" type="chapitre"><p> « Adiuro uos, per nomen sanctissimum Dei adorandum et adorabile in eternum, per quod uos, 
+celestes potestates et angelice uirtutes, uiuitis et obeditis Deo. Adiuro uos, per Deum sanctum et uerum, 
+uisibilium et inuisibilium creaturarum creatorem, et per dyadema et coronam sui capitis, 
+et per sanctum <name type="divin">almadel</name> <name>Salomonis</name>, et per tremendum nomen omnibus creaturis terrestribus, celestibus et infernalibus, 
+quod scribitur quatuor litteris, scilicet : <name type="divin">Yoth</name>, <name type="divin">Beth</name>, <name type="divin">Agla</name>, 
+<name type="divin">Euan</name>, ut hanc petitionem stantem supra sanctum 
+almadel que uobis complenda ex officio uestro incumbit compleatis. Et uos, angeli sancti ac splendissimi, 
+adestote, aduertite et complete petitionem meam, amen.
+Adiuro uos, sancti angeli qui estis in hac altitudine a Deo preelecti, per nomen <name type="divin">Zaday</name>,
+ Dei uiui, <name type="divin">Eloy</name>, <name type="divin">Athanathos</name>, <name type="divin">Vsyos</name>, <name type="divin">Iesuus</name>, <name type="divin">Princeps</name>, 
+ <name type="divin">Consiliarius</name>, <name type="divin">Angelus</name>, <name type="divin">Pax</name>, <name type="divin">Misericordia</name>, 
+ <name type="divin">Vita</name>, <name type="divin">Adonay</name>, quatenus mihi, humili Dei creature, principem huius altitudinis <name type="divin">Tahor</name>, 
+ ut meam peticionem recipiat et compleat transmittatis ipsique iniungentes uirtute horum nominum
+  Dei <name type="divin">Alpha et O</name>, <name type="divin">Ely</name>, <name type="divin">Athanathos</name>, <name type="divin">Emanuel</name>, 
+  <name type="divin">Vsyon</name>, ut per me petita compleat et perficiat ».</p></div> 
+<div n="35" type="chapitre"><p> Et debet hec oratio post accensionem candelarum dici, et tunc fiat suffumigium. 
+Nota de diuersitate pulchritudinis angelorum, prout apparet quilibet in sua altitudine postulatus et uocatus. 
+Est enim angelus pulcherrimi habitus, iuuenilis ultus, portans in manu uexillum cum alba cruce 
+et indutus stola candida, rosis et lilys aureis circumquaque sparsus et insertus. 
+Item suffumigium fiat et apparebit angelus, ut dixi. Tunc artista cum quatuor granis masticis 
+suffumiget sanctum <name type="divin">almadel</name> comodum suum, ut angelus ex eo delectetur sibi loqui et proprius accedere, dicendo : 
+« Quid cupis ? «  Ad quid uocasti principes nostre altitudinis ? Et dicas : « Vt petitio mea impleatur 
+quod ex officio uestro licite sit faciendum ». Et pete cum maggna humilitate et reuerentia, ut 
+si quid in te peccati aliquit latet uel latuerit quod sibi displiceat innotescat. Et si non apparuerit, 
+fiant tria uel quinque uel spetem sigilla ad aliquam candelabrum, mediante sigillo iam facto et stante 
+super almadel, et sine dubio antequam candela ad figuram sigilli ueniat, nuntius apparebit.</p></div> 
+<div n="36" type="chapitre"><p> Et nota quod ista altitudo et cetere altitudines subsequentes in mansionibus suis reddunt hominem 
+tam perfectum, quod si quis eis loquitur nunquam damnabitur nec moritur sine gratia Dei, quia 
+habet mirabiles uias reducendo de peccatis ad ueniam datque fecunditatem in omnibus terre nascentibus 
+secundum cursum nature. Et quando angelus disparet, replet domum et locum cum luce et odore moi 
+cum aere suaui durante per tres dies et ultra, ita quod homo gaudet et letatur et semper de eo cogitat. 
+Et nota quod hec oratio sanctissima subsequens in qualibet altitudine sua distincta hora dicenda est, 
+uidelicet hora prima diei ter dici debet, post meridiem prima hora similiter ter, hora medie noctis similiter ter, 
+non solum ista sed et alie sunt tot uicibus iterande. Sed hec sola in qualibet altitudine est dicenda.</p></div> 
+<div n="37" type="chapitre"><p>Sequitur oratio
+« <name type="divin">Alpha et O</name> Deus omnipotens, principium omnium rerum et finis, finis sine principio et principium sine fine, 
+exaudi preces meas, piisime Deus, et neque secundum iniquitates meas neque secundum peccata mea retribuas mihi, 
+Domine Deus meus, sed secundum magnam misericordiam tuam, hec maior est omnibus rebus uisibilibus et inuisibilibus,
+ misere mei, sapientia Patris Christe, lux angelorum, gloria sanctorum, spes et protus et refugium peccatorum, 
+ cunctarum conditarum rerum conditor et humane fragilitatis redemptor, qui celum et terram mareque, 
+ qui fontium ac montium pondera palmo concludis, te, piisime, deprecor et exoro, ut ultra cum Patre illustres
+  animam meam radio Sanctissimi Spiritus tui, ut in hac sanctissima arte taliter possim proficere, 
+  ut ualeam ad notitiam omnis scientie, artis et spatientie, memorie et facundie, intelligentie 
+  et intellectus uirtute tui sanctissimi nominis peruenire, et, qui Deus meus est, qui in principio
+   omnia creasti ex nihilo, qui in Spiritu tuo omnia informasti, comple, instaura et sana intellectum meum, 
+   omnia opera et cogitationes meas, uerba et opera mea, Deus, confirma orationem meam, et intellectum meum auge
+    et memoriam meam ad suscipiendum, ad cognoscendum et retinendum scripturam omnium scientiarum, memoriam 
+    et eloquentiam et perseuerentiam, qui uiuis ac regnas unus Deus per infinita secula seculorum, amen ».</p></div> 
+<div n="38" type="chapitre"><p>Oratio greca
+« <name type="divin">Elyzemath</name>, <name type="divin">Azapharam</name>, <name type="divin">Hemel</name>, <name type="divin">Gactuotheon</name>, <name type="divin">Yelym</name>, 
+<name type="divin">Yzatham</name>, <name type="divin">Domamy</name>, <name type="divin">Ytroynyan</name>, <name type="divin">Theos</name>, Deus pie et fortis,
+ <name type="divin">Yetrnemay</name>, <name type="divin">Alazamay</name>, <name type="divin">Acronabot</name>, 
+ <name type="divin">Sitel</name>, <name type="divin">Naphan</name>, 
+ <name type="divin">Zalmazay</name>, <name type="divin">Zay</name> <name type="divin">Zeyero</name>, <name type="divin">Mensam</name>, <name type="divin">Hamnamas</name>, 
+ <name type="divin">Zaramas</name>, <name type="divin">Zumacher</name>, 
+ <name type="divin">Lezar</name>, <name type="divin">Hasana</name>, <name type="divin">Azany</name>, <name type="divin">Semachemath</name>, <name type="divin">Hazomzny</name>, 
+ et tu, sacrosancte Deus incomprehensibilis in omnibus operibus
+  tuis que sunt, pie Pater, iusta et bona, <name type="divin">Megal</name>, <name type="divin">Argil</name>, <name type="divin">Meror</name>, <name type="divin">Samassaer</name>, 
+  <name type="divin">Yanaemay</name>, <name type="divin">Zicogiemay</name>, <name type="divin">Megaz</name>,
+  <name type="divin">Archilictor</name>, <name type="divin">Zememail</name>, <name type="divin">Azanithan</name> <name type="divin">Ylbebatha</name>, <name type="divin">Faranay</name>, 
+  <name type="divin">Geenas</name>, <name type="divin">Yene</name>, <name type="divin">Zelamay</name>, <name type="divin">Sophar</name>, <name type="divin">Maysese</name>, <name type="divin">Noma</name>, 
+  <name type="divin">Melas</name> <name type="divin">Hemay</name>, <name type="divin">Hesolorma</name>, <name type="divin">Etrormyam</name>, <name type="divin">Seme</name>, 
+  <name type="divin">Senesethar</name>, etc. »</p></div>
+<div n="39" type="chapitre"><p> Alia oratio
+« Lux mundi, Pater immense, Deus eternitatis, largitor sapientie et scientie et totius gratie spiritualis, 
+pie et ineffabilis dispensator, noscens omnia priusquam fiant, faciens tenebras et lucem, mitte manum tuam 
+et tange os meum et pone illud ut gladium acutum ad enarrandum mirabilia tua et uerba ista, et fac linguam meam
+ ut sagittam electam ad enarrandum mirabilia tua et ad pronntiandum ea memoriter, et mitte Sanctum Spiritum tuum, 
+ Domine, in cor meum aliquit ad percipiendum, ut doceat intellectum meum aliquit ad percipiendum, 
+ ut doceat intellectum meum ad recepiendum et in conscientiam meam ad me incitandum per iuramentum coheredis tui, 
+ et per dextram pie scientie tue misericorder et clementer in me gratiam tuam inspira, et doce me 
+ et instaura introitum et exitum sensuum meorum et cogitationum mearum, ut doceat et corrigat me disciplina 
+ tua usque in finem, et adiuuet me pium consilium tuum, amen ».</p></div> 
+<div n="40" type="chapitre"><p> Sequitur capitulum de secunda altitudine
+Verso de prima altitudine et de eius mansionibus, de signo, de die, de colore et mense, nunc uidendum est
+ et dicendum de secunda altitudine et de eius principe, pro quo est intelligendum quod princeps huius 
+ altitudinis uocatur <name type="divin">Corona</name>, et dies eius est dies Solis uel Lune indifferenter. Color eius est roseus, 
+ signum huius altitudinibus est Thaurus, mensis uero eius est aprilis, et habet administrare acquisitionem 
+ rerum et omnes pecunias temporales siue occultas siue manifestas. 
+Non quod angelus per seipsum a principali origine ista largiatur, sed solum ipsius altissimi Dei nutu, 
+et per omnia faciendum est ut prima altitudine, nisi quod sanctum almadel et cera sit rosei coloris, 
+et operans sit uestitus eodem colore, et nihil aliquid petatur quamquod princpes huius altitudinis habet 
+cim suis ministris tibi condorare. Et pete si quid in te discpliceat, ut tibi summopere illud misericorder  innotescat. 
+Et nota quod sigillum in prima altitudine cum suis mansionibus factum in omnibus aliis altitudinibus et operationibus sufficit, 
+et nunquam debet innouari.</p></div>
+<div n="41" type="chapitre"><p> Idem fac de nominibus secunde altitudinis et principum horum, qui sunt : <name type="divin">Pax</name>, 
+<name type="divin">Princeps</name>, et <name type="divin">Misericordia </name>
+cum sequentibus, et inuocentur et honorificentur ut prius cum candelis et genuflexionibus semper coram <name type="divin">almadel</name>. 
+Tunc apparebit tibi puer trium annorum et replet comodum tuum miri odoris fragantia, ita ut tu penitus 
+immuteris et eris quasi nouus homo de fonte baptismatis renouatus. Et loquetur tibi multum suauiter et dicet tibi : 
+« Quid petis ? Et quare uocatis principes nostre altitudinis ? ». Responde : « Vt impleatur petita que eis 
+ex officio incumbunt adimpleri ». Et respondebit tibi : « Fiat tibi et commenda te altissimo Deo in ipsius protectione ». 
+Recendente angelo dicet tibi : "Semper tuus amicus sum ego ». 
+Et nota quod quelibet altitudo habet principatum sui regiminis ad zodiacum secundum xii menses. Intrante enim 
+Sole in illud signum inuocanda est altitudo isti signo congruenter propriata secundum xii signa celestia. Item nota quod 
+angeli in ista altitudine contenti habent tibi reuelare secreta maxima celestia, que a spiritibus immundis et ab hominibus
+ terrenis penitus sunt abscondita. Igitur uti dulci colloquio cum angelo tibi apparente et pete ut impleat peticionem 
+ tuam scriptam in cartha uirginea et super sanctum almadel positam, et reuelet tibi secreta celestia,
+  nulli sic tanquam operanti sint pandenda, et dicas cum corde :</p></div>
+<div n="42" type="chapitre"><p> Sequitur oratio greca
+« <name type="divin">Theois</name>, <name type="divin">Megale</name>, <name type="divin">Paty</name>, <name type="divin">Ymas</name>, <name type="divin">Hebeol</name>, 
+<name type="divin">Hely</name>, <name type="divin">Oly</name>, <name type="divin">Ethey</name>, <name type="divin">Helden</name>, <name type="divin">Ezebeoth</name>, 
+<name type="divin">Lezygel</name>, <name type="divin">Salathiel</name>, <name type="divin">Sagitelli</name>, <name type="divin">Somal</name>, <name type="divin">Elyoth</name>, 
+<name type="divin">Sadaysol</name>, <name type="divin">Saday</name>, <name type="divin">Sadyr</name>, <name type="divin">Zholgiel</name>, <name type="divin">Romegaz</name>,
+ <name type="divin">Mengos</name>, <name type="divin">Mython</name>, <name type="divin">Myedoym</name>, <name type="divin">Osodesoloy</name>, 
+ <name type="divin">Yoco</name>, <name type="divin">Yeth</name>, <name type="divin">Gramal</name>, 
+<name type="divin">Samel</name>, <name type="divin">Dach</name>, <name type="divin">Somolta</name>, <name type="divin">Samay</name>, 
+<name type="divin">Gelech</name>, <name type="divin">Anageth</name>, <name type="divin">Sema</name>, <name type="divin">Sana</name>, <name type="divin">Haynt</name>, 
+<name type="divin">Sernio</name>, <name type="divin">Salee</name>, <name type="divin">Patyr</name>, 
+<name type="divin">Vsion</name>, <name type="divin">Hathanas</name>, <name type="divin">Horehaylas</name> ».</p></div> 
+<div n="43" type="chapitre"><p> Alia oratio greca
+« <name type="divin">Asaylemath</name>, <name type="divin">Asac</name>, <name type="divin">Gessemon</name>,<name type="divin">Thelamech</name>, <name type="divin">Asab</name>, 
+<name type="divin">Hahebat</name>, <name type="divin">Seon</name>, <name type="divin">Traheochy</name>, <name type="divin">Emegalgie</name>, <name type="divin">Letheon</name>, 
+<name type="divin">Semagoy</name>, <name type="divin">Hasyab</name>, <name type="divin">Ganenagel</name>,
+<name type="divin">Samalayp</name>, <name type="divin">Thamiel</name>, <name type="divin">Secalynagoga</name>, <name type="divin">Ofernelaggetabphany</name>, <name type="divin">Saylmon</name>,
+<name type="divin">Synassay</name>, <name type="divin">Trabbon</name>, <name type="divin">Ozyagnil</name>, <name type="divin">Pango</name>, <name type="divin">Themogos</name>, <name type="divin">Tyngen</name>, 
+ <name type="divin">Amyssitoy</name>, <name type="divin">Sobamay</name>, <name type="divin">Asymybap</name>, <name type="divin">Secualy</name>, <name type="divin">Zaday</name>, <name type="divin">Alpha</name>,
+<name type="divin">Tomeanstrysas</name>, <name type="divin">Cephancaphanal</name>, <name type="divin">Azoazcon</name>, <name type="divin">Zezehamel</name>, <name type="divin">Hahyla</name>, <name type="divin">Saramay</name>, 
+ <name type="divin">Gelyor</name>, <name type="divin">Synonba</name>, <name type="divin">Nadacha</name>, <name type="divin">Geemazay</name>, <name type="divin">Satabnaga</name>, 
+ <name type="divin">Athanathysenas</name>, <name type="divin">Zorozabal</name>, <name type="divin">Zymasyel</name>, <name type="divin">Leosamach</name>, 
+ <name type="divin">Gnittal</name>, 
+ <name type="divin">Halalucetices</name>, <name type="divin">Fabos</name>, <name type="divin">Ydelmasay</name>, <name type="divin">Negaphen</name>,
+  <name type="divin">Phariamec</name>, 
+ <name type="divin">Sehon</name>, <name type="divin">Strahath</name>, <name type="divin">Nehohaz</name>, <name type="divin">Horystinach</name>, <name type="divin">Gerafay</name>, 
+ <name type="divin">Hynnalya</name>, <name type="divin">Sintilla</name>, <name type="divin">Sememames</name>, 
+ <name type="divin">Gemaypassy</name>, <name type="divin">Naththagayl</name>, <name type="divin">Panephyllas</name>, 
+ <name type="divin">Sicragramon</name>, <name type="divin">Lanpda</name>, <name type="divin">Ochym</name>, <name type="divin">Abya</name>,
+  <name type="divin">Agamal</name>, <name type="divin">Fagamessy</name>, <name type="divin">Theme</name>, <name type="divin">Gemazy</name>, <name type="divin">Salamatha</name>, 
+ <name type="divin">Nabelan</name>, <name type="divin">Zophysion</name>, <name type="divin">Hamion</name>, <name type="divin">Vsyon</name>, <name type="divin">Fozy</name>, <name type="divin">Gemeffiteon</name>, amen ».</p></div> 
+<div n="44" type="chapitre"><p>Sequitur capitulum quando sunt dicende orationes
+Et est notandum quod iste orationes grece pronuntiari et dici debent cum summo affectu et totius cordis desiderio, 
+quia in eis continentur nomina altissimi Dei inerrabilia et ineffabilia, que si quis dixerit sine firma fide et tota 
+caritate adiiciet forte, ut est timendum, Dominus super eum plagam corporalis lesionis, que per nullum medicorum expertorum 
+aufferri posset, nisi ex perimissione diuina et penitentia salutari sibi iniuncta. 
+Fuit meo tempore quidam presbyter qui cum hoc sanctum opus intepisset et dudum continuasset, tandem legens has orationes 
+sine deuotione et eas deridens et dicens :
+« Qualia sunt ista nomina quasi dyabolica ? »
+Illo dicente talia, percussus est plaga incurabili, uidelicet taciturnitate et cecitate, Ingemiscens uero cogitabat 
+intra se dicens : 
+« Heu ! Me miserum et indignum cur uiolaui illa sanctissima nomina ? Agam ergo penitentiam omnibus diebus uite mee, 
+ut si quando possem Dei adiutorium imperare et ab his infirmitatitubs sua diuina clementia possem liberari ». 
+Illo penitentiam agente, misertus est Dominus eius et restitutus est pristine sanitati, de quo gratias egit qui uoluit 
+et non uult mortem peccatoris in eternum et qui plus est solitus dare quamquod precatur uel petitur.</p></div> 
+<div n="45" type="chapitre"><p> Sequitur de tertia altitudine
+Sciendum est quod signum operations huius altitudinis est in Geminis, color sancti almadel sit croceus, candelabra 
+et candele sint eiusdem coloris, operans etiam utatur predicto colore. Mensis huius operations est mayus, 
+dies uero sit tertia feria, indiffierenter omnis dies uel hora, et hec altitudo apud Grecos <name type="divin">Heremon</name> dicta est, 
+et principes eius potestatem habent super notos et amicos, et habent uirtutes supra omnes aquas 
+et superm mutationem corporalem de loco ad locum, et habent mouere celum et stellas et omnia, 
+insuper habent mouere omnes planetas et etiam stellas erraticas ligare et stationarias mouerere. 
+<name type="divin">Almadel</name> fiat cum aliis pertinentibus sub colore croceo et subfumigium fiat ut predictum est.Item si angelus non apparet, 
+fiant sigilla ut supra, et corde contrito inuoca nomen altitudinis et hec nomina principium : 
+<name type="divin">Fortitudo</name>, <name type="divin">Patientia</name>, <name type="divin">Pantheo</name> cum suis aliis, et cum apparuerit, replet comodum dulcissimo odore, 
+ita ut nil aliquid sapias quamque Dei sunt, et habet in specie industriosi militis. Et nota : 
+quare sic querunt angeli qui prius apparebant in specie pueri pulcherrimi ? 
+Est ratio quia spiritus maligni maxime insidiantur operanti, propterea angelus ipse confortans quasi pugnando pro ipso apparet 
+ut miles bene armatus. Et nota quod petitio non debet excedere modum huius altitudinis, 
+sed solummodo debes petere illa que incumbunt ipsis tibi ministrare ex officio et potestate. 
+Et cum angelus dicet : « Petitionem tuam fore exauditam de gratiarum actiones summo Deo,
+ qui tibi suam misericordiam humiliter et benigniter impendit ». Et cognoscas quod recedente angelo apparet splendor 
+ Solis mire uirtutis et sentis odorem suauissimum thuris et musci, et hoc est mirabile secretum signatum 
+ in arte notoria <name>Salomonis</name>, ocultatum a sapientibus et super omne genus scientiarum thezaurus incomparabilis.</p></div>
+<div n="46" type="chapitre"><p> 
+« <name type="divin">Lemach</name>, <name type="divin">Lyemach</name>, <name type="divin">Semach</name>, <name type="divin">Helymany</name>, <name type="divin">Helym</name>, 
+<name type="divin">Seysegra</name>, <name type="divin">Thezegran</name>, <name type="divin">Gezogra</name>, <name type="divin">Rabma</name>, <name type="divin">Romasym</name>, 
+<name type="divin">Sarerore</name>, <name type="divin">Genual</name>, <name type="divin">Ezephar</name>, <name type="divin">Honophyar</name>, <name type="divin">Yazathyma</name>, 
+<name type="divin">Semyn</name>, <name type="divin">Salath</name>, <name type="divin">Salathon</name>, <name type="divin">Salathaty</name>, <name type="divin">Bos</name>, 
+<name type="divin">Hahenha</name>, <name type="divin">Homieypha</name>, <name type="divin">Saphar</name>, <name type="divin">Hemphar</name>, 
+<name type="divin">Salthemar</name>, <name type="divin">Saphar</name>, <name type="divin">Yamar</name>, <name type="divin">Nynphar</name>, <name type="divin">Mamor</name>, 
+<name type="divin">Somoth</name>, <name type="divin">Semioth</name>, <name type="divin">Semoyhey</name>, <name type="divin">Lemaar</name>, <name type="divin">Lemayr</name>, 
+<name type="divin">Phelathon</name>, <name type="divin">Hanuz</name>, <name type="divin">Phelabo</name>, <name type="divin">Nanhanue</name>, <name type="divin">Hanuth</name>, 
+<name type="divin">Pingegeon</name>, <name type="divin">Gereon</name>, <name type="divin">Geregeon</name>, <name type="divin">Loros</name>, <name type="divin">Lethes</name>, amen ».</p></div> 
+<div n="47" type="chapitre"><p> Alia oratio
+« Conditor omnium rerum, Dominus, qui cuncta ex nihilo creasti, qui gradatim omnia mirabiliter ordinando creasti 
+in principio celum et terram in fine, per quam omnia facta sunt, ad quam omnia finaliter reuertuntur, qui 
+<name type="divin">Alpha et O</name> nuncuparis, te queso, indignus peccator, ut ad finem optatum in hac sacratissima arte possim 
+celeriter peruenire et ne peccatis meis exigentibus ualeam amittere omne bonum, fiat mihi secundum illam 
+ineffabilem misericordiam, quia dicitur non secundum peccata nostra neque secundum iniquitates retribuas nobis,
+ o sapientia Dei Patris incomprehensibilis Fili clementissime, tribue mihi ineffabilem misericordiam tuam, 
+ et finem scientie bonum, qui mirabiliter omnem scientiam regi Salomoni largiri dignatus es, non despiciendo eius 
+ scelera nec delicta, sed misericorditer futurum donum postulans prouidendo, clementissime, deprecor et exoro, 
+ quatenus mihi, uilissimo peccatori, aperias manum tue largitatis potenter que largiatur, ut me in uia impia
+  preualeam custodire bonum finem contingere, et per lumen tuum semitarum tuarum uias ualeam deuotius ambulare, 
+  et iube me aliis in exemplum, per quod omnes possint qui me uiderint et audierint a uiciis desistere teque 
+  per cuncta secula seculorum collaudare, sit nomen Domini benedictum ex hoc nunc et usque un seculum, amen ».</p></div> 
+<div n="48" type="chapitre"><p>Sequitur capitulu de quarta altitudine
+Nunc restat dicere de quarta altitudine. Est enim nitandum de mense, de signi, de colore, de principe. Nota 
+quod mensis istius altitudinis in operando est iunius, signum uero Cancer, color uero lazurinus, dies operationis 
+est dies Martis, et pinceps uocatur <name type="divin">Pantheon</name>, habens potestatem hereditandi pueris bona per parens derelicta, 
+et inhabitat mediam partem terre, et officium eius est mediante Spiritu Sancto illuminare intellectum humanum 
+et conferre petenti artes et scientias, scilicet gramaticam et rhetoricam. 
+Et <name type="divin">almadel</name> fiat de cera lazurina siue colore celesti, et similiter candelabra et candele. Et almadel quottidie 
+ponatur in loco mundo et faciat fumigium de thure et croco, et subito loquetur tibi multum blande, 
+et quidquid petieris proculdubio obtinebis. Nomina principum huius sunt ista : <name type="divin">Yareth</name>, <name type="divin">Yacham</name>, cum aliis sequentibus, 
+ut in textu continetur. Et nota quod iste due prime altitudines debent operari in augmento Lune, et alie due, 
+scilicet occidentales et aquilonares, debent operari in decremento, et in qualibet altitudine semper fiat 
+nouum <name type="divin">almadel</name> et antiquum maneat in loco secreto prius posito, et nil aliquid petas quamquod isti angeli istius 
+altitudinis habens tibi administrare. Si quis autem tibi aliud alterius scientie sapientique ministrauerit da gloriam Deo, 
+et apparet angelus colore optimo, faciens aerem salubrem et odoriferum, ut muscus et uinum, et orationes huius altitudinis 
+sunt <name type="divin">Alpha et O</name>, etc.</p></div>
+<div n="49" type="chapitre"><p>Sequiter oratio latina
+« Summe Deus, piisime, <name type="divin">Ihesu Christe</name> dulcissime, Spiritus Sancte clementissime, sanctorum sanctificator sanctissime, 
+trinus et unus altissime, rex regum fortissime, Deus omnipotens gloriosissime, mediator et creator omnium creaturarum 
+uisibilium et inuisibilium, omnipotentia, quem celum et terra, mare et infernus et omnia que continentur eis et mundi
+ machina mirantur ac obediunt, Deus <name type="divin">Sabaoth</name>, Deus inuisibilis, fortissimus et insuperabilis, Deus magnus et immensus, 
+ quem non capit ullum ens, supernaturaliter amabilis, insectator admirabilis, conditor inuisibilis, doctorum doctor 
+ sapientissimus, Deus scientiarum, Dominus sapientiarum, in quo sunt omnes thezauri sapientie et bone scientie, qui 
+ solus sine mora et absque labore sapientiam et bone scientie, qui solus sine mora et absque labore sapientiam omnium 
+ quamuis docere scis et potes, o Deus, qui est preteritorum, presentium et futurorum peruigil inspectator et 
+ cordium omnium perscrutator et futurorum peruigil inspectator et cordium omnium perscrutator assiduus, per quem summus , 
+ uiuimus et mouemur, qui sedes super cherubin, intuens abyssos, solus discernis et digilis uniuersa confitero hodie 
+ coram sancta et timenda nimis et ineffabiliter metuenda mayestate tua et coram omnium celestium uirtutum consortio 
+ et potestate, laudans et benedicens te, Dominum Deum meum, et innouans nomen tuum super me, quod est super omne nomen, 
+ deprecor te, piisime Domine, adorante, tremende, colende, Deus magne <name type="divin">Adonay</name>, et omnium benedictionum mirabilis dispensator 
+ et omnium donorum optimorum, tu qui es largissimus erogator, clementer et habundanter et permanenter digneris extendere 
+ super me hodie multum donum Spiritus Sancti gratie et misericordie, et tu, ipse clementissime Domine, qui ad ymaginem 
+ et similitudinem tuam creare dignatus es et mittere et conseruare digneris et uelis hoc hodie in me quod a splendissimo 
+ templo celroum lucidissime gratue tue ineffabilis maiestatis omnipotentie mirabiliter fidelibus tuis operari dignatus es, 
+ mitte mihi hodie, altissime et benignissime rex eterne glorie, Deus admirabilis, ab altissima sede mayestatis tue multiplicem 
+ benedictionem septiformis gratie tue, spiritum sapientie et intellectus, spiritum consilii et fortitudinis, spiritum scientie 
+ et pietatis, spiritum timoris et amoris tui, ad congonscendam, diligendam et libentissime faciendam semper in omnibus 
+ tuam incomprehensibilem uoluntatem ad sectanda et intelligenda, ueneranda et amanda, admiranda ualde sancta miseria tua 
+ et occulta sapientie tue, que manifestare te decent et que placent et competunt scire tuis fidelibus, ut ualeam inuestigare
+  et comprehendere profunditatem benignam et ineffabilem dulcedinis tue misericordie et immense pietatis tue. Sic nunc cupio, 
+  clementissime Domine, qui olim in faciem primi hominis inspirasti spiraculum uite, ut digneris hodie in cor meum clementer 
+  et permanenter infundere plenarium, uerum et subtilem et perseuerantem, uelocem, rectum et perfectum in omnibus intellectum,
+   memoriam indeficientem et tenacem et ineffabilem facundiam, Spiritus Sancti gratiam et linguam expeditam et fluentem, 
+   ut de multiplici benedictione tua et de largitate largiflua donorum et gratiarum copiose doctus despiciam et, solum Deum, 
+   qui es uerum, firmum et ineffabile bonum ardenter super omnia diligam, glorificem, honorem, laudem et adorem, benedictam 
+   et exaltem te, regem regum, Dominum dominantium, in omni tempore et semper, laus magnificentie tue et tremende omnipotentie 
+   tue odor sit in ore mea suauissimus et ardor amenissimi amoris tui uehementer et ardenter in toto corde meo permaneat 
+   et anima mea flammescat iugiter coram te, qui es omnipotens Deus, omnium pax summa et uera dulcedo, insanabilis sanitas 
+   et inestimabile gaudium, omnium bonorum desideriorum sancta suauitas et finis gloriosus qui ab eterno fuit et est et semper erit, 
+   uirtus immensurabilis, solus mirabilis, splendor inextunguabilis, benedictio et claritas per omnia secula seculorum, amen ».</p></div>
+<div n="50" type="chapitre"><p> Sequitur alia oratio
+« Bonitatem, scientiam et discplinam doce me, N., quia mandatis tuis credidi, magnifica salutes meas et fac misericordiam mihi,
+ famulo tuo N., euidenter et indeficienter, qui in medio ecclesie os beati <name>Iohannis</name> evangeliste appreuisti et impleuisti 
+ eum Spiritu Sancto et intellectus spiritu consilii et fortudinis, timoris tui et agnitionis et sancte spei dignare 
+ illuminare uultum tuum super me, N., ut in operibus sanctis diuinitus possim proficere et in omnibus ceteris operibus, 
+ ob amorem tui nominis ualeam disseminare et dispergere fructuose ineffalibem et uenerabilem Trinitatem per potentiam Patris, 
+ per sapientiam Filii, per uirtutem et bonitatem Spiritus Sancti, per trinam Trinitatem, per simplicem unitatem, 
+ per donum Domini nostri <name type="divin">Ihesu Christi</name> admirabilem incarnationem, per eius inexplicabilem conceptionem, 
+ per beate <name>Marie</name> intemerate, per eius inexplicabilem conceptionem, per beate <name>Marie</name> intemerate Virginis partum 
+ et per eius coronationem, et per eius passionem et crucifixionem et per eius mortem et per gloriosam eius resurectionem,
+  per admirabilem ascensionem et per Spiritibus Sancti Paracliti missionem meritorum suorum qualitatem, per prophetarum uaticinia, 
+  per sanctimoniam patriarcharum, per preconia appostolorum, per uictoriam martirum evangelistarum, per castitatem uirginum, 
+  per merita omnium sanctorum, quatenus mihi, indigno famulo tuo N., scientiarum facilitatem clementer inspires, 
+  qui es benedictus in secula seculorum, amen. »
+Nota quod omnes predictes orationes suis certis uicibus et horis sicut supra notandum est circa orationem istam 
+« <name type="divin">Alpha et O</name> » debent semper ter dici et pronuntiari.</p></div> 
+<div n="51" type="chapitre"><p> Sequitur de quinta altitudine
+De quinta altitudine procedendum est per omnia ut in prima altitudine, prout habetur intellectum, 
+nisi quod <name type="divin">almadel</name> innouetur secundum colorem, ut supra in textu. Et candelabra et candele simili modo 
+et nihil aliquid petatur quamquod angeli istius altitudinis habent tibi ministrare et orationes sunt in prima altitudine.</p></div> 
+<div n="52" type="chapitre"><p> De sequitur capitulum de sexta altitudine
+De sexta altitudine idem debet fieri ut in secunda altitudine per omnia notarum et nihil aliud mutandum est, 
+nisi <name type="divin">almadel</name>, candele et candelabra et habitus uestimentorum, ut in textu habetur et petitio fiat ut ibidem continetur, etc .</p></div>
+<div n="53" type="chapitre"><p> De septima altitudine
+De septima altitudine fiat per omnia ut in tertia altitudine, mutando prout in tertia habetur altitudine, et pete ut ibidem habetur.</p></div> 
+<div n="54" type="chapitre"><p> Sequitur de octaua altitudine
+De octaua idem est iudicium ut in quarta altitudine per omnia et muta <name type="divin">almadel</name> cum suis pertinentiis, 
+et pete ut ibidem continetur in textu.</p></div>
+<div n="55" type="chapitre"><p> Sequitur de nona altitudine
+De nona altitudine sciendum est quod per omnia seruandus est ordo ut in prima mutando mutanda, 
+et pete prout in textu ibidem continetur</p></div>
+<div n="56" type="chapitre"><p> Sequitur de decima altitudine
+De decima altitudine similiter fac prout in secunda altitudine prenotatum est, et pete sicut 
+ibi continetur in textu secunde altitudinis</p></div>
+<div n="57" type="chapitre"><p> Sequitur de undecima altitudine
+De undecima fiat per omnia ut in tertia altitudine, et pete et muta mutandoa prout scis in forma.</p></div> 
+<div n="58" type="chapitre"><p> Sequitur de duodecima altitudine
+De duodecima fiat similiter ut in quarta, nihil addendo uel minuendo nisi quod mutentur mutando, 
+et petatur prout in duodecima continetur altitudine. Nota quod orationes posite in prima altitudine 
+debent dici per omnia ut in altitudinibus ad eam remissi, de secunda altitudine illud idem est 
+intelligendum quod ad eam et orationes in ea posite debent dici in altitudinibus ad eam remissis, 
+de tertia et quarta idem fiat et de altitudinibus ad eam remissis.</p></div>
+<div n="59" type="chapitre"><p> Nota quod hec oratio debet dici ab operante omni die antequam celebret et postquam celebrauerit 
+dicat eam simili modo semel. 
+Deus, qui <name>Moisi</name> sub specie nubis locutus es <name>Abraham</name> affatus es, ut egredietur de terra cognationis sue, 
+qui etiam beatam uirginem <name>Katarinam</name> aduersus quinquaginta rhetores disputandam deifica scientia decorasti,
+ qui et tres pueris <name>Sidrac</name>, <name>Misac Abdenago</name> mirabiliter humiliasti, qui <name>Iacob</name> sopnianti uisionem aangelorum 
+ per scalam ascendentium et descendentium ostendisti, qui etiam per Spiritus Sancti Paracliti missionem 
+ animas discipulorum tuorum tam mirabiliter illuminasti, ut in ore eorum omnia genera linguarum dulciter 
+ resonarent, mirifica nunc misericordias tuas mecum et signa lumen uultus tui super me ad bene sciendum, 
+ semper ad bonum retinendum et tenatissime reminiscendum, ut scientiam mihi sanctorum angelorum uehiculo 
+ impartitam ualeam digne suscipere et susceptam dispergere et dissminare et disseminatam in posterum perhennare, 
+ qui dixisti neminem lucernam accendere et sub modio ponere, ymago potius neminem lucernam accendere 
+ et sub modio ponere, ymago potius supra candelabrum ponere, ut ingredientibus et egredientibus uia lucis sit aperta. 
+ Tibi enim, Domine, derelictus sum ego pauper, ut mihi orpano tu esses adiutor lucerna pedibus meis sit uerbum tuum 
+ et lumen semitis meis dare posse, da. Pater, sapere, da, Fili, usum, da, Spiritus Sancte, perfectionem ! ».</p></div>
+<div n="60" type="chapitre"><p> Nota finalem conclusionem huius sanctissimi operis, et primo quod sacerdos omni spetimnana debet habere has
+ infrascriptas missas, uidelicet prima de Spiritu Sancto, secunda de angelis, tertia pro peccatis cum plenis 
+ eorum officiis. Et nota quod quando una illarum missarum dicitur, tunc suffragium debet fieri de aliis duabus
+  missis, et illud nunquam est pertermittendum. Item scias quad quando prosperatus fueris in isto opere 
+  sanctissimo, dicenda est a te oriatio ista « <name type="divin">Alpha et O</name> » omnibus diebus uite tue, nisi eam temporte 
+  infirmitatis tunc comode non posses obseruare, tamen per quot dies eam postposueris diligenter considerare debes,
+   et aliis diebus eam recuperabis, et recites eam bis uel ter uel quotiens oportunum fuerit, 
+   donec numerus neglectatrum dierum suppleatur. 
+Explicit glosa beati <name>Ieronimi</name> super sanctum almadel <name>Salomonis</name>.
+Sequitur registrum et recapitulatio eiusdem facta per eundem</p></div>
+<div n="61" type="chapitre"><p> Primo debet esse principilater sobrius et castus. Iter adminus sit  per xl dies castus et continentur uiuat. 
+Item frequenter oret et similiter determinatis horis. Item confessionem semper faciat, ut clarius patet. 
+Item comodum sit mundum, scopis mundatum, aqua benedicat aspersum, insuper et sale bendedictio munitum. 
+Et fiat suffumigium de arthomesia et absinthio et uerbena, que hec omnia consecrata sint in die assumptionis 
+beate Virginis <name>Marie</name>. Item thurificetur in quatuor angulis cum thymiamate et fugantur maligni spiritus de comodo.
+ Item per xxx dies ante inchoationem huius operis penitus sit comodum mundum ab ingressu mulierum, insuper et uirginum. 
+ Item debet iuiunare per 30 dies ante inchationem huius operis, secunda feria, quarta, sabbato in lacticiniis, 
+ sexta feria in pane et ceruisia uel quadragesimilalibus cibariis. Item per illas dies aspergatur comodum aqua 
+ benedicta et suffumigium his xxx diebus continuetur. Item in comodo sit altare mundum sit tabula depicta 
+ cum misericordia Dei saluatoris et sic sit dispositum : corpus nudus, manus coniuncte, caput punctum corona,
+  in coporte uulnera et sine cruce habere. Item ymago crucifixi cum <name>Maria</name> et <name>Iohanne</name> et ymago duorum archangelorum.</p></div>
+<div n="62" type="chapitre"><p> Sequitur aliud registrum operantis
+Post omnia iam dicta, operans sit balneatus, mundis lyneis uestimentis indutus, et procedens operans 
+ad altare omni mane dicat ter « Misere mei, Deus, secundum magnam misericordiam tuam » prostratus ante altare. 
+Facto psalmo dicat « Domine, non secundum peccata nostra facias nobis », orationem, « Parce, Domine, parce populo tuo »,
+ et omni uespere similiter hoc idem fiat ter. Item altare sit ad orientem uel ad meridiem. Item nullus homo ingrediatur 
+ comodum his diebus nisi operans. Item initium operis est dies Solis. Item, uidelicet inceptio, semper dum oratio 
+ prescripta seruatur, igitur de mane omni dicat operans « Miserere » ut dictum est, lectus sit mundus et lotus. 
+ Item ante lectum sit tapetum uel culcitrum uel huiusmodi simile. Item quottidie aspergatur et thurificetur comodum et lectus. 
+Post prandium operans dicat ante altare flexis genibus « Te Deum laudamus », « Benedicite omnia opera Domini, Domini »,
+ « Quicumque uult », oratio dominicalis, « Aue Maria », « Credo in Deum », Serotino tempore operans dicat Psalmum ex toto, 
+ « In te, Domine, speraui », « Deus misereatur nostri ». Item aspergatur comodum et thurificetur. Item induat cilicium, 
+ desuper albam camisiam, dormiat in dextro latere et manum dextram capiti suo supponat, nihil loquendo, sed meditando 
+ de misericorda Dei quousque sompnum capiat, et si reuelatum ei fuerit non reuelet.</p></div> 
+<div n="63" type="chapitre"><p>Tempore operationis quid sit agendum
+Tempore operationis nemo uiuens comodum ingrediatur nisi operator, et ille abstineat se ab omnibus extraneis et solum 
+insistat orationibus et devocionibus, et sit accensus in diuino amore. Sit sine palude iracundie et inuidie,
+ et sit separatus ab omni strepitu secularis societatis.</p></div>
+<div n="64" type="chapitre"><p>Quis assumere debet hoc opus sanctissimum
+Nullus debet sibi assumere hoc opus nisi sit presbiter uel intendens presbitari. Item quilibet perfectus in hoc opere
+ ille potest impetrare amico suo taliter ut ille teneat omnes obseruancias piisimas pro quo debet fieri labor. 
+ Solummodo orationes hoc positas dicat sacerdos. Alter uero pro quo fit dicat : « Pater noster » sepius quottidie et 
+ consequetur effectum. Item qui semel practicauerit et impetrauerit, amplius non laboret, sed qui non fuerit exauditus potest 
+ reiterare, nisi per reuelationem fuerit operanti disuasum. Item errantem in opere expertus potest licite instruere
+  sine omni timore orationes in libro contente quotiens debent dici omni die usque ad finem operis.</p></div> 
+<div n="65" type="chapitre"><p>Que orationes requiruntur ad quas altitudines
+Prima altitudo requiritur istas orationes : « <name type="divin">Alpha et O</name> », « <name type="divin">Elyzemath</name> », « O lux mundi ». 
+Iste orationes dicende sunt circa ortum diei ter, in meridie ter, hora completorii ter, hora requiei ter, in medio noctis ter, 
+istud sic continuando per 30 dies. Iste modus orandi est seruandus in omnibus altitudinibus. Secunda altitudo requirit : 
+« <name type="divin">Alpha et O</name> », « <name type="divin">Theos</name>, <name type="divin">Megale</name> », « <name type="divin">Asaylemach</name> ». 
+Tertia altitudo requirit « <name type="divin">Alpha et O</name> », <name type="divin">Lemach</name>, <name type="divin">Lyemach</name> »,
+ « Conditor omnium rerum », ut supra. Quarta altitudo requirit : « <name type="divin">Alpha et O</name> », « Summe Deus », « Bonitatem », ut supra.
+  Quinta, ut prima. Sexta, ut secunda. Septima, ut tercia. Octaua, ut quarta. Nona, ut prima. Decima, ut secunda. Vndecima,
+   ut tercia. Duodecima, ut quarta altitudo. Illa autem oratio « Deus, qui Moisi » est dicenda cottidie ante operationem et post.
+    Et post completum opus semel omni die cum « <name type="divin">Alpha et O</name> », quotiens neglexeris totiens repetas. Et sic est finis huius operis. 
+    Laudetur Filius Viriginis, amen. 
+Explicit liber intelligenciarum, finitus anno Domini 1469mo currente. Explicit sanctum <name type="divin">almadel</name>. Liber intelligenciarum finis est, etc.</p></div>
+</div>
+</div>
+</body>
+</text>
+</TEI>
