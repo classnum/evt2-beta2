@@ -54,13 +54,13 @@
                         <div n="1" type="section">
                             <p> In nomine domini <name>Iesus</name>
                                 <app>
-                                    <lem>Christi</lem>
+                                    <lem resp="#NC">Christi</lem>
                                     <rdg>Chisti</rdg>
                                 </app>. Liber est <name type="divin">Hynothéon</name> sapientissimi
                                     <persName>Salomonis</persName> regis, filii
                                     <persName>David</persName>
                                 <persName>Israël</persName>, de <app>
-                                    <lem>Chaldaeo</lem>
+                                    <lem resp="#NC">Chaldaeo</lem>
                                     <rdg>Caldes</rdg>
                                 </app> in Latinum. Altitudines orientis sunt nouem de quibus in hoc
                                 libro primo tractatu tractandum est, et de illius uirtutibus. In
@@ -109,7 +109,7 @@
                                 locum et super omne id quod mouet. Motum localem impediunt et
                                 expediunt prout principibus huius altitudinis placet. Nomina
                                 principum huius altitudinis sunt <name type="divin">Yachanay</name>,
-                                    <name type="divin">Ziziel </name>, <name type="divin"
+                                    <name type="divin">Ziziel</name>, <name type="divin"
                                     >Prinuemator</name>
                                 <del>Priuemator</del>, <name type="divin">Yachanay</name>, <name
                                     type="divin">Helem</name>, <name type="divin">Enthithoi</name>.
@@ -681,7 +681,9 @@
                             <p>Figura prima. 
                                 <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_1.jpg"/>
                                 Modus formandi <del>fomandi</del> sanctum <name
-                                    type="divin">Stahelaon</name> THETAGRAMMATON HEL 1. <name
+                                    type="divin">Stahelaon</name> <name
+                                    type="divin">THETAGRAMMATON</name> <name
+                                    type="divin">HEL</name> 1. <name
                                     type="divin">Hynoytheon</name> 2. <name type="divin"
                                     >Pthiaeumaton</name> 3. <name type="divin">Anbona</name> 4.
                                     <name type="divin">Yhehoua</name>
@@ -690,8 +692,9 @@
 
                         <div>
                             <p>Figura secunda. 
-                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_2.jpg"/>
-                                <name type="divin">THETHAGRAMMATON</name> HEL 1.
+                                <pb n="im_2" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_2.jpg"/>
+                                <name type="divin">THETHAGRAMMATON</name> <name
+                                    type="divin">HEL</name> 1.
                                     <name type="divin">Hynoytheon</name> 2. <name type="divin"
                                     >Ptihaeumaton</name> 3. <name type="divin">Anabona</name> 4.
                                     <name type="divin">Ihehoua</name>
@@ -1002,20 +1005,20 @@
                         </div>
                         <div>
                             <p>Figura tertia. 
-                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_3.jpg"/>
+                                <pb n="im_3" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_3.jpg"/>
                                 Sigillum primæ altitudinis orientalis Caractera
                                 principum</p>
                         </div>
 
                         <div>
                             <p>Figura quarta.
-                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_4.jpg"/>
+                                <pb n="im_4" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_4.jpg"/>
                                 Sigillum secundæ altitudinis orientalis 2.</p>
                         </div>
 
                         <div>
                             <p>Figura quinta. 
-                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_5.jpg"/>
+                                <pb n="im_5" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_5.jpg"/>
                                 Sigillum tertiæ altitudinis</p>
                         </div>
 
@@ -1075,7 +1078,7 @@
                                         <name type="divin">Adicarday</name>, <name type="divin"
                                         >Cby</name>, <name type="divin">On </name>, <name
                                         type="divin">Abuinon</name>, <name type="divin"
-                                    >Ydios</name>, <name type="divin">Thethagramaton </name>,<del>Hussio, Hel, Helij, Heloij, Heloa</del> <name
+                                    >Ydios</name>, <name type="divin">Thethagramaton</name>,<del>Hussio, Hel, Helij, Heloij, Heloa</del> <name
                                         type="divin">Emanuel</name>, <name type="divin"
                                         >Adonay</name>, <name type="divin">Agloto</name>, <name
                                         type="divin">Pantongraton</name>, <name type="divin"
@@ -1326,7 +1329,7 @@
 
                         <div>
                             <p>Figura sexta. 
-                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_6.jpg"/>
+                                <pb n="im_6" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_6.jpg"/>
                                 Forma uestis artistæ Ex alia parte <name type="divin"
                                     >ELIZBETH</name>
                                 <name type="divin">ABESSALOM</name>
@@ -1400,7 +1403,7 @@
                         </div>
                         <div>
                             <p>Figura Septima.
-                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_7.jpg"/>
+                                <pb n="im_7" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_7.jpg"/>
                                 Hoc est sigillum magnum Dei <name type="divin"
                                     >HELOEN</name>
                                 <name type="divin">ADONAY</name>
