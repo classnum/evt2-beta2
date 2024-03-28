@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="normal">Cabale divine</title>
+                <title type="source">Manuscrit 1433, Wellcome Library</title>
+                <title type="medium">transcription électronique</title>
+                <author>inconnu</author>
+                <respStmt>
+                    <resp>Transcription du manuscrit, encodage XML</resp>
+                    <name type="person" xml:id="NC">Nicolas Corre</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Royaume Uni</country>
+                        <settlement>Mondres</settlement>
+                        <repository>Wellcome Library</repository>
+                        <idno>Ms 1433</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>papier</support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height></height>
+                                        <width></width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="transcription" xml:lang="french">
+« Apparition des 12 ordres cælestes »
+<p>Feu. Le 1er ordre cæleste à l’orient se nomme <name type="divin">Cahor</name> ou <name type="divin">Cahors</name> 
+et sont sous le signe du Bélier, pour le dimanche, les princes de cet ordre sont <name type="divin">Arimel</name>, 
+<name type="divin">Barachiel</name>, <name type="divin">Gabriel</name>, <name type="divin">Hibel</name>, <name type="divin">Helisoc</name>. 
+C’est par ces anges qu’est disposé la naissance des enfants en bonne ou mauvaise fin, bon ou mauvais succés, i
+ls distribue ainsi qu’ils leurs plaîts leur gratuitez à tous les astres naissants 
+et par leurs puissances est liée et cachée la fécondité de toutes les créatures, 
+comme par exemple une femme à la disposition de comcevoir, de même qu’un arbre de porter ses fruits ou de n’en point porter. 
+Pour obtenir quelques choses de cet ordre ainsi que des autres, il faut écrire sa demande sur du parchemin d’agneau vierge 
+ainsi qu’il sera dit. Cy après, la demande sera mise sur un <name type="divin">almadel</name> de cire blanche qui doit être mis sur une table propre 
+où il y aura une nappe blanche, les deux bougies qu’il faudra seront avec les chandelliers aussi de cire blanche 
+qu’il faudra aussi encenser avec le parfum, trois fois comme il sera dit cy après, puis après les prières, 
+conjurations et cérémonies placés à leur rang, l’ange aparoîtra en l’air sous la forme d’un enfant de trois ans, 
+tenant en sa main un étendart avec une croix, vêtu d’une roche blanche, et plus luissante que les étoilles, 
+il sera couronné de fleurs de roses très blanches et éclatantes, il est très doux et après qu’il aura accordé 
+à l’artiste ce qui lui aura été demandé se retirera en laissant une agréable odeur.</p> 
+<p>2e apparition
+Feu. Avant que de traitter de cette 2e apparition, j’avertis le lecteur que tous les princes de cet ordre cælestes 
+ont trente jours de liberté dans l’année. C’est pourquoy tous ceux que vous appellerés ne paroîtrons pas, 
+mais seulement l’un des princes qui sera libre, mais toujours dans la forme décrite à chaque apparition. 
+Les ordres orienteaux et méridionneaux doivent être appelez depuis le premier de la lune jusqu’au 15e, 
+et les occidenteaux et les septentrionneaux depuis le 15e jusqu’au 30e. 
+Les ordres orienteaux et méridionneaux doivent être appelez depuis la première heure du jour jusqu’au midy, 
+et les occidenteaux et septentrionneaux depuis midy jusqu’à la dernière heure du jour. 
+Chaque ordre cæleste doit être appellé en temps clair et serain. 
+Chaque ordre a aussi le nom du Dieu vivant fixé en la substance du ciel, 
+lequel nom on met sur l’<name type="divin">almadel</name> avec de l’or en feuille comme il sera dit et enseigné en son lieu, 69. 
+Tous ces Sts noms exprime a plain toute la grandeur et la puissance de Dieu qui sont des choses cachée aux démonds, 
+on appellent ses Sts noms. Les 12 noms révolus.
+Les princes de ce 2e ordre, à l’orient qui est appellé <name type="divin">Carona</name>, ou <name type="divin">Corona</name>, 
+ont leur oppération le jour du dimanche, 
+ils onts puissance sur toutes les aquisitions des biens et de les distribuer comme il leurs plaist, de les transporter
+ en d’autres mains et les donner aux hommes comme ils le juge à propos, de faire rentrer à chaqu’un son revenu et son argent, 
+ la manière de réussir est semblable à la première excepté, que l’<name type="divin">almadel</name>, chandeliers, et la bougie, seronts faits de cire vierge, 
+ tainté en couleur de rose. Le nom de ses anges sonts <name type="divin">Alpharon</name>, <name type="divin">Ghéon</name>, <name type="divin">Ghéséron</name> <name type="divin">Armon</name> <name type="divin">Ghuérémon</name>
+Notez qu’à tous les apparitions, il faut être à genoux, la demande faites, l’ange apparoîtra auyant un habit de roses portant des étoilles 
+devant et derrière, avec des fleurs en sa tête en forme de couronne, semblable à la couleur de pavot champêtre, 
+sous la forme d’un enfant de 3 ans ayant le visage et les mains de couleur tirant sur le rouge, 
+ce qui dénotte l’ardeur d’une dilection divine. Ce prince est fort doux et aimable, 
+il dira à l’artiste « Que me demendez vous, pourquoy avez-vous appelé les princes de mon ordre ? », 
+l’artiste répondra : « c’est afin ma demande soit exaucée ce qui dépend de votre office », 
+l’ange répondra « il vous sera fait », et ajoutera « que puis-je faire pour vous, voulez-vous que tout notre ordre prie Dieu pour vous ? ». 
+Il ne faut pas que l’artiste se trouble, mais qu’étant animé de la foy, il demande à ce prince, 
+l’accomplissement de sa demande, selon son office, et il l’obtiendra, 
+l’ange en se retirant a coutume de dire à l’artiste : « je suis ton ami », il l’air a une odeur de rose très suave. 
+Cet ordre est sous le signe du lyon</p>. 
+<p>Feu. 3e apparition
+De l’ordre appelée <name type="divin">Hermon</name>, ou <name type="divin">Hermus</name>, sous le signe du sagitaire à l’orient.
+ Les princes de cet ordre s’apellent le dimanche. 
+Ils onts pouvoir sur les amis, et les frères et l’approche des voisins, sur le mouvement de la mer et des rivières, 
+sur le changement de lieu en lieu pour diverses choses et sur le mouvement des éléments dans la génération et corruption 
+et sur le mouvement cæleste des cieux et des étoilles, de leur rayons et influances et sur tout ce qui est un mouvement local, 
+et finallement ils font arriver au succést, ou empêche les choses, ainsi qu’ils le juge à propos. 
+Ses anges sont <name type="divin">Gathamal</name>, <name type="divin">Coyenel</name>, <name type="divin">Primaton</name>, <name type="divin">Gathannay</name>, 
+<name type="divin">Helem</name>, <name type="divin">Enthiley</name> ou <name type="divin">Eulhithey</name>, on fait comme est dit, et la demande étant faite, 
+l’ange apparoîtra, sous la forme d’un soldat, armé et vêtu de très pur or, sa chair apparante, semblera jetter des rayons de même 
+que fait l’or, il parlera à l’artiste avec une grande douceur, et en ce moment, lui dira avec éloquence : « Que me demendez vous ? », 
+puis communiquera à l’artiste, une telle éloquence gratuitement que pendant sa vie, il poura obliger quelques hommes 
+que ce soit à l’aimer de plus en plus il rélèvera une telle clarté d’esprit, si surprenante qu’il sera admiré de tous. 
+Cet ange est très élégant, il faut aussi scavoir que cet admirable est caché dans l’art notoire de Salomon.
+ C’est un secret précieux qui est au-dessus de toutes les sciences du monde. Le prince en se retirant, 
+ l’air a une agréable odeur comme de parfum. L’almadel, chandeliers, et bougies, seronts de couleur d’or.</p>
+<p>Terre. 4e apparition
+De l’ordre appelée <name type="divin">Patheon</name>, ou <name type="divin">Pantheon</name>, sous le signe du teaureau, au midy, et s’appelent le jour du mardy. 
+Ses princes onts puissances sur tous les trésors et successions, et par la dignité qui été donnée à cet ordre par le St Esprit, 
+a le pouvoir d’infuser les arts dans les esprits des hommes, comme la Rétorique, la grande mère, et ce qui en dépend. 
+Et entre les anges de cet ordre sont <name type="divin">Yrath</name>, <name type="divin">Yarain</name>, <name type="divin">Armeth</name>, 
+<name type="divin">Zaremy</name>, <name type="divin">Lux</name>, <name type="divin">Et</name>, <name type="divin">Ebriel</name>. 
+L’invocation faite, l’ange apparoîtra ayant une robe de couleur d’azur, et sur sa tête, une couronne de fleurs bleux, 
+et ayant accordé à l’artiste sa demande, il se retirera, laissant une odeur comme d’hyacinthe. 
+L’almadel, chandeliers et bougies seronts couleur bleux</p>.
+<p>Terre. 5e apparition
+De l’ordre appelée <name type="divin">Eyam</name>, ou <name type="divin">Lini</name>, ou <name type="divin">Fim</name>, 
+sonts sous le signe de la vierge, au midy, et s’apellent le jour du mardy, 
+les princes de cet ordre onts pouvoir et office sur le mouvement du premier ciel, ou premier mobile, 
+comme aussi de mouvoir tous les animeaux, selon la nature et son espèce, à la génération pour multiplier comme aussi les poissons, 
+les oiseaux desquels ils règles le cours par les mouvements naturels, et par un don de Dieu, 
+ils onts le pouvoir d’infuser les sciences comme la phisique, la médecine et la chimie en toutes leurs parties. 
+Leurs noms sont <name type="divin">Althay</name>, <name type="divin">Ezey</name>, <name type="divin">Zabel</name>, 
+<name type="divin">Monoyn</name>, <name type="divin">Aurath</name>, <name type="divin">Etbouley</name>. 
+On fera l’<name type="divin">almadel</name>, les cierges, chandeliers de cire vierge teinte en vert. 
+Et après l’invocation faire, l’ange appraroîtra vêtu de vert, ayant des fleurs sur la tête en forme de couronne, 
+puis dira à l’artiste : « Que me demandée vous ? », alors l’artiste luy répondra humblement 
+ce qui est exposé sur le St almadel, alors l’ange luy accordera sa demande. 
+L’artiste peut encore luy demander autres choses, comme d’être par luy recommandé à Dieu, ce qu’il fera à l’instant, 
+puis se retirera, laissant une odeur musquée.</p>
+<p>Terre. 6e apparition
+De l’ordre appellée <name type="divin">Mohim</name>, ou <name type="divin">Molhim</name>, ou <name type="divin">Hain</name>, 
+sonts sous le signe du capricorne, s’appelent le jour du mardy, 
+au midy, les princes de cet ordre onts puissance sur tous les États du monde, remuant et changeant toutes les monarchies, 
+les empires et principautée du monde, de région en région, par un mouvement et une ordination caeleste. 
+Ils distingues les maîtres et les seigneurs d’avec les serviteurs, et les sujets sous la puissance de leurs seigneurs, 
+ils ont le pouvoir de traitter comme ils veulent les serviteurs en maîtres, et les maîtres en serviteurs. 
+Ils gouvernent les démonds, et les assujettisent. Ils défendent les hommes de leurs illusions, 
+ils donnent et infusent trois sciences, la musique, la logique et la philosophie. 
+Les princes de cet ordre sont <name type="divin">Heros</name>, <name type="divin">Scistheros</name>, <name type="divin">Onoy</name>,
+<name type="divin">Orneth</name>, <name type="divin">Gareth</name>, <name type="divin">Alay</name>. 
+L’<name type="divin">almadel</name>, chandelier et bougie doivent être de cire vierge, teinte en couleur de violette. 
+Après l’invocation faites, l’ange apparoîtra sur l’<name type="divin">almadel</name> sous la forme d’un séraphin ayant six ailles entremaillée 
+de diversent couleurs très éclatantes, il conversera avec l’artiste, ensuite il lui accordera sa demande et se retirant, 
+l’ air a en l’air une odeur comme si c’étoit du beaume ou du cinamône.</p>
+<p>D’air. 7e apparition.
+De l’ordre appellée <name type="divin">Goffort</name>, ou <name type="divin">Gelphor</name>, sous le signe des gémeaux, 
+à l’occident, s’appelle le jour du jeudy, 
+les princes de cet ordre onts puissance sur les amitiez et inimitiez sur toutes les créatures, les querelles, 
+les batailles, les contestations, les outrages, et particulièrement sur toutes les armées dans toutes 
+les parties du monde et de la terre, et rien du bien ny du mal ne peut arriver sans leur ordination et permission, 
+ils ont le pouvoir par un don de Dieu, d’infuser dans l’esprit des hommes l’astrologie et la sc(ience) arithmétique. 
+Leurs noms sonts <name type="divin">Albain</name>, <name type="divin">Raël</name>, <name type="divin">Albanay</name>, 
+<name type="divin">Ratau</name>, et <name type="divin">Carasay</name>. L’<name type="divin">almadel</name>, chandeliers et bougie de cire vierge teinte 
+en couleur colombine, et après l’invocation faites, l’ange apparoîtra à l’artiste avec un visage resplandissant
+ et agréable ayant des franges d’or sur les cuisses et une couronne de fleurs sur sa tête, 
+ puis ayant accordé à l’artiste ce qu’il aura demandé, se retirera laissant une agréable odeur comme d’encens.</p>
+<p>D’air. 8e apparition.
+De l’ordre appellée <name type="divin">Eroy</name>, ou <name type="divin">Bleor</name>, sous le signe des balances, 
+à l’occident, s’appelent le jour du jeudy. 
+Les princes de cet ordre onts pouvoir sur les partis et conventions que les hommes fonts avec les démonds 
+ou autres esprits, ou même que les hommes fonts entre eux. Ils les forcent sous de rigoureuses peines d’observer 
+leur convention, et ce aux deux parties, ils leurs permettent en punissant l’un ou l’autre, 
+ou quelques fois tous deux ensemble par le commandement de Dieu, ainsy qu’ils leurs plaits, 
+ils ont le pouvoir sur les âmes de les diriger en bonne ou mauvaise fin, 
+ils sont arbitres de la vie et de la mort et de toutes les créatures par un effet de leur dignitée. 
+Ils onts le pouvoir d’infuser aux hommes la théologie, la géométrie et la méthaphisique. 
+De cet ordre, les princes sont <name type="divin">Amayn</name>, <name type="divin">Anay</name>, <name type="divin">Ghelomitas</name>, 
+<name type="divin">Arapzaramane</name>, <name type="divin">Ghedobany</name>, et <name type="divin">Elonmith</name>, ou <name type="divin">Elonnith</name>.
+ L’<name type="divin">almadel</name>, chandeliers et bougies seronts de cire vierge blanche. 
+ L’invocation faite, l’ange apparoîtra sous la forme d’une colombe blanche portant une couronne blanche sur sa tête, 
+ avec douze pierres précieuses et un signe de croix à son bec enlassé d’un fil d’or, puis, 
+ ayant accordé à l’artiste sa demande, se retirera laissant une odeur de beaume et de lin.</p>
+<p>D’air. 9e apparition.
+De l’ordre appellée <name type="divin">Saphor</name> ou <name type="divin">Caphor</name>, 
+pour le signe du verseau à l’occident, s’apelle le jours du jeudy, 
+les princes de cet ordre onts puissances sur la génération des animeaux, leurs mélanges, 
+et sur le mélanges des éléments dans générations, ils portent les hommes promptement à passer d’une religion en une autre, 
+et onts leurs dominations sur toutes sortes de mouvements. Leurs noms sonts <name type="divin">Zaaan</name>, <name type="divin">Zadanay</name>, 
+<name type="divin">Zabin</name>, <name type="divin">Arphel</name>, <name type="divin">Alahanay</name>, et <name type="divin">Zadam</name>. 
+L’<name type="divin">almadel</name>, chandelliers et bougies seronts faits de cire vierge teinte en vert. 
+L’invocation faite, l’ange apparoîtra sous la forme d’un aigle très majestueux, 
+puis ayant accordé à l’artiste sa demande, se retirera, laissant en l’appartement une odeur très douces et agréables.</p> 
+<p>D’eau. 10e apparition. 
+De l’ordre appelée <name type="divin">Bozam</name>, ou <name type="divin">Bethan</name>, sous le signe de l’écrevisse, 
+au septentrion, s’appellent le jour du vendredy. 
+Les princes de cet ordre onts puissances sur les dignitées temporelles, les naturelles, 
+et celles de l’esprit et les vertus que Dieu donna à <name>Adam</name> dans l’état d’innocence et qu’il donna encore à la nature humaine 
+du temps de la passion de notre Seigneur Jésus Christ, et quelqu’autre que le sang humain ne peut comprandre, 
+les princes de cet ordre sonts <name type="divin">Antapin</name>, <name type="divin">Anab</name>, <name type="divin">Beith</name>,
+<name type="divin">Salut</name>, et <name type="divin">Patience</name>. 
+L’<name type="divin">almadel</name>, les chandelliers, et bougies de cire vierge de couleur de chair.
+ L’invocation faites, l’ange apparoîtra environné d’une grande lumierre, il parlera à l’artiste avec une grande douceur et familiarité, 
+ et après avoir accordé à l’artiste sa demande, partira laissant une odeur d’embre.</p>
+<p>Eau. 11e apparition
+De l’ordre appellée <name type="divin">Zarught</name> ou <name type="divin">Zaranot</name> ou <name type="divin">Zothnochtareth</name>, 
+sous le signe du scorpion au septentrion, s’appelle le jour du mercredy.
+ Les princes de cet ordre onts pour office d’exercer les jugements de Dieu sur les hommes, en ce monde selon le corps, 
+ ils rendent l’homme de bon esprit et entendement, ils revèlent les mistères cachez de notre Ste religion qui sonts cachées aux hommes, 
+ leurs noms sont <name type="divin">Alphancor</name>, <name type="divin">Alphanay</name>, <name type="divin">Azon</name>, 
+ <name type="divin">Surneth</name>, <name type="divin">Alinthos</name>, et <name type="divin">Saphrayn</name>. 
+ L’<name type="divin">almadel</name>, chandelliers et bougie seronts de cire vierge teinte en couleur de cinamône, après l’invocation faite 
+ l’ange apparoitra à l’artiste sous la forme d’un jeune homme portant devant soi un étandart marqué d’une croix, 
+ il accordera à l’artiste ce qui lui aura demandé, et partira laissant une odeur de lin très suave. 
+<p>D’eau. 12e apparition
+De l’ordre appellée <name type="divin">Elizan</name>, ou <name type="divin">Elizay</name>, sous le signe du poissons 
+au septentrion s’appelle le jour du mercredy, 
+les princes de cet ordre sonts très hauts en dignité, ils sonts et dépendent de la seconde hiérarchie. 
+Ils sonts des dominations, ils tiennent Lucifer dans les chaînes, et contraignent les esprits obscurs violamment d’exécuter
+ les ordres de Dieu et ses commendements. C’est pourquoi ils sont appelez les forts et puissants. 
+ Dominant sur tout, ils gouvernent les élus de Dieu et les préservent des mauvais esprits, 
+ les démonds les craignent beaucoup parce qu’ils sont tous les jours tourmentez d’eux. 
+ Les noms des princes de cet ordre sont <name type="divin">Salutiel</name>, <name type="divin">Ahmor</name>, ou <name type="divin">Alinor</name>, 
+ <name type="divin">Alibin</name>, <name type="divin">Lubirael</name>, <name type="divin">Ana</name>. 
+ L’<name type="divin">almadel</name>, chandeliers et bougie seront de cire vierge couleur rouge, blanche et verte, mesllée par égalle portion, 
+ et après la cérémonie ordinaire, l’ange apparoitra à l’artiste sous la même forme que les anges de son ordre paroîtrons 
+ au dernier jugement de Dieu, en soldat tenant en sa main un rameau d’olivier,
+  puis ayant accordé la demande de l’artiste l’air a en partant une odeur si bonne et si agréable qu’on ne pourra distinguer.
+</div>
+</body>
+</text>
+</TEI>

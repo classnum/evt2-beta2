@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="normal">Le Miroir de Salomon</title>
+                <title type="source">Manuscrit 6197, Bibliothèque de Lyon</title>
+                <title type="medium">transcription électronique</title>
+                <author>inconnu</author>
+                <respStmt>
+                    <resp>Transcription du manuscrit, encodage XML</resp>
+                    <name type="person" xml:id="NC">Nicolas Corre</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>France</country>
+                        <settlement>Lyon</settlement>
+                        <repository>Bibliothèque municipale de Lyon</repository>
+                        <idno>Ms 6197</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>papier</support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height></height>
+                                        <width></width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="transcription" xml:lang="lat">
+<p>Le miroir de <name>Salomon</name>, fils de <name>David</name>, qui fut doué de science et de sagesse occulte 
+et dont les philosophes se sont servis à son exemple.</p> 
+<p>Ce miroir se fait en 48 jours en commençant par une nouvelle lune jusqu’au plain de la suivante, 
+après lequel tems le dit l’opération étant achevé, vous voyés dans ce miroir 
+toutes les choses cachées que vous souhaities voir.</p> 
+<p>Il faut considérer à quel jour de la semaine on veut opérer, par exemple si c’est le dimanche 
+il faut choisir la première heure qui est l’heure du soleil qui est au levé du (X) soleil. 
+Pour ce sujet, vous appellerés l’ange du quatrième ciel, par ce que le ciel du soleil 
+est le 4e ciel des cieux, le nom du 1er des 7 anges sur les 7 cieux et sur les sept planéttes 
+se nomme  <name type="divin">Michael</name>  à qui vous ferés votre prière bien dévotement à genoux comme elle est marquée 
+dans l’<name>Anacrise</name> au jour du dimanche page 78 et les 7 anges ont inspection aussy 
+dans les quatre parties du monde qui sont l’orient, l’occident, le midy et le septentrion 
+et ont aussy pouvoir sur les 7 couleurs qui sont le verd, le noir, le blanc, le jaune, le couleur de rose, le pourpre et le rouge.</p> 
+<p>L’ <name type="divin">almadel</name> est une petite table de cire d’un demi pied en quarré, de l’épaisseur de deux écus 
+ou environ qui doit être percée d’autant de trous qu’il se rencontre d’angles dans la figure marquée sur l’ <name type="divin">almadel</name>, 
+lesquels trous sont figurés par autant d’O que vous en verrés gravés dans le table cy devant page 118. On a besoin de quatre chandeliers 
+si adroitement faits de cire que deux parties surpassent la hauteur de l’ <name type="divin">almadel</name>, et la 3e passe par dessous, 
+de manière qu’il y ait quelque rebord à chacun des chandeliers qui correspondent de l’un à l’autre en proportion égale, pour y pouvoir placés le St. <name type="divin">almadel</name>, 
+et à l’égard des quatre cierges, il faut qu’ils soient faits de même et au sommet des chandeliers, il faut qu’il y ait un trou pour y poser les cierges.</p> 
+<p>Du sceau et de l’écriture de la demande, quand l’ <name type="divin">almadel</name> sera composé, on fera un sceau 
+dans lequel seront gravés ces saints noms de Dieu.  <name type="divin">Anaël</name>,  <name type="divin">Elohim</name>,  <name type="divin">Adonay</name> et et les autres 
+comme on peut voir dans la figure gravée avec une éguille d’argent ou d’or 
+et au tems de l’opération mettés votre demande sur l’almadel écrite en lettres d’or 
+sur un quarré de parchemin vierge en un lieu très net et pour lors allumés les cierges 
+et invoqués les noms des anges  <name type="divin">Gabriel</name>,  <name type="divin">Barachiel</name>, &, et vous ferés vos prières à Dieu 
+comme il est marqué dans l’<name>Anacrise</name>.</p>  
+<p>Il faut que l’artiste ait un vase de terre bien poli, dans lequel il mettra des cendres 
+qui ne soient pas trop chaudes de peur de faire fondre la cire et placés le vase sous l’almadel 
+et après mettre sur les cendres ou dedans 4 grains de mastic ou encens 
+en telle sorte que l’odeur et la fumée passent par les petits trous de l’almadel 
+et montent en l’air au devant de l’ange descendu du ciel.</p> 
+<p>Or l’artiste doit être vêtu de la même couleur que l’almadele, les chandeliers et des cierges.</p> 
+<p>Il faut observer que tous les princes du coté du midy ont mars et son heure et scavoir aussy 
+que les ordres orientaux, de même que les princes de la partie du midy doivent comenencer 
+depuis le 1er jour de la lune jusqu’au 15 et que les occidentaux et les septentrionaux 
+sont depuis le 15 jusqu’à la fin de la lune et c’est en ce tems que se doivent faire les opérations 
+par un tems clair, serain, il est encore à remarquer que les ordres de l’orient et du midy 
+doivent être appelés depuis la 1ere heure du jour jusqu’à midy et les occidents et les 
+septentrions depuis midy jusqu’à la fin du jour.</p>
+<p>Il y a plusieurs classes d’anges, c’est-à-dire leurs qualités et dans chaque classe 
+ils ont leurs princes sous lesquels les autres agissent. Il y a en premier lieu les noms d’anges, 
+archanges, princes, ordres, hiérarchies, monarchies, principautés et régions  
+et par un mouvement continuel et régulier, ils gouvernent tous choses dans les trois genres 
+ou règnes par un ordre tout divin et tout céleste. Il y a douze ordres et dans chacun de ces ordres, 
+ils ont chacun leur pouvoirs qui se changent de 30 en 30 jours dans l’année 
+et ont tous chacun leurs noms, les qualités qui sont données à Dieu dans chaque partie 
+du monde en particulier.</p> 
+<p>En la partie septentrionale, ô Dieu fou, ô Dieu tout puissant, ô Dieu sans principe</p>
+<p>Au Midy
+Ô Dieu patient et miséricordieux !</p>
+
+<p>À l’Orient
+Ô Dieu très grand et honoré dans les siècles infinis !</p>
+
+<p>À l’Occident
+Ô Dieu très sage, ô Dieu juste, ô Dieu de clémence !</p>
+
+<p>Je vous prie que ma demande, que mon œuvre et mon travail soient accomplis en ce jour 
+avec intelligence, vous qui vivés et régnés dans les siècles infinis.</p> 
+<p>Cette prière se doit dire par chacune des quatre parties du monde
+ avec toute la disposition d’un cœur vraiment humble, chaste, doux, dévot, pieux,
+  sans aucune distraction, mais avec beaucoup d’attention.</p> 
+<p>Il y a les encensements à faire sur les opérations avec des parfums, de mastic, d’encens, et autres.</p> 
+</div>
+</body>
+</text>
+</TEI>

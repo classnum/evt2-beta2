@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="normal">Liber Hynotheon</title>
+                <title type="source">Manuscrit Rennes, 5Fb 1 ADIV</title>
+                <title type="medium">transcription électronique</title>
+                <author>inconnu</author>
+                <respStmt>
+                    <resp>Transcription du manuscrit, encodage XML</resp>
+                    <name type="person" xml:id="NC">Nicolas Corre</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>France</country>
+                        <settlement>Rennes</settlement>
+                        <repository>ADIV</repository>
+                        <idno>5Fb 1</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>papier</support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height>170</height>
+                                        <width>135</width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="transcription" xml:lang="french">
+                <head>Liber Hynotheon</head>
+                <div>
+
+                    <div n="1" type="chapitre">
+                        <div n="1" type="section"><p>Au nom du Seigneur Jésus Christ. Ceci est le livre Hynothéon du très sage roi Salomon, fils de David Israël, 
+traduit du chaldéen en latin. Les altitudes orientales sont au nombre de neuf ; il faut traiter de celles-ci, ainsi 
+que de leurs vertus, dans ce livre, dans ce premier traité. Dans le second, il faut traiter des altitudes occidentales, 
+qui sont sept, des méridionales, qui sont cinq, et des septentrionales, qui sont trois. Dans le troisième, de la manière 
+de faire le saint Hælaon, et de la manière de le conserver, avant et après que le maître de l’Art aura commencé son opération,
+ et de la préparation du maître de l’Art, et de nombreuses remarques en lien avec cet Art.</p></div> 
+<div n="2" type="section"><p> Première altitude orientale. On appelle la première altitude Cynos et les princes de cette altitude sont appelés Hrauel,
+ Gabriel, Barachiel, Libes, Heliram. Cette altitude exerce son pouvoir et son opération a lieu le jour du soleil et à son heure, 
+ alors que la lune est croissante dans la bonne disposition. Avec cette altitude, sont pris en charge les naissances des enfants 
+ pour une bonne ou une mauvaise fin, comme le fait qu’une femme puisse concevoir ou non, et que les arbres puissent 
+ faire des fruits en quantité ou non, et des choses similaires.</p></div>
+<div n="3" type="section"><p>Seconde altitude. On appelle cette altitude Corora, son opération a lieu et son pouvoir s’exerce sur l’acquisition 
+de tous les biens passant entre les mains du prince. Elle a aussi le pouvoir de distribuer, d’enlever, de donner en fonction 
+de ce qui lui semble bon des revenus et de l’argent. Cette altitude a son opération le jour du soleil et à son heure, 
+alors que la lune est croissante. Les noms des princes de cette altitude sont Pax, Alpharaym, Geongereon, Armon, Gænerion.</p></div>
+<div n="4" type="section"><p>Troisième altitude. On l’appelle Hermoy et elle exerce son pouvoir sur les amis, les frères, les proches et les voisins, 
+et sur le mouvement de toutes les eaux, de la mer et des rivières, et sur le changement corporel de toutes choses de lieu à lieu, 
+et sur tout ce qui bouge. Les princes de cette altitude empêchent ou permettent un mouvement local selon ce qui leur plaît. 
+Les noms des princes de cette altitude sont Yachanay, Ziziel, Prinuemator, Yachanay, Helem, Enthithoi.</p></div> 
+<div n="5" type="section"><p>Quatrième altitude. On l’appelle Panteon, et les princes qui y demeurent ont du pouvoir et de la puissance sur les trésors, 
+les successions, les biens et celui d’accorder des charges, en fonction de ce qui leur semble bon. Les noms des princes de cette altitude 
+sont Yaræth, Yran, Arneth, Zanay, Aranoy, Susceye.</p></div>
+<div n="6" type="section"><p>Cinquième altitude. On l’appelle Cym, et les princes qui y demeurent ont le pouvoir, selon leur office, 
+de faire mouvoir d’un mouvement céleste tous les êtres vivants selon leur nature, afin qu’ils procréent 
+des descendants et de se multiplier dans la lignée de chaque espèce, tant sous la terre que sur la terre, de la même manière 
+qu’il y a les poissons et les animaux volants. Ils régentent et gouvernent le mouvement des animaux. 
+Grâce à un don de Dieu, ils peuvent infuser aux hommes les sciences naturelles, dont les formes sont la physique, 
+la médecine, l’alchimie, et une partie d’entre elles. Les noms des princes de cette altitude sont Abnay, Cercy, Crahel,
+ Monosim, Aurache, Hanalay.</p></div>
+<div n="7" type="section"><p>Sixième altitude. On l’appelle celle-ci Noxin, et les princes qui y demeurent exercent par leur office leur pouvoir 
+et leur efficience sur les États du monde. De région en région, ils font se mouvoir et changent les monarchies, 
+les empires et les seigneuries du monde, par un mouvement céleste et par leur commandement. 
+Ils distinguent les maîtres des serviteurs et ils manifestent leur nature par leurs vertus et leurs mœurs. 
+Ils changent les lois elles-mêmes et les loyautés. Ils dirigent ceux qui sont soumis au pouvoir des maîtres, 
+et, comme ils le veulent, ils les changent en maîtres, et les maîtres en serviteurs. Ils invoquent les démons 
+et les soumettent. Grâce à leur propre mérite, ils peuvent infuser la science aux hommes, à savoir la musique, 
+la logique, et la philosophie morale. Les noms des princes de cette altitude sont Heros, Bissezeos, Onayora, 
+Echuel, Oymali, Sytain, Ythos, Alphareth, Alay.</p></div>
+<div n="8" type="section"><p>Septième altitude. On appelle cette altitude Creor, et les princes qui y demeurent exercent leur puissance 
+sur les serments qui sont faits entre les créatures et Dieu, ainsi qu’entre les créatures et d’autres créatures.
+ Ils les forcent par l’angoisse de châtiments à observer ce pacte, et ils forcent les démons à observer 
+ leurs pactes avec les hommes. À l’inverse, ils punissent les uns et les autres sur l’ordre de Dieu aussi bien dans 
+ le premier cas que dans le second. Ils exercent aussi leur puissance sur les âmes séparées ; 
+ ils les gouvernent et en disposent pour une bonne ou mauvaise fin. Ils infligent la mort ou la vie aux créatures. 
+ Grâce à leur position, ils ont la puissance d’infuser la géomancie, la théologie et la magie. 
+ Les noms des princes de cette altitude sont Amayn, Amas, Anay, Geomitio, Gebedonay, Pas, Sarama, Clyominth.</p></div>
+<div n="9" type="section"><p> Huitième altitude. On appelle cette altitude Sapheth et les princes qui y demeurent ont la puissance 
+et l’efficience de concéder la génération pour les êtres vivants en faisant procéder à la génération des éléments 
+par les animaux. Les princes de cette altitude grâce un ordre de Dieu emmènent les hommes de région en région, 
+d’une course très rapide. Ils exercent leur emprise sur tout mouvement. Les noms des princes de cette altitude 
+sont Zajar, Zabin, Zadanay, Arphel, Alphanay, Ladatin. </p></div>
+<div n="10" type="section"><p>Neuvième altitude. On appelle Suphor et les princes qui y demeurent ont le pouvoir et la puissance d’enrichir 
+les hommes, ou encore de prendre leurs biens, selon ce qui leur plaît. Par leur office, ils rendent les hommes très beaux. 
+De plus, ils ont l’efficience d’infuser toutes les sciences. Le nom des princes de cette altitude sont Paymon, 
+Egy, Egysta, Zayn, Zæthau, Gratyn. </p></div>
+<div n="11" type="section"><p> Et il faut savoir que toutes ces altitudes exercent leur efficience le jour du soleil, et en son heure, 
+c’est-à-dire de la première heure du jour du soleil jusqu’à midi, et quand ceci est mis en œuvre par le maître de l’Art, 
+il doit faire un temps clair et serein, sans nuage, alors que la lune est croissante.
+Fin du premier traité.</p></div>
+
+</div><div n="2" type="chapitre"><div n="1" type="section"><p> Second traité sur les altitudes occidentales, méridionales et septentrionales. Surtout, 
+on a à traiter des occidentales qui sont sept, et d’abord de la première.</p></div>
+<div n="2" type="section"><p>Première altitude occidentale. On appelle cette altitude occidentale Giphor,
+ et les princes qui y demeurent ont de la puissance sur les inimitiés et les amitiés de toutes les créatures, 
+ et sur les combats, sur les rivalités et sur les outrages, et particulièrement sur la conduite des armées 
+ et sur les armes surtout, et ils veillent à ce que rien de bien ou de mal ne soit mené à son terme sans leur commandement 
+ et leur permission. Par un don de Dieu, ils peuvent infuser aux hommes l’astrologie et la science arithmétique. 
+ Les princes de cette altitude sont Melach, Bedahoih, Gylor, Vauhæl, Fumabel, Aryl.</p></div> 
+<div n="3" type="section"><p> Seconde altitude. On appelle celle-ci Nayn, et les princes qui y demeurent ont de la puissance sur les ennemis et les amis, 
+sur les hommes amoureux et les femmes amoureuses. Par leur office, ils ont la puissance et l’efficience 
+pour faire d’elles et eux des ennemis. Ils ont la maîtrise des rixes et des tortures. 
+Ils rendent les hommes belliqueux ou lâches, victorieux ou non. Les noms des princes de cette altitude 
+sont Briel, Malamacoy, Malachim, Radasieh, Baidahath, Odmachiel.</p></div>
+<div n="4" type="section"><p> Troisième altitude. On appelle celle-ci Lehæsor, et les princes qui y demeurent ont de la puissance et de l’efficience 
+sur toutes les infirmités, et par leur office, ils rendent les hommes infirmes, ou non. Ils donnent le sommeil aux hommes, 
+ou non, et font des choses similaires. Les noms des princes de cette altitude sont Selon, Belfry, Ahey, Verechiel, Pactohaget,
+ Machdeynchi, Nobemarach.</p></div> 
+<div n="5" type="section"><p> Quatrième altitude. On appelle celle-ci Chrimehit, et les princes qui y demeurent ont de la puissance et du pouvoir 
+sur les eaux marines et fluviales, et ont celui de submerger ou non, et de noyer les hommes et tous les animaux, ou non. 
+Ils rendent les marchands riches ou pauvres, et par leur office, ils donnent aux hommes la connaissance de l’efficience de 
+toutes les plantes. Les princes de cette altitude sont Galfu, Melchiel, Clbeday, 
+Lauyson, Ratyeh, Alyabith.</p></div> 
+<div n="6" type="section"><p> Cinquième altitude. Celle-ci s’appelle Giephatin, et les princes qui y demeurent ont le pouvoir et l’efficience d’infuser 
+l’Art aux hommes et d’éclairer leur esprit, ou non. Ils rendent les hommes sages, ou non. Par leur office, 
+ils rendent les hommes victorieux au jeu, ou non, comme bon leur semble. Les noms des princes de cette altitude sont Osthos,
+ Layngyron, Pessino, Fas, Han, Syachy, Zamnathor, Camyn.</p></div>
+<div n="7" type="section"><p>. Sixième altitude. On l’appelle Agusth, et les princes qui y demeurent ont de la puissance et de l’efficience sur tous les
+ oiseaux du ciel et les animaux de la terre et les enchanteurs ont celui de les attraper ou non, comme bon leur semble. 
+ Les noms des princes de cette altitude sont Bachay, Son, Balchochanth, Anay, Anyal, Salmet, Chamæl.</p></div> 
+<div n="8" type="section"><p> Septième et ultime altitude occidentale. On l’appelle Steher, et les princes qui y demeurent ont la puissance de dévoiler 
+un vol, ou non. Ils l’exercent sur les embuscades des voleurs, aussi bien sur terre que sur mer. Ils mettent en danger 
+les hommes et les femmes, ou non, comme il leur plaît. Les noms des princes de cette altitude sont Maxuel, Arahath, Sarohoth, 
+Maguth, Mehestrach, Dyebuzon.</p></div>
+<div n="9" type="section"><p> Il faut savoir que toutes ces altitudes exercent leur efficience le jour ♂, c’est-à-dire celui de Mars, et le maître de 
+l’Art doit entreprendre son opération du midi jusqu’au coucher, comme nous l’avons noté dans le troisième traité.
+Fin des altitudes occidentales.</p></div></div>
+<div n="3" type="chapitre"><div n="1" type="section"><p> Voici les altitudes méridionales, qui sont cinq. 
+Première altitude méridionale. On l’appelle Rahath, et les princes de cette altitude ont de l’efficience et du pouvoir 
+sur toutes les sciences superstitieuses et sur les maléfices. Et ils forcent les démons à faire ce que désirent les hommes, 
+ou non, comme il leur plaît. Les noms des princes de cette altitude sont Alaharahel, Sasahorohath, Hamaliel, Mirthoath, Sulthurohath.</p></div> 
+<div n="2" type="section"><p> Seconde altitude. On l’appelle Ahahager, et les princes qui y demeurent ont de l’efficience et de la puissance sur 
+tous les poisons reconnus et inconnus. Ils font périr les hommes, ou non, ils font s’ouvrir et se refermer les terres, 
+comme il leur semble bon. Les noms des princes de cette altitude sont Agariel, Animirnaornus, Byleth, Sathouiel, Mahardahel.</p></div>
+<div n="3" type="section"><p> Troisième altitude. On l’appelle Aehechym, et les princes qui y demeurent ont de l’efficience et du pouvoir 
+sur tous les instruments de musique et ils rendent les hommes très experts dans cette pratique, ou non, de telle 
+sorte que de cette manière ces derniers jouent de n’importe quel genre d’instruments, ou non, comme il leur semble bon. 
+Les noms des princes de cette altitude sont Gebal, Lezioccil, Vahathicy, Ychehmal, Batthoual, Hyersehul.</p></div>
+<div n="4" type="section"><p> Quatrième altitude. On l’appelle Saharnahoar et les princes de cette altitude qui y demeurent ont de la puissance 
+ sur l’amour des femmes et leur font aimer un homme, ou non, et sur l’amour des notables et sur leur bienveillance. 
+ Ils leur font aimer les hommes, ou non, comme bon leur semble. Les noms des princes de cette altitude sont Anæl,
+  Michæl, Fabriel, et Raphæl, Abriel, Uriel.</p></div>
+<div n="5" type="section"><p> Cinquième et ultime altitude méridionale. On appelle celle-ci Iahothatu et les princes qui y demeurent ont de 
+l’efficience et de la puissance sur l’invisibilité et rendent les hommes invisibles, ou non. Et même, ils font en 
+sorte qu’un homme puisse prendre des formes variées et diverses, ou non, comme bon leur semble. Les noms des princes 
+de cette altitude sont Orchy, Opscihir, Omagistas, Onchy, Hæhuel, Pyleth, Sacay.</p></div> 
+<div n="6" type="section"><p> Il faut savoir que toutes ces altitudes exercent leur efficience et le pouvoir la nuit de ♃, 
+c’est-à-dire celle de Jupiter, et à son heure, comme nous l’avons noté dans la troisième traité.</p></div></div>
+
+<div n="4" type="chapitre"><div n="1" type="section"><p> Des altitudes septentrionales, au nombre de trois.
+Première altitude. On appelle celle-ci Hahanahor, et les princes qui y demeurent ont de l’efficience et
+ du pouvoir sur la fortune de mer toute entière. Ils font pleuvoir et tomber de la grêle. Ils font trembler 
+ la terre et tomber la foudre. Ils font s’agiter de très grands vents ou non, comme il leur semble bon. 
+ Les noms des princes de cette altitude sont Lohod, Hadid, Pereon, Chelchezub, Belysuth, Phetuar, Gadghahor.</p></div>
+<div n="2" type="section"><p> Seconde altitude. On l’appelle Mahasyoth et les princes de cette altitude exercent leur efficience et leur pouvoir 
+sur toutes les langues et permettent aux hommes de parler toutes les langues, ou non. Ils font succomber les hommes 
+et l’ensemble des êtres vivants, ou non, comme bon leur semble. Les noms des princes de cette altitude sont Hyshahabhel, 
+Sohamuhahyz, Mothosyhohan, Zachohohur, Neher, Dahaol, Bochur.</p></div>
+<div n="3" type="section"><p> Troisième et ultime altitude. On l’appelle Sephahahan et les princes de cette altitude, ceux qui y demeurent, 
+ont l’efficience et le pouvoir de distribuer toutes les semences et ils les font germer, ou non. Ils exercent leur 
+domination sur toutes sortes d’armes, et ils font échouer les hommes invincibles, ou non. En outre, ils rendent les hommes 
+très savants dans l’art de la luxure, et ils leur donnent une apparence telle qu’ils puissent faire tout ce qu’ils veulent, 
+ou non, comme bon leur semble. Les noms des princes de cette altitude sont Auubzelon, Zharahol, Raphahasel, Zechriahauel, Naniel.</p></div> 
+<div n="4" type="section"><p> Et il faut savoir que toutes ces altitudes exercent leur efficience et leur pouvoir le jour ♄ c’est-à-dire celui
+ de Saturne, et à son heure, comme nous l’avons noté dans le troisième traité.</p></div></div> 
+
+<div n="5" type="chapitre"><div n="1" type="section"><p> Troisième traité
+De la manière dont doit être confectionné le saint Stahelaon. 
+Nous confectionnons le saint Stahelaon de cette manière. Le jour ☿, c’est-à-dire celui de Mercure, nous avons recueilli
+de la cire vierge et blanche, sans aucun déchet provenant d’immondices, et nous avons opéré des suffumigations de celle-ci
+avec de l’oliban, du costus, et du safran. Et après, nous avons modelé celui-ci tel qu’il apparaît sur le modèle. 
+D’abord, à partir de cette cire, réalise un coffret long d’une paume et large d’une paume et demie, avec un trou à 
+chaque angle. Dans le trou, qu’on écrive avec un stylet d’argent neuf fabriqué pour l’occasion les noms du Dieu vivant
+qui doivent être écrits le jour de l’opération ! Au premier trou, qu’on écrive Adonay, Helyon, Pius ! 
+Au second, Hhælym, Steloy, Stely. Au troisième, Ioth, Beth, Agla. Au quatrième, Tethagramaton, Suday et Ya.</p></div> 
+<div n="2" type="section"><p> Et il faut savoir que quand le saint Hælaon est confectionné, il faut faire notre sceau d’un angle à l’autre, 
+comme sur le modèle ; et au milieu des sceaux, qu’un sceau soit écrit avec un stylet d’argent fabriqué ad hoc ! 
+Et que le saint nom de Hel soit mis au centre, comme sur le dessin, au centre le saint nom de Hel. 
+Le coffret ne doit pas être creux. Et sur ce coffret, un autre doit être fabriqué avec la même cire, 
+comme sur le dessin, d’une longueur d’une demi paume et d’une largeur en proportion. Celui-ci doit être creux. 
+Sur le premier coffret, sept cierges doivent être posés en permanence, et sur le coffret, des trous doivent être percés 
+pour mettre lesdits cierges.</p></div>
+<div n="3" type="section"><p> Il faut prendre garde à ce qu’aucun de ces cierges ne soit allumé, si ce n’est au moment de l’opération. 
+Cependant, quand le Saint Stæleoin a été confectionné, que soit fait un sceau sur lequel ces noms sont gravés 
+seulement au verso, et que ce sceau soit d’argent et d’or très pur ! Qu’au moment de l’opération, qu’il soit déposé 
+à l’intérieur du second coffret ! Qu’il soit mis dans le second coffret divin des parfums d’oliban, de bois d’aloès,
+et du storax calamitus, et on le couvrira d’une pièce de soie blanche. Voici les noms du sceau :
+Steloen, Adonay, Pius, Anabona, Aranithan, comme on peut mieux le voir sur le dessin. 
+Les cierges sont allumés lors de l’opération, et non lors de la préparation. Que tu aies ta requête écrite sur un papier vierge, 
+en ne réclamant rien qui ne corresponde aux offices de cette altitude ! Dépose ladite requête à côté du sceau, dans le coffret.</p></div>
+<div n="4" type="section"><p> Note que ce sceau convient pour toutes les altitudes et toutes les opérations, mais il faut confectionner un saint Hahelaon 
+en fonction des altitudes. Pour la première altitude, on le confectionne avec de la cire blanche, ainsi que les cierges. 
+Pour la seconde, on confectionne le Saint Hælaon de la seconde altitude, ainsi que les cierges, avec la cire de couleur rouge. 
+Pour la troisième, le saint Hælaon de la troisième altitude, ainsi que les cierges, avec de la cire safran. 
+Pour la quatrième, le saint Hælaon de la quatrième altitude, ainsi que les cierges, avec de la cire bleue. 
+Pour la cinquième, le saint Hælaon de la cinquième altitude, avec de la cire de couleur verte. 
+Pour la sixième, le saint Hælaon de la sixième altitude avec de la cire violacée. 
+Pour la septième, le saint Hælaon de la septième altitude, avec de la cire de couleur chair. 
+Pour la huitième, le saint Hælaon de la huitième altitude avec de la cire de couleur verte et bleuâtre. 
+Pour la neuvième, le Saint Hælaon de la neuvième altitude avec de la cire couleur de lin.</p></div>
+<div n="5" type="section"><p> Voici maintenant le saint Stælaon des altitudes occidentales. 
+Pour la première altitude, on le confectionne avec de la cire de couleur verte. Il est de même pour les cierges. 
+Pour la seconde, celui de la seconde, avec de la cire rouge. 
+Pour la troisième, celui de la troisième avec de la cire dorée. 
+Pour la quatrième, celui de la quatrième avec de la cire blanche. 
+Pour la cinquième, celui de la cinquième avec de la cire couleur de lion. 
+Pour la sixième, celui de la sixième avec de la cire rousse. 
+Pour la septième, celui de la septième avec de la cire de couleur verte.</p></div>
+<div n="6" type="section"><p> Voici maintenant le saint Stahelaon des altitudes méridionales. 
+Pour la première, on confectionne le saint Stahelaon de la première altitude et ses cierges dans cette altitude avec de la cire couleur de safran. 
+Pour la seconde, celui de la seconde avec de la cire de couleur blanche, mais sombre. 
+Pour la troisième, celui de la troisième avec de la cire violacée. 
+Pour la quatrième, celui de la quatrième avec de la cire couleur de fleur de pêcher. 
+Pour la cinquième, celui de la cinquième avec de la cire couleur chair. Idem pour les cierges.</p></div>
+<div n="7" type="section"><p> Voici maintenant le saint Stælaon de l’altitude septentrionale. 
+Pour la première, le premier saint Stahelaon de la première altitude, ainsi que les cierges, avec de la cire noire. 
+Pour la seconde, le second saint Stahelaon de la seconde altitude, ainsi que les cierges, avec de la cire de couleur sang. 
+Pour la troisième, le troisième saint Stahelaon de la troisième altitude, ainsi que les chandelles, avec de la cire de couleur noire, mais claire.</p></div></div> 
+
+
+<div><p>Figure 1.
+<pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_1.jpg"/>
+La manière dont doit être façonné le saint Stahelaon
+Sur le second coffret : THETAGRAMMATON
+Sur le premier coffret, au centre : HEL
+Ensuite à l’angle 1. Hynoytheon
+2. Pthiaeumaton
+3. Anbona
+4. Yhehoua</p></div>
+
+<div><p>Figure 2
+<pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_2.jpg"/>
+Sur le second coffret : THETHAGRAMMATON
+Sur le premier coffret, au centre : HEL
+Ensuite à l’angle 1. Hynoytheon
+2. Ptihæumaton
+3. Anabona
+4. Ihehoua</p></div>
+
+<div n="6" type="chapitre"><div n="1" type="section"><p> Il faut savoir que toutes les altitudes orientales exercent leur pouvoir et leur puissance le jour du soleil, et à son heure, 
+et le temps de l’opération va du début du jour du soleil jusqu’à midi.</p></div> 
+<div n="2" type="section"><p> Toutes les altitudes occidentales exercent leur puissance et leur pouvoir le jour de ♂, c’est-à-dire celui de Mars, 
+et le temps de l’opération va du midi jusqu’au coucher du soleil.</p></div> 
+<div n="3" type="section"><p> Toutes les altitudes méridionales exercent leurs pouvoir la nuit de ♃, c’est-à-dire celle de Jupiter, 
+et il faut que le temps de l’opération commence à partir de la troisième heure de la nuit pour aller jusqu’à la huitième.</p></div> 
+<div n="4" type="section"><p> Toutes les altitudes septentrionales exercent leur puissance et leur opération a lieu le jour de ♄, 
+c’est-à-dire de Saturne, et à son heure, lorsque la lune décroît, si c’est pour une mauvaise fin ; 
+sinon, pour une bonne fin, la nuit de ☿, c’est-à-dire celle de Mercure, en commençant l’opération 
+à partir de la deuxième heure (ou bien la première) de la nuit jusqu’à la neuvième, la lune croissante, un jour pair.</p></div> 
+<div n="5" type="section"><p> Il faut savoir aussi que tous ces très saints Hahelam doivent être faits de la même façon que le premier 
+de l’altitude orientale, et qu’il n’y a pas d’autre différence entre eux que leur couleur. 
+Il faut aussi écrire sur les autres tous les noms écrits sur le premier, et ils doivent être faits comme il est indiqué plus haut.</p></div></div>
+<div n="7" type="chapitre"><div n="1" type="section"><p> Il faut savoir que toutes ces altitudes ont des suffumigations distinctes ; 
+pour cette raison, nous les avons notées, tout d’abord pour les altitudes orientales. 
+Il faut suffumiger la première altitude orientale avec des odeurs d’oliban et de costus. 
+En deuxième, la deuxième avec des odeurs de myrrhe et de mastic. 
+En troisième, la troisième avec des odeurs de camphre et de cannelle. 
+En quatrième, la quatrième avec des odeurs de bois de santal rouge et de safran. 
+En cinquième, la cinquième avec des odeurs de clous de girofle. 
+En sixième, la sixième avec des odeurs de storax calamitus, et de cannelle. 
+En septième, la septième avec des odeurs d’oliban et de safran. 
+En huitième, la huitième avec des odeurs de santal et de myrrhe. 
+En neuvième, la neuvième avec des odeurs de bois d’aloès et de benjoin.</p></div>
+<div n="2" type="section"><p> Voici maintenant les suffumigations des altitudes occidentales. 
+Il faut suffumiger la première altitude occidentale avec des odeurs de cannelle et de storax calamitus ; 
+la seconde avec des odeurs de safran et de camphre ; la troisième avec des odeurs d’encens et de myrrhe ; 
+la quatrième avec des odeurs de benjoin et de clous de girofle ; la cinquième avec des odeurs de storax et de safran ; 
+la sixième avec des odeurs de camphre et de benjoin ; la septième avec des odeurs de racines d’herbe à fie et d’angélique.</p></div>
+<div n="3" type="section"><p> Suivent maintenant les suffumigations des altitudes méridionales. Il faut suffumiger la première altitude méridionale 
+avec des odeurs de safran et de storax calamitus ; la seconde avec des odeurs d’encens et de racines d’iris; 
+la troisième avec des odeurs, avec des odeurs de myrrhe et de racines de pois chiche; 
+la quatrième avec des odeurs de camphre et de storax calamitus ; la cinquième avec des odeurs de racines d’asaret et de bois d’aloès.</p></div>
+<div n="4" type="section"><p> Suivent maintenant les suffumigations des altitudes septentrionales. La première avec des odeurs de storax et de cannelle ;
+ la seconde avec des odeurs de bois d’aloès et de camphre; la troisième avec des odeurs de myrrhe et d’encens.</p></div></div> 
+<div n="8" type="chapitre"><div n="1" type="section"><p> Il faut savoir que pour toutes les altitudes autant orientales, qu’occidentales, méridionales et septentrionales, 
+pour une bonne fin, il faut entreprendre ces opérations par un temps serein et clair, et non nuageux, 
+la lune croissante, un jour pair ; mais si c’est pour une mauvaise fin, 
+il faut les entreprendre de la manière contraire, c’est-à-dire par un temps nuageux.</p></div> 
+<div n="2" type="section"><p> Note qu’il faut fabriquer le stylet d’argent le jour du Soleil, à l’heure de ☿, c’est-à-dire de Mercure, 
+alors que la lune est croissante, et avec celui-ci, écris ces mots : ceci est le saint Stælaon.</p></div> 
+<div n="3" type="section"><p> Note que sur le second coffret, doit être écrit au moment de l’opération (la prière accomplie ?),
+ avec le stylet, le nom du grand Seigneur et Créateur de toutes les créatures qui est Thethagramaton, comme sur le dessin.</p></div> 
+<div n="4" type="section"><p> Note que tous les princes de toutes les altitudes ont des couleurs et des odeurs pour chacun d’entre eux, 
+ et sur l’ordre de Dieu omnipotent, ils règnent et gouvernent le monde, et font naître et se corrompre les couleurs et les odeurs, 
+ comme il leur semble.</p></div> 
+ <div n="5" type="section"><p> Note qu’il faut fabriquer le très saint Stahelaon, comme nous l’avons dit, 
+ le jour de ☿, c’est-à-dire de Mercure, lorsque la lune est croissante, pour une bonne fin, 
+ ou le contraire pour une mauvaise fin. Lorsqu’il est achevé, qu’il [le maître de l’Art] 
+ le dépose dans un lieu très pur. Et, avant qu’il ne soit déposé, il faut le suffumiger 
+ avec les odeurs propres à cette altitude et au moment de l’opération ; 
+ et ceci de la manière qu’il faut dire.</p></div> 
+<div n="6" type="section"><p> Note qu’il faut écrire les noms et les sceaux sur chacune des deux faces du coffret, et que notre sceau est suffisant 
+ pour les deux autres faces.</p></div></div>
+<div n="9" type="chapitre"><div n="1" type="section"><p> Des préparatifs du maître de l’Art.
+Avant l’opération, il est nécessaire que le maître de l’Art se tienne dans un lieu à l’écart et seul, 
+ou alors avec un seul compagnon très fidèle, et qu’il ait une pièce nettoyée de toutes les ordures et les immondices.</p></div> 
+<div n="2" type="section"><p>Avant la préparation, qu’il la suffumige avec des odeurs de l’altitude qu’il veut faire apparaître durant 
+un intervalle de cinq jours, deux fois par jour ! À la fin des cinq jours, il doit jeûner trois jours ; 
+et matin et soir. Ensuite, il doit suffumiger la pièce avec les odeurs propres à l’altitude qu’il veut faire apparaître.</p></div> 
+<div n="3" type="section"><p> À la fin de la suffumigation, il doit réciter les psaumes de notre père David à savoir 
+les 71 ; 142 ; 85 ; 45 ; 16 ; 5 ; 1. Ceci terminé, il faut adresser cette prière à Dieu à genoux, au milieu de la pièce :</p></div></div>
+<div n="10" type="chapitre"><div n="1" type="section"><p> Prière. « Dieu d’Abraham, Dieu d’Isaac, Dieu de Jacob, Dieu de Moïse, Dieu de tous ceux qui espèrent en toi, 
+mon Dieu et protecteur de ma vie, Seigneur, ô Très Bienveillant, Seigneur, je prie ta divine Majesté autant
+ que je peux prier afin que tu daignes concéder une telle grâce à moi ton serviteur n. (n. pour dire nom).</p></div> 
+ <div n="2" type="section"><p> et que tu m’accordes de pouvoir et vouloir faire moi-même l’opération que je veux entamer, et daigne accorder 
+ une telle grâce à la requête de mon cœur, comme il n’y a aucune tromperie, par ta très grande puissance et ton pouvoir.</p></div> 
+<div n="3" type="section"><p>Seigneur, mon Dieu, prête l’oreille pour écouter ma prière, rends-toi attentif à la voix de l’humble supplication
+ que je te présente, lorsque je te prie, lorsque je te prie, lorsque j’élève mes mains vers ton saint temple. 
+ Ainsi soit-il, ainsi soit-il, ainsi soit-il ».</p></div>
+
+<div n="4" type="section"><p> Note qu’il faut que dans la pièce, une table soit recouverte d’une toile de lin, et que sur la table, 
+le maître de l’Art dépose le saint Stahelaon avec la plus grande vénération, et à genoux, 
+qu’il fumige celui-ci avec les odeurs des altitudes après qu’il est façonné. La suffumigation achevée, qu’il dise ceci :</p></div></div> 
+<div n="11" type="chapitre"><div n="1" type="section"><p> Prière
+« Dieu, dont la divinité est sans fin, Dieu créateur de toutes les créatures, le commencement et la fin, 
+Dieu Adonay, Dieu Iahoua, Dieu Cados, et Dieu de tous ceux qui espèrent en toi, Dieu très vertueux ainsi que très sage, 
+Sauveur des cœurs, ais pitié de moi, entends ma prière, sois attentif à la voix de ma prière, lorsque je crie vers toi, 
+lorsque j’élève les mains vers ton saint temple.</p></div> 
+<div n="2" type="section"><p> Mais toi, ô mon Dieu, tu es doux, véritable, et patient, 
+et gouvernes tout par ton conseil, Seigneur Dieu, toi qui es assis sous les Chérubins, c’est toi seul qui est le Dieu 
+de tous les rois du monde, c’est toi qui as fait le ciel et la terre, prête l’oreille et exauce-moi, ouvre les yeux, 
+Seigneur, et considère ! Exauce toutes mes paroles et exauce-moi.</p></div> 
+<div n="3" type="section"><p> Dieu, toi qui a créé l’homme de terre et l’as formé à ton image,
+ tu l’as fait rentrer ensuite dans la terre d’où tu l’avait pris, et tu l’as revêtu de force selon ta nature divine, 
+ tu lui as marqué le temps et le nombre de ses jours, et lui as donné pouvoir sur tout ce qui est sur la terre.</p></div> 
+<div n="4" type="section"><p> Tu l’as fait craindre de toute chair, et lui as donné l’empire sur les bêtes et sur les oiseaux, 
+ et tu as créé de sa substance un aide semblable à lui, tu leur as donné le discernement, une langue, des yeux et des oreilles 
+ et un esprit pour penser, et les as remplis de la lumière de l’intelligence, tu as créé dans eux la science de l’esprit, 
+ tu as rempli leur cœur de sens, et tu leur a fait voir les biens et les maux.</p></div> 
+<div n="5" type="section"><p> Rappelle-toi, Dieu très bienveillant, 
+ que tu as dit que ta miséricorde était bâtie pour l’éternité. Exauce ma voix, très pieux Seigneur, et accorde la requête de ma voix. 
+ Ainsi soit-il, ainsi soit-il, ainsi soit-il ».</p></div> 
+<div n="6" type="section"><p> Et ceci doit être préparé avant que le maître de l’Art n’entame son opération.</p></div></div> 
+<div n="12" type="chapitre"><div n="1" type="section"><p> Note que pendant que le maître de l’Art prie à genoux, il faut que six cierges soient allumés sur l’autel. 
+Lorsque la prière susdite est terminée, il devra écrire avec la plus grande dévotion le grand et terrible Nom, 
+c’est-à-dire le gracieux Thethagramaton, en majuscules, avec un stylet d’argent. 
+Il faut écrire cedit saint Nom sur le second coffret, comme nous l’avons dit. 
+Il faut que le maître de l’Art ait écrit sa requête sur un papier vierge, et qu’il le mette à côté du sceau, 
+comme nous l’avons indiqué précédemment.</p></div>
+<div n="2" type="section"><p> Ensuite, avec une très grande vénération, qu’il allume les cierges du très saint Stahelaon, 
+et après qu’elles aient été allumées, qu’il suffumige à nouveau le très saint Stahelaon ! 
+La suffumigation terminée, à genoux, qu’il entame son opération de cette manière !</p></div> 
+<div n="3" type="section"><p> Nous avons dit auparavant que le premier coffret ne doit pas être creux — et il ne doit pas être creux. 
+Cependant, il devra être pratiqué un trou vers l’intérieur par le maître de l’Art avec un stylet d’argent jusqu’au saint nom Stahelaon.
+ À l’intérieur, il devra déposer le sceau de l’altitude et les caractères des princes, avec leurs noms appropriés. 
+ Ensuite, il devra fermer le trou. Avant que le maître de l’Art n’ait mis le sceau de l’altitude et les caractères 
+ des princes dans le trou, il doit suffumiger ceux-ci avec leurs odeurs caractéristiques.</p></div> 
+<div n="4" type="section"><p> Note que les sceaux et les caractères des princes doivent être écrits sur un papier vierge, 
+ avec les couleurs caractéristiques de cette altitude, ou sur une pièce d’étoffe de soie de la même couleur, avec du safran, 
+ de l’eau de rose et du musc.</p></div> 
+<div n="5" type="section"><p> Il faut savoir que les sceaux des altitudes orientales doivent être écrits 
+ avec une plume d’aigle, ainsi que les caractères des princes. Les sceaux des altitudes occidentales 
+ et les caractères de leurs princes doivent être écrits  avec une plume de paon.</p></div> 
+<div n="6" type="section"><p> Les sceaux des altitudes méridionales ainsi que les caractères de leurs princes sont écrits avec une plume de ~ pape 
+ tirée de l’aile gauche. Les sceaux des altitudes septentrionales de même que les caractères de leurs princes doivent être écrits 
+ avec une plume d’hirondelle tirée de l’aile droite s’il s’agit d’une bonne fin, ou avec la plume d’un coq noir 
+ s’il s’agit d’une mauvaise fin.</p></div> 
+<div n="7" type="section"><p> Voici quels sont les sceaux et les caractères des altitudes occidentales, 
+ mais nous les indiquerons ensuite pour les autres altitudes qui suivent :</p></div></div>
+<div><p>Figure 3
+<pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_3.jpg"/>
+Sceau de la première altitude orientale
+Caractères des princes</p></div>
+
+<div><p>Figure 4
+<pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_4.jpg"/>
+Sceau de la seconde altitude orientale 2.</p></div>
+
+<div><p>Figure 5
+<pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_5.jpg"/>
+Sceau de la troisième altitude</p></div>
+
+<div n="13" type="chapitre"><div n="1" type="section"><p> Il faut savoir qu’il faut que le maître de l’Art écrive le sceau de l’altitude et les caractères des princes 
+à l’heure de l’opération. Il faut ensuite mettre ceux-ci dans un trou. Que celui-ci soit ensuite fermé, 
+et que le maître de l’Art poursuive son opération !</p></div> 
+<div n="2" type="section"><p> Nous avons indiqué précédemment que le maître de l’Art doit suffumiger à genoux le très saint Hælaon. 
+La suffumigation terminée, il doit entamer la conjuration, comme il est dit dans le traité suivant, encore à genoux.</p></div></div>
+<div n="14" type="chapitre"><div n="1" type="section"><p> Note. Il faut cependant savoir que cette préparation ou prière qui commence par « Dieu d’Abraham, Dieu d’Israël », 
+doit être dite avant la première heure de la planète qui est efficace pour cette altitude. 
+De même, il faut savoir que le maître de l’Art doit aussi rester agenouillé pendant qu’il écrit le sceau de l’altitude 
+et les caractères des princes.</p></div> 
+<div n="2" type="section"><p> Ceci est l’invocation ou conjuration des princes de l’altitude 
+et il faut que le maître de l’Art la dise avec une grande force, et il doit croire qu’il obtiendra avec certitude 
+la requête de son cœur qu’il a mise à côté du sceau, dans le premier coffret, lequel repose sur le saint Hahelaon,</p></div> 
+<div n="3" type="section"><p>comme nous en avons fait l’expérience, et que nous avons eu tout ce que nous avons souhaité. 
+Il faut prononcer en premier le nom de l’altitude et ensuite le nom des princes de cette altitude. 
+Le maître de l’Art doit rester à genoux tandis qu’il dit ceci.</p></div></div>
+<div n="15" type="chapitre"><div n="1" type="section"><p> Invocation ou conjuration
+« J’adore le saint nom de Dieu, adorable dans l’éternité, ainsi que vous, pouvoirs célestes et puissances angéliques 
+qui obéissez même à contre-cœur à votre créateur. J’adjure, j’exhorte, et je supplie le Dieu saint, le Dieu vivant, 
+le Dieu vrai, créateur de toutes les créatures visibles et invisibles, par le diadème, la couronne de sa tête, 
+par son nom qui doit être craint de toutes les créatures célestes, terrestres, et infernales, et qui s’écrit en quatre lettres, 
+c’est-à-dire Voth, Beth, Agla, Aenar.</p></div>
+<div n="2" type="section"><p> et tous les autres noms connus de nous qui sont ceux-ci, à savoir On, Caph, Adicarday, 
+Cby, On Abuinon, Ydios, Tetragrammaton, Emanuel, Adonay, Agloto, Pantongraton, Hussio, Hel, Hely, Heloy, Heloa, Helya, 
+Helyen, Elyoa, Elyona, Ely, Vasala, Valy, Teul, Vaul, Vau, Seu, Signasis Aghetan, Abyonitas, Ieue, Techtron, 
+Techtron, Alausim, Chalbatl, Iobel, Onio Vna Saluator, A et Ω, Je Suis Celui Qui Est, Aehec Sehoua, Anabona,
+ Ysaron, Alyeon, Syalos, Ane, Adneth, Esba, Athoth, Yotlya, Ayan, Ayac, Dyeron, Zasaday, Oin, Vlath, Vnias, 
+ Yonas, Otheth, Ihegh, Abamor, Adyos, Vertahel, Bemon, Zeloy, Zeray, Manay, Alba, Abatha, Nethon, Auhulo, Anarna, 
+ Sanel, Ferglaon, Dayclan, Machanhal, Agya, Aray, Looh, Pothozetda, Zelietenero, Aga, Betha, Than, Opeto, Ypatos, Sosa, 
+ Sayeth, Bonsaga, Arasy y Ael, Lanur, Abyacs, Bagoge, Byonel, Ogogo, Asæ, Faufalon, Alon, Vla, Elaon, Heman, Halla, 
+ Euay, Lienederon, Thegal, Seghahab, Zachyhe, Achata, Abratha, Abrateh, Athamay, Anahoman, Yota, Yot, Onan, Nathaman,
+  Ban, Tagas, Gadeon, Iehu, Ogiron, Vzion, Orinhi, On, Oleha, Dansath, Neouul, Soray, I, Iender, Onoico, Agor, Sahuh, Vam,
+   Hemon, Vam, Amas, Saophay, Abgiach, Ylen, Araham, Eyn, Castos, Rabo, Sey, Gule, Hase, Cassiacolo, Igas, Taco, Orchie, 
+   Aranel, Aimix, Sarsamahehim, Malathim, Sabachyssim, Osturmina, Hel, Sarday, Panthangramaton, Edicos, Pachay, Moel, Medandala, Nehauch, 
+   Soray, Cados, Nau, Anona, Alabay, Amura, Araora, ARANTHAN, Homousyon, Esenehye, Achata, Au, Ah, Iender, Cos, Zhye, Hhasidz, 
+   Zadie, Seday, Gibor, Hhesed, Relsidion, Malahahh, Ruaahhton, Mesahh, Tazahh, Nispha, Abtyso, Abhelahb Ylen, Eyhelnas, Rasni, 
+   Fas, Ary, Rirhohh, Heehfilo, Hemehey, Lehohth, Nyas, Glagla, Asato, Hascheye, Aumar, Sol, Thauth, Va, Benchi, Sthason, Adonias, 
+   Adon, Abiashar, Abiagail, Elcana, Elnathan, Ezieniel, Cois, Sachiel, Sedecsias, Sadael, Ozielozias, Meschias, Manahem, Fesitas,
+    Iohacas, Ieosna, Selum, Somer, Thari, Salomich, Phanuel, Oscheo,</p></div> 
+<div n="3" type="section"><p>pour que vous accomplissiez cette sainte requête, 
+    qui est sur le Saint Hahelaon, à côté du sceau, et qui doit être accomplie par votre office. Vous,
+     ô puissances angéliques resplendissantes, dignement choisies et prédestinées par Dieu, accomplissez cette requête. 
+     Amen. Ainsi soit-il, ainsi soit-il, ainsi soit-il ».</p></div></div>
+<div n="16" type="chapitre"><div n="1" type="section"><p> L’invocation terminée, apparaîtra un seul prince de cette altitude, vêtu d’une longue stole blanche, 
+et sous l’apparence d’un jeune homme très beau, portant des fleurs de roses sur sa tête, à la manière d’une couronne.
+ Que le maître de l’Art ait alors un petit vase, une sorte de praxède neuf, et à l’intérieur, qu’il mette des charbons embrasés 
+ obtenus à partir de romarin, et par-dessus, qu’il jette les substances des odeurs de l’altitude !</p></div> 
+<div n="2" type="section"><p> Et aussitôt que celui-là sentira les odeurs, il parlera alors avec douceur au maître de l’Art. 
+Et il dira : « Que réclames-tu ? Pourquoi appelez-vous les princes de notre altitude ? ». 
+Et que le maître de l’Art réponde avec vénération que cette requête incombe à leur office, 
+« elle devrait m’être accordée par eux ».</p></div> 
+<div n="3" type="section"><p> Et le maître de l’Art doit dire sa requête en ne réclamant pas quelque chose qui ne concerne pas leur office. 
+Et sans aucun doute, il obtiendra sa requête. Alors, celui-là répondra : « Nous te concédons ta requête », 
+et il donnera au maître de l’Art un signe, et un nom inconnu des hommes.</p></div> 
+<div n="4" type="section"><p> Et quand celui-ci voudra ensuite parler avec lui, qu’il suffumige, et à genoux, qu’il dise le nom du prince 
+de cette altitude ! Celui-ci viendra et parlera avec lui.</p></div></div> 
+<div n="17" type="chapitre"><div n="1" type="section"><p> Note. Et note, ô maître de l’Art, que tu dois dire trois fois l’invocation, avec la plus grande vénération, 
+les mains lavées à l’eau de rose, avec le sceau du grand Dieu, les sceaux et les chandelles du saint Hahelaon, 
+un jour au nombre pair, sinon il ne viendra pas. Et ensuite, tu remettras le sceau dans son lieu,
+ et tu réitéreras deux autres fois la prière, et, sans aucun doute, avant que la lumière ne vienne sur la forme du sceau, 
+ le messager apparaîtra, et tu obtiendras tout ce que tu auras voulu.</p></div> 
+<div n="2" type="section"><p> Après que le prince aura donné au maître 
+ de l’Art le nom inconnu et accordé satisfaction à la requête de son cœur, le maître de l’Art doit à genoux 
+ lui faire une autre suffumigation avec les odeurs de cette altitude et, ceci terminé, dire avec vénération :</p></div> 
+<div n="3" type="section"><p> « Je vous remercie grandement, princes de l’altitude » et il faut nommer le nom de l’altitude, 
+ « parce que tu as donné satisfaction à mon vœu, ô puissance incompréhensible, pour cette raison, vois mon cœur 
+ et demande ce que tu veux, car je suis prêt à tout faire ».</p></div> 
+<div n="4" type="section"><p> Alors, celui-ci parlera avec le maître de l’Art
+  avec une très grande gravité, et après l’avoir évoqué, le maître de l’Art se relèvera alors et il éteindra les cierges. 
+  Et avec la plus grande vénération, qu’il range le saint Hahelaon dans un lieu très propre, avec les odeurs de cette altitude.</p></div></div> 
+<div n="18" type="chapitre"><div n="1" type="section"><p> Sache, ô maître de l’Art, que quand tu fais ton opération, tu dois te vêtir d’un vêtement blanc comme la tunique d’un prêtre. 
+Et sur ce vêtement, il faut écrire avec les couleurs de l’altitude ces noms et ces caractères, comme il apparaîtra sur le modèle.</p></div> 
+<div n="2" type="section"><p> et après que tu auras commencé, le suffumiger avec les odeurs de l’altitude. Note que tu dois écrire les noms 
+et les caractères sur le vêtement le jour ☿, c’est-à-dire de Mercure, et à l’heure du Soleil, la Lune croissante, un jour pair</p></div> 
+<div n="3" type="section"><p> Et ensuite, il faut le conserver dans un lieu très propre et au moment de l’opération (et non de la préparation), 
+le revêtir, et l’opération terminée, le laver avec de l’eau de rose, et le ranger,</p></div> 
+<div n="4" type="section"><p> Et pour toutes les altitudes, 
+il faut écrire les noms sans nulle autre différence que la couleur. Il peut être porté pour toutes les opérations. 
+Je devais dire de nombreuses autres choses, mais puisque j’ai appris qu’elles ne sont pas importantes, 
+je vais mettre fin pour cette raison à l’Hynothitheo.</p></div> 
+<div n="5" type="section"><p>Et sache, ô maître de l’Art, que ce livre est meilleur qu’un trésor puisque si tu fais les opérations de l’altitude,
+ tu auras ce que tu auras souhaité. 6 Et sache que nous avons mis en œuvre toutes les altitudes, 
+ et elles sont authentiques puisque nous avons eu ce que nous avons souhaité. 
+ Ce livre peut véritablement être appelé le trésor des trésors. 
+Fin</p></div></div>
+<div><p>
+Figure 6
+<pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_6.jpg"/>
+Dessin de la tenue du maître de l’Art
+Sur la manche droite : ELIZBETH
+Sur la manche gauche : ABESSALOM
+En triangle : AVORRA ADONAY EMANVEL
+Dans le bas : OZA caractères SAPHAD
+« De l’autre côté » : ELCANA caractères ELIMELGH caractères</p></div>
+
+<div n="19" type="chapitre"><div n="1" type="section"><p> Nous avons indiqué précédemment qu’il fallait réaliser le grand sceau de Dieu et graver les noms sur celui-ci, 
+comme ci-dessus, mais nous n’avons indiqué ni la manière ni le moment où il doit être fabriqué.</p></div> 
+<div n="2" type="section"><p> Pour cela, il faut réaliser le sceau le jour ♃, c’est-à-dire de Jupiter ou du Soleil, à l’heure ☿, 
+c’est-à-dire de Mercure, et il faut graver les noms et les signes comme sur le modèle, le jour du Soleil ou ♀, 
+alors que la lune est croissante, un jour pair, et à son heure, ou à l’heure de Jupiter.</p></div> 
+<div n="3" type="section"><p> Et après que le sceau aura été achevé, le maître de l’Art doit suffumiger celui-ci avec des odeurs de 
+bois d’aloès, de costus, de storax calamitus, de benjoin et d’oliban. La suffumigation achevée, 
+il doit le reposer dans le saint Hahelaon.</p></div> 
+<div n="4" type="section"><p> Et sache que ce sceau est utilisable pour toutes les altitudes, 
+et aussi que l’opération achevée, il faut le conserver dans une pièce de soie rouge avec ces odeurs. 
+Et il faut le mettre dans un coffret de bois, avec une très grande vénération.</p></div> 
+<div n="5" type="section"><p>Sache que la suffumigation achevée, tu dois, à genoux, et avec vénération, adresser cette prière à Dieu.</p></div></div>
+<div n="20" type="chapitre"><div n="1" type="section"><p> Prière :
+« Adonay, Saday, Heloyn, qui es l’Alpha et l’Oméga, c’est-à-dire le commencement et la fin, 
+sans commencement et sans fin, en qui l’homme vivant apprend, Roi suprême, 
+Empereur au-dessus de tout, qui es Dieu, Roi des rois et Seigneur des seigneurs, 
+qui es aussi pieux, miséricordieux, clément, bon, glorieux,</p></div> 
+<div n="2" type="section"><p> tenant le monde dans ta main ; 
+tout ce qui est créé est en ton pouvoir, tu le conserves, toi qui tiens fermement l’étendue des cieux, 
+toi qui sondes les trônes et les abîmes, toi qui pèses les montagnes, et qui tiens 
+la grande Terre au creux de ta main, toi qui as fait les esprits angéliques, et une flamme ardente.</p></div> 
+<div n="3" type="section"><p>toi qui fais sortir les vents de ses (sic) trésors, et qui marches sur les ailes du vent, toi qui as frappé 
+les premiers-nés de l’Égypte, depuis l’homme jusqu’à la bête, qui séparas la lumière d’avec les ténèbres,
+ qui fit les grands corps lumineux, le Soleil et la Lune,</p></div> 
+<div n="4" type="section"><p> Dieu d’entière miséricorde, moi, ton serviteur (nom : ),
+  j’exhorte ta très précieuse Majesté à m’accorder la requête de mon cœur, grâce à ton très grand pouvoir.
+   Amen. Ainsi soit-il, ainsi soit-il, ainsi soit-il ! »</p></div></div>
+<div><p>
+Figure 7.
+<pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_7.jpg"/>
+Ceci est le grand sceau de Dieu
+HELOEN ADONAY PIUS ANABONA ARANITAN
+Ceci est la seconde partie du sceau
+THETHAGRAMMATON ANABONA IHEHOVA HELOEN A W ADONAY
+</p></div>
+</div>
+</div>
+</body>
+</text>
+</TEI>

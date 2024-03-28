@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="normal">Almadel  Art</title>
+                <title type="source">Manuscrit London, British Library, Sloane 3825</title>
+                <title type="medium">transcription électronique</title>
+                <author>inconnu</author>
+                <respStmt>
+                    <resp>Transcription du manuscrit, encodage XML</resp>
+                    <name type="person" xml:id="NC">Nicolas Corre</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Royaume Uni</country>
+                        <settlement>Londres</settlement>
+                        <repository>British Library</repository>
+                        <idno>Sloane 3825</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>papier</support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height></height>
+                                        <width></width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="transcription" xml:lang="engl">
+                <head>Almadel Art</head>
+                <div>
+
+                   
+<p>Here beginneth the fourth part of this Booke which is called
+Salomons <name type="divin">Almadel</name> Art By this Rule <name>Salomon</name> obtained great wisdom from the cheefe Angells that governe the 4 Altitudes 
+of the world for you must observe [that] there be 4 Altitudes, representing the 4 corners of the world, East, West, North and South. 
+The which are divided into 12 parts, that is, every part or Altitude into 3, and the Angells of every of these altitudes 
+have their particulars vertues and powers, as shall be shewed in this following matter etc c c.</p>
+<p>Make the <name>Almadel</name> of pure white wax, but [+the others must be] colloured sutable to the altitude [as will be shown]; 
+it is to be four squares [square], and six inches [over] every way; and in every corner a hole and write betwixt every hole with a new pen, 
+These words or names of god, following, but this is to be done in the day and hour of Sol.</p>
+<p>Write upon the first part towards the East,
+<name type="divin">Adonai</name>, <name type="divin">Helomi</name>, <name type="divin">Pine</name>,
+and upon the second towards the south, 
+<name type="divin">Helion</name>, <name type="divin">Heloi</name>, <name type="divin">Heli</name>, 
+and upon the west part: 
+<name type="divin">Jod</name>, <name type="divin">Hod</name>, <name type="divin">Agla</name>:
+and upon the fourth part which is the north write these names: 
+<name type="divin">Tetragrammaton</name>, <name type="divin">Shadai</name>, <name type="divin">Jah</name>, 
+and betwixt the first and the other quarters make The Pentacle of <name>Salomon</name> thus  , 
+and betwixt the first and [the] other quarters write this word, <name type="divin">Anabona</name> and in the midle of the <name type="divin">Almadel</name> 
+make a six angled figure and in the middest off it a Triangle wherin must be written these names of god, <name type="divin">
+Hel</name>, <name type="divin">Helion</name>, <name type="divin">Adoni</name> [*<name type="divin">Adonai</name>],</p>
+<p>And this last name round in the 6 Angled figure, [as well,] as you may see in this figure, here made it being for an example etc.
+And of the same wax there must be made four Candles, and they must be of the same collour as the <name type="divin">Almadel</name> is of. 
+you must divide the wax into three parts, one part for to make the <name type="divin">Almadel</name> of, and the other 2 parts for to make the candles of,
+ and let there come forth from every one of them a foot made of ye same wax, for to suporte ye <name type="divin">Almadel</name> with; </p>
+<p>The golden seal
+This being done: in the next place you are to make a seal of pure gold or silver, but Gold is best wherein must be engraven 
+these three names: <name type="divin">Helion</name>, <name type="divin">Hellujon</name>, <name type="divin">Adonai</name>; etc c. </p>
+<p>Of the First chora or Altitude (East)
+Nota The first Altitude is called Chora Orientis or the East Altitude and to make any experiment in this Chora, 
+it is to be done in the day and houre of the Sun: and the power and office of those Angells is to make 
+all things fruitfull et encrease, both Animals et vegetables, in creation et generation; advancing the Birth of 
+[the] children et makeing barren women fruitfull, etc. Their names are those. viz, <name type="divin">Alimiel</name>, <name type="divin">Gabriel</name>, 
+<name type="divin">Borachiel</name>, <name type="divin">Lebes</name> et <name type="divin">Hellison</name>;</p>
+<p>Note: you must not pray for any Angells but those that belong to the same Altitude, you have a desier to call
+ forth. and when you operate, set the four candles upon 4 candle sticks, but be carefull you doe not light 
+ them before you begin to operate, then lay the <name type="divin">Almadel</name> between the four candles upon the waxen feet that cometh 
+ from the candles and lay the golden seal upon the <name type="divin">Almadel</name>, and [Then] haveing the Invocation redy written on virgins Parchment:
+  Light the Candles and read the Invocation as is set down at the latter end of this part etc c.</p>
+<p>And when he appeareth, he appeareth in the form of an Angell carrying in his hand a fan or flagg, having the picture of
+ a white cross upon it, his body is wrapped round about with a fair cloud, and his face very fair and bright, and a Crown 
+ of Rose flowers [is] upon his head: he descends first upon the superscription of ye <name type="divin">Almadel</name> as if it were a Mist or Fogg.</p>
+<p>Then must the exorcist have in readyness a vessell of Earth of ye same collour of [that] the <name type="divin">Almadel</name> is of, and the other 
+of his furniture, it being in the form of a Basin, and put therein a few hot ashes or coales but not too much lest it should 
+melt the wax of ye <name type="divin">Almadel</name>, et put therein 3 little grains of Masticke in powder, so that it fumeth and the smell may goe upwards 
+threw the holes of the <name type="divin">Almadel</name> when it is under it, and as soon as the angell smells it he beginneth to speake with a 
+low voice asking what your desier is and why you have called the princes and governers of his Altitude.</p> 
+<p>then you must Answer him, saying,
+I desire that all my requests may be granted, and what I pray for may be accomplished, for your office maketh appeare and
+ declareth that such is to be fullfild by you if it pleases god, etc, 
+adding further the particulars of your Requests praying with sincerity [and] humility for what is lawfull and Just and that 
+you shall indeed obtain from him:
+But if he doth not appear presently, you must then take the golden seal, And make with it three or four marks upon the candles,
+ by which means the angell will presently appeare as aforesaide: and when the Angell departeth he will fill the whole place with 
+ a sweet and pleasant smell which will be smelt a long time.</p> 
+<p>Nota. The golden seal will serve and is to be used in the operation of all the Altitudes. The Collour of the <name type="divin">Almadel</name> belonging 
+to the first Chora is lilly [lily] white. To the second Chora a Perfect red Rose Collour; The 3d Chora is to be a green mixt with
+ [a] white silver collour. The Fourth Chora is to be a black mixt with a little green of a sadd collour etc c c c c.</p> 
+<p>Of the second Chora or Altitude:
+Note: all the other three Altitudes with their signes and princes have power over goods and riches, and can make any man Rich or poor,
+ and as the first Chora giveth Encrease and maketh fruitfull, so these giveth decrease and Barrenness, etc c c c c.</p>
+<p>And if any have a desire to operate in any of the other 3 Choras or Altitudes, they must doe it on Sundays in the manner as above 
+is shewed; But doe not pray for anything that is contrary to the nature of their office, or against god and his laws, 
+but what God giveth according to the course of nature, that you may desier and obtaine, and all the furniture that is 
+to be used is to be of the same collour as the Almadel is of, and the princes of this second Chora are named as Followeth vizt: 
+<name type="divin">Alphariza</name>, <name type="divin">Genon</name>, <name type="divin">Geron</name>, <name type="divin">Armon</name>, 
+<name type="divin">Gereinon</name> etc.</p>
+<p>and when you operate kneel before the <name type="divin">Almadel</name> with cloathes of ye same collour in a closet hung with the same collours allso, 
+for the holy apparation will be of the same collour: and when he is appeared, put the earthen Bason under the <name type="divin">Almadel</name> with 
+fire and hott ashes and 3 graines of Mastic in poweder to fume as above written, and when the Angell smelleth the perfume, 
+he turneth his face towards you, asking the Exorcist with a low voyace why he called the princes of this Chora or Altitude,</p> 
+<p>then you must answer as before; saying:
+I desire that my Request may be granted, and the contents thereof may be accomplished, for your offices maketh appear 
+and declareth that such is to be done by you if it pleases god, etc: 
+you must not be fearfull but speak humbly saying etc: 
+I recomend my selfe wholy into your office, and I pray unto your princes of this Altitude that I may enjoy 
+[+and obtain all things according to my wishes and desiers, etc: </p>
+<p>you may further express your mind in all particulars in your prayer etc. doe the like in the 2 other Choras that follow etc.
+The Angell of this second Altitude appears in the form of a young childe with clothes of sattin and of a Red Rose collour, 
+haveing a crown of Red gilly flowers upon his head, his face looking upwards to heaven, and is of a Red Collour 
+and is compassed round about with a Bright splendour, as the Beams of the Sunn; and before he departeth he speaks to the Exorcist, 
+saying I am your friend and brother, and [he] Illuminateth the ayre round above with splendour, and [he leaveth a] pleasant smell,
+ which lasteth a long time, etc c c c c.</p>
+<p>of the Third Chora or Altitude
+In this Chora you are to doe in all things as you are before directed in the other Two. The Angells of this Altitude are named as foll: 
+vizt <name type="divin">Eliphamasai</name>, <name type="divin">Gelomiros</name>, <name type="divin">Gedobonai</name>, <name type="divin">Saranana</name>, 
+et <name type="divin">Elomnia</name>;
+ They appeare in the form of children or little women drest in green and silver collours, very delightfull to behold, 
+ and a crown of Bay leaves, beset with Flowers of white and green collours upon their heads and they seeme to 
+ look a little downwards with their faces, etc. They speak as the others doe to the Exorcist and leave a mighty, 
+ sweet perfume behind them, etc c c c c c.</p>
+<p>Of the fourth Chora or Altitude
+In this Chora you must doe as in the other [others], and the Angells of this Chora are called <name type="divin">Barchiel</name>, 
+<name type="divin">Gediel</name>, <name type="divin">Gabiel</name>, <name type="divin">Deliel</name>, et <name type="divin">Captiel</name>. etc. 
+These appeare in the forme of little men or Boys 
+with cloathes of a Black collour, mixt with a darke green and in their hands they hold a Bird which is naked et their 
+heads are Beare, only it is compassed round et Besett with Ivy [and] Berries. 
+The[y] are all very beautifull and comely and are compassed round with a Bright shineing of diveres [divers] colours. 
+They leave a sweet smell behinde them allso; but [it] differeth from the others something [somewhat] etc c c c c.</p>
+<p>[Of the proper times for invoking these angells]
+Nota: There are 12 princes rulling besides those in the 4 Altitudes, and they distribute their offices amongst themselves, 
+every one rulling 30 dayes [or thereabouts,] every yeare, now it will be in vain to call any of those Angells
+unless it be those that then governeth, For every Chora or Altitude, hath its limited time according to the 12 signs of the Zodiack 
+and in that [what] signe the Sunn is in. That Angell or those angells that belong to that signe have the government: 
+as for Example; suppose I would call the 2 first of those 5 that belong to the first Chora, Then chuse the first Sunday on March: 
+that is after the Sun is entred Aries , and then I make my Experiment; and so doe the like if you will
+the next Sunday after againe; But if you will call the 2 second that belong to ye first Chora, 
+Then you must take the Sundays that are in Aprill, after the Sun is entered Taurus .
+But if you call the last of the 5th [five] Then you must take those Sundays that are in May after the Sun  is entered Gemini ; 
+to make your Experiment in; doe the like in the other Altitudes, for they have all one way of working: 
+But the Altitudes have a Name formed severally in the substance of heaven even as a Character, for when the Angells 
+hear the names of god that are attributed to them they hear it by the vertue of that carecter [character]. 
+Therefore it is in vain to call any angell or spirit unless you knew [know] what names of god to call them by;
+ Therefore observe the forme of this Following conjuration, or Invocation etc c c c c.</p>
+<p>The Invocation [for to call forth any of the aforesaid angells]</p>
+<p>O thou great mighty and blessed angell of god, N, who ruleth as the cheefe et first governing angell in the first Chora or Altitude 
+in the East, under the great prince of the East whom you obey, and [who] is sett over you as king by the divine power of god, 
+<name type="divin">Adonai</name>, <name type="divin">Helomi</name>, <name type="divin">Pine</name>; who is the distributter et disposer of all things, holly in heaven and Earth and hell;
+ I the servant of that god <name type="divin">Adonai</name>, <name type="divin">Helomi</name>, <name type="divin">Pine</name>; 
+ which you obey, doe Invocate, Conjure et entreat thee N.that thou forthwith appeareth,
+et by the vertue et power of the same god, [<name type="divin">Adonai</name>, <name type="divin">Helomi</name>, <name type="divin">Pine]</name>, I doe command thee forth [by him whom you do obey 
+and who is set over you as king by the divine power of God, that you forthwith descend] ffrom thy order or please [place] 
+of abode to come into me, and shew thy selfe plainly and visibly here before me in this Cristall stone, in thy owne [and] 
+proper shape and glory speaking with a voice intelligible and to [unto] my understanding:</p>
+<p>O thou mighty and blessed angell N, who art by the power of god ordained to governe all vegetables and Animalls,
+ and causeth them, and all other creatures of god to spring, encrease, and bring forth according to their kinds and natures; 
+ I the servant of the same your god I doe entreat and humbly beseech thee to come and shew unto me all things that I shall desiere of you, 
+ so farr as in office you can, or be capable to perform, if god permitt to the same;</p>
+<p>O thou servant of mercy N, I entreat thee, and humbly beseech thee, in and by these 3 names of your true god, 
+<name type="divin">Adonai</name>, <name type="divin">Helomi</name>, <name type="divin">Pine</name>, And doe constraine you in and by this [powerful] name Anabona, 
+That thou forthwith appeareth vissibly and plainely in thy own proper shape and glory in and throwgh this Cristall stone; 
+That I may visibly see Thee, and audibly hear you speake unto me, That I may have thy blessed and Glorious angellicall assistance; 
+familiar, friendship, and constant society, communication and Instruction, both now and at all other times, 
+to Informe and rightly Instruct me in my Ignorant and depraved Intellect Judgement and understanding;
+ and to assist me both herein, and in all other truths, else what the Almighty Adonai, the King of Kings, 
+ The giver of all good gifts, shall in his Bountifull, and Fatherly Mercy be graceously pleased to bestow upon me; 
+ Therefore O thou blessed angell N. be friendly unto me, and doe for me, so farr as god hath given you power in office to performe, 
+ whereunto I move you in power and presence to appeare That I may sing with his holy Angells, O Mappa-la-man! Hallelujah amen.</p>
+<p>[Note this invocation is to be altered according to the Altitude and angell you wish to call forth.]
+When he is appeared, give him or them a kind entertainement, and then Aske what is Just and lawfull; and that which is proper 
+and suetable to his office, and you shall Obtaine it</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

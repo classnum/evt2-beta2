@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="normal">Liber Intelligentiarum</title>
+                <title type="source">Veronese 2012</title>
+                <title type="medium">transcription électronique</title>
+                <author>inconnu</author>
+                <respStmt>
+                    <resp>Transcription du manuscrit, encodage XML</resp>
+                    <name type="person" xml:id="NC">Nicolas Corre</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                      
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent>
+                                  
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="transcription" xml:lang="lat">
+                <head>Liber Intelligentiarum</head>
+                <div>
+
+ <div n="1" type="chapitre"><p> Rerum opifex, Deus, uirtutes creaturarum in summas altitudines omnium potestate 
+ regnorum creaturis rationalibus mirifice insignivit. 
+Deinde et operationes oportet per terminos rationis decoratarum uirtutum, 
+que sub xii altitudinibus primis in quibus angelice potestates quam plurimum enitescunt, 
+tamen a causalibus primis ordinationis assumpte originem trahere dinoscuntur, 
+per operationes cunctarum altitudinum recipere impressiones primas, que per communicationem earundem ab intelligentia prima hominibus 
+in uniuersis partibus terrarum tribuere asseruntur, ut per scientia Dei uiui que in specie sanctorum spirituum residere decernitur, 
+per operationes dictarum altitudinum hominibus elucescat</p></div>
+<div n="2" type="chapitre"><p>Habet enim decor harum altitudinum refulgenciam ameni splendoris, cuius uirtus existit 
+adequare hominibus intelligentias 
+et hominum intelligentias illustrare. Et in hoc quadripartitus est ordo, pro eo quaod in quatuor partibus celi potestates assumptarum 
+altitudinum uniuersaliter reperiuntur, uidelicet in partibus orientis tres, in medio celi tres, et in occidente tres,
+ quarum officia et uirtutes, subtiliter intuenti in sequentibus apparebunt</p></div>
+<div n="3" type="chapitre"><p> Unde sciendum est quod ista scientia archana hominibus illis conceditur, 
+in quibus ardor et affectio cordis cum naturali desiderio huius alme scientie et artis reperiri perhibetur. 
+Et ideo quidam apti sunt et bene dispositi ad hanc scientiam, quidam aptiores et melius dispositi, 
+quidam aptissimi et optime dispositi, et hoc non est propter aliud nisi propter inclinationem humani
+ intellectus erga finem huius alme artis, que supremum gradum tenet omnium ocultarum artium magice discipline.</p></div>
+<div n="4" type="chapitre"><p> Hec habet imprimare finem uite siue bonum, siue malum et dona grauita dare petentinn angelus 
+<name type="divin">Thaor</name>, 
+dies Solis, Aries, color albus, martius. 
+Sequitur de tribus altitudinibus orientis et primo de prima. 
+Sciendum est quod prima altitudo orientis est 
+Thaor et habet operationem et potestame suam die Solis, et cum illa altitudine disponuntur 
+initia et natiuitates natorum erga bonum et malum finem, et est principium partis celestis in oriente, 
+per quam cunctus nascentibus Deus elargitur gratuita sua bonitate dona </p></div>
+<div n="5" type="chapitre"><p> Et in ista altitudine ligantur fecunditates creaturarum et absoluuntur, 
+ut mulieres concipere et arbores fructificare queant. Et scias quod modus operationis huius altitudinibus est,
+ut sumatur <name type="divin">almadel</name> sapientissimi Salomonis de cera munda et alba, semiperdale quadratum, 
+et in quolibet angulo unum foramen sit, et intra foramen et foramen scribantur ista nomina cum stilo argenteo nouo, 
+die Solis et eius hora, que sunt hec.</p></div> 
+<div n="6" type="chapitre"><p> In prima quadra : <name type="divin">Adonay</name>, <name type="divin">Alyas</name>, 
+<name type="divin">Thelyon</name>, 
+<name type="divin">Eloy</name>, <name type="divin">Pius</name>. 
+In secunda quadra : <name type="divin">Helyon</name>, <name type="divin">Heloim</name>, <name type="divin">Helym</name>. 
+In tertia quadra : <name type="divin">Yoth</name>, <name type="divin">Beth</name>, <name type="divin">Agla</name>. 
+In quarta quadra : <name type="divin">Thetagramathon</name>, <name type="divin">Saday</name>, <name type="divin">Ya</name>. 
+Et est sciendum quod inter quadram et contraditam debet scribi signum <name>Salomonis</name>, ut patebit. 
+Ita quod in quolibet angulo unum foramen existat illius signi, et inter signum et signum prime quadre scribatur hoc nomen
+ : <name type="divin">Honoytheon</name>. Et inter signum alterius quadre : <name type="divin">Pneumathon</name>. 
+ Et inter signum tercie quadre : <name type="divin">Yatha</name>. Et inter signum quarte quadre : <name type="divin">Anabona</name>.</p></div> 
+<div n="7" type="chapitre"><p>Et scias quod in medio <name type="divin">almadel</name> debet esse exangulus <name>Salomonis</name>, 
+et in quolibet angulo foramen unum, 
+et inter angulos quolibet scribatur nomen Dei : El. Et fiant de eadem cera quatuor candelabra taliter
+quod due partes sint super almadel et pars tercia infra. 
+Item quod labium sit aliquod in candelabro candele, et in summitate cuiuslibet candelabri debet esse foramen unum, in quo ponatur candela. 
+Et non accendatur aliqua candela nisi tempore operationis.</p></div> 
+<div n="8" type="chapitre"><p>Cum autem almadel perfectum sit, fiat sigillum in quo sculpantur uerso modo ista nomina : 
+<name type="divin">Helyon</name>, <name type="divin">Adonay</name>, ut in figura patet, de Luna uel Sole, 
+et tempote operationis ponatur super <name type="divin">almadel</name>. 
+Et ponatur <name type="divin">almadel</name> in loco munod et secreto separato ab omni sorde, et accendatur candele. 
+Et habeatur petitio scripta in carta uirginea, non petendo aliud nisi quod est de officio istius altitudinis. 
+Et inuoca nomen altitudinis et nomina principum angelorum eiusdem, que sunt : 
+<name type="divin">Arymyel</name>, <name type="divin">Gabriel</name>, <name type="divin">Barachiel</name>, <name type="divin">Lybes</name>, 
+<name type="divin">Helyffan</name>, <name type="divin">Helyson</name>. Et dic sic :</p></div> 
+<div n="9" type="chapitre"><p>« Adoro nomen sanctum Dei adorabile in eternum, per quod uos, celestes potestates atque angelice uirtutes,
+ uiuitis et obeditis Deo. 
+Adiuro et exoro et postulo per Deum sanctum et uerum, uisibilium et inuisibilium creaturarum creatorem, et per dyadema et coronam 
+sui capitis, et per hoc sanctum <name type="divin">almadel</name> magistri <name>Salomonis</name>, 
+et per nomen istud quod est timendum omnibus creaturis terrestribus, celestibus et infernalibus, quod scribitur quatuor litteris : 
+<name type="divin">Yoth</name>, <name type="divin">Beth</name>, <name type="divin">Agla</name>, <name type="divin">Euan</name>, 
+ut hanc petitionem stantem supra sanctum <name type="divin">almadel</name> que uobis complenda ex officio uestro incumbit compleatis. 
+Et uos, angeli sancti ac splendissimi et decori, a Deo preelecti et prenominati, adestote, aduertite et complete hanc petitionem meam, amen.</p></div> 
+<div n="10" type="chapitre"><p>« Adiuro uos, sancti angeli qui estis in hac altitudine a Deo preelecti, 
+per nomen <name type="divin">Zaday</name>, Dei uiui, <name type="divin">Eloy</name>, <name type="divin">Athanathos</name>, 
+<name type="divin">Vsyos</name>, <name type="divin">Ieusuus</name>, <name type="divin">Princeps</name>, <name type="divin">Consiliarius</name>, 
+<name type="divin">Angelus</name>, <name type="divin">Pax</name>, <name type="divin">Misecricordia</name>, <name type="divin">Vita</name>, 
+<name type="divin">Adonay</name>, 
+quatenus mihi, humili Dei creature, principem huius altitudinis <name type="divin">Tahor</name> qui meam petitionem recipiat 
+et compleat transmittatis eidem iniungentes uirtute eorum nominum Dei 
+<name type="divin">Alpha et O</name>, <name type="divin">Eloy</name>, <name type="divin">Athanathos</name>, 
+<name type="divin">Emanuel</name>, <name type="divin">Vsyon</name>, ut per me petita compleat et perficiat, amen. »</p></div>
+<div n="11" type="chapitre"><p> Et debet dici post accensionem candelarum, faciendo suffumigium, ut infra dicetur. 
+Et apparebit unus angelus portans uexillum in manu cruce alba insignitum, in campo albiori, stola candida indutus, 
+in uisu pulcherimi iuuenis et flores et flores roseos in capite suo deferens ad modum corone, cum stola candida et 
+floribus rutilans apparebit super sanctum almadel in aere.</p></div>
+<div n="12" type="chapitre"><p>Tunc artista faciat suffumigium cum quatro granis masticis sub <name type="divin">almadel</name>, ut fumus pertranseat 
+foramina ad redolendum angelunt descendentem, et sic sentit odorem loqueturque tibi, dicendo : 
+« Quid petis ? Ad quid uocasti principes nostre altitudinis ? » Et respondebis : 
+« Ut hec petitio que eis ex officio incumbit complenda per uos de cela transmissum illico compleatur ».</p></div> 
+<div n="13" type="chapitre"><p> Et tunc pete cum humilitate et reuerencia, non petendo aliquid quod displicet, et sine dubio obtinebis. 
+Si autem consequenter dixeris et uocaueris et nuntius non apparet, tunc fiant tria uel quinque sigilla in aliquam 
+candelam cum sigillo stante super sanctum almadel, tunc sine dubio antequam candela ad figuram sigilli ueniat nuntius apparebit.</p></div> 
+<div n="14" type="chapitre"><p>Et est notandum quod ista altitudo reddit hominum ita perfectum, quod si una uice aliquis ei loquitur, 
+numquam dampnabitur nec moritur sine gratia Dei, quia habet mirabiles uias reducendo de peccatis ad ueniam, 
+datque fecunditatem in omnibus terre nascentibus secundum cursum nature.
+Et quando angelus disparet, replet luce et odore miro aerem, ita quod homo gaudet et latatur et semper de eo cogitat. </p></div> 
+<div n="15" type="chapitre"><p> Hec habet dar res temporales et acquisicionem rerum, Thaurus, color roseus, aprilis.
+Secunda altitudo uocatur <name type="divin">Corona</name> et principes eius habent potestatem super omnem acquisitionem rerum. 
+Ita quod omnes census transeunt per manus ipsorum, et habent distribuere, auffere et donare hominibus nutum Dei, 
+et habet operationem suam in die Solis, ut in prima, nisi quod cera <name type="divin">almadel</name> sit rosei coloris et candele et candelabra, 
+et non petas aliud nisi quod eis incumbit et quod non displicet ei et Deo. 
+Et sigillum primum sufficit in omnibus altitudinibus et operationibus <name type="divin">almadel</name>.</p></div> 
+<div n="16" type="chapitre"><p> Et uoca nomen altitudinis et nomina principum que sunt : 
+« <name type="divin">Pax</name>, <name type="divin">Princeps</name>, et <name type="divin">Misericordia</name>, <name type="divin">Alpharaym</name>, 
+<name type="divin">Geon</name> uel <name type="divin">Gereon</name>, <name type="divin">Vereon</name>, <name type="divin">Armon</name>, <name type="divin">Beremon</name>. ». 
+Et inuocetur ut prius cum candelis et genu flexo semper coram <name type="divin">almadel</name>.</p></div> 
+<div n="17" type="chapitre"><p> Et tunc apparebit unus angelus in colore roseo indutus ueste rubea, ante et retro cum floribus in capite ut corona, 
+et est ut puer trium annorum, habens manus et faciem tendentes ad rubedinem, sertans diuinum amorem, 
+et fac incensum sub almadel ad redolendum angelum ut loquatur tibi, et statim replebit aerem odore ineffabili.</p></div>
+<div n="18" type="chapitre"><p> Et dicet amicabiliter : « Quid petis ? Quare uocasti principes nostre altitudinis ? » Responde : 
+« Vt petitio exaudiatur que uobis incumbit ex officio uestro », ut supra. Et respondebit : « Fiat uobis ! ».</p></div>
+<div n="19" type="chapitre"><p> Et iste spiritus celestis mirabilis est cum aliis eiusdem altitudinis, et apparet in specie pueri
+ et qeret in quo tibi complacere poterit, et multum delectatur si homo petit ut roget Deum pro eo. 
+ Artista uero paueat sed dicat : 
+ « Recommendo me uestris sanctis orationibus, ut lumine fidei illustratus intentum obtineam optatum. » 
+ Et quando recedit angelus dicet : « Amicus tuus, ego sum. »</p></div>
+<div n="20" type="chapitre"><p> Et quasi totus aer uiebitur esse coloris cuius erat sua uestis, 
+et scias cuius coloris fit <name type="divin">almadel</name> eodem colore inducitur artifex. 
+Et in ista altitudine sunt multi principes, tamen nisi unus apparebit, ideo quod diuidunt dominium inter se tempore quo dominantur. 
+Et quelibet altitudo dominatur 30 diebus in anno. Et isti 30 dies diuiduntur inter eos qui morantur in ista altitudine. 
+Tunc iste qui preest tempore uocationis apparebit, et nota quod non debet uocari nisi tempore sue dominantionis in partibus mundi.</p></div> 
+<div n="21" type="chapitre"><p> Et hoc signum datur quod secundum xii signa celestia, ita xii sunt altitudines habentes ordinem ad inuicem, 
+et uocanda est ista altitudo que dominatur in isto signo et intrante alio signo debet uocari alia altitudo,
+et sic in xii signis possunt conspici xii altitudines.
+Et scito quod quelibet altitudo habet unum nomen Dei uiui in substancia celesti, fixum per modum caracteris. 
+Ita quod quotiens iste intelligentie que morantur in ista altitudine audaint illud nomen tremunt et reuerentur caracterem illum
+qui profert nomen illud.</p></div>
+<div n="22" type="chapitre"><p> Et secundum xii altitudines, ita sunt xii nomina Dei que exprimunt ad plenum totam essentiam diuinitatis, 
+in quibus uelantur et reconduntur xii fidelitates et confirmationes xii angelorum et pacta xii altitudinum inter ipsas et Deum,
+ que absconsa sunt a spiritibus infernalibus et ab hominibus, et ideo appelantur nomina silencii et taciturnitatis, 
+ ut iuxta figuram <name type="divin">almadel</name> plenissime apparebit. </p></div>
+<div n="23" type="chapitre"><p> Tertia altitudo hec habet potestatem super motum localem et administrare intellectum petenti, maius, Gemini, color croceus. 
+Tertia altitudo dicitur <name type="divin">Heremon</name> et principes eius habent potestatem super propinquos et amicos 
+et super motum imnium aquarum maris et omnium fluminum et super mutationes corporalem omnium rerum de loco ad locum 
+et super motum celi et stellarum et radiorum earum et super omne mobile motu locali.</p></div>
+<div n="24" type="chapitre"><p> Et eius <name type="divin">almadel</name> fiat de cera crocea et etiam candelabra et candele, 
+et fiat petitio ut debet et poni super <name type="divin">almadel</name> 
+et fac suffumigium ut supra. Et nisi uenerit angelus fiant sigilla ut supra. Et tunc corde contrito uocet nomen altitudinis 
+et hec nomina principum : « <name type="divin">Fortitudo</name>, <name type="divin">Pacientia</name>, <name type="divin">Panthanay</name>, 
+<name type="divin">Yhethamey</name>, <name type="divin">Mynuel</name>, <name type="divin">Erynhel</name>, <name type="divin">Pneumathon</name>, 
+<name type="divin">Heloy</name>, <name type="divin">Anthychoy</name> ».</p></div> 
+<div n="25" type="chapitre"><p> Et statim apparebit angelus per altitudinem duarum canarum super <name type="divin">almadel</name>, 
+et quam cito sentiet odores, incipiet loqui. 
+Et apparebit in specie militis armati et auto purissimo induti, et facies sua emittet radios, 
+et ita dulciter loquetur artifici quod cogatur eum diligere ultra omnes creaturas, 
+et in talia eloquentia quod semper inclinabit homines ad dilectionem sui predulcedine eloquentie.</p></div> 
+<div n="26" type="chapitre"><p> Et infundit mirabiliter claritatem intellectus. Et post recommenda te eidem, ut roget Deum pro te, 
+et sic impedit motus creaturarum ad uoluntatem eius. Et recendo emittet radium luminis ad modum Solis 
+et odorem in partibus conuicinis qasi mixtum ex thure et musco. Et hoc est mirabile secretum figuratum in arte notoria 
+<name>Salomonis</name> occultatum a sapientibus et super omne genus scientiarum thesaurus incomparabilis.</p></div> 
+<div n="27" type="chapitre"><p> Sequitur de alitudine quarta. Hec habet illustrare intellectus et administrare gramaticam et rethoricam, 
+iunis, Cancer, color lazurinus. 
+Quarta altitudo uocatur <name type="divin">Pantheon</name> et principes eius habent potestatem super thesaurorum successiones et reum, 
+et est in partibus medii celi, et ex dignitate naturalis a Spiritu Sancto habent illustrare intellectus humanos 
+et tribuunt artes, scilicet gramaticam et retoricam.</p></div>  
+<div n="28" type="chapitre"><p> Et eius operatio est ut fiat almadel de cera lazurinaet similiter candelabra et candele, 
+et paret in loco mundo ab omni sorde. Et cum paratum fuerit dicat inuocationem, 
+et quam cito inuocauerit est compleuerit apparebit desuper in equali distancia ut supra sanctum <name type="divin">almadel</name> 
+intelligentia celestis in colore lazurino. Tunc apta fumigium de croco et thure ut supra, et subito loquetur, 
+et quidquid debite petieris obtinebis. Nomina autem principium huius altitudine sunt hec : « <name type="divin">Yarceth</name>, 
+<name type="divin">Yatham</name>, <name type="divin">Arnech</name>, <name type="divin">Thanay</name>, <name type="divin">Ruluxidye</name> ».
+</p></div> 
+<div n="29" type="chapitre"><p>Et iste tres altidines die Martis et eius hora debent operari. 
+Et tam orientales altitudines quam iste meridionales debent uocari a Luna prima usque ad quintamdecimam. 
+Occidentales uero et aquilonares a Luna quintadecima usque ad finem illius lunationis, 
+et quam cito est exaudita petitio artifics recedit angelus et illustrat aerem colore sue uestis, et emittit odorem sicut musci et uini.</p></div>  
+<div n="30" type="chapitre"><p> Et scito quod quodlibet almadel post operationem debet reponi in loco mundo et aromatico. 
+Etiam nulla altitudo debet uocari nisi sereno tempore. 
+Verumtamen a prima hora diei usque ad meridiem debent uocari orientales et meridionales, 
+et a meridie usque ad Solis occasum debent uocari occidentales et aquilonares. </p></div>
+<div n="31" type="chapitre"><p> Sequitur de quinta altitudine. Hec habet administrare phisicam, medicinam et alchimiam, 
+mensis iulius, signum Leo, color uiridi. 
+Quinta altitudo uocatur <name type="divin">Bym</name> et principes eius habent potestatem ex officio cum motu celi mouere omnia anomalia 
+secundum naturam ad filios procreandos et ad multiplicandum sibi similem speciem tam sub terra, 
+ut sunt uermes, quam supra terram, ut sunt animantia, et gubernant motus animalium ad certos fines secundum quod ipsi a Deo regulantur. 
+Et ex dono Dei possunt scientias naturales infundere super homines, scilicet phisicam, medicinam, alchimiam et erum partes. 
+Nomina principum huius altitudinis sunt hec : « <name type="divin">Alnay</name>, <name type="divin">Ezay</name>, 
+<name type="divin">Ecabel</name>, <name type="divin">Monosy</name>, <name type="divin">Anrach</name>, <name type="divin">Lanalay</name> ».</p></div>
+<div n="32" type="chapitre"><p> Et operatio eius est ut fiat <name type="divin">almadel</name> de cera uiridi ut supra 
+et nominentur nomina principum huius altitudinis 
+ter cum inuocatione sua, et statim apparebit angelus in ueste uiridissima, flores gerens in capite et in manu. 
+Et tunc fiat suffumigatio ut supra, ut odor tangat angelum in aere.</p></div> 
+<div n="33" type="chapitre"><p> Tunc dulciter loquetur tibi : « Quid petis ? ». Respondeat artifex : « Humiliter exposui. » 
+Tunc ipse solet gloriosissime respondere et concedere petita artiste. 
+Et artifex recommendet se humiliter ei, ut ipsum reconciliet suo creatori, et citius exaudietur. 
+Eo autem recedente mittet odorem maximum quasi musci et picis liquide.</p></div>  
+<div n="34" type="chapitre"><p>Hec habet administrare logycam, musicam et ethicam, augustus, Virgo, color uiolaceus. 
+Sexta altitudo appellatur <name type="divin">Noym</name> et principes eius iussu Dei ex officio habent potestatem 
+super statum mundi mouere et mutare monarchias, imperia et dominia mundi ex regione in regionem, 
+distinguunt dominos a seruis et inbuunt ipsos, in iure et moribus illustrant leges, et cogunt demones 
+et defendunt homines ab illusionibus eorum. Et infundunt tres scientias : logicam, musicam et ethicam. 
+Nomina principum huius altitudinis sunt hec : « <name type="divin">Heros</name>, <name type="divin">Bisseros</name>, 
+<name type="divin">Onay</name>, <name type="divin">Ornochynta</name>, <name type="divin">Ytach</name>, <name type="divin">Halay</name> ».</p></div> 
+<div n="35" type="chapitre"><p>In eius operatione fiat  <name type="divin">almadel</name> de cera uiolacea ut supra. 
+Et nominentur nomina principum et nomen altitudinis et fiat inuocatio. 
+Tunc in parua distancia super almadel apparebit princeps celestis ad modum seraphin, habens vi alas cum maxima 
+uarietate colorum pulchra et amena. Tunc fiat fumigatio de thute et mastice, et loquetur complens uelle tuum. 
+Et in recessu relinquit odorem balsami et cynamomi, et uidetur deferre organa sonancia, et relinquit te in magno solacio.</p></div>
+<div n="36" type="chapitre"><p>De sequitur septima altitudo, Libra, color columbinus. 
+Septima altitudo uocatur <name type="divin">Baffor</name> et est potestas prima occidentis et principes eius habent potestatem 
+super inimicitias et amicitias omnium creaturarum, et super lites et prelia ubique in terra. 
+Et ex dono Dei infundunt astronomiam, arismetricam et musicam. Nomina principum sunt hec : « 
+<name type="divin">Ay</name>, <name type="divin">Allayn</name>, <name type="divin">Abonay</name>, <name type="divin">Rathan</name>, 
+<name type="divin">Corczay</name> ».</p></div>
+<div n="37" type="chapitre"><p> In eius operatione fiat almadel de cera columbina ut supra, 
+et tunc uocatis spiritibus apparebit angelus ultu splendido, fimbriam ferens auratam 
+et zonam auream in femore suo et sceptrum et coronam de floribus. 
+Tunc fiat fumigatio de thimiamate et thure, et loquetur statim et satisfaciet petitioni de eo quod pertinet ad officium suum, 
+et eo recedente mittit odorem quasi de lilys lauro mixtis.</p></div>
+<div n="38" type="chapitre"><p> Sequitur octaua altitudo. Hec docet theologiam, geomantiam, phisicam, Scorpio, october, color pauonini. 
+Octaua altitudo uocatur <name type="divin">Decor</name> et principes eius habent potestatem super iuramenta que fiunt inter creaturas 
+et Deum et cogunt eas obseruare pacta sua, et cogunt demones obseruare pacta hominibus 
+et puniunt utrosque iussu Dei tam in primis quam in secundis motibus, 
+et habent potestatem super animas separatas, ut eas regant ad bonum finem, et faciunt mortem et uitam super creaturas. 
+Et ex dignitate infundunt theologiam, methaphisicam et geomantiam. Nomina autem principum sunt hec : 
+"<name type="divin">Anaym</name>, <name type="divin">Anabo</name>, <name type="divin">Anay</name>, <name type="divin">Gelomyoro</name>, 
+<name type="divin">Zedebomoy</name>, <name type="divin">Yssa</name>, <name type="divin">Ramana</name>, <name type="divin">Eheomynt</name> ».</p></div>
+<div n="39" type="chapitre"><p> In opere eius fiat <name type="divin">almadel</name> de cera coloris pauonini, et fiat fumigium de thure, mastice et musco, 
+et fiat inuocatio ut supra, et apparebit angelus in specie columbe albe, ferens coronam de lapidibus preciosis in capite 
+et in ore portans folium lauri, in uultu signum crucis, alloquens tibi et exaudiet petitionem tuam si possibilis est. 
+In recessu suo odor bonus remanet in aere, ut balsami. </p></div>
+<div n="40" type="chapitre"><p> Sequitur de nona altitudine. Hec feret hominem de regione in regione uelociter, mensis nouember, 
+signum Sagittarius, 
+color uiridis et liuidu.
+Nona altitudo uocatur <name type="divin">Saphet</name> et principes eius uocantur :
+ « <name type="divin">Zaan</name>, <name type="divin">Zabon</name>, <name type="divin">Zadanay</name>, <name type="divin">Arphel</name>, 
+ <name type="divin">Alpha</name>, <name type="divin">Nayzaday</name> ». 
+ Et habent potestatem super generationes elementorum ab animalibus in generationem eorum, 
+ et principes huius nutu Dei ferunt homines de regione in regionem uelociter ualde et in omni motu dominantur. 
+ <name type="divin">Almadel</name> eius fiat de cera uiridi et liuida equaliter mixta, et fiat fumigatio de musco, croco et olibano, 
+ et fiat inuocatio, et apparebit celestis intelligentia in forma aquile celestis coloribus, et detur petitio ut supra.</p></div> 
+<div n="41" type="chapitre"><p> De decima altitudine. Hec habet dare dignitates temporales et intellectuales uirtutes, mensis december, 
+signum Capricornus, color dyaphanus. 
+Decima altitudo uocatur <name type="divin">Bastra</name> et principes eius uocantur : 
+« <name type="divin">Anaphayn</name>, <name type="divin">Anabbeyl</name>, <name type="divin">Salny</name>, <name type="divin">Patra</name>, 
+<name type="divin">Hyros</name> ». 
+Et ex dignitate eorum infundunt dignitate temporales et intellectuales uirtutes quas Deus concessit Ade tempore innocentie, 
+quas humani sensus comprehendere non ualent, et est principium aquilonis.</p></div>
+<div n="42" type="chapitre"><p> Et in operatione eius fiat <name type="divin">almadel</name> de cera dyaphana, 
+et facta inuocatione ueniet in specie agni albissimi super niuem crucem ferens rubeam in femore suo 
+et in capite quandam rubedinem ad modum floris papaueris et fiat fumigium de ligno aloes 
+et pipere albo, et porrigatur sibi petitio congrua officio suo. 
+Et semper ueniet in humili forma propter excellentiam sue dignitatis, et ideo recipiatur humiliter et gratiose exaudiet.</p></div> 
+<div n="43" type="chapitre"><p>Sequitur de undecima altitudine. Hec exercet uidicia Dei que in hoc mundo fiunt secundum carnem, 
+ianuarius, Aquarius, color ad placitum. 
+Vndecima altitudo uocatur <name type="divin">Saruech</name>, et principes eius sic uocantur : « <name type="divin">Alphaneos</name>, 
+<name type="divin">Asser</name>, <name type="divin">Zarneach</name>, <name type="divin">Almeos</name>, <name type="divin">Safrax</name> ». 
+Fiat <name type="divin">almadel</name> de cera cuiuuis coloris, et fiat inuocatio et fumigatio. Et illico apparebit in forma habens faciem angeli,
+ ferent uexillum cruce signatum.</p></div> 
+<div n="44" type="chapitre"><p> Ex officio suo exercent iudicia Dei que in hoc mundo fiunt secundum carnemn et reddunt hominem sanum et gratiosum. 
+Et dicet si sibi uel alteri malum iudicium paretur in hoc mundo et nil petatur ab eo nisi doctrina, uita et incarnatio Christi, 
+hec libenter docet et declarat hominibus obscura. </p></div>
+<div n="45" type="chapitre"><p>Sequitur de xii altitudine. Hec aperit falsitatem demonum 
+et eso ligat, februarius, signum Pisces, color trifarie mixtus. 
+Duodecima altitudo uocatur <name type="divin">Elyzan</name> et principes eius sic : 
+« <name type="divin">Salnet</name>, <name type="divin">Alymos</name>, <name type="divin">Alybyn</name>, <name type="divin">Lubras</name>, 
+<name type="divin">Anas</name>, <name type="divin">Anay</name> ». 
+Et formari debet <name type="divin">almadel</name> supra de cera mixta alba et uiridi et rubea.</p></div> 
+<div n="46" type="chapitre"><p>Et isti maximi principes sunt de ordine dominantium qui tenent Luciferum ligatum
+ et cogunt uiolenter omnes spiritus seruare precepta Dei si uocentur ad hoc, 
+ et regunt omnes electos Dei, et defendum a malis spiritibus et isti sunt qui debent in die uidicii demones et impios homines religare, 
+ et apparet in forma mulieris, ferens in manu ramum oliue, et libenter apperit omnem falsitatem demonum. 
+ Et de hoc fiat sibi petitio et non de alio. 
+Explicit liber quadriparti celi gradacionis supremi, de angelis supercelestibus supremum gradum tenens occultorum artis magice discipline, 
+qui etiam Liber intelligentiarum dicitur.</p></div> 
+</div>
+</div>
+</body>
+</text>
+</TEI>
