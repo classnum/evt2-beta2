@@ -67,13 +67,13 @@
             "value": "critical",
             "label": "Critical",
             "title": "Critical edition",
-            "visible": true
+            "visible": false
         },
         {
             "value": "diplomatic",
             "label": "Diplomatic",
             "title": "Diplomatic edition",
-            "visible": false
+            "visible": true
         },
         {
             "value": "interpretative",
@@ -91,7 +91,7 @@
     "toolPinAppEntries": true,
     "toolImageTextLinking": true,
 
-    "namedEntitiesSelector": false,
+    "namedEntitiesSelector": true,
     "namedEntitiesToHandle": [
         {
             "tagName": "persName",
@@ -99,8 +99,8 @@
             "available": true
         },
         {
-            "tagName": "placeName",
-            "label": "Places",
+            "tagName": "name",
+            "label": "Noms divins",
             "available": true
         },
         {
