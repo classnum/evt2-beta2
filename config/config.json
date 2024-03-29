@@ -6,7 +6,7 @@
     "sourcesUrl": "data/text/sources.xml",
     "analoguesUrl": "data/text/analogues.xml",
     "sourcesTextsUrl": "data/text/sources/",
-    "singleImagesUrl": "data/images/5Fb1PetitCahier-FAC-SIMILE_page-0001.jpg/",
+    "singleImagesUrl": "data/images/single/",
     "enableXMLdownload": true,
     "visCollTextUrl": "",
     "visCollStyleUrl": "",
@@ -67,7 +67,7 @@
             "value": "critical",
             "label": "Critical",
             "title": "Critical edition",
-            "visible": false
+            "visible": true
         },
         {
             "value": "diplomatic",
