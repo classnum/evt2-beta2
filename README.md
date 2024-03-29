@@ -21,7 +21,7 @@ Before the refactoring, EVT was composed of two main units: EVT Builder, for the
 
 Please note that starting from version 67 Firefox developers adopted the same security-conscious policy chosen by developers of Chrome and other Web browsers, that is forbidding loading local files (= documents available on the user’s computer drive) in the browser as a result of the execution of Javascript programs. The goal is to improve global security when browsing the Web, but the unpleasant collateral effect is that of preventing the loading of digital editions based on EVT, or similar software, from local folders. Fortunately there are several workarounds that can be used to test EVT editions that are located on your hard drive:
 
-* option no. 1: launch Chrome from the command line with the `--allow-file-access-from-files parameter`, after that you can press CTRL+O to open the `index.html` file, or you can just drag and drop it on Chrome’s window; this is probably the most simple way to do it;
+* option no. 1: launch Chrome from the command line with the `--allow-file-access-from-files` parameter, after that you can press CTRL+O to open the `index.html` file, or you can just drag and drop it on Chrome’s window; this is probably the most simple way to do it;
 * option no. 2: download and install Firefox ESR v. 60: this version predates the new security policy adopted in FF v. 67 and, furthermore, it can be installed in parallel with any other version of Firefox;
 * option no. 3: install an extension providing a local web server on Firefox or Chrome, f.i. there is [this one] (https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) available for Chrome.
 
