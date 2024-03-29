@@ -44,13 +44,15 @@
         </fileDesc>
     </teiHeader>
 
-    <text>
+    <text n="Liber Hynotheon" type="prose" xml:id="liberhynotheon">
         <body>
             <div type="transcription" xml:lang="lat">
                 <head>Liber Hynotheon</head>
                 <div>
 
                     <div n="1" type="chapitre">
+                        <pb n="page_1"
+                            facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-0001.jpg"/>
                         <div n="1" type="section">
                             <p> In nomine domini <name>Iesus</name>
                                 <app>
@@ -98,7 +100,10 @@
                                     type="divin">Armon</name>, <name type="divin"
                                 >Gænerion</name>.</p>
                         </div>
+
                         <div n="4" type="section">
+                            <pb n="page_2"
+                                facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-0002.jpg"/>
                             <p> Tertia altitudo. Hæc vocatur <name type="divin"><app>
                                         <lem resp="#NC">Hernimoy</lem>
                                         <rdg>Hernimoij</rdg>
@@ -191,9 +196,10 @@
                                 altitudinis sunt <name type="divin"> Amayn</name>, <name
                                     type="divin">Amas</name>, <name type="divin">Anay</name>, <name
                                     type="divin">Geomitio </name>, <name type="divin"
-                                    >Gebedonay</name>, <name type="divin">Pas</name>,<add place="supra linea">ne</add> <name
-                                    type="divin">Sarama</name>, <name type="divin">Clyominth</name>.
-                            </p>
+                                    >Gebedonay</name>, <name type="divin">Pas</name>,<add
+                                    place="supra linea">ne</add>
+                                <name type="divin">Sarama</name>, <name type="divin"
+                                    >Clyominth</name>. </p>
                         </div>
                         <div n="9" type="section">
                             <p> Octaua altitudo. Hæc altitudo appellatur <name type="divin"
@@ -211,7 +217,10 @@
                         </div>
                         <div n="10" type="section">
                             <p> Nona altitudo. Hæc uocatur <name type="divin">Suphor</name> et
-                                principes qui morantur in ea habent potestatem et uirtutem dare
+                                principes qui morantur in ea habent potestatem
+                                <pb n="page_3"
+                                    facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-0003.jpg"/>
+                                et uirtutem dare
                                 pecunias hominibus et etiam illas auferre quomodo illis placet et ex
                                 officio faciunt homines pulcherrimos et etiam uirtutem habent
                                 infundendi omnes scientias. Nomina principum huius altitudinis sunt
@@ -365,12 +374,13 @@
                                     >Sulthurohath</name>.</p>
                         </div>
                         <div n="2" type="section">
-                            <p>Secunda altitudo. <add place="supra linea">haec</add> Hæc uocatur <name type="divin">Ahahager</name> et
-                                principes qui morantur in ea uirtutem et potestatem habent super
-                                omnia uenena atterminata et non cognita et faciunt homines perire et
-                                non, faciunt aperire terras et claudare ut illis uidetur. Nomina
-                                principum huius altitudinis sunt <name type="divin">Agariel</name>,
-                                    <name type="divin">Animirnaornus</name>
+                            <p>Secunda altitudo. <add place="supra linea">haec</add> Hæc uocatur
+                                    <name type="divin">Ahahager</name> et principes qui morantur in
+                                ea uirtutem et potestatem habent super omnia uenena atterminata et
+                                non cognita et faciunt homines perire et non, faciunt aperire terras
+                                et claudare ut illis uidetur. Nomina principum huius altitudinis
+                                sunt <name type="divin">Agariel</name>, <name type="divin"
+                                    >Animirnaornus</name>
                                 <del>Anirmirnaornus</del>, <name type="divin">Byleth</name>, <name
                                     type="divin">Sathouiel</name>, <name type="divin"
                                     >Mahardahel</name>.</p>
@@ -563,15 +573,16 @@
                                     candelas. </p>
                             </div>
                             <div n="3" type="section">
-                                <p> Cauendum autem est ne aliqua illius candelæ <add place="supra linea">t</add> accendatur nisi
-                                    tempore operationis. Cum autem sanctum <name type="divin"
+                                <p> Cauendum autem est ne aliqua illius candelæ <add
+                                        place="supra linea">t</add> accendatur nisi tempore
+                                    operationis. Cum autem sanctum <name type="divin"
                                         >Stæleion</name> compositum fuit, fiat sigillum in quod
                                     sculpantur ipsa nomina uerso modo et sigillum sit purissimi
                                     argenti et auri et tempore operationis ponatur intus secundam <app>
                                         <lem resp="#NC">capsulam</lem>
                                         <rdg>capsula</rdg>
-                                    </app>. Et mittatur in <add place="in margine">diua</add> <supplied>diua</supplied> secunda capsula
-                                    de odoribus <app>
+                                    </app>. Et mittatur in <add place="in margine">diua</add>
+                                    <supplied>diua</supplied> secunda capsula de odoribus <app>
                                         <lem resp="#NC">olibani</lem>
                                         <rdg>olebani</rdg>
                                     </app>, ligni <app>
@@ -673,31 +684,31 @@
                                     cerea coloris sanguinei. Tertia, tertium sanctum <name
                                         type="divin">Stahelaon</name> tertiæ altitudinis et etiam
                                     candelæ nigri coloris sed clari.</p>
-                                
+
                             </div>
                         </div>
 
                         <div>
-                            <p>Figura prima. 
-                                <pb n="im_1" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_1.jpg"/>
-                                Modus formandi <del>fomandi</del> sanctum <name
-                                    type="divin">Stahelaon</name> <name
-                                    type="divin">THETAGRAMMATON</name> <name
-                                    type="divin">HEL</name> 1. <name
-                                    type="divin">Hynoytheon</name> 2. <name type="divin"
-                                    >Pthiaeumaton</name> 3. <name type="divin">Anbona</name> 4.
-                                    <name type="divin">Yhehoua</name>
+                            <p>Figura prima. <pb n="im_1"
+                                    facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_1.jpg"
+                                /> Modus formandi <del>fomandi</del> sanctum <name type="divin"
+                                    >Stahelaon</name>
+                                <name type="divin">THETAGRAMMATON</name>
+                                <name type="divin">HEL</name> 1. <name type="divin"
+                                    >Hynoytheon</name> 2. <name type="divin">Pthiaeumaton</name> 3.
+                                    <name type="divin">Anbona</name> 4. <name type="divin"
+                                    >Yhehoua</name>
                             </p>
                         </div>
 
                         <div>
-                            <p>Figura secunda. 
-                                <pb n="im_2" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_2.jpg"/>
-                                <name type="divin">THETHAGRAMMATON</name> <name
-                                    type="divin">HEL</name> 1.
-                                    <name type="divin">Hynoytheon</name> 2. <name type="divin"
-                                    >Ptihaeumaton</name> 3. <name type="divin">Anabona</name> 4.
-                                    <name type="divin">Ihehoua</name>
+                            <p>Figura secunda. <pb n="im_2"
+                                    facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_2.jpg"/>
+                                <name type="divin">THETHAGRAMMATON</name>
+                                <name type="divin">HEL</name> 1. <name type="divin"
+                                    >Hynoytheon</name> 2. <name type="divin">Ptihaeumaton</name> 3.
+                                    <name type="divin">Anabona</name> 4. <name type="divin"
+                                    >Ihehoua</name>
                             </p>
                         </div>
 
@@ -727,10 +738,9 @@
                                     </app> habent uirtutem et operationem suam ♄, id est Saturni, et
                                     in eius hora luna decrescente si ad malum finem, si autem ad
                                     bonum finem in nocte ☿, id est Mercurii, incipiendo a secunda
-                                    (<add place="in margine">uelaia</add>
-                                        <supplied>uel a prima</supplied>) hora 
-                                        noctis usque ad nonam operatione luna crescente in pari
-                                    numero. </p>
+                                        (<add place="in margine">uelaia</add>
+                                    <supplied>uel a prima</supplied>) hora noctis usque ad nonam
+                                    operatione luna crescente in pari numero. </p>
                             </div>
                             <div n="6" type="section">
                                 <p> Sciendum etiam et quod omnia sanctissima Hahelam sunt facienda
@@ -772,7 +782,8 @@
                                         <lem resp="#NC">rubri</lem>
                                         <rdg>rubroni</rdg>
                                     </app> et croci. Quinta, quinta cum odoribus garofilorum. Sexta,
-                                    sexta cum odoribus <add place="supra linea">h</add> storacis calamiti et <app>
+                                    sexta cum odoribus <add place="supra linea">h</add> storacis
+                                    calamiti et <app>
                                         <lem resp="#NC">cinnamomi</lem>
                                         <rdg>cinamomi</rdg>
                                     </app>. Septima, septima cum odoribus olibani et croci. Octaua,
@@ -817,7 +828,10 @@
                                     </app>. Secunda cum odoribus thuris et radicum iridis. Tertia,
                                     cum odoribus, cum odoribus myrrhæ et radicum ciceris. Quarta cum
                                     odoribus camphoræ et storacis calamiti. Quinta cum odoribus
-                                    radicum <app><lem resp="#NC">asari</lem><rdg>assari</rdg></app> et ligni aloes. </p>
+                                    radicum <app>
+                                        <lem resp="#NC">asari</lem>
+                                        <rdg>assari</rdg>
+                                    </app> et ligni aloes. </p>
                             </div>
                             <div n="4" type="section">
                                 <p> Sequuntur suffumigationes altitudinium septentrionalium. Prima
@@ -835,29 +849,37 @@
                                     incipiendæ modo contrario id est tempore nubiloso. </p>
                             </div>
                             <div n="2" type="section">
-                                <p> Nota quod <app><lem resp="#NC">stilum</lem><rdg>stillum</rdg></app> argenteum est fabricandum die solis hora ☿ id
-                                    est Mercurii luna crescente et cum illo scribe nomina : sanctum
-                                    est <name type="divin">Stælaon</name>. </p>
+                                <p> Nota quod <app>
+                                        <lem resp="#NC">stilum</lem>
+                                        <rdg>stillum</rdg>
+                                    </app> argenteum est fabricandum die solis hora ☿ id est
+                                    Mercurii luna crescente et cum illo scribe nomina : sanctum est
+                                        <name type="divin">Stælaon</name>. </p>
                             </div>
                             <div n="3" type="section">
                                 <p> Nota quod in secunda capsula scribi debet tempore operationis
-                                    (finita <app><lem resp="#NC">inuocatio</lem><rdg>inuocat</rdg></app> ?) cum stilo nomen magni imperatoris et
-                                    creatoris omnium creaturarum quod est + <name type="divin"
-                                        >Thethagramaton</name> ut in exemplo. </p>
+                                    (finita <app>
+                                        <lem resp="#NC">inuocatio</lem>
+                                        <rdg>inuocat</rdg>
+                                    </app> ?) cum stilo nomen magni imperatoris et creatoris omnium
+                                    creaturarum quod est + <name type="divin">Thethagramaton</name>
+                                    ut in exemplo. </p>
                             </div>
                             <div n="4" type="section">
                                 <p> Nota quod omnes principes omnium altitudinum habent colores et
                                     odores pro eo quod iussu Dei omnipotentis regunt et gubernant
-                                    mundum et faciunt nasci et corrumpi <del>corumpi</del> colores et odores ut eis
-                                    uidetur. </p>
+                                    mundum et faciunt nasci et corrumpi <del>corumpi</del> colores
+                                    et odores ut eis uidetur. </p>
                             </div>
                             <div n="5" type="section">
                                 <p> Nota quod sanctissimum <name type="divin">Stahelaon</name> ut
                                     diximus est fabricandum die ☿, id est Mercurii, luna crescente
                                     ad bonam partem, si autem ad malum a contrario ; et finito illud
-                                    reponat in loco mundissimo. Et antequam reponatur, <app><lem resp="#NC">suffumigandum</lem><rdg>suffumagandum</rdg></app>
-                                    est odoribus propriis altitudinis et tempore operationis illo
-                                    uti ut dicendum est. </p>
+                                    reponat in loco mundissimo. Et antequam reponatur, <app>
+                                        <lem resp="#NC">suffumigandum</lem>
+                                        <rdg>suffumagandum</rdg>
+                                    </app> est odoribus propriis altitudinis et tempore operationis
+                                    illo uti ut dicendum est. </p>
                             </div>
                             <div n="6" type="section">
                                 <p> Nota quod nomina et signa ex utraque parte capsulæ scribenda
@@ -879,70 +901,101 @@
                             </div>
                             <div n="3" type="section">
                                 <p> Finita suffumigatione, recitare debet psalmos patris nostri
-                                        <persName>Dauid</persName> scilicet 71 ; 142 ; 85 ; 45 ; 16 ; 5 ; 1
-                                    ; quibus finitis, dicere debet Deo orationem hanc genibus flexis
-                                    in medio cubiculi.</p>
+                                        <persName>Dauid</persName> scilicet 71 ; 142 ; 85 ; 45 ; 16
+                                    ; 5 ; 1 ; quibus finitis, dicere debet Deo orationem hanc
+                                    genibus flexis in medio cubiculi.</p>
                             </div>
                         </div>
                         <div n="10" type="chapitre">
                             <div n="1" type="section">
-                                <p> Oratio. « Deus <persName>Abraham</persName>, Deus <persName>Isaac</persName>,
-                                    Deus <persName>Iacob</persName>, Deus <persName>Moisi</persName>, Deus omnium in
-                                    te sperantium, Deus meus et protector uitæ meæ, Domine, o
-                                    Benignissime, Domine, rogo tuam diuinam maiestatem quantum
-                                    rogare possum ut mihi famulo tuo n. (n. id est nomen <add place="in margine">id est nomen</add>) tantam
-                                    gratiam concedere digneris </p>
+                                <p> Oratio. « Deus <persName>Abraham</persName>, Deus
+                                        <persName>Isaac</persName>, Deus <persName>Iacob</persName>,
+                                    Deus <persName>Moisi</persName>, Deus omnium in te sperantium,
+                                    Deus meus et protector uitæ meæ, Domine, o Benignissime, Domine,
+                                    rogo tuam diuinam maiestatem quantum rogare possum ut mihi
+                                    famulo tuo n. (n. id est nomen <add place="in margine">id est
+                                        nomen</add>) tantam gratiam concedere digneris </p>
                             </div>
                             <div n="2" type="section">
-                                <p> atque concedas ut possim et <app><lem resp="#NC">uolam</lem><rdg>uoleam</rdg></app> facere operationem meam quam
-                                    uolo incipere et tantam gratiam concedere ut petitionem cordis
-                                    mei habeat absque fallacia per tuam maximam uirtutem et
-                                    potestatem. </p>
+                                <p> atque concedas ut possim et <app>
+                                        <lem resp="#NC">uolam</lem>
+                                        <rdg>uoleam</rdg>
+                                    </app> facere operationem meam quam uolo incipere et tantam
+                                    gratiam concedere ut petitionem cordis mei habeat absque
+                                    fallacia per tuam maximam uirtutem et potestatem. </p>
                             </div>
                             <div n="3" type="section">
-                                <p> Domine, Deus meus, auribus percipe orationem meam et intende <del>intenda</del>
-                                    uoci deprecationis meæ, dum oro ad te, dum oro ad te, dum
-                                    extollo manus meas ad templum sanctum tuum. Fiat, fiat, fiat
-                                    ».</p>
+                                <p> Domine, Deus meus, auribus percipe orationem meam et intende
+                                        <del>intenda</del> uoci deprecationis meæ, dum oro ad te,
+                                    dum oro ad te, dum extollo manus meas ad templum sanctum tuum.
+                                    Fiat, fiat, fiat ».</p>
                             </div>
                             <div n="4" type="section">
-                                <p> Nota quod in cubiculo sit tabula parata cum linteis et supra
-                                    <app><lem resp="#NC">tabulam</lem><rdg>stabulam</rdg></app> <app><lem resp="#NC">ponat</lem><rdg>ponatura</rdg></app> artista sanctum <name type="divin"
-                                        >Stahelaon</name> cum maxima ueneratione et genuflexus
-                                    suffumiget illud odoribus illius altitudinis <app><lem resp="#NC">postquam</lem><rdg>quam posse</rdg></app> operatur
-                                    et finita suffumigatione dicat :</p>
+                                <p> Nota quod in cubiculo sit tabula parata cum linteis et supra <app>
+                                        <lem resp="#NC">tabulam</lem>
+                                        <rdg>stabulam</rdg>
+                                    </app>
+                                    <app>
+                                        <lem resp="#NC">ponat</lem>
+                                        <rdg>ponatura</rdg>
+                                    </app> artista sanctum <name type="divin">Stahelaon</name> cum
+                                    maxima ueneratione et genuflexus suffumiget illud odoribus
+                                    illius altitudinis <app>
+                                        <lem resp="#NC">postquam</lem>
+                                        <rdg>quam posse</rdg>
+                                    </app> operatur et finita suffumigatione dicat :</p>
                             </div>
                         </div>
                         <div n="11" type="chapitre">
                             <div n="1" type="section">
-                                <p> Oratio. « Deus <del>meus</del> cuius <app><lem resp="#NC">deitas</lem><rdg>dietas</rdg></app> sine fine, Deus creator omnium
-                                    creaturarum, principium et finis, Deus <name type="divin">
-                                        Adonay</name>, Deus <name type="divin">Iahoua</name>, Deus
-                                        <name type="divin">Cados</name> et Deus omnium in te
-                                    sperantium, Deus uirtuosissimus atque sapientissimus et seruator
-                                    cordium, miserere mei et intende uoci deprecationis meæ dum oro
-                                    ad te, <del>deum</del> dum extollo manus meas ad templum sanctum tuum. </p>
+                                <p> Oratio. « Deus <del>meus</del> cuius <app>
+                                        <lem resp="#NC">deitas</lem>
+                                        <rdg>dietas</rdg>
+                                    </app> sine fine, Deus creator omnium creaturarum, principium et
+                                    finis, Deus <name type="divin"> Adonay</name>, Deus <name
+                                        type="divin">Iahoua</name>, Deus <name type="divin"
+                                        >Cados</name> et Deus omnium in te sperantium, Deus
+                                    uirtuosissimus atque sapientissimus et seruator cordium,
+                                    miserere mei et intende uoci deprecationis meæ dum oro ad te,
+                                        <del>deum</del> dum extollo manus meas ad templum sanctum
+                                    tuum. </p>
                             </div>
                             <div n="2" type="section">
-                                <p> Tu autem <del>domine</del>, Deus meus, suauis et <app><lem resp="#NC">uerus</lem><rdg>uenis</rdg></app> et patiens, et, et in
-                                    consilio tuo disponens omnia, Domine Deus qui sedes sub
-                                    Cherubim, tu es solus regum omnium terræ, tu fecisti cælum et
-                                    terram inclina aurem tuam et exaudi, aperi Domine <app><lem resp="#NC">oculos</lem><rdg>occulos</rdg></app> tuos.
-                                    Et uide et exaudi omnia uerba mea et exaudi me </p>
+                                <p> Tu autem <del>domine</del>, Deus meus, suauis et <app>
+                                        <lem resp="#NC">uerus</lem>
+                                        <rdg>uenis</rdg>
+                                    </app> et patiens, et, et in consilio tuo disponens omnia,
+                                    Domine Deus qui sedes sub Cherubim, tu es solus regum omnium
+                                    terræ, tu fecisti cælum et terram inclina aurem tuam et exaudi,
+                                    aperi Domine <app>
+                                        <lem resp="#NC">oculos</lem>
+                                        <rdg>occulos</rdg>
+                                    </app> tuos. Et uide et exaudi omnia uerba mea et exaudi me </p>
                             </div>
                             <div n="3" type="section">
-                                <p> Deus qui creasti de terra hominem, et secundum imaginem <del>immaginem</del> tuam
-                                    fecisti, et iterum conuertisti ipsum in <app><lem resp="#NC">illam</lem><rdg>illum</rdg></app>, et secundum tuam
-                                    diuinitatem uestisti illum <app><lem resp="#NC">iuirtutem</lem><rdg>uirtute</rdg></app>, numerum dierum et tempus
-                                    dedisti illi potestatem eorum quæ sunt super terram.</p>
+                                <p> Deus qui creasti de terra hominem, et secundum imaginem
+                                        <del>immaginem</del> tuam fecisti, et iterum conuertisti
+                                    ipsum in <app>
+                                        <lem resp="#NC">illam</lem>
+                                        <rdg>illum</rdg>
+                                    </app>, et secundum tuam diuinitatem uestisti illum <app>
+                                        <lem resp="#NC">iuirtutem</lem>
+                                        <rdg>uirtute</rdg>
+                                    </app>, numerum dierum et tempus dedisti illi potestatem eorum
+                                    quæ sunt super terram.</p>
                             </div>
                             <div n="4" type="section">
                                 <p> Posuisti timorem illius super omnem carnem et dominatus
                                     bestiarum et uolatilium, creasti ex ipso adiutorium simile sibi
                                     consilium et linguam et oculos et aures et cor dedisti illis
-                                    excogitandi, et disciplina <app><lem resp="#NC">intellectus</lem><rdg>intellectis</rdg></app> repleuisti illos ;
-                                   <app><lem resp="#NC">scientiam</lem><rdg>scientia</rdg></app>, spiritus, sensu impleuisti cor illorum, et mala et
-                                    bona ostendisti illis. </p>
+                                    excogitandi, et disciplina <app>
+                                        <lem resp="#NC">intellectus</lem>
+                                        <rdg>intellectis</rdg>
+                                    </app> repleuisti illos ; <app>
+                                        <lem resp="#NC">scientiam</lem>
+                                        <rdg>scientia</rdg>
+                                    </app>, spiritus, sensu impleuisti cor illorum, et mala et bona
+                                    ostendisti illis. </p>
                             </div>
                             <div n="5" type="section">
                                 <p> Recordare, benignissime Deus quoniam dixisti in æternum
@@ -959,11 +1012,15 @@
                                 <p> Nota quod, dum artista genuflexus orat, debent esse sex candelæ
                                     accensæ super tabulam et finita supra dicta oratione, scribere
                                     debebit nomen magnum et terribile cum maxima deuotione. Hoc est
-                                        <name type="divin"> Thethagramaton</name> <app><lem resp="#NC">dilectans</lem><rdg>dilectens</rdg></app>
-                                    maiusculis cum stilo argenteo. Et est scribendum dictum sanctum
-                                    nomen in secunda capsula, ut dictum est, et artista habeat
-                                    petitionem scriptam in carta uirginea et mittat <add place="in margine">uel u</add> illam prope
-                                    sigillum, ut supra adnotauimus. </p>
+                                        <name type="divin"> Thethagramaton</name>
+                                    <app>
+                                        <lem resp="#NC">dilectans</lem>
+                                        <rdg>dilectens</rdg>
+                                    </app> maiusculis cum stilo argenteo. Et est scribendum dictum
+                                    sanctum nomen in secunda capsula, ut dictum est, et artista
+                                    habeat petitionem scriptam in carta uirginea et mittat <add
+                                        place="in margine">uel u</add> illam prope sigillum, ut
+                                    supra adnotauimus. </p>
                             </div>
                             <div n="2" type="section">
                                 <p> Et postea, cum maxima ueneratione, candelas accendat sanctissimi
@@ -974,16 +1031,23 @@
                             <div n="3" type="section">
                                 <p> Nos supra diximus quod prima capsula non debeat esse uacua et
                                     non debet esse uacua sed debebit fieri foramen intus ab artista
-                                    cum <app><lem resp="#NC">stilo</lem><rdg>stillo</rdg></app> argenteo usque ad sanctum nomen Stahelaon et intus
+                                    cum <app>
+                                        <lem resp="#NC">stilo</lem>
+                                        <rdg>stillo</rdg>
+                                    </app> argenteo usque ad sanctum nomen Stahelaon et intus
                                     mittere sigillum altitudinis et caractera principum cum suis
                                     nominibus et postea foramen illud claudere. Antequam artista
-                                    mittat sigillum altitudinis et caractera principum <del>in formaine debet suffumigare</del> in foramine
-                                    debet suffumigare illa odoribus propriis. </p>
+                                    mittat sigillum altitudinis et caractera principum <del>in
+                                        formaine debet suffumigare</del> in foramine debet
+                                    suffumigare illa odoribus propriis. </p>
                             </div>
                             <div n="4" type="section">
                                 <p> Nota quod sigilla et caractera principum sunt scribenda in carta
-                                    uirginea, coloribus propriis illius altitudinis, uel in panno
-                                    <app><lem resp="#NC">serico</lem><rdg>seic</rdg></app> eiusdem coloris cum croco <del>aqua</del> aqua rosarum et musco. </p>
+                                    uirginea, coloribus propriis illius altitudinis, uel in panno <app>
+                                        <lem resp="#NC">serico</lem>
+                                        <rdg>seic</rdg>
+                                    </app> eiusdem coloris cum croco <del>aqua</del> aqua rosarum et
+                                    musco. </p>
                             </div>
                             <div n="5" type="section">
                                 <p> Et sciendum est quod sigilla altitudinum orientalum sunt
@@ -1004,22 +1068,21 @@
                             </div>
                         </div>
                         <div>
-                            <p>Figura tertia. 
-                                <pb n="im_3" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_3.jpg"/>
-                                Sigillum primæ altitudinis orientalis Caractera
-                                principum</p>
+                            <p>Figura tertia. <pb n="im_3"
+                                    facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_3.jpg"
+                                /> Sigillum primæ altitudinis orientalis Caractera principum</p>
                         </div>
 
                         <div>
-                            <p>Figura quarta.
-                                <pb n="im_4" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_4.jpg"/>
-                                Sigillum secundæ altitudinis orientalis 2.</p>
+                            <p>Figura quarta. <pb n="im_4"
+                                    facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_4.jpg"
+                                /> Sigillum secundæ altitudinis orientalis 2.</p>
                         </div>
 
                         <div>
-                            <p>Figura quinta. 
-                                <pb n="im_5" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_5.jpg"/>
-                                Sigillum tertiæ altitudinis</p>
+                            <p>Figura quinta. <pb n="im_5"
+                                    facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_5.jpg"
+                                /> Sigillum tertiæ altitudinis</p>
                         </div>
 
 
@@ -1039,9 +1102,10 @@
                         <div n="14" type="chapitre">
                             <div n="1" type="section">
                                 <p> Nota. Sciendum tamen est quod preparatio illa seu oratio quæ
-                                    incipit « Deus <persName>Abraham</persName>, Deus <persName>Israel</persName> »
-                                    et est dicenda ante primam horam illius planetæ, quæ <del>qua</del> operatur
-                                    altitudo. Etiam est sciendum quod artista, dum scribit sigillum
+                                    incipit « Deus <persName>Abraham</persName>, Deus
+                                        <persName>Israel</persName> » et est dicenda ante primam
+                                    horam illius planetæ, quæ <del>qua</del> operatur altitudo.
+                                    Etiam est sciendum quod artista, dum scribit sigillum
                                     altitudinis et caractera principum debet etiam genuflexus
                                     permanere. </p>
                             </div>
@@ -1061,15 +1125,21 @@
                         <div n="15" type="chapitre">
                             <div n="1" type="section">
                                 <p> Inuocatio seu coniuratio. « Sic adoro nomen sanctum Dei
-                                    adorabile in æternum quod uos <add place="in margine">e</add> cælestes potestates atque angelicæ
-                                    uirtutes inuitis et obeditis creatori uestro. Adiuro, exoro,
-                                    expostulo Deum sanctum, Deum uiuum, Deum uerum, uisibilium et
-                                    inuisibilium creaturarum creatorem omnium, per <app><lem resp="#NC">diadema</lem><rdg>diademam</rdg></app>, coronam
-                                    sui capitis, per nomen illud quod est timendum ab omnibus
-                                    creatoris cælestibus <app><lem resp="#NC">terrestribus</lem><rdg>terestribus</rdg></app> et infernalibus quod scribitur
-                                    quatuor litteris, id est <name type="divin">Voth</name>, <name
-                                        type="divin">Beth</name>, <name type="divin">Agla</name>,
-                                        <name type="divin">Aenar</name>
+                                    adorabile in æternum quod uos <add place="in margine">e</add>
+                                    cælestes potestates atque angelicæ uirtutes inuitis et obeditis
+                                    creatori uestro. Adiuro, exoro, expostulo Deum sanctum, Deum
+                                    uiuum, Deum uerum, uisibilium et inuisibilium creaturarum
+                                    creatorem omnium, per <app>
+                                        <lem resp="#NC">diadema</lem>
+                                        <rdg>diademam</rdg>
+                                    </app>, coronam sui capitis, per nomen illud quod est timendum
+                                    ab omnibus creatoris cælestibus <app>
+                                        <lem resp="#NC">terrestribus</lem>
+                                        <rdg>terestribus</rdg>
+                                    </app> et infernalibus quod scribitur quatuor litteris, id est
+                                        <name type="divin">Voth</name>, <name type="divin"
+                                        >Beth</name>, <name type="divin">Agla</name>, <name
+                                        type="divin">Aenar</name>
                                 </p>
                             </div>
                             <div n="2" type="section">
@@ -1078,8 +1148,10 @@
                                         <name type="divin">Adicarday</name>, <name type="divin"
                                         >Cby</name>, <name type="divin">On </name>, <name
                                         type="divin">Abuinon</name>, <name type="divin"
-                                    >Ydios</name>, <name type="divin">Thethagramaton</name>,<del>Hussio, Hel, Helij, Heloij, Heloa</del> <name
-                                        type="divin">Emanuel</name>, <name type="divin"
+                                    >Ydios</name>, <name type="divin"
+                                        >Thethagramaton</name>,<del>Hussio, Hel, Helij, Heloij,
+                                        Heloa</del>
+                                    <name type="divin">Emanuel</name>, <name type="divin"
                                         >Adonay</name>, <name type="divin">Agloto</name>, <name
                                         type="divin">Pantongraton</name>, <name type="divin"
                                         >Hussio</name>, <name type="divin">Hel</name>, <name
@@ -1096,35 +1168,35 @@
                                         >Abyonitas</name>, <name type="divin">Ieue</name>, <name
                                         type="divin">Techtron</name>, <name type="divin"
                                         >Techtron</name>, <name type="divin">Alausim</name>, <name
-                                        type="divin">Chalbatl</name>,<del>Ieue</del> <name type="divin"
-                                        >Iobel</name>, <name type="divin">Onio</name>, <name
-                                        type="divin">Vna</name>, <name type="divin">Saluator</name>,
-                                        <name type="divin">A et Ω</name> ego sum qui sum, <name
-                                        type="divin">Aehec</name>, <name type="divin">Sehoua</name>,
-                                        <name type="divin">Anabona</name>, <name type="divin"
-                                        >Ysaron</name>, <name type="divin">Alyeon</name>, <name
-                                        type="divin">Syalos</name>, <name type="divin">Ane</name>,
-                                        <name type="divin">Adneth</name>, <name type="divin"
-                                        >Esba</name>, <name type="divin">Athoth</name>, <name
-                                        type="divin">Yotlya</name>, <name type="divin">Ayan</name>,
-                                        <name type="divin">Ayac</name>, <name type="divin"
-                                        >Dyeron</name>, <name type="divin">Zasaday</name>, <name
-                                        type="divin">Oin</name>, <name type="divin">Vlath</name>,
-                                        <name type="divin">Vnias</name>, <name type="divin"
-                                        >Yonas</name>, <name type="divin">Otheth</name>, <name
-                                        type="divin">Ihegh</name>, <name type="divin">Abamor</name>,
-                                        <name type="divin">Adyos</name>, <name type="divin"
-                                        >Vertahel</name>, <name type="divin">Bemon</name>, <name
-                                        type="divin">Zeloy</name>, <name type="divin">Zeray</name>,
-                                        <name type="divin">Manay</name>, <name type="divin"
-                                        >Alba</name>, <name type="divin">Abatha</name>, <name
-                                        type="divin">Nethon</name>, <name type="divin"
-                                    >Auhulo</name>, <name type="divin">Anarna</name>, <name
-                                        type="divin">Sanel</name>, <name type="divin"
-                                        >Ferglaon</name>, <name type="divin">Dayclan</name>, <name
-                                        type="divin">Machanhal</name>, <name type="divin"
-                                        >Agya</name>, <name type="divin">Aray</name>, <name
-                                        type="divin">Looh</name>, <name type="divin"
+                                        type="divin">Chalbatl</name>,<del>Ieue</del>
+                                    <name type="divin">Iobel</name>, <name type="divin">Onio</name>,
+                                        <name type="divin">Vna</name>, <name type="divin"
+                                        >Saluator</name>, <name type="divin">A et Ω</name> ego sum
+                                    qui sum, <name type="divin">Aehec</name>, <name type="divin"
+                                        >Sehoua</name>, <name type="divin">Anabona</name>, <name
+                                        type="divin">Ysaron</name>, <name type="divin"
+                                    >Alyeon</name>, <name type="divin">Syalos</name>, <name
+                                        type="divin">Ane</name>, <name type="divin">Adneth</name>,
+                                        <name type="divin">Esba</name>, <name type="divin"
+                                        >Athoth</name>, <name type="divin">Yotlya</name>, <name
+                                        type="divin">Ayan</name>, <name type="divin">Ayac</name>,
+                                        <name type="divin">Dyeron</name>, <name type="divin"
+                                        >Zasaday</name>, <name type="divin">Oin</name>, <name
+                                        type="divin">Vlath</name>, <name type="divin">Vnias</name>,
+                                        <name type="divin">Yonas</name>, <name type="divin"
+                                        >Otheth</name>, <name type="divin">Ihegh</name>, <name
+                                        type="divin">Abamor</name>, <name type="divin">Adyos</name>,
+                                        <name type="divin">Vertahel</name>, <name type="divin"
+                                        >Bemon</name>, <name type="divin">Zeloy</name>, <name
+                                        type="divin">Zeray</name>, <name type="divin">Manay</name>,
+                                        <name type="divin">Alba</name>, <name type="divin"
+                                        >Abatha</name>, <name type="divin">Nethon</name>, <name
+                                        type="divin">Auhulo</name>, <name type="divin"
+                                    >Anarna</name>, <name type="divin">Sanel</name>, <name
+                                        type="divin">Ferglaon</name>, <name type="divin"
+                                        >Dayclan</name>, <name type="divin">Machanhal</name>, <name
+                                        type="divin">Agya</name>, <name type="divin">Aray</name>,
+                                        <name type="divin">Looh</name>, <name type="divin"
                                         >Pothozetda</name>, <name type="divin">Zelietenero</name>,
                                         <name type="divin">Aga</name>, <name type="divin"
                                         >Betha</name>, <name type="divin">Than</name>, <name
@@ -1216,14 +1288,15 @@
                                         >Ezieniel</name>, <name type="divin">Cios</name>, <name
                                         type="divin">Sachiel</name>, <name type="divin"
                                         >Sedecsias</name>, <name type="divin">Sadael</name>, <name
-                                        type="divin">Ozielozias</name>, <del>Ieosna Selum Somer Thari</del> <name type="divin"
-                                        >Meschias</name>, <name type="divin">Manahem</name>, <name
-                                        type="divin">Tesitas</name>, <name type="divin"
-                                        >Iohacas</name>, <name type="divin">Ieosna</name>, <name
-                                        type="divin">Selum</name>, <name type="divin">Somer</name>,
-                                        <name type="divin">Thari</name>, <name type="divin"
-                                        >Salomich</name>, <name type="divin">Phanuel</name>, <name
-                                        type="divin">Oscheo</name>
+                                        type="divin">Ozielozias</name>, <del>Ieosna Selum Somer
+                                        Thari</del>
+                                    <name type="divin">Meschias</name>, <name type="divin"
+                                        >Manahem</name>, <name type="divin">Tesitas</name>, <name
+                                        type="divin">Iohacas</name>, <name type="divin"
+                                        >Ieosna</name>, <name type="divin">Selum</name>, <name
+                                        type="divin">Somer</name>, <name type="divin">Thari</name>,
+                                        <name type="divin">Salomich</name>, <name type="divin"
+                                        >Phanuel</name>, <name type="divin">Oscheo</name>
                                 </p>
                             </div>
                             <div n="3" type="section">
@@ -1235,19 +1308,34 @@
                         </div>
                         <div n="16" type="chapitre">
                             <div n="1" type="section">
-                                <p> Finita inuocatione, apparebit unus princeps <app><lem resp="#NC">illius</lem><rdg>illus</rdg></app> altitudinis,
-                                    indutus stola candida in uiso pulcherrimi iuuenis et flores
-                                    <app><lem resp="#NC">roseos</lem><rdg>roseis</rdg></app> in capite suo deferens ad modum coronæ. Tunc artista
-                                    habeat <app><lem resp="#NC">paruum</lem><rdg>parum</rdg></app> uas ad modum <app><lem>praxedis</lem><rdg>praxidis</rdg></app> noui, et intus mittat
-                                    carbones ex <app><lem resp="#NC">rosmarino</lem><rdg>rosma uino</rdg></app> accensos et super illos proiiciat de
-                                    odoribus altitudinis. </p>
+                                <p> Finita inuocatione, apparebit unus princeps <app>
+                                        <lem resp="#NC">illius</lem>
+                                        <rdg>illus</rdg>
+                                    </app> altitudinis, indutus stola candida in uiso pulcherrimi
+                                    iuuenis et flores <app>
+                                        <lem resp="#NC">roseos</lem>
+                                        <rdg>roseis</rdg>
+                                    </app> in capite suo deferens ad modum coronæ. Tunc artista
+                                    habeat <app>
+                                        <lem resp="#NC">paruum</lem>
+                                        <rdg>parum</rdg>
+                                    </app> uas ad modum <app>
+                                        <lem>praxedis</lem>
+                                        <rdg>praxidis</rdg>
+                                    </app> noui, et intus mittat carbones ex <app>
+                                        <lem resp="#NC">rosmarino</lem>
+                                        <rdg>rosma uino</rdg>
+                                    </app> accensos et super illos proiiciat de odoribus
+                                    altitudinis. </p>
                             </div>
                             <div n="2" type="section">
-                                <p> Et quam cito ipse sentiat odores, tunc dulciter <app><lem resp="#NC">alloquetur</lem><rdg>alloquentur</rdg></app>
-                                    artistæ. Et dicet « quid petis ? adquid uocatis principes nostræ
-                                    altitudinis ? ». Et artista cum ueneratione respondeat ut « hæc
-                                    petitio quæ eis ex officio incumbit, mihi ab eis sit concedenda
-                                    ». </p>
+                                <p> Et quam cito ipse sentiat odores, tunc dulciter <app>
+                                        <lem resp="#NC">alloquetur</lem>
+                                        <rdg>alloquentur</rdg>
+                                    </app> artistæ. Et dicet « quid petis ? adquid uocatis principes
+                                    nostræ altitudinis ? ». Et artista cum ueneratione respondeat ut
+                                    « hæc petitio quæ eis ex officio incumbit, mihi ab eis sit
+                                    concedenda ». </p>
                             </div>
                             <div n="3" type="section">
                                 <p> Et debet artista dicere suam petitionem non petendo aliquid quod
@@ -1257,32 +1345,39 @@
                                     hominibus.</p>
                             </div>
                             <div n="4" type="section">
-                                <p> Et quando uoluerit cum illo postea loqui, <app><lem resp="#NC">suffumiget</lem><rdg>suffimigit</rdg></app>, et
-                                    genuflexus, dicat nomen principis illius altitudinis et ueniet
-                                    et alloquetur cum eo.</p>
+                                <p> Et quando uoluerit cum illo postea loqui, <app>
+                                        <lem resp="#NC">suffumiget</lem>
+                                        <rdg>suffimigit</rdg>
+                                    </app>, et genuflexus, dicat nomen principis illius altitudinis
+                                    et ueniet et alloquetur cum eo.</p>
                             </div>
                         </div>
                         <div n="17" type="chapitre">
                             <div n="1" type="section">
                                 <p> Nota. Et nota, o artista, quod debes ter dicere inuocationem, et
-                                    si non non uenerit, tunc cum maxima ueneratione <app><lem resp="#NC">lotis</lem><rdg>letis</rdg></app> manibus
-                                    aqua rosarum cum sigillo magni Dei, sigilla, candelas sancti
-                                    Hahelaon, in pari numero, et postea ad locum suum repones
-                                    sigillum et reitera per duas alias uices inuocationem, et procul
-                                    dubio, antequam lumen ueniat, ad figuram sigilli, nuntius
-                                    apparebit et quidquid uoleris obtinebis. </p>
+                                    si non non uenerit, tunc cum maxima ueneratione <app>
+                                        <lem resp="#NC">lotis</lem>
+                                        <rdg>letis</rdg>
+                                    </app> manibus aqua rosarum cum sigillo magni Dei, sigilla,
+                                    candelas sancti Hahelaon, in pari numero, et postea ad locum
+                                    suum repones sigillum et reitera per duas alias uices
+                                    inuocationem, et procul dubio, antequam lumen ueniat, ad figuram
+                                    sigilli, nuntius apparebit et quidquid uoleris obtinebis. </p>
                             </div>
                             <div n="2" type="section">
                                 <p> Postquam princeps dabit artistæ nomen ignotum et petitionem
-                                    cordis sui satisfecerit, artista <del>debebit</del> debet genuflexus iterum
-                                    suffimigium illi facere cum odoribus illius altitudinis et
-                                    finito dicere cum ueneratione : </p>
+                                    cordis sui satisfecerit, artista <del>debebit</del> debet
+                                    genuflexus iterum suffimigium illi facere cum odoribus illius
+                                    altitudinis et finito dicere cum ueneratione : </p>
                             </div>
                             <div n="3" type="section">
                                 <p> « Maximas gratias ago uobis principibus altitudinis », et debet
-                                    nominare nomen altitudinis « quoniam meæ <app><lem resp="#NC">satisfecisti</lem><rdg>satisfecistis</rdg></app> uoluntati
-                                    idcirco, o potestas incomprehensibilis, uide cor meum et pete
-                                    quiquid uis quoniam sum paratus facere omnia ».</p>
+                                    nominare nomen altitudinis « quoniam meæ <app>
+                                        <lem resp="#NC">satisfecisti</lem>
+                                        <rdg>satisfecistis</rdg>
+                                    </app> uoluntati idcirco, o potestas incomprehensibilis, uide
+                                    cor meum et pete quiquid uis quoniam sum paratus facere omnia
+                                    ».</p>
                             </div>
                             <div n="4" type="section">
                                 <p>. Tunc ipse maxima cum grauitate cum artista alloquetur, et
@@ -1299,10 +1394,12 @@
                                     exemplo apparebit. </p>
                             </div>
                             <div n="2" type="section">
-                                <p> Et postquam <app><lem resp="#NC">inceperis</lem><rdg>siue peris</rdg></app> suffumigare illam odoribus altitudinis. Et
-                                    nota quod in ueste scribere debes nomina et caractera die ☿, id
-                                    est Mercurii, et hora solis, luna crescente, in pari numero.
-                                </p>
+                                <p> Et postquam <app>
+                                        <lem resp="#NC">inceperis</lem>
+                                        <rdg>siue peris</rdg>
+                                    </app> suffumigare illam odoribus altitudinis. Et nota quod in
+                                    ueste scribere debes nomina et caractera die ☿, id est Mercurii,
+                                    et hora solis, luna crescente, in pari numero. </p>
                             </div>
                             <div n="3" type="section">
                                 <p> Et postea illam seruare in loco mundissimo, et tempore
@@ -1328,9 +1425,9 @@
                         </div>
 
                         <div>
-                            <p>Figura sexta. 
-                                <pb n="im_6" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_6.jpg"/>
-                                Forma uestis artistæ Ex alia parte <name type="divin"
+                            <p>Figura sexta. <pb n="im_6"
+                                    facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_6.jpg"
+                                /> Forma uestis artistæ Ex alia parte <name type="divin"
                                     >ELIZBETH</name>
                                 <name type="divin">ABESSALOM</name>
                                 <name type="divin">AVORRA</name>
@@ -1352,14 +1449,27 @@
                             <div n="2" type="section">
                                 <p> Idcirco sigillum est fabricandum die ♃, id est Iouis, uel solis,
                                     hora ☿, id est Mercurii, et nomina et signa ut in exemplo sunt
-                                    sculpenda die solis uel ♀, luna <del>cresce</del> crescente, in pari numero et
-                                    eius hora uel hora Iouis. </p>
+                                    sculpenda die solis uel ♀, luna <del>cresce</del> crescente, in
+                                    pari numero et eius hora uel hora Iouis. </p>
                             </div>
                             <div n="3" type="section">
                                 <p> Et postquam sigillum erit completum, suffumigare illud debet
-                                    artista cum odoribus ligni aloe, costi, <app><lem resp="#NC">storacis</lem><rdg>storauis</rdg></app> <app><lem>calamiti</lem><rdg>calamite</rdg></app>,
-                                    <app><lem resp="#NC">benzoini</lem><rdg>bengioi</rdg></app> et <app><lem resp="#NC">olibani</lem><rdg>olebani</rdg></app>. Finita <del>sul</del> suffumigatione <del>suffumigare</del> illud reponere in
-                                    sanctum Hahelaon. </p>
+                                    artista cum odoribus ligni aloe, costi, <app>
+                                        <lem resp="#NC">storacis</lem>
+                                        <rdg>storauis</rdg>
+                                    </app>
+                                    <app>
+                                        <lem>calamiti</lem>
+                                        <rdg>calamite</rdg>
+                                    </app>, <app>
+                                        <lem resp="#NC">benzoini</lem>
+                                        <rdg>bengioi</rdg>
+                                    </app> et <app>
+                                        <lem resp="#NC">olibani</lem>
+                                        <rdg>olebani</rdg>
+                                    </app>. Finita <del>sul</del> suffumigatione
+                                        <del>suffumigare</del> illud reponere in sanctum Hahelaon.
+                                </p>
                             </div>
                             <div n="4" type="section">
                                 <p> Et scias quod sufficit in omnibus altitudinibus hoc sigilum et
@@ -1369,7 +1479,10 @@
                             </div>
                             <div n="5" type="section">
                                 <p> Scias quod finita suffumigatione cum ueneratione genuflexus
-                                    debes <app><lem resp="#NC">dicere</lem><rdg>dice</rdg></app> hanc orationem Deo.</p>
+                                    debes <app>
+                                        <lem resp="#NC">dicere</lem>
+                                        <rdg>dice</rdg>
+                                    </app> hanc orationem Deo.</p>
                             </div>
                         </div>
                         <div n="20" type="chapitre">
@@ -1377,40 +1490,72 @@
                                 <p> Oratio. O <name type="divin">Adonay</name>, <name type="divin"
                                         >Saday</name>,<name type="divin">Heloyn</name>, qui es <name
                                         type="divin">A et ω</name>, hoc est principium et finis
-                                    absque principio et fine, in quo uiuens homo cognoscit, Rex
-                                    <app><lem resp="#NC">summe</lem><rdg>sum</rdg></app> Imperator excellens qui Deus es, Rex regum, dominantium
+                                    absque principio et fine, in quo uiuens homo cognoscit, Rex <app>
+                                        <lem resp="#NC">summe</lem>
+                                        <rdg>sum</rdg>
+                                    </app> Imperator excellens qui Deus es, Rex regum, dominantium
                                     Dominus, qui etiam es pius, misericors, clemens, benignus,
                                     gloriosus </p>
                             </div>
                             <div n="2" type="section">
                                 <p> mundum tenens manu tua, et omne quod creatur est in potestate
                                     tua et conseruas, qui cælorum continens firmamentum, qui tronos
-                                    et <app><lem resp="#NC">abyssos</lem><rdg>abistos</rdg></app> intueris, qui montes ponderas terramque magnam
-                                    concludis a palmo, qui fecisti spiritus angelicos flammam ignis
-                                </p>
+                                    et <app>
+                                        <lem resp="#NC">abyssos</lem>
+                                        <rdg>abistos</rdg>
+                                    </app> intueris, qui montes ponderas terramque magnam concludis
+                                    a palmo, qui fecisti spiritus angelicos flammam ignis </p>
                             </div>
                             <div n="3" type="section">
-                                <p> qui producis uentos de thesauris suis, qui ambulas super <app><lem resp="#NC">pennas</lem><rdg>penas</rdg></app>
-                                    uentorum, qui <app><lem resp="#NC">percussisti</lem><rdg>percusisti</rdg></app> primo genita <app><lem resp="#NC">Aegypti</lem><rdg>Aegipti</rdg></app> ab homine usque
-                                    ad pecus, qui diuisisti lumen a tenebris, qui fecisti <app><lem resp="#NC">luminaria</lem><rdg>luminam</rdg></app>
-                                    magna, solem et lunam, </p>
+                                <p> qui producis uentos de thesauris suis, qui ambulas super <app>
+                                        <lem resp="#NC">pennas</lem>
+                                        <rdg>penas</rdg>
+                                    </app> uentorum, qui <app>
+                                        <lem resp="#NC">percussisti</lem>
+                                        <rdg>percusisti</rdg>
+                                    </app> primo genita <app>
+                                        <lem resp="#NC">Aegypti</lem>
+                                        <rdg>Aegipti</rdg>
+                                    </app> ab homine usque ad pecus, qui diuisisti lumen a tenebris,
+                                    qui fecisti <app>
+                                        <lem resp="#NC">luminaria</lem>
+                                        <rdg>luminam</rdg>
+                                    </app> magna, solem et lunam, </p>
                             </div>
                             <div n="4" type="section">
-                                <p> Deus <app><lem resp="#NC">totius</lem><rdg>totus</rdg></app> <app><lem resp="#NC">misericordiae</lem><rdg>misericordis</rdg></app>, ego famulus tuus N., rogo tuam
-                                   <app><lem resp="#NC">pretiosissimam</lem><rdg>pitiosissimam</rdg></app> <app><lem resp="#NC">maiestatem</lem><rdg>maiestat</rdg></app> ut petitionem cordis mei concedas mihi
-                                    per tuam maximam potentiam. Amen. Fiat, fiat, fiat.</p>
+                                <p> Deus <app>
+                                        <lem resp="#NC">totius</lem>
+                                        <rdg>totus</rdg>
+                                    </app>
+                                    <app>
+                                        <lem resp="#NC">misericordiae</lem>
+                                        <rdg>misericordis</rdg>
+                                    </app>, ego famulus tuus N., rogo tuam <app>
+                                        <lem resp="#NC">pretiosissimam</lem>
+                                        <rdg>pitiosissimam</rdg>
+                                    </app>
+                                    <app>
+                                        <lem resp="#NC">maiestatem</lem>
+                                        <rdg>maiestat</rdg>
+                                    </app> ut petitionem cordis mei concedas mihi per tuam maximam
+                                    potentiam. Amen. Fiat, fiat, fiat.</p>
                             </div>
                         </div>
                         <div>
-                            <p>Figura Septima.
-                                <pb n="im_7" facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_7.jpg"/>
-                                Hoc est sigillum magnum Dei <name type="divin"
-                                    >HELOEN</name>
+                            <p>Figura Septima. <pb n="im_7"
+                                    facs="data/images/single/liber_hynotheon_ms_rennes_adiv_5fb_1_im_7.jpg"
+                                /> Hoc est sigillum magnum Dei <name type="divin">HELOEN</name>
                                 <name type="divin">ADONAY</name>
                                 <name type="divin">PIUS</name>
                                 <name type="divin">ANABONA</name>
-                                <name type="divin">ARANITAN</name> Hæc est <app><lem>secunda</lem><rdg>segunda</rdg></app> <app><lem>pars</lem><rdg>partis</rdg></app> sigilli
-                                    <name type="divin">TETHAGRAMMATON</name>
+                                <name type="divin">ARANITAN</name> Hæc est <app>
+                                    <lem>secunda</lem>
+                                    <rdg>segunda</rdg>
+                                </app>
+                                <app>
+                                    <lem>pars</lem>
+                                    <rdg>partis</rdg>
+                                </app> sigilli <name type="divin">TETHAGRAMMATON</name>
                                 <name type="divin">ANABONA</name>
                                 <name type="divin">IHEHOVA</name>
                                 <name type="divin">HELOEN</name>
