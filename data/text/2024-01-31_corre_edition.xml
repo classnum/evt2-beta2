@@ -19,32 +19,45 @@
                 <p/>
             </publicationStmt>
             <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <country>France</country>
-                        <settlement>Rennes</settlement>
-                        <repository>ADIV</repository>
-                        <idno>5Fb 1</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support>papier</support>
-                                <extent>
-                                    <dimensions unit="mm">
-                                        <height>170</height>
-                                        <width>135</width>
-                                    </dimensions>
-                                </extent>
-                            </supportDesc>
-                        </objectDesc>
-                    </physDesc>
-                </msDesc>
+                <listWit>
+                    <witness xml:id="ADIV_5Fb_1">ADIV 5Fb 1 <msDesc>
+                            <msIdentifier>
+                                <country>France</country>
+                                <settlement>Rennes</settlement>
+                                <repository>ADIV</repository>
+                                <idno>5Fb 1</idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <objectDesc>
+                                    <supportDesc>
+                                        <support>papier</support>
+                                        <extent>
+                                            <dimensions unit="mm">
+                                                <height>170</height>
+                                                <width>135</width>
+                                            </dimensions>
+                                        </extent>
+                                    </supportDesc>
+                                </objectDesc>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                </listWit>
+                <listPerson>
+                    <head>Liste des noms</head>
+                    <person xml:id="Salomon">
+                        <persName>
+                            <forename>Salomon</forename>
+                        </persName>
+                        <sex>M</sex>
+                    </person>
+                </listPerson>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
 
     <text n="Liber Hynotheon" type="prose" xml:id="liberhynotheon">
+
         <body>
             <div type="transcription" xml:lang="lat">
                 <head>Liber Hynotheon</head>
@@ -54,12 +67,16 @@
                         <pb n="page_1"
                             facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-0001.jpg"/>
                         <div n="1" type="section">
-                            <p> In nomine domini <name>Iesus</name>
-                                <app>
+                            <p> In nomine domini <name ref="#Iesus">Iesus</name>
+                                <choice>
+                                    <sic>Chisti</sic>
+                                    <corr resp="#NC">Christi</corr>
+                                </choice>
+                                <!--<app>
                                     <lem resp="#NC">Christi</lem>
-                                    <rdg>Chisti</rdg>
-                                </app>. Liber est <name type="divin">Hynothéon</name> sapientissimi
-                                    <persName>Salomonis</persName> regis, filii
+                                    <rdg wit="#ADIV_5Fb_1">Chisti</rdg>
+                                </app>-->. Liber est <name type="divin">Hynothéon</name> sapientissimi
+                                    <persName ref="#Salomon">Salomonis</persName> regis, filii
                                     <persName>David</persName>
                                 <persName>Israël</persName>, de <app>
                                     <lem resp="#NC">Chaldaeo</lem>
@@ -217,17 +234,15 @@
                         </div>
                         <div n="10" type="section">
                             <p> Nona altitudo. Hæc uocatur <name type="divin">Suphor</name> et
-                                principes qui morantur in ea habent potestatem
-                                <pb n="page_3"
-                                    facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-0003.jpg"/>
-                                et uirtutem dare
-                                pecunias hominibus et etiam illas auferre quomodo illis placet et ex
-                                officio faciunt homines pulcherrimos et etiam uirtutem habent
-                                infundendi omnes scientias. Nomina principum huius altitudinis sunt
-                                    <name type="divin">Paymon</name>, <name type="divin">Egy</name>,
-                                    <name type="divin">Egysta</name>, <name type="divin">Zayn
-                                </name>, <name type="divin">Zæthau</name>, <name type="divin"
-                                    >Gratyn</name>. </p>
+                                principes qui morantur in ea habent potestatem <pb n="page_3"
+                                    facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-0003.jpg"
+                                /> et uirtutem dare pecunias hominibus et etiam illas auferre
+                                quomodo illis placet et ex officio faciunt homines pulcherrimos et
+                                etiam uirtutem habent infundendi omnes scientias. Nomina principum
+                                huius altitudinis sunt <name type="divin">Paymon</name>, <name
+                                    type="divin">Egy</name>, <name type="divin">Egysta</name>, <name
+                                    type="divin">Zayn </name>, <name type="divin">Zæthau</name>,
+                                    <name type="divin">Gratyn</name>. </p>
                         </div>
                         <div n="11" type="section">
                             <p> Et est sciendum quod omnes hæ altitudines habent uirtutem suam die
