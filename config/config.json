@@ -82,7 +82,7 @@
             "visible": false
         }
     ],
-    "showDocumentSelector": false,
+    "showDocumentSelector": true,
     "enableNavBar": true,
     "initNavBarOpened": true,
     "thumbnailsButton": true,
@@ -99,17 +99,23 @@
             "available": true
         },
         {
-            "tagName": "name type=divin ",
-            "label": "Noms divins",
-            "available": true
+            "tagName": "placeName",
+            "label": "Places",
+            "available": false
         },
         {
             "tagName": "orgName",
             "label": "Organizations",
-            "available": true
+            "available": false
         }
     ],
     "otherEntitiesToHandle": [
+        {
+            "tagName": "name",
+            "label": "Noms divins",
+            "available": true,
+            "color": "yellow"
+        },
         {
             "tagName": "rolename",
             "label": "Role Name",
