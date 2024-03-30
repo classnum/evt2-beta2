@@ -78,10 +78,14 @@
                                 </app>-->. Liber est <name type="divin">Hynothéon</name> sapientissimi
                                     <persName ref="#Salomon">Salomonis</persName> regis, filii
                                     <persName>David</persName>
-                                <persName>Israël</persName>, de <app>
+                                <persName>Israël</persName>, de <choice><sic>
+                                Caldes</sic>
+                                    <corr resp="#NC">Chaldaeo</corr></choice>
+                                 <!--<app>
                                     <lem resp="#NC">Chaldaeo</lem>
-                                    <rdg>Caldes</rdg>
-                                </app> in Latinum. Altitudines orientis sunt nouem de quibus in hoc
+                                    <rdg wit="#ADIV_5Fb_1">Caldes</rdg>
+                                </app>-->
+                                in Latinum. Altitudines orientis sunt nouem de quibus in hoc
                                 libro primo tractatu tractandum est, et de illius uirtutibus. In
                                 secundo, est tractandum de altitudinibus occidentalibus, quæ sunt
                                 septem, et meridionalibus quæ sunt quinque, et septentrionalibus quæ
@@ -723,8 +727,9 @@
                         </div>
 
                         <div>
-                            <p>Figura prima. <pb n="page_13"
-                                facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-13.jpg"/> Modus formandi <del>fomandi</del> sanctum <name type="divin"
+                        <pb n="page_13"
+                                facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-13.jpg"/>
+                            <p>Figura prima.  Modus formandi <del>fomandi</del> sanctum <name type="divin"
                                     >Stahelaon</name>
                                 <name type="divin">THETAGRAMMATON</name>
                                 <name type="divin">HEL</name> 1. <name type="divin"
@@ -735,8 +740,9 @@
                         </div>
 
                         <div>
-                            <p>Figura secunda. <pb n="page_14"
+                        <pb n="page_14"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-14.jpg"/>
+                            <p>Figura secunda. 
                                 <name type="divin">THETHAGRAMMATON</name>
                                 <name type="divin">HEL</name> 1. <name type="divin"
                                     >Hynoytheon</name> 2. <name type="divin">Ptihaeumaton</name> 3.
