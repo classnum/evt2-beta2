@@ -102,10 +102,10 @@
                                 secundo, est tractandum de altitudinibus occidentalibus, quæ sunt
                                 septem, et meridionalibus quæ sunt quinque, et septentrionalibus quæ
                                 sunt tres. In tertio, de modo faciendi sanctum <name type="divin"
-                                    >Hælaon</name>, et de modo <app>
+                                    >Hælaon</name>, et de modo <choice><sic>seruandia</sic><corr resp="#NC">seruandi</corr></choice> <!--<app>
                                     <lem resp="#NC">seruandi</lem>
-                                    <rdg>seruandia</rdg>
-                                </app> artista antequam et postquam operationem suam hanc inceperit
+                                    <rdg wit="#ADIV_5Fb_1">seruandia</rdg>
+                                </app>--> artista antequam et postquam operationem suam hanc inceperit
                                 et de preparatione <del>artistiae</del> artistæ et de multis
                                 adnotationibus ad hanc artem pertinentibus.</p>
                         </div>
