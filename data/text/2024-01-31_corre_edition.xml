@@ -65,7 +65,7 @@
 
                     <div n="1" type="chapitre">
                         <pb n="page_1"
-                            facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-0001.jpg"/>
+                            facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-1.jpg"/>
                         <div n="1" type="section">
                             <p> In nomine domini <name ref="#Iesus">Iesus</name>
                                 <choice>
@@ -120,7 +120,7 @@
 
                         <div n="4" type="section">
                             <pb n="page_2"
-                                facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-0002.jpg"/>
+                                facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-2.jpg"/>
                             <p> Tertia altitudo. Hæc vocatur <name type="divin"><app>
                                         <lem resp="#NC">Hernimoy</lem>
                                         <rdg>Hernimoij</rdg>
@@ -175,7 +175,10 @@
                         <div n="7" type="section">
                             <p> Sexta altitudo. Hæc uocatur <name type="divin">Noxin</name>, et
                                 principes, qui morantur in ea, habent potestatem et uirtutem suam ex
-                                officio super status mundi et mouent et mutant monarchias, imperia
+                                officio super status 
+                                 <pb n="page_2"
+                                facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-3.jpg"/>
+                                mundi et mouent et mutant monarchias, imperia
                                 et dominia mundi de regione in regionem per motum cælestem et
                                 ordinationem eorum ; et distingunt dominos ii et a seruis ipsos
                                 uirtutibus et moribus illustrant, et mutant ipsas leges, fides ;
