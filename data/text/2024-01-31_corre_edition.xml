@@ -349,19 +349,16 @@
                                     >Camyn</name>. </p>
                         </div>
                         <div n="7" type="section">
-                            <p> Sexta altitudo. Hæc <choice><sic>uocantur</sic><corr resp="#NC">uocatur</corr></choice><!--<app>
-                                    <lem resp="#NC">uocatur</lem>
-                                    <rdg>uocantur</rdg>
-                                </app>-->
+                            <p> Sexta altitudo. Hæc uocatur
                                 <name type="divin">Agusth</name> et principes qui morantur in ea
                                 habent potestatem et uirtutem super omnia uolatilia cæli et animalia
-                                terræ <app>
+                                terræ <choice><sic>cauiatores</sic><corr resp="#NC">cantatores</corr></choice><!--<app>
                                     <lem resp="#NC">cantatores</lem>
                                     <rdg>cauiatores</rdg>
-                                </app> capere <app>
+                                </app>--> capere <choice><sic>illas</sic><corr resp="#NC">illa</corr></choice><!--<app>
                                     <lem resp="#NC">illa</lem>
                                     <rdg>illas</rdg>
-                                </app> uel non, ut illis uidetur. Nomina principum huius altitudinis
+                                </app>--> uel non, ut illis uidetur. Nomina principum huius altitudinis
                                 sunt <name type="divin">Bachay</name>, <name type="divin"
                                 >Son</name>, <name type="divin"> Balchochanth</name>, <name
                                     type="divin">Anay</name>, <name type="divin">Anyal</name>, <name
@@ -402,10 +399,10 @@
                                 scientias superstitiosas et super maleficia et cogunt demones facere
                                 quidquid uolunt homines uel non, ut illis placet. Nomina principum
                                 huius altitudinis sunt <name type="divin">Alaharahel</name>, <name
-                                    type="divin"><app>
+                                    type="divin"><choice><sic>Sasahorohath</sic><corr resp="#NC">Casahorohoth</corr></choice><!--<app>
                                         <lem resp="#NC"> Casahorohoth</lem>
                                         <rdg>Sasahorohath</rdg>
-                                    </app></name>, <name type="divin">Hamaliel</name>, <name
+                                    </app>--></name>, <name type="divin">Hamaliel</name>, <name
                                     type="divin">Mirthoath</name>, <name type="divin"
                                     >Sulthurohath</name>.</p>
                         </div>
@@ -434,10 +431,11 @@
                                 sonauerint quælibet genera instrumentorum, uel non, ut illis
                                 uidetur. Nomina principum huius altitudinis sunt <name type="divin"
                                     >Gebal</name>, <name type="divin">Lezioccil</name>, <name
-                                    type="divin">Vahathicy</name>, <name type="divin"><app>
+                                    type="divin">Vahathicy</name>, <name type="divin"><choice><sic>Ijchenal</sic><corr resp="#NC">Ychehnal</corr></choice><!--<app>
                                         <lem resp="#NC">Ychehnal</lem>
                                         <rdg>Ijchenal></rdg>
-                                    </app></name>
+                                    </app>-->
+                                    </name>
                                 <del>Ijchehal</del>, <name type="divin">Batthoual</name>, <name
                                     type="divin">Hyersehul</name>.</p>
                         </div>
@@ -455,26 +453,26 @@
                         <div n="5" type="section">
                             <p> Quinta et ultima altitudo meridionalis. Hæc uocatur <name
                                     type="divin">Iahothahu</name> et principes, qui morantur in ea,
-                                habent uirtutem et potestatem super <app>
+                                habent uirtutem et potestatem super <choice><sic>inuisibilitatum</sic><corr resp="#NC">inuisibilitatem</corr></choice><!--<app>
                                     <lem resp="#NC">inuisibilitatem</lem>
                                     <rdg>inuisibilitatum</rdg>
-                                </app> et faciunt homines inuisibiles uel non. Et etiam faciunt ut
+                                </app>--> et faciunt homines inuisibiles uel non. Et etiam faciunt ut
                                 homo possit accipere uarias et diuersas formas, uel non, pro ut eis
-                                uidetur. Nomina principum huius altitudinis sunt <name type="divin"><app>
+                                uidetur. Nomina principum huius altitudinis sunt <name type="divin"><choice><sic>Orchij</sic><corr resp="#NC">Orchy</corr></choice><!--<app>
                                         <lem resp="#NC">Orchy</lem>
                                         <rdg>Orchij</rdg>
-                                    </app></name>, <name type="divin">Opscihir</name>, <name
-                                    type="divin">Omagistas</name>, <name type="divin"><app>
+                                    </app>--></name>, <name type="divin">Opscihir</name>, <name
+                                    type="divin">Omagistas</name>, <name type="divin"><choice><sic>Onchij</sic><corr resp="#NC">Onchy</corr></choice><!--<app>
                                         <lem resp="#NC">Onchy</lem>
                                         <rdg>Onchij</rdg>
-                                    </app></name>, <name type="divin">Hæhuel</name>, <name
-                                    type="divin"><app>
+                                    </app>--></name>, <name type="divin">Hæhuel</name>, <name
+                                    type="divin"><choice><sic>Pijleth</sic><corr resp="#NC">Pyleth</corr></choice><!--<app>
                                         <lem resp="#NC">Pyleth</lem>
                                         <rdg>Pijleth</rdg>
-                                    </app></name>, <name type="divin"><app>
+                                    </app>--></name>, <name type="divin"><choice><sic>Sacaij</sic><corr resp="#NC"></corr></choice><!--<app>
                                         <lem resp="#NC">Sacay</lem>
                                         <rdg>Sacaij</rdg>
-                                    </app></name>.</p>
+                                    </app>--></name>.</p>
                         </div>
                         <div n="6" type="section">
                             <p> Et est sciendum quod omnes hæ altitudines habent uirtutem suam et
@@ -484,18 +482,18 @@
                     </div>
                     <div n="4" type="chapitre">
                         <div n="1" type="section">
-                            <p> De <app>
+                            <p> De <choice><sic>altitunibus</sic><corr resp="#NC">altitudinibus</corr></choice><!--<app>
                                     <lem resp="#NC">altitudinibus</lem>
                                     <rdg>altitunibus</rdg>
-                                </app> septentrionalibus et sunt tres. 
+                                </app>--> septentrionalibus et sunt tres. 
                                 <pb n="page_8"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-8.jpg"/>Prima altitudo. Hæc uocatur
                                     <name type="divin">Hahanahor</name> et principes qui morantur in
                                 ea habent uirtutem et potentiam super fortunam omnis maris et
-                                faciunt pluere et <app>
+                                faciunt pluere et <choice><sic>grandirari</sic><corr resp="#NC">grandirare</corr></choice><!--<app>
                                     <lem resp="#NC">grandirare</lem>
                                     <rdg>grandirari</rdg>
-                                </app> faciunt <del>faaunt</del> terræ motus, cadere fulgura,
+                                </app>--> faciunt <del>faaunt</del> terræ motus, cadere fulgura,
                                 coruscare uentos maximos, uel non, ut eis uidetur. Nomina principum
                                 huius altitudinis sunt <name type="divin">Lohod</name>, <name
                                     type="divin">Hadid</name>, <name type="divin">Pereon</name>,
@@ -510,10 +508,10 @@
                                     homines et cuncta animantia et non, pro ut eis uidetur. Nomina
                                     principum huius altitudinis sunt <name type="divin"
                                         >Hyshahabhel</name>, <name type="divin">Sohamuhahyz</name>,
-                                        <name type="divin"><app>
+                                        <name type="divin"><choice><sic>Mothocijhohan</sic><corr resp="#NC">Mothocyhohan</corr></choice><!--<app>
                                             <lem resp="#NC">Mothocyhohan</lem>
                                             <rdg>Mothocijhohan</rdg>
-                                        </app></name> Motholijhohan , <name type="divin"
+                                        </app>--></name> Motholijhohan , <name type="divin"
                                         >Zachohohur</name>, <name type="divin">Neher</name>, <name
                                         type="divin">Dahaol</name>
                                     <del>Dahaal</del>, <name type="divin">Bochur</name>.</p>
@@ -521,16 +519,16 @@
                             <div n="3" type="section">
                                 <p> Tertia et ultima altitudo. Hæc uocatur <name type="divin"
                                         >Sephaphahan</name> et principes huius altitudinis qui
-                                    morantur in ea habent uirtutem et potentiam suam <app>
+                                    morantur in ea habent uirtutem et potentiam suam <choice><sic>distrugendi</sic><corr resp="#NC">distribuendi</corr></choice><!--<app>
                                         <lem resp="#NC">distribuendi</lem>
                                         <rdg>distrugendi</rdg>
-                                    </app> omnia semina et faciunt illa nasci uel non. Et habent
+                                    </app>--> omnia semina et faciunt illa nasci uel non. Et habent
                                     dominium super omnia genera armorum et faciunt offendere homines
                                     inuincibiles uel non, et etiam faciunt homines sapientissimos in
-                                    arte <app>
+                                    arte <choice><sic>luxoriae</sic><corr resp="#NC">luxuriae</corr></choice><!--<app>
                                         <lem resp="#NC">luxuriae</lem>
                                         <rdg>luxoriae</rdg>
-                                    </app> et apparentiam faciunt ut ipsi faciant quidquid uolunt
+                                    </app>--> et apparentiam faciunt ut ipsi faciant quidquid uolunt
                                     uel non, ut eis uidetur. Nomina principum huius altitudinis sunt
                                         <name type="divin">Auubzelon</name>, <name type="divin"
                                         >Zharahol</name>, <name type="divin">Raphahasel</name>,
@@ -552,38 +550,38 @@
                                         >Stahelaon</name>
                                     <del>Haelaon</del>. Nos fabricamus sanctum <name type="divin"
                                         >Stahelaon</name>
-                                    <del>Haelaon</del> hoc modo. In die ☿, id est Mercurii, <app>
+                                    <del>Haelaon</del> hoc modo. In die ☿, id est Mercurii, <choice><sic>accipiemus</sic><corr resp="#NC">accepimus</corr></choice><!--<app>
                                         <lem resp="#NC">accepimus</lem>
                                         <rdg>accipiemus</rdg>
-                                    </app> ceram nouam albam absque ulla sorde de <app>
+                                    </app>--> ceram nouam albam absque ulla sorde de <choice><sic>imunditia</sic><corr resp="#NC">immunditia</corr></choice><!--<app>
                                         <lem resp="#NC">immunditia</lem>
                                         <rdg>imunditia</rdg>
-                                    </app> et illam suffumigauimus <app>
+                                    </app>--> et illam suffumigauimus <choice><sic>olebano</sic><corr resp="#NC"></corr></choice><!--<app>
                                         <lem resp="#NC">olibano</lem>
                                         <rdg>olebano</rdg>
-                                    </app>, costo et croco. Et postea formauimus illum ut in exemplo
+                                    </app>-->, costo et croco. Et postea formauimus illum ut in exemplo
                                     apparet : in primis de illa cera fac capsulam longitudinis palmi
                                     unius et latitudinis palmi semis <del>fermix</del> et in
-                                    quolibet angulo foramen. Et in foramine scribatur cum <app>
+                                    quolibet angulo foramen. Et in foramine scribatur cum <choice><sic>stillo</sic><corr resp="#NC">stilo</corr></choice><!--<app>
                                         <lem resp="#NC">stilo</lem>
                                         <rdg>stillo</rdg>
-                                    </app>
-                                    <app>
+                                    </app>-->
+                                    <choice><sic>argento</sic><corr resp="#NC">argenteo</corr></choice><!--<app>
                                         <lem resp="#NC">argenteo</lem>
                                         <rdg>argento</rdg>
-                                    </app> nouo ad hoc fabricato ; et nomina Dei <del>diuini</del>
+                                    </app>--> nouo ad hoc fabricato ; et nomina Dei <del>diuini</del>
                                     uiui scripti debent die operationis. In primo foramine,
                                     scribatur <name type="divin"> Adonay</name>, <name type="divin"
                                         >Helyon</name>, <name type="divin">Pius</name>. In secundo,
-                                        <name type="divin"><app>
+                                        <name type="divin"><choice><sic>Hhælijm</sic><corr resp="#NC">Hhælym</corr></choice><!--<app>
                                             <lem resp="#NC">Hhælym</lem>
                                             <rdg>Hhælijm</rdg>
-                                        </app></name>
+                                        </app>--></name>
                                     <del>Sthælijm</del>, <name type="divin"><app>
                                             <lem resp="#NC">Steloy</lem>
                                             <rdg>Hhælijm</rdg>
                                             <rdg>Steloij</rdg>
-                                        </app></name><del>Stheloij</del>, <name type="divin"
+                                        </app>--></name><del>Stheloij</del>, <name type="divin"
                                         >Stely</name>. In tertio, <name type="divin">Ioth</name>,
                                         <name type="divin">Beth</name>, <name type="divin"
                                         >Agla</name>. In quarto, <name type="divin"
@@ -1380,31 +1378,31 @@
                         </div>
                         <div n="16" type="chapitre">
                             <div n="1" type="section">
-                                <p> Finita inuocatione, apparebit unus princeps <app>
+                                <p> Finita inuocatione, apparebit unus princeps <choice><sic>illus</sic><corr resp="#NC">illius</corr></choice><!--<app>
                                         <lem resp="#NC">illius</lem>
                                         <rdg>illus</rdg>
-                                    </app> altitudinis, indutus stola candida in uiso pulcherrimi
-                                    iuuenis et flores <app>
+                                    </app>--> altitudinis, indutus stola candida in uiso pulcherrimi
+                                    iuuenis et flores <choice><sic>roseis</sic><corr resp="#NC">roseos</corr></choice><!--<app>
                                         <lem resp="#NC">roseos</lem>
                                         <rdg>roseis</rdg>
-                                    </app> in capite suo deferens ad modum coronæ. Tunc artista
-                                    habeat <app>
+                                    </app>--> in capite suo deferens ad modum coronæ. Tunc artista
+                                    habeat <choice><sic>parum</sic><corr resp="#NC">paruum</corr></choice><!--<app>
                                         <lem resp="#NC">paruum</lem>
                                         <rdg>parum</rdg>
-                                    </app> uas ad modum <app>
+                                    </app>--> uas ad modum <choice><sic>praxidis</sic><corr resp="#NC">praxedis</corr></choice><!--<app>
                                         <lem>praxedis</lem>
                                         <rdg>praxidis</rdg>
-                                    </app> noui, et intus mittat carbones ex <app>
+                                    </app>--> noui, et intus mittat carbones ex <choice><sic>rosma uino</sic><corr resp="#NC">rosmarino</corr></choice><!--<app>
                                         <lem resp="#NC">rosmarino</lem>
                                         <rdg>rosma uino</rdg>
-                                    </app> accensos et super illos proiiciat de odoribus
+                                    </app>--> accensos et super illos proiiciat de odoribus
                                     altitudinis. </p>
                             </div>
                             <div n="2" type="section">
-                                <p> Et quam cito ipse sentiat odores, tunc dulciter <app>
+                                <p> Et quam cito ipse sentiat odores, tunc dulciter <choice><sic>alloquentur</sic><corr resp="#NC">alloquetur</corr></choice><!--<app>
                                         <lem resp="#NC">alloquetur</lem>
                                         <rdg>alloquentur</rdg>
-                                    </app> artistæ. Et dicet « quid petis ? adquid uocatis principes
+                                    </app>--> artistæ. Et dicet « quid petis ? adquid uocatis principes
                                     nostræ altitudinis ? ». Et artista cum ueneratione respondeat ut
                                     « hæc petitio quæ eis ex officio incumbit, mihi ab eis sit
                                     concedenda ». </p>
@@ -1417,10 +1415,10 @@
                                     hominibus.</p>
                             </div>
                             <div n="4" type="section">
-                                <p> Et quando uoluerit cum illo postea loqui, <app>
+                                <p> Et quando uoluerit cum illo postea loqui, <choice><sic>suffimigit</sic><corr resp="#NC">suffumiget</corr></choice><!--<app>
                                         <lem resp="#NC">suffumiget</lem>
                                         <rdg>suffimigit</rdg>
-                                    </app>, et genuflexus, dicat nomen principis illius altitudinis
+                                    </app>-->, et genuflexus, dicat nomen principis illius altitudinis
                                     et ueniet et alloquetur cum eo.</p>
                             </div>
                         </div>
@@ -1429,10 +1427,10 @@
                                 <p> Nota. Et nota, o artista, quod debes ter dicere inuocationem, et
                                     si non 
                                     <pb n="page_28"
-                                facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-28.jpg"/>non uenerit, tunc cum maxima ueneratione <app>
+                                facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-28.jpg"/>non uenerit, tunc cum maxima ueneratione <choice><sic>letis</sic><corr resp="#NC">lotis</corr></choice><!--<app>
                                         <lem resp="#NC">lotis</lem>
                                         <rdg>letis</rdg>
-                                    </app> manibus aqua rosarum cum sigillo magni Dei, sigilla,
+                                    </app>--> manibus aqua rosarum cum sigillo magni Dei, sigilla,
                                     candelas sancti Hahelaon, in pari numero, et postea ad locum
                                     suum repones sigillum et reitera per duas alias uices
                                     inuocationem, et procul dubio, antequam lumen ueniat, ad figuram
@@ -1446,10 +1444,10 @@
                             </div>
                             <div n="3" type="section">
                                 <p> « Maximas gratias ago uobis principibus altitudinis », et debet
-                                    nominare nomen altitudinis « quoniam meæ <app>
+                                    nominare nomen altitudinis « quoniam meæ <choice><sic>satisfecistis</sic><corr resp="#NC">satisfecisti</corr></choice><!--<app>
                                         <lem resp="#NC">satisfecisti</lem>
                                         <rdg>satisfecistis</rdg>
-                                    </app> uoluntati idcirco, o potestas incomprehensibilis, uide
+                                    </app>--> uoluntati idcirco, o potestas incomprehensibilis, uide
                                     cor meum et pete quiquid uis quoniam sum paratus facere omnia
                                     ».</p>
                             </div>
@@ -1468,10 +1466,10 @@
                                     exemplo apparebit. </p>
                             </div>
                             <div n="2" type="section">
-                                <p> Et postquam <app>
+                                <p> Et postquam <choice><sic>siue peris</sic><corr resp="#NC">inceperis</corr></choice><!--<app>
                                         <lem resp="#NC">inceperis</lem>
                                         <rdg>siue peris</rdg>
-                                    </app> suffumigare illam odoribus altitudinis. Et nota quod in
+                                    </app>--> suffumigare illam odoribus altitudinis. Et nota quod in
                                     ueste scribere debes nomina et caractera die ☿, id est Mercurii,
                                     et hora solis, luna crescente, in pari numero. </p>
                             </div>
@@ -1531,20 +1529,20 @@
                             </div>
                             <div n="3" type="section">
                                 <p> Et postquam sigillum erit completum, suffumigare illud debet
-                                    artista cum odoribus ligni aloe, costi, <app>
+                                    artista cum odoribus ligni aloe, costi, <choice><sic>storauis</sic><corr resp="#NC">storacis</corr></choice><!--<app>
                                         <lem resp="#NC">storacis</lem>
                                         <rdg>storauis</rdg>
-                                    </app>
-                                    <app>
-                                        <lem>calamiti</lem>
+                                    </app>-->
+                                    <choice><sic>calamite</sic><corr resp="#NC">calamiti</corr></choice><!--<app>
+                                        <lem resp="#NC">calamiti</lem>
                                         <rdg>calamite</rdg>
-                                    </app>, <app>
+                                    </app>-->, <choice><sic>bengioi</sic><corr resp="#NC">benzoini</corr></choice><!--<app>
                                         <lem resp="#NC">benzoini</lem>
                                         <rdg>bengioi</rdg>
-                                    </app> et <app>
+                                    </app>--> et <choice><sic>olebani</sic><corr resp="#NC">olibani</corr></choice><!--<app>
                                         <lem resp="#NC">olibani</lem>
                                         <rdg>olebani</rdg>
-                                    </app>. Finita <del>sul</del> suffumigatione
+                                    </app>-->. Finita <del>sul</del> suffumigatione
                                         <del>suffumigare</del> illud reponere in sanctum Hahelaon.
                                 </p>
                             </div>
@@ -1556,10 +1554,10 @@
                             </div>
                             <div n="5" type="section">
                                 <p> Scias quod finita suffumigatione cum ueneratione genuflexus
-                                    debes <app>
+                                    debes <choice><sic>dice</sic><corr resp="#NC">dicere</corr></choice><!--<app>
                                         <lem resp="#NC">dicere</lem>
                                         <rdg>dice</rdg>
-                                    </app> hanc orationem Deo.</p>
+                                    </app>--> hanc orationem Deo.</p>
                             </div>
                         </div>
                         <div n="20" type="chapitre">
@@ -1567,33 +1565,33 @@
                                 <p> Oratio. O <name type="divin">Adonay</name>, <name type="divin"
                                         >Saday</name>,<name type="divin">Heloyn</name>, qui es <name
                                         type="divin">A et ω</name>, hoc est principium et finis
-                                    absque principio et fine, in quo uiuens homo cognoscit, Rex <app>
+                                    absque principio et fine, in quo uiuens homo cognoscit, Rex <choice><sic>sum</sic><corr resp="#NC">summe</corr></choice><!--<app>
                                         <lem resp="#NC">summe</lem>
                                         <rdg>sum</rdg>
-                                    </app> Imperator excellens qui Deus es, Rex regum, dominantium
+                                    </app>--> Imperator excellens qui Deus es, Rex regum, dominantium
                                     Dominus, qui etiam es pius, misericors, clemens, benignus,
                                     gloriosus </p>
                             </div>
                             <div n="2" type="section">
                                 <p> mundum tenens manu tua, et omne quod creatur est in potestate
                                     tua et conseruas, qui cælorum continens firmamentum, qui tronos
-                                    et <app>
+                                    et <choice><sic>abistos</sic><corr resp="#NC">abyssos</corr></choice> <!--<app>
                                         <lem resp="#NC">abyssos</lem>
                                         <rdg>abistos</rdg>
-                                    </app> intueris, qui montes ponderas terramque magnam concludis
+                                    </app>--> intueris, qui montes ponderas terramque magnam concludis
                                     a palmo, qui fecisti spiritus angelicos flammam ignis </p>
                             </div>
                             <div n="3" type="section">
-                                <p> qui producis uentos de thesauris suis, qui ambulas super <app>
+                                <p> qui producis uentos de thesauris suis, qui ambulas super <choice><sic>penas</sic><corr resp="#NC">pennas</corr></choice><!--<app>
                                         <lem resp="#NC">pennas</lem>
                                         <rdg>penas</rdg>
-                                    </app> uentorum, qui <app>
+                                    </app>--> uentorum, qui <choice><sic>percusisti</sic><corr resp="#NC">percussisti</corr></choice><!--<app>
                                         <lem resp="#NC">percussisti</lem>
                                         <rdg>percusisti</rdg>
-                                    </app> primo genita <app>
+                                    </app>--> primo genita <choice><sic>Aegipti</sic><corr resp="#NC">Aegypti</corr></choice><!--<app>
                                         <lem resp="#NC">Aegypti</lem>
                                         <rdg>Aegipti</rdg>
-                                    </app> ab homine usque ad pecus, 
+                                    </app>--> ab homine usque ad pecus, 
                                      <pb n="page_32"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-32.jpg"/>qui diuisisti lumen a tenebris,
                                     qui fecisti <choice><sic>luminam</sic><corr resp="#NC">luminaria</corr></choice><!--<app>
