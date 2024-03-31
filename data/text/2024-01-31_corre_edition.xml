@@ -987,27 +987,27 @@
                                     Fiat, fiat, fiat ».</p>
                             </div>
                             <div n="4" type="section">
-                                <p> Nota quod in cubiculo sit tabula parata cum linteis et supra <app>
+                                <p> Nota quod in cubiculo sit tabula parata cum linteis et supra <choice><sic>stabulam</sic><corr resp="#NC">tabulam</corr></choice><!--<app>
                                         <lem resp="#NC">tabulam</lem>
                                         <rdg>stabulam</rdg>
-                                    </app>
-                                    <app>
+                                    </app>-->
+                                    <choice><sic>ponatura</sic><corr resp="#NC">ponat</corr></choice><!--<app>
                                         <lem resp="#NC">ponat</lem>
                                         <rdg>ponatura</rdg>
-                                    </app> artista sanctum <name type="divin">Stahelaon</name> cum
+                                    </app>--> artista sanctum <name type="divin">Stahelaon</name> cum
                                     maxima ueneratione et genuflexus suffumiget illud odoribus
-                                    illius altitudinis <app>
+                                    illius altitudinis <choice><sic>quam posse</sic><corr resp="#NC">postquam</corr></choice><!--<app>
                                         <lem resp="#NC">postquam</lem>
                                         <rdg>quam posse</rdg>
-                                    </app> operatur et finita suffumigatione dicat :</p>
+                                    </app>--> operatur et finita suffumigatione dicat :</p>
                             </div>
                         </div>
                         <div n="11" type="chapitre">
                             <div n="1" type="section">
-                                <p> Oratio. « Deus <del>meus</del> cuius <app>
+                                <p> Oratio. « Deus <del>meus</del> cuius <choice><sic>dietas</sic><corr resp="#NC">deitas</corr></choice><!--<app>
                                         <lem resp="#NC">deitas</lem>
                                         <rdg>dietas</rdg>
-                                    </app> sine fine, Deus creator omnium creaturarum, principium et
+                                    </app>--> sine fine, Deus creator omnium creaturarum, principium et
                                     finis, Deus <name type="divin"> Adonay</name>, Deus <name
                                         type="divin">Iahoua</name>, Deus <name type="divin"
                                         >Cados</name> et Deus omnium in te sperantium, Deus
@@ -1017,27 +1017,27 @@
                                     tuum. </p>
                             </div>
                             <div n="2" type="section">
-                                <p> Tu autem <del>domine</del>, Deus meus, suauis et <app>
+                                <p> Tu autem <del>domine</del>, Deus meus, suauis et <choice><sic>uenis</sic><corr resp="#NC">uerus</corr></choice><!--<app>
                                         <lem resp="#NC">uerus</lem>
                                         <rdg>uenis</rdg>
-                                    </app> et patiens, et, et in consilio tuo disponens omnia,
+                                    </app>--> et patiens, et, et in consilio tuo disponens omnia,
                                     Domine Deus qui sedes sub Cherubim, tu es solus regum omnium
                                     terræ, tu fecisti cælum et terram inclina aurem tuam et exaudi,
-                                    aperi Domine <app>
+                                    aperi Domine <choice><sic>occulos</sic><corr resp="#NC">oculos</corr></choice><!--<app>
                                         <lem resp="#NC">oculos</lem>
                                         <rdg>occulos</rdg>
-                                    </app> tuos. Et uide et exaudi omnia uerba mea et exaudi me </p>
+                                    </app>--> tuos. Et uide et exaudi omnia uerba mea et exaudi me </p>
                             </div>
                             <div n="3" type="section">
                                 <p> Deus qui creasti de terra hominem, et secundum imaginem
                                         <del>immaginem</del> tuam fecisti, et iterum conuertisti
-                                    ipsum in <app>
+                                    ipsum in <choice><sic>illum</sic><corr resp="#NC">illam</corr></choice><!--<app>
                                         <lem resp="#NC">illam</lem>
                                         <rdg>illum</rdg>
-                                    </app>, et secundum tuam diuinitatem uestisti illum <app>
+                                    </app>-->, et secundum tuam diuinitatem uestisti illum <choice><sic>uirtute</sic><corr resp="#NC">iuirtutem</corr></choice><!--<app>
                                         <lem resp="#NC">iuirtutem</lem>
                                         <rdg>uirtute</rdg>
-                                    </app>, numerum dierum et tempus dedisti illi potestatem eorum
+                                    </app>-->, numerum dierum et tempus dedisti illi potestatem eorum
                                     quæ sunt super terram.</p>
                             </div>
                             <pb n="page_19"
@@ -1046,10 +1046,10 @@
                                 <p> Posuisti timorem illius super omnem carnem et dominatus
                                     bestiarum et uolatilium, creasti ex ipso adiutorium simile sibi
                                     consilium et linguam et oculos et aures et cor dedisti illis
-                                    excogitandi, et disciplina <app>
+                                    excogitandi, et disciplina <choice><sic>intellectis</sic><corr resp="#NC">intellectus</corr></choice><!--<app>
                                         <lem resp="#NC">intellectus</lem>
                                         <rdg>intellectis</rdg>
-                                    </app> repleuisti illos ; <app>
+                                    </app>--> repleuisti illos ; <app>
                                         <lem resp="#NC">scientiam</lem>
                                         <rdg>scientia</rdg>
                                     </app>, spiritus, sensu impleuisti cor illorum, et mala et bona
@@ -1089,10 +1089,10 @@
                             <div n="3" type="section">
                                 <p> Nos supra diximus quod prima capsula non debeat esse uacua et
                                     non debet esse uacua sed debebit fieri foramen intus ab artista
-                                    cum <app>
+                                    cum <choice><sic>stillo</sic><corr resp="#NC">stilo</corr></choice><!--<app>
                                         <lem resp="#NC">stilo</lem>
                                         <rdg>stillo</rdg>
-                                    </app> argenteo usque ad sanctum nomen Stahelaon et intus
+                                    </app>--> argenteo usque ad sanctum nomen Stahelaon et intus
                                     mittere sigillum altitudinis et caractera principum cum suis
                                     nominibus et postea foramen illud claudere. Antequam artista
                                     mittat sigillum altitudinis et caractera principum <del>in
@@ -1104,10 +1104,10 @@
                                 <pb n="page_20"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-20.jpg"/>
                                 quod sigilla et caractera principum sunt scribenda in carta
-                                    uirginea, coloribus propriis illius altitudinis, uel in panno <app>
+                                    uirginea, coloribus propriis illius altitudinis, uel in panno <choice><sic>seic</sic><corr resp="#NC">serico</corr></choice> <!--<app>
                                         <lem resp="#NC">serico</lem>
                                         <rdg>seic</rdg>
-                                    </app> eiusdem coloris cum croco <del>aqua</del> aqua rosarum et
+                                    </app>--> eiusdem coloris cum croco <del>aqua</del> aqua rosarum et
                                     musco. </p>
                             </div>
                             <div n="5" type="section">
@@ -1194,14 +1194,14 @@
                                     cælestes potestates atque angelicæ uirtutes inuitis et obeditis
                                     creatori uestro. Adiuro, exoro, expostulo Deum sanctum, Deum
                                     uiuum, Deum uerum, uisibilium et inuisibilium creaturarum
-                                    creatorem omnium, per <app>
+                                    creatorem omnium, per <choice><sic>diademam</sic><corr resp="#NC">diadema</corr></choice><!--<app>
                                         <lem resp="#NC">diadema</lem>
                                         <rdg>diademam</rdg>
-                                    </app>, coronam sui capitis, per nomen illud quod est timendum
-                                    ab omnibus creatoris cælestibus <app>
+                                    </app>-->, coronam sui capitis, per nomen illud quod est timendum
+                                    ab omnibus creatoris cælestibus  <choice><sic>terestribus</sic><corr resp="#NC">terrestribus</corr></choice><!--<app>
                                         <lem resp="#NC">terrestribus</lem>
                                         <rdg>terestribus</rdg>
-                                    </app> et infernalibus quod scribitur quatuor litteris, id est
+                                    </app>--> et infernalibus quod scribitur quatuor litteris, id est
                                         <name type="divin">Voth</name>, <name type="divin"
                                         >Beth</name>, <name type="divin">Agla</name>, <name
                                         type="divin">Aenar</name>
@@ -1239,7 +1239,7 @@
                                         type="divin">Chalbatl</name>,<del>Ieue</del>
                                     <name type="divin">Iobel</name>, <name type="divin">Onio</name>,
                                         <name type="divin">Vna</name>, <name type="divin"
-                                        >Saluator</name>, <name type="divin">A et Ω</name> ego sum
+                                        >Saluator</name>, <name type="divin">A et O</name> ego sum
                                     qui sum, <name type="divin">Aehec</name>, <name type="divin"
                                         >Sehoua</name>, <name type="divin">Anabona</name>, <name
                                         type="divin">Ysaron</name>, <name type="divin"
