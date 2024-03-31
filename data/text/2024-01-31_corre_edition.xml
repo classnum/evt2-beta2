@@ -581,7 +581,7 @@
                                             <lem resp="#NC">Steloy</lem>
                                             <rdg>Hhælijm</rdg>
                                             <rdg>Steloij</rdg>
-                                        </app>--></name><del>Stheloij</del>, <name type="divin"
+                                        </app></name><del>Stheloij</del>, <name type="divin"
                                         >Stely</name>. In tertio, <name type="divin">Ioth</name>,
                                         <name type="divin">Beth</name>, <name type="divin"
                                         >Agla</name>. In quarto, <name type="divin"
@@ -592,22 +592,22 @@
                             <div n="2" type="section">
                                 <p> Et est sciendum quod sanctum <name type="divin">Hælaon</name>
                                     <del>Sthaelaon</del>, dum fabricatur, in angulum et angulum ut
-                                    in figura signum nostrum faciendum est ; et inter <app>
+                                    in figura signum nostrum faciendum est ; et inter <choice><sic>signum</sic><corr resp="#NC">signa</corr></choice><!--<app>
                                         <lem resp="#NC">signa</lem>
                                         <rdg>signum</rdg>
-                                    </app> ut <del>et</del> signum scribatur cum <app>
+                                    </app>--> ut <del>et</del> signum scribatur cum <choice><sic>stillo</sic><corr resp="#NC">stilo</corr></choice><!--<app>
                                         <lem resp="#NC">stilo</lem>
                                         <rdg>stillo</rdg>
-                                    </app> argenteo ad hoc fabricato, ut in exemplo, in medio autem
+                                    </app>--> argenteo ad hoc fabricato, ut in exemplo, in medio autem
                                     ficti debet nomen sanctum <name type="divin">Hel</name>, ut in
-                                    exemplo, in medio <app>
+                                    exemplo, in medio <choice><sic>stanctum</sic><corr resp="#NC">sanctum</corr></choice><!--<app>
                                         <lem resp="#NC">sanctum</lem>
                                         <rdg>stanctum</rdg>
-                                    </app> nomen <name type="divin">Hel</name> ; et capsula non
-                                    debet esse uacua et supra <app>
+                                    </app>--> nomen <name type="divin">Hel</name> ; et capsula non
+                                    debet esse uacua et supra <choice><sic>capsula</sic><corr resp="#NC">capsulam</corr></choice><!--<app>
                                         <lem resp="#NC">capsulam</lem>
                                         <rdg>capsula</rdg>
-                                    </app> illam alia fabricari debet de eadem cera ut in exemplo,
+                                    </app>--> illam alia fabricari debet de eadem cera ut in exemplo,
                                     longitudinis palmi semis et latitudinis ad proportionem. Et hæc
                                     debet esse uacua et supra primam capsulam candelæ septem debent
                                     permanere et supra capsulam debent esse foramina mittendi dictas
@@ -622,17 +622,17 @@
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-10.jpg"/>
                                 compositum fuit, fiat sigillum in quod
                                     sculpantur ipsa nomina uerso modo et sigillum sit purissimi
-                                    argenti et auri et tempore operationis ponatur intus secundam <app>
+                                    argenti et auri et tempore operationis ponatur intus secundam <choice><sic>capsula</sic><corr resp="#NC">capsulam</corr></choice><!--<app>
                                         <lem resp="#NC">capsulam</lem>
                                         <rdg>capsula</rdg>
-                                    </app>. Et mittatur in <add place="in margine">diua</add>
-                                    <supplied>diua</supplied> secunda capsula de odoribus <app>
+                                    </app>-->. Et mittatur in <add place="in margine">diua</add>
+                                    <supplied>diua</supplied> secunda capsula de odoribus <choice><sic>olebani</sic><corr resp="#NC">olibani</corr></choice><!--<app>
                                         <lem resp="#NC">olibani</lem>
                                         <rdg>olebani</rdg>
-                                    </app>, ligni <app>
+                                    </app>-->, ligni <choice><sic>aloe</sic><corr resp="#NC">aloes</corr></choice><!--<app>
                                         <lem resp="#NC">aloes</lem>
                                         <rdg>aloe</rdg>
-                                    </app>, storacis et calamitæ et illa cooperiatur panno serico
+                                    </app>-->, storacis et calamitæ et illa cooperiatur panno serico
                                     albo. Hæc sunt nomina sigilli <name type="divin">Steloen</name>
                                     <name type="divin">Adonay</name>, <name type="divin"
                                     >Pius</name>, <name type="divin">Anabona</name>, <name
