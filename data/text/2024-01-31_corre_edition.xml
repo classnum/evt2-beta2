@@ -651,79 +651,79 @@
                                     altitudo, fabricatur de cera alba et etiam candelæ. Secunda,
                                     sanctum <name type="divin">Hælaon</name>
                                     <del>Staelaon</del> secundæ altitudinis et etiam candelæ
-                                    fabricatur de cera <app>
+                                    fabricatur de cera <choice><sic>neffei</sic><corr resp="#NC">rufi</corr></choice> <!--<app>
                                         <lem resp="#NC">rufi</lem>
                                         <rdg>neffei</rdg>
-                                    </app>
+                                    </app>-->
                                     <del>reffei</del> coloris. Tertia, sanctum <name type="divin"
                                         >Hælaon</name>
                                     <del>Staelaon</del> tertiæ altitudinis et etiam candelæ de cera
                                         <del>azzurea</del>
-                                    <app>
+                                   <choice><sic>croca</sic><corr resp="#NC">crocea</corr></choice><!--<app>
                                         <lem resp="#NC">crocea</lem>
                                         <rdg>croca</rdg>
-                                    </app>. Quarta, sanctum <name type="divin">Hælaon</name>
-                                    <del>Staelaon</del> quartæ altitudinis et etiam candelæ de cera <app>
+                                    </app>-->. Quarta, sanctum <name type="divin">Hælaon</name>
+                                    <del>Staelaon</del> quartæ altitudinis et etiam candelæ de cera <choice><sic>azzura</sic><corr resp="#NC">azurea</corr></choice><!--<app>
                                         <lem resp="#NC">azurea</lem>
                                         <rdg>azzura</rdg>
-                                    </app>. Quinta, sanctum <name type="divin">Hælaon</name> quintæ
-                                    altitudinis de cera <app>
+                                    </app>-->. Quinta, sanctum <name type="divin">Hælaon</name> quintæ
+                                    altitudinis de cera <choice><sic>uiridi</sic><corr resp="#NC">uiridis</corr></choice><!--<app>
                                         <lem resp="#NC">uiridis</lem>
                                         <rdg>uiridi</rdg>
-                                    </app> coloris. Sexta, sanctum <name type="divin">Hælaon</name>
+                                    </app>--> coloris. Sexta, sanctum <name type="divin">Hælaon</name>
                                     sextæ altitudinis de cera uiolacea. Septima, sanctum <name
                                         type="divin">Haelaon</name> septimæ altitudinis de cera
                                     carnei coloris. Octaua, sanctum <name type="divin">
-                                        Hælaon</name> octauæ altitudinis de cera coloris <app>
+                                        Hælaon</name> octauæ altitudinis de cera coloris <choice><sic>uiridi</sic><corr resp="#NC">uiridis</corr></choice><!--<app>
                                         <lem resp="#NC">uiridis</lem>
                                         <rdg>uiridi</rdg>
-                                    </app> et liuidi. Nona, sanctum <name type="divin">Hælaon
+                                    </app>--> et liuidi. Nona, sanctum <name type="divin">Hælaon
                                     </name> nonæ altitudinis de cera byssima.</p>
                             </div>
                             <div n="5" type="section">
-                                <p> Nunc <app>
+                                <p> Nunc <choice><sic>sequuntur</sic><corr resp="#NC">sequitur</corr></choice><!--<app>
                                         <lem resp="#NC">sequitur</lem>
                                         <rdg>sequuntur</rdg>
-                                    </app> sanctum <name type="divin">Stælaon</name> altitudinum
+                                    </app>--> sanctum <name type="divin">Stælaon</name> altitudinum
                                     occidentalium. 
                                     <pb n="page_11"
-                                facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-11.jpg"/>Prima altitudo, fabricatur de cera <app>
+                                facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-11.jpg"/>Prima altitudo, fabricatur de cera <choice><sic>uiridi</sic><corr resp="#NC">uiridis</corr></choice><!--<app>
                                         <lem resp="#NC">uiridis</lem>
                                         <rdg>uiridi</rdg>
-                                    </app> coloris et etiam candelæ. Secunda, secundae de cera
-                                    rubicundici. Tertia, tertiæ de cera <app>
+                                    </app>--> coloris et etiam candelæ. Secunda, secundae de cera
+                                    rubicundici. Tertia, tertiæ de cera <choice><sic>zaura</sic><corr resp="#NC">aurea</corr></choice><!--<app>
                                         <lem resp="#NC">aurea</lem>
                                         <rdg>zaura</rdg>
-                                    </app>. Quarta, quartæ de cera alba. Quinta, quintæ de cera
-                                    leonata. Sexta, sextæ de cera rubea. Septima, septimæ de cera <app>
+                                    </app>-->. Quarta, quartæ de cera alba. Quinta, quintæ de cera
+                                    leonata. Sexta, sextæ de cera rubea. Septima, septimæ de cera <choice><sic>uiridi</sic><corr resp="#NC">uiridis</corr></choice><!--<app>
                                         <lem resp="#NC">uiridis</lem>
                                         <rdg>uiridi</rdg>
-                                    </app> coloris. </p>
+                                    </app>--> coloris. </p>
                             </div>
                             <div n="6" type="section">
-                                <p> Nunc <app>
+                                <p> Nunc <choice><sic>sequuntur</sic><corr resp="#NC">sequitur</corr></choice><!--<app>
                                         <lem resp="#NC">sequitur</lem>
                                         <rdg>sequuntur</rdg>
-                                    </app> sanctum <name type="divin">Stahelaon</name> altitudinum
+                                    </app>--> sanctum <name type="divin">Stahelaon</name> altitudinum
                                     meridionalum. Prima, primæ sanctum <name type="divin"
                                         >Stahelaon</name> et eius candelæ in ista altitudine
                                     fabricantur de cera crocei coloris. Secunda, secundæ de cera
                                     albi coloris sed fusca. Tertia, tertiæ de cera uiolacea. Quarta,
-                                    quartæ de cera coloris florem <app>
+                                    quartæ de cera coloris florem <choice><sic>pesicarum</sic><corr resp="#NC">pessicarum</corr></choice><!--<app>
                                         <lem resp="#NC">pessicarum</lem>
                                         <rdg>pesicarum</rdg>
-                                    </app>
+                                    </app>-->
                                     <del>perricarum</del>. Quinta, quintæ de cera carnea et etiam
                                     candelæ.</p>
                             </div>
                             <div n="7" type="section">
-                                <p> Nunc <app>
+                                <p> Nunc <choice><sic>sequuntur</sic><corr resp="#NC">sequitur</corr></choice><!--<app>
                                         <lem resp="#NC">sequitur</lem>
                                         <rdg>sequuntur</rdg>
-                                    </app> sanctum <name type="divin">Stælaon</name> altitudinis <app>
+                                    </app>--> sanctum <name type="divin">Stælaon</name> altitudinis <choice><sic>septemtrionalis</sic><corr resp="#NC">septentrionalis</corr></choice><!--<app>
                                         <lem resp="#NC">septentrionalis</lem>
                                         <rdg>septemtrionalis</rdg>
-                                    </app>. Prima, primum sanctum <name type="divin"
+                                    </app>-->. Prima, primum sanctum <name type="divin"
                                         >Stahelaon</name> primæ altitudinis et etiam candelæ de cera
                                     nigra. Secunda, secundum sanctum <name type="divin"
                                         >Stahelaon</name> secundæ altitudinis et etiam candelæ de
@@ -775,16 +775,16 @@
                             </div>
                             <div n="3" type="section">
                                 <p> Omnes altitudines meridionales habent potentiam suam in nocte
-                                        <supplied>♃</supplied>, id est Iouis, et tempus operationis <app>
+                                        <supplied>♃</supplied>, id est Iouis, et tempus operationis <choice><sic>et</sic><corr resp="#NC">est</corr></choice><!--<app>
                                         <lem resp="#NC">est</lem>
                                         <rdg>et</rdg>
-                                    </app> incipiendum a tertia hora noctis usque ad octauam. </p>
+                                    </app>--> incipiendum a tertia hora noctis usque ad octauam. </p>
                             </div>
                             <div n="4" type="section">
-                                <p>. Omnes altitudines <app>
+                                <p>. Omnes altitudines <choice><sic>septemtrionales</sic><corr resp="#NC">septentrionales</corr></choice><!--<app>
                                         <lem resp="#NC">septentrionales</lem>
                                         <rdg>septemtrionales</rdg>
-                                    </app> habent uirtutem et operationem suam ♄, id est Saturni, et
+                                    </app>--> habent uirtutem et operationem suam ♄, id est Saturni, et
                                     in eius hora luna decrescente si ad malum finem, si autem ad
                                     bonum finem in nocte ☿, id est Mercurii, incipiendo a secunda
                                         (<add place="in margine">uelaia</add>
@@ -793,96 +793,96 @@
                             </div>
                             <div n="6" type="section">
                                 <p> Sciendum etiam et quod omnia sanctissima Hahelam sunt facienda
-                                    ut primum <app>
+                                    ut primum <choice><sic>orientes</sic><corr resp="#NC">orientis</corr></choice><!--<app>
                                         <lem resp="#NC">orientis</lem>
                                         <rdg>orientes</rdg>
-                                    </app> et nulla alia differentia est nisi coloris et omnia
+                                    </app>--> et nulla alia differentia est nisi coloris et omnia
                                     nomina scripta in primo subscribenda etiam sunt in cæteris et
                                     sunt facienda quomodo superius dictum est.</p>
                             </div>
                         </div>
                         <div n="7" type="chapitre">
                             <div n="1" type="section">
-                                <p> Et est sciendum quod omnes altitudines habent <app>
+                                <p> Et est sciendum quod omnes altitudines habent <choice><sic>suffumigia</sic><corr resp="#NC">suffumigiationes</corr></choice><!--<app>
                                         <lem resp="#NC">suffumigiationes</lem>
                                         <rdg>suffumigia</rdg>
-                                    </app> separata ; idcirco illa adnotauimus primum de altitunibus
+                                    </app>--> separata ; idcirco illa adnotauimus primum de altitunibus
                                     orientalibus. Prima altitudo orientalis suffumiganda est
-                                    odoribus olibani et <app>
+                                    odoribus olibani et <choice><sic>costis</sic><corr resp="#NC">costi</corr></choice><!--<app>
                                         <lem resp="#NC">costi</lem>
                                         <rdg>costis</rdg>
-                                    </app>. Secunda, secunda cum odoribus <app>
+                                    </app>-->. Secunda, secunda cum odoribus <choice><sic>mirre</sic><corr resp="#NC">myrrhæ</corr></choice><!--<app>
                                         <lem resp="#NC">myrrhæ</lem>
                                         <rdg>mirre</rdg>
-                                    </app> et <app>
+                                    </app>--> et <choice><sic>mastici</sic><corr resp="#NC">masticis</corr></choice><!--<app>
                                         <lem resp="#NC">masticis</lem>
                                         <rdg>mastici</rdg>
-                                    </app>. Tertia, tertia cum odoribus <app>
+                                    </app>-->. Tertia, tertia cum odoribus <choice><sic>camphere</sic><corr resp="#NC">camphoræ</corr></choice><!--<app>
                                         <lem resp="#NC">camphoræ</lem>
                                         <rdg>camphere</rdg>
-                                    </app> atque <app>
+                                    </app>--> atque <choice><sic>cijnamomo</sic><corr resp="#NC">cinnamomi</corr></choice><!--<app>
                                         <lem resp="#NC">cinnamomi</lem>
                                         <rdg>cijnamomo</rdg>
-                                    </app>. Quarta, quarta cum odoribus <app>
+                                    </app>-->. Quarta, quarta cum odoribus <choice><sic>sandaloni</sic><corr resp="#NC">sandali</corr></choice><!--<app>
                                         <lem resp="#NC">sandali</lem>
                                         <rdg>sandaloni</rdg>
-                                    </app>
-                                    <app>
+                                    </app>-->
+                                    <choice><sic>rubroni</sic><corr resp="#NC">rubri</corr></choice><!--<app>
                                         <lem resp="#NC">rubri</lem>
                                         <rdg>rubroni</rdg>
-                                    </app> et croci. Quinta, quinta cum odoribus garofilorum. Sexta,
+                                    </app>--> et croci. Quinta, quinta cum odoribus garofilorum. Sexta,
                                     sexta cum odoribus <add place="supra linea">h</add> storacis
                                     calamiti et <app>
                                         <lem resp="#NC">cinnamomi</lem>
                                         <rdg>cinamomi</rdg>
                                     </app>. Septima, septima cum odoribus olibani et croci. Octaua,
-                                    octaua cum odoribus <app>
+                                    octaua cum odoribus <choice><sic>sandasoni</sic><corr resp="#NC">sandali</corr></choice><!--<app>
                                         <lem resp="#NC">sandali</lem>
                                         <rdg>sandasoni</rdg>
-                                    </app> et <app>
+                                    </app>--> et <choice><sic>mirrhæ</sic><corr resp="#NC">myrrhæ</corr></choice><!--<app>
                                         <lem resp="#NC">myrrhæ</lem>
                                         <rdg>mirrhæ</rdg>
-                                    </app>. Nona, nona cum odoribus ligni <app>
+                                    </app>-->. Nona, nona cum odoribus ligni <choice><sic>aloe</sic><corr resp="#NC">aloes</corr></choice><!--<app>
                                         <lem resp="#NC">aloes</lem>
                                         <rdg>aloe</rdg>
-                                    </app> et <app>
+                                    </app>--> et <choice><sic>belguioni</sic><corr resp="#NC">benzoini</corr></choice><!--<app>
                                         <lem resp="#NC">benzoini</lem>
                                         <rdg>belguioni</rdg>
-                                    </app>. </p>
+                                    </app>-->. </p>
                             </div>
                             <div n="2" type="section">
                                 <p> Nunc sequuntur suffumigationes altitudinum occidentalium. 
                                 <pb n="page_16"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-16.jpg"/>Prima
                                     altitudo occidentalis suffumiganda est cum odoribus cinnamomi
-                                    storacis <app>
+                                    storacis <choice><sic>calamitæ</sic><corr resp="#NC">calamiti</corr></choice><!--<app>
                                         <lem resp="#NC">calamiti</lem>
                                         <rdg>calamitæ</rdg>
-                                    </app>. Secunda cum odoribus croci et camphoræ. Tertia cum
-                                    odoribus thuris et myrrhæ. Quarta cum odoribus <app>
+                                    </app>-->. Secunda cum odoribus croci et camphoræ. Tertia cum
+                                    odoribus thuris et myrrhæ. Quarta cum odoribus  <choice><sic>bongici</sic><corr resp="#NC">benzoini</corr></choice><!--<app>
                                         <lem resp="#NC">benzoini</lem>
                                         <rdg>bongici</rdg>
-                                    </app> et garofilorum. Quinta cum odoribus storacis calamiti et
-                                    croci. Sexta cum odoribus camphoræ et <app>
+                                    </app>--> et garofilorum. Quinta cum odoribus storacis calamiti et
+                                    croci. Sexta cum odoribus camphoræ et <choice><sic>bengioi</sic><corr resp="#NC">benzoini</corr></choice><!--<app>
                                         <lem resp="#NC">benzoini</lem>
                                         <rdg>bengioi</rdg>
-                                    </app>. Septima cum odoribus radicum <app>
+                                    </app>-->. Septima cum odoribus radicum <choice><sic>phie</sic><corr resp="#NC">phiæ</corr></choice><!--<app>
                                         <lem resp="#NC">phiæ</lem>
                                         <rdg>phie</rdg>
-                                    </app> et anglicæ. </p>
+                                    </app>--> et anglicæ. </p>
                             </div>
                             <div n="3" type="section">
                                 <p> Nunc sequuntur suffumigationes altitudinum meridionalium. Prima
-                                    altitudo meridionalis suffumiganda est cum odoribus croci <app>
+                                    altitudo meridionalis suffumiganda est cum odoribus croci <choice><sic>sturacis calamite</sic><corr resp="#NC">storacis calamiti</corr></choice><!--<app>
                                         <lem resp="#NC">storacis calamiti</lem>
                                         <rdg>sturacis calamite</rdg>
-                                    </app>. Secunda cum odoribus thuris et radicum iridis. Tertia,
+                                    </app>-->. Secunda cum odoribus thuris et radicum iridis. Tertia,
                                     cum odoribus, cum odoribus myrrhæ et radicum ciceris. Quarta cum
                                     odoribus camphoræ et storacis calamiti. Quinta cum odoribus
-                                    radicum <app>
+                                    radicum <choice><sic>assari</sic><corr resp="#NC">asari</corr></choice><!--<app>
                                         <lem resp="#NC">asari</lem>
                                         <rdg>assari</rdg>
-                                    </app> et ligni aloes. </p>
+                                    </app>--> et ligni aloes. </p>
                             </div>
                             <div n="4" type="section">
                                 <p> Sequuntur suffumigationes altitudinium septentrionalium. Prima
@@ -900,19 +900,19 @@
                                     incipiendæ modo contrario id est tempore nubiloso. </p>
                             </div>
                             <div n="2" type="section">
-                                <p> Nota quod <app>
+                                <p> Nota quod <choice><sic>stillum</sic><corr resp="#NC">stilum</corr></choice><!--<app>
                                         <lem resp="#NC">stilum</lem>
                                         <rdg>stillum</rdg>
-                                    </app> argenteum est fabricandum die solis hora ☿ id est
+                                    </app>--> argenteum est fabricandum die solis hora ☿ id est
                                     Mercurii luna crescente et cum illo scribe nomina : sanctum est
                                         <name type="divin">Stælaon</name>. </p>
                             </div>
                             <div n="3" type="section">
                                 <p> Nota quod in secunda capsula scribi debet tempore operationis
-                                    (finita <app>
+                                    (finita <choice><sic>inuocat</sic><corr resp="#NC">inuocatio</corr></choice><!--<app>
                                         <lem resp="#NC">inuocatio</lem>
                                         <rdg>inuocat</rdg>
-                                    </app> ?) cum stilo nomen magni imperatoris et creatoris 
+                                    </app>--> ?) cum stilo nomen magni imperatoris et creatoris 
                                     <pb n="page_17"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-17.jpg"/>omnium
                                     creaturarum quod est + <name type="divin">Thethagramaton</name>
@@ -928,10 +928,10 @@
                                 <p> Nota quod sanctissimum <name type="divin">Stahelaon</name> ut
                                     diximus est fabricandum die ☿, id est Mercurii, luna crescente
                                     ad bonam partem, si autem ad malum a contrario ; et finito illud
-                                    reponat in loco mundissimo. Et antequam reponatur, <app>
+                                    reponat in loco mundissimo. Et antequam reponatur, <choice><sic>suffumagandum</sic><corr resp="#NC">suffumigandum</corr></choice><!--<app>
                                         <lem resp="#NC">suffumigandum</lem>
                                         <rdg>suffumagandum</rdg>
-                                    </app> est odoribus propriis altitudinis et tempore operationis
+                                    </app>--> est odoribus propriis altitudinis et tempore operationis
                                     illo uti ut dicendum est. </p>
                             </div>
                             <div n="6" type="section">
@@ -973,10 +973,10 @@
                                         concedere digneris </p>
                             </div>
                             <div n="2" type="section">
-                                <p> atque concedas ut possim et <app>
+                                <p> atque concedas ut possim et <choice><sic>uoleam</sic><corr resp="#NC">uolam</corr></choice><!--<app>
                                         <lem resp="#NC">uolam</lem>
                                         <rdg>uoleam</rdg>
-                                    </app> facere operationem meam quam uolo incipere et tantam
+                                    </app>--> facere operationem meam quam uolo incipere et tantam
                                     gratiam concedere ut petitionem cordis mei habeat absque
                                     fallacia per tuam maximam uirtutem et potestatem. </p>
                             </div>
@@ -1049,10 +1049,10 @@
                                     excogitandi, et disciplina <choice><sic>intellectis</sic><corr resp="#NC">intellectus</corr></choice><!--<app>
                                         <lem resp="#NC">intellectus</lem>
                                         <rdg>intellectis</rdg>
-                                    </app>--> repleuisti illos ; <app>
+                                    </app>--> repleuisti illos ; <choice><sic>scientia</sic><corr resp="#NC">scientiam</corr></choice><!--<app>
                                         <lem resp="#NC">scientiam</lem>
                                         <rdg>scientia</rdg>
-                                    </app>, spiritus, sensu impleuisti cor illorum, et mala et bona
+                                    </app>-->, spiritus, sensu impleuisti cor illorum, et mala et bona
                                     ostendisti illis. </p>
                             </div>
                             <div n="5" type="section">
@@ -1071,10 +1071,10 @@
                                     accensæ super tabulam et finita supra dicta oratione, scribere
                                     debebit nomen magnum et terribile cum maxima deuotione. Hoc est
                                         <name type="divin"> Thethagramaton</name>
-                                    <app>
+                                    <choice><sic>dilectens</sic><corr resp="#NC">dilectans</corr></choice><!--<app>
                                         <lem resp="#NC">dilectans</lem>
                                         <rdg>dilectens</rdg>
-                                    </app> maiusculis cum stilo argenteo. Et est scribendum dictum
+                                    </app>--> maiusculis cum stilo argenteo. Et est scribendum dictum
                                     sanctum nomen in secunda capsula, ut dictum est, et artista
                                     habeat petitionem scriptam in carta uirginea et mittat <add
                                         place="in margine">uel u</add> illam prope sigillum, ut
