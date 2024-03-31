@@ -137,10 +137,10 @@
                         <div n="4" type="section">
                             <pb n="page_2"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-2.jpg"/>
-                            <p> Tertia altitudo. Hæc vocatur <name type="divin"><app>
+                            <p> Tertia altitudo. Hæc vocatur <name type="divin"><choice><sic>Hernimoij</sic><corr resp="#NC">Hernimoy</corr></choice><!--<app>
                                         <lem resp="#NC">Hernimoy</lem>
                                         <rdg>Hernimoij</rdg>
-                                    </app></name>
+                                    </app>--></name>
                                 <del>Hermoij</del> et habet potentiam suam super amicos, fratres,
                                 propinquos et vicinos et super motum omnium aquarum, maris et
                                 fluminum, et super mutationem corporalem omnium rerum de loco ad
@@ -155,13 +155,13 @@
                         </div>
                         <div n="5" type="section">
                             <p> Quarta altitudo. Hæc uocatur <name type="divin">Panteon</name> et
-                                principes qui morantur in ea habent potestatem, et potentiam super <app>
+                                principes qui morantur in ea habent potestatem, et potentiam super <choice><sic>thesaurisantes</sic><corr resp="#NC">thesaurizantes</corr></choice><!--<app>
                                     <lem resp="#NC">thesaurizantes</lem>
-                                    <rdg>thesaurisantes</rdg>
-                                </app> successiones, <app>
+                                    <rdg wit="#ADIV_5Fb_1">thesaurisantes</rdg>
+                                </app>--> successiones, <choice><sic>rera</sic><corr resp="#NC">res</corr></choice> <!--<app>
                                     <lem resp="#NC">res</lem>
                                     <rdg>rera</rdg>
-                                </app> et donare dignitates pro ut eis uidetur. Nomina principum
+                                </app>--> et donare dignitates pro ut eis uidetur. Nomina principum
                                 huius altitudinis sunt <name type="divin">Yaræth</name>, <name
                                     type="divin">Yran</name>, <name type="divin">Arneth </name>,
                                     <name type="divin">Zanay</name>, <name type="divin"
@@ -172,16 +172,16 @@
                             <p> Quinta altitudo. Hæc uocatur <name type="divin">Cym</name> et
                                 principes qui morantur in ea habent potestatem <del>potentiam</del>
                                 ex officio suo cum motu cæli mouere omnia animantia secundum naturam
-                                ad filios procreandi multiplicandi in genere omnium <app>
+                                ad filios procreandi multiplicandi in genere omnium <choice><sic>spetie earum</sic><corr resp="#NC">specietatum</corr></choice> <!--<app>
                                     <lem resp="#NC">specietatum</lem>
                                     <rdg>spetie earum</rdg>
-                                </app>, tam sub terra <supplied>quam supra terram</supplied>, ut
+                                </app>-->, tam sub terra <supplied>quam supra terram</supplied>, ut
                                 sunt pisces et uolatilia animantia ; et gubernant et regunt motum
                                 animalium et ex dono Dei possunt naturales scientias infundere super
-                                homines cuius modi sunt <app>
+                                homines cuius modi sunt <choice><sic>phisica</sic><corr resp="#NC">physica</corr></choice><!--<app>
                                     <lem resp="#NC">physica</lem>
                                     <rdg>phisica</rdg>
-                                </app>, medicina, alchimia et earum partem. Nomina principum huius
+                                </app>-->, medicina, alchimia et earum partem. Nomina principum huius
                                 altitudinis sunt <name type="divin">Abnay</name>, <name type="divin"
                                     >Cercy</name>, <name type="divin">Crahel</name>
                                 <del>Erahel</del>, <name type="divin">Monosim</name>, <name
@@ -212,22 +212,22 @@
                         <div n="8" type="section">
                             <p> Septima altitudo. Hæc altitudo appellatur <name type="divin"
                                     >Creor</name> et principes qui morantur in ea habent potestatem
-                                super sacramentis <del>puramentis</del> quæ fiunt inter <app>
+                                super sacramentis <del>puramentis</del> quæ fiunt inter <choice><sic>craturas</sic><corr resp="#NC">creaturas</corr></choice><!--<app>
                                     <lem resp="#NC">creaturas</lem>
                                     <rdg>craturas</rdg>
-                                </app> et Deum, et inter creaturas et creaturas. Et cogunt eos per
-                                poenales angustias ad obseruantiam <app>
+                                </app>--> et Deum, et inter creaturas et creaturas. Et cogunt eos per
+                                poenales angustias ad obseruantiam <choice><sic>illus</sic><corr resp="#NC">illius</corr></choice><!--<app>
                                     <lem resp="#NC">illius</lem>
                                     <rdg>illus</rdg>
-                                </app> pacti, et cogunt demones obseruare <app>
+                                </app>--> pacti, et cogunt demones obseruare <choice><sic>pacte</sic><corr resp="#NC">pacta</corr></choice><!--<app>
                                     <lem resp="#NC">pacta</lem>
                                     <rdg>pacte</rdg>
-                                </app> hominibus et e conuerso et puniunt utrosque iussu Dei tam in
+                                </app>--> hominibus et e conuerso et puniunt utrosque iussu Dei tam in
                                 primis quam in secundis motibus. Et habent potestatem super animas
-                                separatas et eas regunt et ordinant ad bonum uel malum finem et <app>
+                                separatas et eas regunt et ordinant ad bonum uel malum finem et <choice><sic>exessent</sic><corr resp="#NC">exercent</corr></choice><!--<app>
                                     <lem resp="#NC">exercent</lem>
                                     <rdg>exessent</rdg>
-                                </app> mortem et uitam super creaturas et ex dignitate infundere
+                                </app>--> mortem et uitam super creaturas et ex dignitate infundere
                                 habent geomantiam, theologiam et magiam. Nomina principum huius
                                 altitudinis sunt <name type="divin"> Amayn</name>, <name
                                     type="divin">Amas</name>, <name type="divin">Anay</name>, <name
@@ -240,9 +240,9 @@
                         <div n="9" type="section">
                             <p> Octaua altitudo. Hæc altitudo appellatur <name type="divin"
                                     >Sapheth</name> et principes qui morantur in ea habent
-                                potestatem et uirtutem infundendi generationes <app>
-                                    <lem resp="#NC">generationis</lem>
-                                </app> elementorum ab animalibus et generationes concedere ad
+                                potestatem et uirtutem infundendi <choice><sic>generationis</sic><corr resp="#NC">generationes</corr></choice><!--<app>
+                                    <lem resp="#NC">generationes</lem><rdg resp="#NC">generationis</rdg>
+                                </app>--> elementorum ab animalibus et generationes concedere ad
                                 animalia et principes huius altitudinis iussu Dei ferunt homines de
                                 regione in regionem cursu uelocissimo et omni motui prædominium
                                 habent. Nomina principum huius altitudinis sunt <name type="divin"
@@ -280,10 +280,10 @@
                             <p> Prima altitudo occidentalis. Hæc altitudo occidentalis uocatur <name
                                     type="divin">Giphor</name> et principes, qui morantur in ea,
                                 potestatem habent super inimicitias et amicitias omnium creaturarum
-                                et super <app>
+                                et super <choice><sic>praesia</sic><corr resp="#NC">prœlia</corr></choice><!--<app>
                                     <lem resp="#NC">prœlia</lem>
                                     <rdg>praesia</rdg>
-                                </app> et contentiones et contumelias et omnino super exercitus
+                                </app>--> et contentiones et contumelias et omnino super exercitus
                                 adducendos et arma utique seruare nihil ad finem perduci boni uel
                                 mali nisi ordinatione et permissu eorum. Et ex dono Dei possunt
                                 super homines. Nomina principum huius altitudinis sunt <name
@@ -298,10 +298,10 @@
                                 amicos, super homines amatores et mulieres amatrices. Et potestatem
                                 habent et uirtutem ex officio faciendi illos et illas inimicari. Et
                                 dominium habent super rixas et quæstiones. Et faciunt homines
-                                bellicosos et <app>
+                                bellicosos et <choice><sic>pussilanimos</sic><corr resp="#NC">pusillanimos</corr></choice><!--<app>
                                     <lem resp="#NC">pusillanimos</lem>
                                     <rdg>pussilanimos</rdg>
-                                </app>
+                                </app>-->
                                 <del>pusilanimos></del>, uictoriosos et non. Nomina principum huius
                                 altitudinis sunt <pb n="page_5"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-5.jpg"/><name type="divin">Briel</name>, <name type="divin"
@@ -349,10 +349,10 @@
                                     >Camyn</name>. </p>
                         </div>
                         <div n="7" type="section">
-                            <p> Sexta altitudo. Hæc <app>
-                                    <lem resp="#NC">uocantur</lem>
-                                    <rdg>uocatur</rdg>
-                                </app>
+                            <p> Sexta altitudo. Hæc <choice><sic>uocantur</sic><corr resp="#NC">uocatur</corr></choice><!--<app>
+                                    <lem resp="#NC">uocatur</lem>
+                                    <rdg>uocantur</rdg>
+                                </app>-->
                                 <name type="divin">Agusth</name> et principes qui morantur in ea
                                 habent potestatem et uirtutem super omnia uolatilia cæli et animalia
                                 terræ <app>
@@ -1596,27 +1596,27 @@
                                     </app> ab homine usque ad pecus, 
                                      <pb n="page_32"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-32.jpg"/>qui diuisisti lumen a tenebris,
-                                    qui fecisti <app>
+                                    qui fecisti <choice><sic>luminam</sic><corr resp="#NC">luminaria</corr></choice><!--<app>
                                         <lem resp="#NC">luminaria</lem>
                                         <rdg>luminam</rdg>
-                                    </app> magna, solem et lunam, </p>
+                                    </app>--> magna, solem et lunam, </p>
                             </div>
                             <div n="4" type="section">
-                                <p> Deus <app>
+                                <p> Deus <choice><sic>totus</sic><corr resp="#NC">totius</corr></choice><!--<app>
                                         <lem resp="#NC">totius</lem>
                                         <rdg>totus</rdg>
-                                    </app>
-                                    <app>
+                                    </app>-->
+                                    <choice><sic>misericordis</sic><corr resp="#NC">misericordiae</corr></choice><!--<app>
                                         <lem resp="#NC">misericordiae</lem>
                                         <rdg>misericordis</rdg>
-                                    </app>, ego famulus tuus N., rogo tuam <app>
+                                    </app>-->, ego famulus tuus N., rogo tuam <choice><sic>pitiosissimam</sic><corr resp="#NC">pretiosissimam</corr></choice><!--<app>
                                         <lem resp="#NC">pretiosissimam</lem>
                                         <rdg>pitiosissimam</rdg>
-                                    </app>
-                                    <app>
+                                    </app>-->
+                                    <choice><sic>maiestat</sic><corr resp="#NC">maiestatem</corr></choice><!--<app>
                                         <lem resp="#NC">maiestatem</lem>
                                         <rdg>maiestat</rdg>
-                                    </app> ut petitionem cordis mei concedas mihi per tuam maximam
+                                    </app>--> ut petitionem cordis mei concedas mihi per tuam maximam
                                     potentiam. Amen. Fiat, fiat, fiat.</p>
                             </div>
                         </div>
@@ -1626,14 +1626,15 @@
                                 <name type="divin">ADONAY</name>
                                 <name type="divin">PIUS</name>
                                 <name type="divin">ANABONA</name>
-                                <name type="divin">ARANITAN</name> Hæc est <app>
+                                <name type="divin">ARANITAN</name> Hæc est <choice><sic>segunda></sic><corr resp="#NC">secunda</corr></choice><!--<app>
                                     <lem>secunda</lem>
                                     <rdg>segunda</rdg>
-                                </app>
-                                <app>
+                                </app>-->
+                                <choice><sic>partis</sic><corr resp="#NC">pars</corr></choice> 
+                                <!--<app>
                                     <lem>pars</lem>
                                     <rdg>partis</rdg>
-                                </app> sigilli <name type="divin">TETHAGRAMMATON</name>
+                                </app>--> sigilli <name type="divin">TETHAGRAMMATON</name>
                                 <name type="divin">ANABONA</name>
                                 <name type="divin">IHEHOVA</name>
                                 <name type="divin">HELOEN</name>
