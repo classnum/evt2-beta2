@@ -546,7 +546,7 @@
 
                         <div n="5" type="chapitre">
                             <div n="1" type="section">
-                                <p>Tractatus tertius De modo fabricandi sanctum <name type="divin"
+                                <p>Tractatus tertius. De modo fabricandi sanctum <name type="divin"
                                         >Stahelaon</name>
                                     <del>Haelaon</del>. Nos fabricamus sanctum <name type="divin"
                                         >Stahelaon</name>
@@ -577,11 +577,9 @@
                                             <lem resp="#NC">Hhælym</lem>
                                             <rdg>Hhælijm</rdg>
                                         </app>--></name>
-                                    <del>Sthælijm</del>, <name type="divin"><app>
-                                            <lem resp="#NC">Steloy</lem>
-                                            <rdg>Hhælijm</rdg>
-                                            <rdg>Steloij</rdg>
-                                        </app></name><del>Stheloij</del>, <name type="divin"
+                                    <del>Sthælijm</del>, <name type="divin"><choice><sic>Steloij</sic><corr resp="#NC">Steloy</corr></choice><!--<app>
+                                            <lem resp="#NC">Steloy</lem><rdg>Steloij</rdg>
+                                        </app>--></name><del>Stheloij</del>, <name type="divin"
                                         >Stely</name>. In tertio, <name type="divin">Ioth</name>,
                                         <name type="divin">Beth</name>, <name type="divin"
                                         >Agla</name>. In quarto, <name type="divin"
