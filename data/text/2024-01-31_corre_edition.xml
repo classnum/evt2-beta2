@@ -158,7 +158,7 @@
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-2.jpg"/>
                             <p> Tertia altitudo. Hæc vocatur <name type="divin"><choice><sic>Hernimoij</sic><corr resp="#NC">Hernimoy</corr></choice><!--<app>
                                         <lem resp="#NC">Hernimoy</lem>
-                                        <rdg>Hernimoij</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">Hernimoij</rdg>
                                     </app>--></name>
                                 <del>Hermoij</del> et habet potentiam suam super amicos, fratres,
                                 propinquos et vicinos et super motum omnium aquarum, maris et
@@ -179,7 +179,7 @@
                                     <rdg wit="#ADIV_5Fb_1">thesaurisantes</rdg>
                                 </app>--> successiones, <choice><sic>rera</sic><corr resp="#NC">res</corr></choice> <!--<app>
                                     <lem resp="#NC">res</lem>
-                                    <rdg>rera</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">rera</rdg>
                                 </app>--> et donare dignitates pro ut eis uidetur. Nomina principum
                                 huius altitudinis sunt <name type="divin">Yaræth</name>, <name
                                     type="divin">Yran</name>, <name type="divin">Arneth </name>,
@@ -193,13 +193,13 @@
                                 ex officio suo cum motu cæli mouere omnia animantia secundum naturam
                                 ad filios procreandi multiplicandi in genere omnium <choice><sic>spetie earum</sic><corr resp="#NC">specietatum</corr></choice> <!--<app>
                                     <lem resp="#NC">specietatum</lem>
-                                    <rdg>spetie earum</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">spetie earum</rdg>
                                 </app>-->, tam sub terra <supplied>quam supra terram</supplied>, ut
                                 sunt pisces et uolatilia animantia ; et gubernant et regunt motum
                                 animalium et ex dono Dei possunt naturales scientias infundere super
                                 homines cuius modi sunt <choice><sic>phisica</sic><corr resp="#NC">physica</corr></choice><!--<app>
                                     <lem resp="#NC">physica</lem>
-                                    <rdg>phisica</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">phisica</rdg>
                                 </app>-->, medicina, alchimia et earum partem. Nomina principum huius
                                 altitudinis sunt <name type="divin">Abnay</name>, <name type="divin"
                                     >Cercy</name>, <name type="divin">Crahel</name>
@@ -233,19 +233,19 @@
                                     >Creor</name> et principes qui morantur in ea habent potestatem
                                 super sacramentis <del>puramentis</del> quæ fiunt inter <choice><sic>craturas</sic><corr resp="#NC">creaturas</corr></choice><!--<app>
                                     <lem resp="#NC">creaturas</lem>
-                                    <rdg>craturas</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">craturas</rdg>
                                 </app>--> et Deum, et inter creaturas et creaturas. Et cogunt eos per
                                 poenales angustias ad obseruantiam <choice><sic>illus</sic><corr resp="#NC">illius</corr></choice><!--<app>
                                     <lem resp="#NC">illius</lem>
-                                    <rdg>illus</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">illus</rdg>
                                 </app>--> pacti, et cogunt demones obseruare <choice><sic>pacte</sic><corr resp="#NC">pacta</corr></choice><!--<app>
                                     <lem resp="#NC">pacta</lem>
-                                    <rdg>pacte</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">pacte</rdg>
                                 </app>--> hominibus et e conuerso et puniunt utrosque iussu Dei tam in
                                 primis quam in secundis motibus. Et habent potestatem super animas
                                 separatas et eas regunt et ordinant ad bonum uel malum finem et <choice><sic>exessent</sic><corr resp="#NC">exercent</corr></choice><!--<app>
                                     <lem resp="#NC">exercent</lem>
-                                    <rdg>exessent</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">exessent</rdg>
                                 </app>--> mortem et uitam super creaturas et ex dignitate infundere
                                 habent geomantiam, theologiam et magiam. Nomina principum huius
                                 altitudinis sunt <name type="divin"> Amayn</name>, <name
@@ -301,7 +301,7 @@
                                 potestatem habent super inimicitias et amicitias omnium creaturarum
                                 et super <choice><sic>praesia</sic><corr resp="#NC">prœlia</corr></choice><!--<app>
                                     <lem resp="#NC">prœlia</lem>
-                                    <rdg>praesia</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">praesia</rdg>
                                 </app>--> et contentiones et contumelias et omnino super exercitus
                                 adducendos et arma utique seruare nihil ad finem perduci boni uel
                                 mali nisi ordinatione et permissu eorum. Et ex dono Dei possunt
@@ -319,7 +319,7 @@
                                 dominium habent super rixas et quæstiones. Et faciunt homines
                                 bellicosos et <choice><sic>pussilanimos</sic><corr resp="#NC">pusillanimos</corr></choice><!--<app>
                                     <lem resp="#NC">pusillanimos</lem>
-                                    <rdg>pussilanimos</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">pussilanimos</rdg>
                                 </app>-->
                                 <del>pusilanimos></del>, uictoriosos et non. Nomina principum huius
                                 altitudinis sunt <pb n="page_5"
@@ -346,10 +346,10 @@
                                 principes, qui morantur in ea, habent potestatem et potentiam super
                                 aquas maris et fluminum, et submergere uel non, homines et omnia
                                 animalia inundare uel non. Faciunt mercatores diuites et pauperes et
-                                ex officio dant hominibus cognitionem et <app>
+                                ex officio dant hominibus cognitionem et <choice><sic>uirtutem</sic><corr resp="#NC">uirtutum</corr></choice><!--<app>
                                     <lem resp="#NC">uirtutum</lem>
-                                    <rdg>uirtutem</rdg>
-                                </app> omnium herbarum. Nomina principum huius altitudinis sunt
+                                    <rdg wit="#ADIV_5Fb_1">uirtutem</rdg>
+                                </app>--> omnium herbarum. Nomina principum huius altitudinis sunt
                                     <name type="divin">Galfu</name>, <name type="divin"
                                     >Melchiel</name>, <name type="divin">Clbeday</name>, <name
                                     type="divin">Lauyson</name>, <name type="divin">Ratyeh</name>,
@@ -373,10 +373,10 @@
                                 habent potestatem et uirtutem super omnia uolatilia cæli et animalia
                                 terræ <choice><sic>cauiatores</sic><corr resp="#NC">cantatores</corr></choice><!--<app>
                                     <lem resp="#NC">cantatores</lem>
-                                    <rdg>cauiatores</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">cauiatores</rdg>
                                 </app>--> capere <choice><sic>illas</sic><corr resp="#NC">illa</corr></choice><!--<app>
                                     <lem resp="#NC">illa</lem>
-                                    <rdg>illas</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">illas</rdg>
                                 </app>--> uel non, ut illis uidetur. Nomina principum huius altitudinis
                                 sunt <name type="divin">Bachay</name>, <name type="divin"
                                 >Son</name>, <name type="divin"> Balchochanth</name>, <name
@@ -420,7 +420,7 @@
                                 huius altitudinis sunt <name type="divin">Alaharahel</name>, <name
                                     type="divin"><choice><sic>Sasahorohath</sic><corr resp="#NC">Casahorohoth</corr></choice><!--<app>
                                         <lem resp="#NC"> Casahorohoth</lem>
-                                        <rdg>Sasahorohath</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">Sasahorohath</rdg>
                                     </app>--></name>, <name type="divin">Hamaliel</name>, <name
                                     type="divin">Mirthoath</name>, <name type="divin"
                                     >Sulthurohath</name>.</p>
@@ -441,10 +441,10 @@
                                     >Mahardahel</name>.</p>
                         </div>
                         <div n="3" type="section">
-                            <p> Tertia altitudo. Hæc uocatur <name type="divin"><app>
+                            <p> Tertia altitudo. Hæc uocatur <name type="divin"><choice><sic>Ahecchijm</sic><corr resp="#NC">Aehechym</corr></choice><!--<app>
                                         <lem resp="#NC">Aehechym</lem>
-                                        <rdg>Ahecchijm</rdg>
-                                    </app></name> et principes, qui morantur in ea, uirtutem et
+                                        <rdg wit="#ADIV_5Fb_1">Ahecchijm</rdg>
+                                    </app>--></name> et principes, qui morantur in ea, uirtutem et
                                 potentiam habent super omnia instrumenta musicæ et reddunt homines
                                 sapientissimos in illo exercitio, uel non, ita et taliter ut ipsi
                                 sonauerint quælibet genera instrumentorum, uel non, ut illis
@@ -452,7 +452,7 @@
                                     >Gebal</name>, <name type="divin">Lezioccil</name>, <name
                                     type="divin">Vahathicy</name>, <name type="divin"><choice><sic>Ijchenal</sic><corr resp="#NC">Ychehnal</corr></choice><!--<app>
                                         <lem resp="#NC">Ychehnal</lem>
-                                        <rdg>Ijchenal></rdg>
+                                        <rdg wit="#ADIV_5Fb_1">Ijchenal></rdg>
                                     </app>-->
                                     </name>
                                 <del>Ijchehal</del>, <name type="divin">Batthoual</name>, <name
@@ -474,23 +474,23 @@
                                     type="divin">Iahothahu</name> et principes, qui morantur in ea,
                                 habent uirtutem et potestatem super <choice><sic>inuisibilitatum</sic><corr resp="#NC">inuisibilitatem</corr></choice><!--<app>
                                     <lem resp="#NC">inuisibilitatem</lem>
-                                    <rdg>inuisibilitatum</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">inuisibilitatum</rdg>
                                 </app>--> et faciunt homines inuisibiles uel non. Et etiam faciunt ut
                                 homo possit accipere uarias et diuersas formas, uel non, pro ut eis
                                 uidetur. Nomina principum huius altitudinis sunt <name type="divin"><choice><sic>Orchij</sic><corr resp="#NC">Orchy</corr></choice><!--<app>
                                         <lem resp="#NC">Orchy</lem>
-                                        <rdg>Orchij</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">Orchij</rdg>
                                     </app>--></name>, <name type="divin">Opscihir</name>, <name
                                     type="divin">Omagistas</name>, <name type="divin"><choice><sic>Onchij</sic><corr resp="#NC">Onchy</corr></choice><!--<app>
                                         <lem resp="#NC">Onchy</lem>
-                                        <rdg>Onchij</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">Onchij</rdg>
                                     </app>--></name>, <name type="divin">Hæhuel</name>, <name
                                     type="divin"><choice><sic>Pijleth</sic><corr resp="#NC">Pyleth</corr></choice><!--<app>
                                         <lem resp="#NC">Pyleth</lem>
-                                        <rdg>Pijleth</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">Pijleth</rdg>
                                     </app>--></name>, <name type="divin"><choice><sic>Sacaij</sic><corr resp="#NC"></corr></choice><!--<app>
                                         <lem resp="#NC">Sacay</lem>
-                                        <rdg>Sacaij</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">Sacaij</rdg>
                                     </app>--></name>.</p>
                         </div>
                         <div n="6" type="section">
@@ -503,7 +503,7 @@
                         <div n="1" type="section">
                             <p> De <choice><sic>altitunibus</sic><corr resp="#NC">altitudinibus</corr></choice><!--<app>
                                     <lem resp="#NC">altitudinibus</lem>
-                                    <rdg>altitunibus</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">altitunibus</rdg>
                                 </app>--> septentrionalibus et sunt tres. 
                                 <pb n="page_8"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-8.jpg"/>Prima altitudo. Hæc uocatur
@@ -511,7 +511,7 @@
                                 ea habent uirtutem et potentiam super fortunam omnis maris et
                                 faciunt pluere et <choice><sic>grandirari</sic><corr resp="#NC">grandirare</corr></choice><!--<app>
                                     <lem resp="#NC">grandirare</lem>
-                                    <rdg>grandirari</rdg>
+                                    <rdg wit="#ADIV_5Fb_1">grandirari</rdg>
                                 </app>--> faciunt <del>faaunt</del> terræ motus, cadere fulgura,
                                 coruscare uentos maximos, uel non, ut eis uidetur. Nomina principum
                                 huius altitudinis sunt <name type="divin">Lohod</name>, <name
@@ -529,7 +529,7 @@
                                         >Hyshahabhel</name>, <name type="divin">Sohamuhahyz</name>,
                                         <name type="divin"><choice><sic>Mothocijhohan</sic><corr resp="#NC">Mothocyhohan</corr></choice><!--<app>
                                             <lem resp="#NC">Mothocyhohan</lem>
-                                            <rdg>Mothocijhohan</rdg>
+                                            <rdg wit="#ADIV_5Fb_1">Mothocijhohan</rdg>
                                         </app>--></name> Motholijhohan , <name type="divin"
                                         >Zachohohur</name>, <name type="divin">Neher</name>, <name
                                         type="divin">Dahaol</name>
@@ -540,13 +540,13 @@
                                         >Sephaphahan</name> et principes huius altitudinis qui
                                     morantur in ea habent uirtutem et potentiam suam <choice><sic>distrugendi</sic><corr resp="#NC">distribuendi</corr></choice><!--<app>
                                         <lem resp="#NC">distribuendi</lem>
-                                        <rdg>distrugendi</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">distrugendi</rdg>
                                     </app>--> omnia semina et faciunt illa nasci uel non. Et habent
                                     dominium super omnia genera armorum et faciunt offendere homines
                                     inuincibiles uel non, et etiam faciunt homines sapientissimos in
                                     arte <choice><sic>luxoriae</sic><corr resp="#NC">luxuriae</corr></choice><!--<app>
                                         <lem resp="#NC">luxuriae</lem>
-                                        <rdg>luxoriae</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">luxoriae</rdg>
                                     </app>--> et apparentiam faciunt ut ipsi faciant quidquid uolunt
                                     uel non, ut eis uidetur. Nomina principum huius altitudinis sunt
                                         <name type="divin">Auubzelon</name>, <name type="divin"
@@ -571,33 +571,33 @@
                                         >Stahelaon</name>
                                     <del>Haelaon</del> hoc modo. In die ☿, id est Mercurii, <choice><sic>accipiemus</sic><corr resp="#NC">accepimus</corr></choice><!--<app>
                                         <lem resp="#NC">accepimus</lem>
-                                        <rdg>accipiemus</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">accipiemus</rdg>
                                     </app>--> ceram nouam albam absque ulla sorde de <choice><sic>imunditia</sic><corr resp="#NC">immunditia</corr></choice><!--<app>
                                         <lem resp="#NC">immunditia</lem>
-                                        <rdg>imunditia</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">imunditia</rdg>
                                     </app>--> et illam suffumigauimus <choice><sic>olebano</sic><corr resp="#NC"></corr></choice><!--<app>
                                         <lem resp="#NC">olibano</lem>
-                                        <rdg>olebano</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">olebano</rdg>
                                     </app>-->, costo et croco. Et postea formauimus illum ut in exemplo
                                     apparet : in primis de illa cera fac capsulam longitudinis palmi
                                     unius et latitudinis palmi semis <del>fermix</del> et in
                                     quolibet angulo foramen. Et in foramine scribatur cum <choice><sic>stillo</sic><corr resp="#NC">stilo</corr></choice><!--<app>
                                         <lem resp="#NC">stilo</lem>
-                                        <rdg>stillo</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">stillo</rdg>
                                     </app>-->
                                     <choice><sic>argento</sic><corr resp="#NC">argenteo</corr></choice><!--<app>
                                         <lem resp="#NC">argenteo</lem>
-                                        <rdg>argento</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">argento</rdg>
                                     </app>--> nouo ad hoc fabricato ; et nomina Dei <del>diuini</del>
                                     uiui scripti debent die operationis. In primo foramine,
                                     scribatur <name type="divin"> Adonay</name>, <name type="divin"
                                         >Helyon</name>, <name type="divin">Pius</name>. In secundo,
                                         <name type="divin"><choice><sic>Hhælijm</sic><corr resp="#NC">Hhælym</corr></choice><!--<app>
                                             <lem resp="#NC">Hhælym</lem>
-                                            <rdg>Hhælijm</rdg>
+                                            <rdg wit="#ADIV_5Fb_1">Hhælijm</rdg>
                                         </app>--></name>
                                     <del>Sthælijm</del>, <name type="divin"><choice><sic>Steloij</sic><corr resp="#NC">Steloy</corr></choice><!--<app>
-                                            <lem resp="#NC">Steloy</lem><rdg>Steloij</rdg>
+                                            <lem resp="#NC">Steloy</lem><rdg wit="#ADIV_5Fb_1">Steloij</rdg>
                                         </app>--></name><del>Stheloij</del>, <name type="divin"
                                         >Stely</name>. In tertio, <name type="divin">Ioth</name>,
                                         <name type="divin">Beth</name>, <name type="divin"
@@ -611,19 +611,19 @@
                                     <del>Sthaelaon</del>, dum fabricatur, in angulum et angulum ut
                                     in figura signum nostrum faciendum est ; et inter <choice><sic>signum</sic><corr resp="#NC">signa</corr></choice><!--<app>
                                         <lem resp="#NC">signa</lem>
-                                        <rdg>signum</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">signum</rdg>
                                     </app>--> ut <del>et</del> signum scribatur cum <choice><sic>stillo</sic><corr resp="#NC">stilo</corr></choice><!--<app>
                                         <lem resp="#NC">stilo</lem>
-                                        <rdg>stillo</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">stillo</rdg>
                                     </app>--> argenteo ad hoc fabricato, ut in exemplo, in medio autem
                                     ficti debet nomen sanctum <name type="divin">Hel</name>, ut in
                                     exemplo, in medio <choice><sic>stanctum</sic><corr resp="#NC">sanctum</corr></choice><!--<app>
                                         <lem resp="#NC">sanctum</lem>
-                                        <rdg>stanctum</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">stanctum</rdg>
                                     </app>--> nomen <name type="divin">Hel</name> ; et capsula non
                                     debet esse uacua et supra <choice><sic>capsula</sic><corr resp="#NC">capsulam</corr></choice><!--<app>
                                         <lem resp="#NC">capsulam</lem>
-                                        <rdg>capsula</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">capsula</rdg>
                                     </app>--> illam alia fabricari debet de eadem cera ut in exemplo,
                                     longitudinis palmi semis et latitudinis ad proportionem. Et hæc
                                     debet esse uacua et supra primam capsulam candelæ septem debent
@@ -641,14 +641,14 @@
                                     sculpantur ipsa nomina uerso modo et sigillum sit purissimi
                                     argenti et auri et tempore operationis ponatur intus secundam <choice><sic>capsula</sic><corr resp="#NC">capsulam</corr></choice><!--<app>
                                         <lem resp="#NC">capsulam</lem>
-                                        <rdg>capsula</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">capsula</rdg>
                                     </app>-->. Et mittatur in <add place="in margine">diua</add>
                                     <supplied>diua</supplied> secunda capsula de odoribus <choice><sic>olebani</sic><corr resp="#NC">olibani</corr></choice><!--<app>
                                         <lem resp="#NC">olibani</lem>
-                                        <rdg>olebani</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">olebani</rdg>
                                     </app>-->, ligni <choice><sic>aloe</sic><corr resp="#NC">aloes</corr></choice><!--<app>
                                         <lem resp="#NC">aloes</lem>
-                                        <rdg>aloe</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">aloe</rdg>
                                     </app>-->, storacis et calamitæ et illa cooperiatur panno serico
                                     albo. Hæc sunt nomina sigilli <name type="divin">Steloen</name>
                                     <name type="divin">Adonay</name>, <name type="divin"
@@ -670,7 +670,7 @@
                                     <del>Staelaon</del> secundæ altitudinis et etiam candelæ
                                     fabricatur de cera <choice><sic>neffei</sic><corr resp="#NC">rufi</corr></choice> <!--<app>
                                         <lem resp="#NC">rufi</lem>
-                                        <rdg>neffei</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">neffei</rdg>
                                     </app>-->
                                     <del>reffei</del> coloris. Tertia, sanctum <name type="divin"
                                         >Hælaon</name>
@@ -678,49 +678,49 @@
                                         <del>azzurea</del>
                                    <choice><sic>croca</sic><corr resp="#NC">crocea</corr></choice><!--<app>
                                         <lem resp="#NC">crocea</lem>
-                                        <rdg>croca</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">croca</rdg>
                                     </app>-->. Quarta, sanctum <name type="divin">Hælaon</name>
                                     <del>Staelaon</del> quartæ altitudinis et etiam candelæ de cera <choice><sic>azzura</sic><corr resp="#NC">azurea</corr></choice><!--<app>
                                         <lem resp="#NC">azurea</lem>
-                                        <rdg>azzura</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">azzura</rdg>
                                     </app>-->. Quinta, sanctum <name type="divin">Hælaon</name> quintæ
                                     altitudinis de cera <choice><sic>uiridi</sic><corr resp="#NC">uiridis</corr></choice><!--<app>
                                         <lem resp="#NC">uiridis</lem>
-                                        <rdg>uiridi</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">uiridi</rdg>
                                     </app>--> coloris. Sexta, sanctum <name type="divin">Hælaon</name>
                                     sextæ altitudinis de cera uiolacea. Septima, sanctum <name
                                         type="divin">Haelaon</name> septimæ altitudinis de cera
                                     carnei coloris. Octaua, sanctum <name type="divin">
                                         Hælaon</name> octauæ altitudinis de cera coloris <choice><sic>uiridi</sic><corr resp="#NC">uiridis</corr></choice><!--<app>
                                         <lem resp="#NC">uiridis</lem>
-                                        <rdg>uiridi</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">uiridi</rdg>
                                     </app>--> et liuidi. Nona, sanctum <name type="divin">Hælaon
                                     </name> nonæ altitudinis de cera byssima.</p>
                             </div>
                             <div n="5" type="section">
                                 <p> Nunc <choice><sic>sequuntur</sic><corr resp="#NC">sequitur</corr></choice><!--<app>
                                         <lem resp="#NC">sequitur</lem>
-                                        <rdg>sequuntur</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">sequuntur</rdg>
                                     </app>--> sanctum <name type="divin">Stælaon</name> altitudinum
                                     occidentalium. 
                                     <pb n="page_11"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-11.jpg"/>Prima altitudo, fabricatur de cera <choice><sic>uiridi</sic><corr resp="#NC">uiridis</corr></choice><!--<app>
                                         <lem resp="#NC">uiridis</lem>
-                                        <rdg>uiridi</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">uiridi</rdg>
                                     </app>--> coloris et etiam candelæ. Secunda, secundae de cera
                                     rubicundici. Tertia, tertiæ de cera <choice><sic>zaura</sic><corr resp="#NC">aurea</corr></choice><!--<app>
                                         <lem resp="#NC">aurea</lem>
-                                        <rdg>zaura</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">zaura</rdg>
                                     </app>-->. Quarta, quartæ de cera alba. Quinta, quintæ de cera
                                     leonata. Sexta, sextæ de cera rubea. Septima, septimæ de cera <choice><sic>uiridi</sic><corr resp="#NC">uiridis</corr></choice><!--<app>
                                         <lem resp="#NC">uiridis</lem>
-                                        <rdg>uiridi</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">uiridi</rdg>
                                     </app>--> coloris. </p>
                             </div>
                             <div n="6" type="section">
                                 <p> Nunc <choice><sic>sequuntur</sic><corr resp="#NC">sequitur</corr></choice><!--<app>
                                         <lem resp="#NC">sequitur</lem>
-                                        <rdg>sequuntur</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">sequuntur</rdg>
                                     </app>--> sanctum <name type="divin">Stahelaon</name> altitudinum
                                     meridionalum. Prima, primæ sanctum <name type="divin"
                                         >Stahelaon</name> et eius candelæ in ista altitudine
@@ -728,7 +728,7 @@
                                     albi coloris sed fusca. Tertia, tertiæ de cera uiolacea. Quarta,
                                     quartæ de cera coloris florem <choice><sic>pesicarum</sic><corr resp="#NC">pessicarum</corr></choice><!--<app>
                                         <lem resp="#NC">pessicarum</lem>
-                                        <rdg>pesicarum</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">pesicarum</rdg>
                                     </app>-->
                                     <del>perricarum</del>. Quinta, quintæ de cera carnea et etiam
                                     candelæ.</p>
@@ -736,10 +736,10 @@
                             <div n="7" type="section">
                                 <p> Nunc <choice><sic>sequuntur</sic><corr resp="#NC">sequitur</corr></choice><!--<app>
                                         <lem resp="#NC">sequitur</lem>
-                                        <rdg>sequuntur</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">sequuntur</rdg>
                                     </app>--> sanctum <name type="divin">Stælaon</name> altitudinis <choice><sic>septemtrionalis</sic><corr resp="#NC">septentrionalis</corr></choice><!--<app>
                                         <lem resp="#NC">septentrionalis</lem>
-                                        <rdg>septemtrionalis</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">septemtrionalis</rdg>
                                     </app>-->. Prima, primum sanctum <name type="divin"
                                         >Stahelaon</name> primæ altitudinis et etiam candelæ de cera
                                     nigra. Secunda, secundum sanctum <name type="divin"
@@ -794,13 +794,13 @@
                                 <p> Omnes altitudines meridionales habent potentiam suam in nocte
                                         <supplied>♃</supplied>, id est Iouis, et tempus operationis <choice><sic>et</sic><corr resp="#NC">est</corr></choice><!--<app>
                                         <lem resp="#NC">est</lem>
-                                        <rdg>et</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">et</rdg>
                                     </app>--> incipiendum a tertia hora noctis usque ad octauam. </p>
                             </div>
                             <div n="4" type="section">
                                 <p>. Omnes altitudines <choice><sic>septemtrionales</sic><corr resp="#NC">septentrionales</corr></choice><!--<app>
                                         <lem resp="#NC">septentrionales</lem>
-                                        <rdg>septemtrionales</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">septemtrionales</rdg>
                                     </app>--> habent uirtutem et operationem suam ♄, id est Saturni, et
                                     in eius hora luna decrescente si ad malum finem, si autem ad
                                     bonum finem in nocte ☿, id est Mercurii, incipiendo a secunda
@@ -812,7 +812,7 @@
                                 <p> Sciendum etiam et quod omnia sanctissima Hahelam sunt facienda
                                     ut primum <choice><sic>orientes</sic><corr resp="#NC">orientis</corr></choice><!--<app>
                                         <lem resp="#NC">orientis</lem>
-                                        <rdg>orientes</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">orientes</rdg>
                                     </app>--> et nulla alia differentia est nisi coloris et omnia
                                     nomina scripta in primo subscribenda etiam sunt in cæteris et
                                     sunt facienda quomodo superius dictum est.</p>
@@ -822,49 +822,49 @@
                             <div n="1" type="section">
                                 <p> Et est sciendum quod omnes altitudines habent <choice><sic>suffumigia</sic><corr resp="#NC">suffumigiationes</corr></choice><!--<app>
                                         <lem resp="#NC">suffumigiationes</lem>
-                                        <rdg>suffumigia</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">suffumigia</rdg>
                                     </app>--> separata ; idcirco illa adnotauimus primum de altitunibus
                                     orientalibus. Prima altitudo orientalis suffumiganda est
                                     odoribus olibani et <choice><sic>costis</sic><corr resp="#NC">costi</corr></choice><!--<app>
                                         <lem resp="#NC">costi</lem>
-                                        <rdg>costis</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">costis</rdg>
                                     </app>-->. Secunda, secunda cum odoribus <choice><sic>mirre</sic><corr resp="#NC">myrrhæ</corr></choice><!--<app>
                                         <lem resp="#NC">myrrhæ</lem>
-                                        <rdg>mirre</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">mirre</rdg>
                                     </app>--> et <choice><sic>mastici</sic><corr resp="#NC">masticis</corr></choice><!--<app>
                                         <lem resp="#NC">masticis</lem>
-                                        <rdg>mastici</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">mastici</rdg>
                                     </app>-->. Tertia, tertia cum odoribus <choice><sic>camphere</sic><corr resp="#NC">camphoræ</corr></choice><!--<app>
                                         <lem resp="#NC">camphoræ</lem>
-                                        <rdg>camphere</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">camphere</rdg>
                                     </app>--> atque <choice><sic>cijnamomo</sic><corr resp="#NC">cinnamomi</corr></choice><!--<app>
                                         <lem resp="#NC">cinnamomi</lem>
-                                        <rdg>cijnamomo</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">cijnamomo</rdg>
                                     </app>-->. Quarta, quarta cum odoribus <choice><sic>sandaloni</sic><corr resp="#NC">sandali</corr></choice><!--<app>
                                         <lem resp="#NC">sandali</lem>
-                                        <rdg>sandaloni</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">sandaloni</rdg>
                                     </app>-->
                                     <choice><sic>rubroni</sic><corr resp="#NC">rubri</corr></choice><!--<app>
                                         <lem resp="#NC">rubri</lem>
-                                        <rdg>rubroni</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">rubroni</rdg>
                                     </app>--> et croci. Quinta, quinta cum odoribus garofilorum. Sexta,
                                     sexta cum odoribus <add place="supra linea">h</add> storacis
-                                    calamiti et <app>
+                                    calamiti et <choice><sic>cinamomi</sic><corr resp="#NC">cinnamomi</corr></choice><!--<app>
                                         <lem resp="#NC">cinnamomi</lem>
-                                        <rdg>cinamomi</rdg>
-                                    </app>. Septima, septima cum odoribus olibani et croci. Octaua,
+                                        <rdg wit="#ADIV_5Fb_1">cinamomi</rdg>
+                                    </app>-->. Septima, septima cum odoribus olibani et croci. Octaua,
                                     octaua cum odoribus <choice><sic>sandasoni</sic><corr resp="#NC">sandali</corr></choice><!--<app>
                                         <lem resp="#NC">sandali</lem>
-                                        <rdg>sandasoni</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">sandasoni</rdg>
                                     </app>--> et <choice><sic>mirrhæ</sic><corr resp="#NC">myrrhæ</corr></choice><!--<app>
                                         <lem resp="#NC">myrrhæ</lem>
-                                        <rdg>mirrhæ</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">mirrhæ</rdg>
                                     </app>-->. Nona, nona cum odoribus ligni <choice><sic>aloe</sic><corr resp="#NC">aloes</corr></choice><!--<app>
                                         <lem resp="#NC">aloes</lem>
-                                        <rdg>aloe</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">aloe</rdg>
                                     </app>--> et <choice><sic>belguioni</sic><corr resp="#NC">benzoini</corr></choice><!--<app>
                                         <lem resp="#NC">benzoini</lem>
-                                        <rdg>belguioni</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">belguioni</rdg>
                                     </app>-->. </p>
                             </div>
                             <div n="2" type="section">
@@ -874,31 +874,31 @@
                                     altitudo occidentalis suffumiganda est cum odoribus cinnamomi
                                     storacis <choice><sic>calamitæ</sic><corr resp="#NC">calamiti</corr></choice><!--<app>
                                         <lem resp="#NC">calamiti</lem>
-                                        <rdg>calamitæ</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">calamitæ</rdg>
                                     </app>-->. Secunda cum odoribus croci et camphoræ. Tertia cum
                                     odoribus thuris et myrrhæ. Quarta cum odoribus  <choice><sic>bongici</sic><corr resp="#NC">benzoini</corr></choice><!--<app>
                                         <lem resp="#NC">benzoini</lem>
-                                        <rdg>bongici</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">bongici</rdg>
                                     </app>--> et garofilorum. Quinta cum odoribus storacis calamiti et
                                     croci. Sexta cum odoribus camphoræ et <choice><sic>bengioi</sic><corr resp="#NC">benzoini</corr></choice><!--<app>
                                         <lem resp="#NC">benzoini</lem>
-                                        <rdg>bengioi</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">bengioi</rdg>
                                     </app>-->. Septima cum odoribus radicum <choice><sic>phie</sic><corr resp="#NC">phiæ</corr></choice><!--<app>
                                         <lem resp="#NC">phiæ</lem>
-                                        <rdg>phie</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">phie</rdg>
                                     </app>--> et anglicæ. </p>
                             </div>
                             <div n="3" type="section">
                                 <p> Nunc sequuntur suffumigationes altitudinum meridionalium. Prima
                                     altitudo meridionalis suffumiganda est cum odoribus croci <choice><sic>sturacis calamite</sic><corr resp="#NC">storacis calamiti</corr></choice><!--<app>
                                         <lem resp="#NC">storacis calamiti</lem>
-                                        <rdg>sturacis calamite</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">sturacis calamite</rdg>
                                     </app>-->. Secunda cum odoribus thuris et radicum iridis. Tertia,
                                     cum odoribus, cum odoribus myrrhæ et radicum ciceris. Quarta cum
                                     odoribus camphoræ et storacis calamiti. Quinta cum odoribus
                                     radicum <choice><sic>assari</sic><corr resp="#NC">asari</corr></choice><!--<app>
                                         <lem resp="#NC">asari</lem>
-                                        <rdg>assari</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">assari</rdg>
                                     </app>--> et ligni aloes. </p>
                             </div>
                             <div n="4" type="section">
@@ -919,7 +919,7 @@
                             <div n="2" type="section">
                                 <p> Nota quod <choice><sic>stillum</sic><corr resp="#NC">stilum</corr></choice><!--<app>
                                         <lem resp="#NC">stilum</lem>
-                                        <rdg>stillum</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">stillum</rdg>
                                     </app>--> argenteum est fabricandum die solis hora ☿ id est
                                     Mercurii luna crescente et cum illo scribe nomina : sanctum est
                                         <name type="divin">Stælaon</name>. </p>
@@ -928,7 +928,7 @@
                                 <p> Nota quod in secunda capsula scribi debet tempore operationis
                                     (finita <choice><sic>inuocat</sic><corr resp="#NC">inuocatio</corr></choice><!--<app>
                                         <lem resp="#NC">inuocatio</lem>
-                                        <rdg>inuocat</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">inuocat</rdg>
                                     </app>--> ?) cum stilo nomen magni imperatoris et creatoris 
                                     <pb n="page_17"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-17.jpg"/>omnium
@@ -947,7 +947,7 @@
                                     ad bonam partem, si autem ad malum a contrario ; et finito illud
                                     reponat in loco mundissimo. Et antequam reponatur, <choice><sic>suffumagandum</sic><corr resp="#NC">suffumigandum</corr></choice><!--<app>
                                         <lem resp="#NC">suffumigandum</lem>
-                                        <rdg>suffumagandum</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">suffumagandum</rdg>
                                     </app>--> est odoribus propriis altitudinis et tempore operationis
                                     illo uti ut dicendum est. </p>
                             </div>
@@ -992,7 +992,7 @@
                             <div n="2" type="section">
                                 <p> atque concedas ut possim et <choice><sic>uoleam</sic><corr resp="#NC">uolam</corr></choice><!--<app>
                                         <lem resp="#NC">uolam</lem>
-                                        <rdg>uoleam</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">uoleam</rdg>
                                     </app>--> facere operationem meam quam uolo incipere et tantam
                                     gratiam concedere ut petitionem cordis mei habeat absque
                                     fallacia per tuam maximam uirtutem et potestatem. </p>
@@ -1006,16 +1006,16 @@
                             <div n="4" type="section">
                                 <p> Nota quod in cubiculo sit tabula parata cum linteis et supra <choice><sic>stabulam</sic><corr resp="#NC">tabulam</corr></choice><!--<app>
                                         <lem resp="#NC">tabulam</lem>
-                                        <rdg>stabulam</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">stabulam</rdg>
                                     </app>-->
                                     <choice><sic>ponatura</sic><corr resp="#NC">ponat</corr></choice><!--<app>
                                         <lem resp="#NC">ponat</lem>
-                                        <rdg>ponatura</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">ponatura</rdg>
                                     </app>--> artista sanctum <name type="divin">Stahelaon</name> cum
                                     maxima ueneratione et genuflexus suffumiget illud odoribus
                                     illius altitudinis <choice><sic>quam posse</sic><corr resp="#NC">postquam</corr></choice><!--<app>
                                         <lem resp="#NC">postquam</lem>
-                                        <rdg>quam posse</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">quam posse</rdg>
                                     </app>--> operatur et finita suffumigatione dicat :</p>
                             </div>
                         </div>
@@ -1023,7 +1023,7 @@
                             <div n="1" type="section">
                                 <p> Oratio. « Deus <del>meus</del> cuius <choice><sic>dietas</sic><corr resp="#NC">deitas</corr></choice><!--<app>
                                         <lem resp="#NC">deitas</lem>
-                                        <rdg>dietas</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">dietas</rdg>
                                     </app>--> sine fine, Deus creator omnium creaturarum, principium et
                                     finis, Deus <name type="divin"> Adonay</name>, Deus <name
                                         type="divin">Iahoua</name>, Deus <name type="divin"
@@ -1036,13 +1036,13 @@
                             <div n="2" type="section">
                                 <p> Tu autem <del>domine</del>, Deus meus, suauis et <choice><sic>uenis</sic><corr resp="#NC">uerus</corr></choice><!--<app>
                                         <lem resp="#NC">uerus</lem>
-                                        <rdg>uenis</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">uenis</rdg>
                                     </app>--> et patiens, et, et in consilio tuo disponens omnia,
                                     Domine Deus qui sedes sub Cherubim, tu es solus regum omnium
                                     terræ, tu fecisti cælum et terram inclina aurem tuam et exaudi,
                                     aperi Domine <choice><sic>occulos</sic><corr resp="#NC">oculos</corr></choice><!--<app>
                                         <lem resp="#NC">oculos</lem>
-                                        <rdg>occulos</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">occulos</rdg>
                                     </app>--> tuos. Et uide et exaudi omnia uerba mea et exaudi me </p>
                             </div>
                             <div n="3" type="section">
@@ -1050,10 +1050,10 @@
                                         <del>immaginem</del> tuam fecisti, et iterum conuertisti
                                     ipsum in <choice><sic>illum</sic><corr resp="#NC">illam</corr></choice><!--<app>
                                         <lem resp="#NC">illam</lem>
-                                        <rdg>illum</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">illum</rdg>
                                     </app>-->, et secundum tuam diuinitatem uestisti illum <choice><sic>uirtute</sic><corr resp="#NC">iuirtutem</corr></choice><!--<app>
                                         <lem resp="#NC">iuirtutem</lem>
-                                        <rdg>uirtute</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">uirtute</rdg>
                                     </app>-->, numerum dierum et tempus dedisti illi potestatem eorum
                                     quæ sunt super terram.</p>
                             </div>
@@ -1065,10 +1065,10 @@
                                     consilium et linguam et oculos et aures et cor dedisti illis
                                     excogitandi, et disciplina <choice><sic>intellectis</sic><corr resp="#NC">intellectus</corr></choice><!--<app>
                                         <lem resp="#NC">intellectus</lem>
-                                        <rdg>intellectis</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">intellectis</rdg>
                                     </app>--> repleuisti illos ; <choice><sic>scientia</sic><corr resp="#NC">scientiam</corr></choice><!--<app>
                                         <lem resp="#NC">scientiam</lem>
-                                        <rdg>scientia</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">scientia</rdg>
                                     </app>-->, spiritus, sensu impleuisti cor illorum, et mala et bona
                                     ostendisti illis. </p>
                             </div>
@@ -1090,7 +1090,7 @@
                                         <name type="divin"> Thethagramaton</name>
                                     <choice><sic>dilectens</sic><corr resp="#NC">dilectans</corr></choice><!--<app>
                                         <lem resp="#NC">dilectans</lem>
-                                        <rdg>dilectens</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">dilectens</rdg>
                                     </app>--> maiusculis cum stilo argenteo. Et est scribendum dictum
                                     sanctum nomen in secunda capsula, ut dictum est, et artista
                                     habeat petitionem scriptam in carta uirginea et mittat <add
@@ -1108,7 +1108,7 @@
                                     non debet esse uacua sed debebit fieri foramen intus ab artista
                                     cum <choice><sic>stillo</sic><corr resp="#NC">stilo</corr></choice><!--<app>
                                         <lem resp="#NC">stilo</lem>
-                                        <rdg>stillo</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">stillo</rdg>
                                     </app>--> argenteo usque ad sanctum nomen Stahelaon et intus
                                     mittere sigillum altitudinis et caractera principum cum suis
                                     nominibus et postea foramen illud claudere. Antequam artista
@@ -1123,7 +1123,7 @@
                                 quod sigilla et caractera principum sunt scribenda in carta
                                     uirginea, coloribus propriis illius altitudinis, uel in panno <choice><sic>seic</sic><corr resp="#NC">serico</corr></choice> <!--<app>
                                         <lem resp="#NC">serico</lem>
-                                        <rdg>seic</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">seic</rdg>
                                     </app>--> eiusdem coloris cum croco <del>aqua</del> aqua rosarum et
                                     musco. </p>
                             </div>
@@ -1213,11 +1213,11 @@
                                     uiuum, Deum uerum, uisibilium et inuisibilium creaturarum
                                     creatorem omnium, per <choice><sic>diademam</sic><corr resp="#NC">diadema</corr></choice><!--<app>
                                         <lem resp="#NC">diadema</lem>
-                                        <rdg>diademam</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">diademam</rdg>
                                     </app>-->, coronam sui capitis, per nomen illud quod est timendum
                                     ab omnibus creatoris cælestibus  <choice><sic>terestribus</sic><corr resp="#NC">terrestribus</corr></choice><!--<app>
                                         <lem resp="#NC">terrestribus</lem>
-                                        <rdg>terestribus</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">terestribus</rdg>
                                     </app>--> et infernalibus quod scribitur quatuor litteris, id est
                                         <name type="divin">Voth</name>, <name type="divin"
                                         >Beth</name>, <name type="divin">Agla</name>, <name
@@ -1397,28 +1397,28 @@
                             <div n="1" type="section">
                                 <p> Finita inuocatione, apparebit unus princeps <choice><sic>illus</sic><corr resp="#NC">illius</corr></choice><!--<app>
                                         <lem resp="#NC">illius</lem>
-                                        <rdg>illus</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">illus</rdg>
                                     </app>--> altitudinis, indutus stola candida in uiso pulcherrimi
                                     iuuenis et flores <choice><sic>roseis</sic><corr resp="#NC">roseos</corr></choice><!--<app>
                                         <lem resp="#NC">roseos</lem>
-                                        <rdg>roseis</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">roseis</rdg>
                                     </app>--> in capite suo deferens ad modum coronæ. Tunc artista
                                     habeat <choice><sic>parum</sic><corr resp="#NC">paruum</corr></choice><!--<app>
                                         <lem resp="#NC">paruum</lem>
-                                        <rdg>parum</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">parum</rdg>
                                     </app>--> uas ad modum <choice><sic>praxidis</sic><corr resp="#NC">praxedis</corr></choice><!--<app>
                                         <lem>praxedis</lem>
-                                        <rdg>praxidis</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">praxidis</rdg>
                                     </app>--> noui, et intus mittat carbones ex <choice><sic>rosma uino</sic><corr resp="#NC">rosmarino</corr></choice><!--<app>
                                         <lem resp="#NC">rosmarino</lem>
-                                        <rdg>rosma uino</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">rosma uino</rdg>
                                     </app>--> accensos et super illos proiiciat de odoribus
                                     altitudinis. </p>
                             </div>
                             <div n="2" type="section">
                                 <p> Et quam cito ipse sentiat odores, tunc dulciter <choice><sic>alloquentur</sic><corr resp="#NC">alloquetur</corr></choice><!--<app>
                                         <lem resp="#NC">alloquetur</lem>
-                                        <rdg>alloquentur</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">alloquentur</rdg>
                                     </app>--> artistæ. Et dicet « quid petis ? adquid uocatis principes
                                     nostræ altitudinis ? ». Et artista cum ueneratione respondeat ut
                                     « hæc petitio quæ eis ex officio incumbit, mihi ab eis sit
@@ -1434,7 +1434,7 @@
                             <div n="4" type="section">
                                 <p> Et quando uoluerit cum illo postea loqui, <choice><sic>suffimigit</sic><corr resp="#NC">suffumiget</corr></choice><!--<app>
                                         <lem resp="#NC">suffumiget</lem>
-                                        <rdg>suffimigit</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">suffimigit</rdg>
                                     </app>-->, et genuflexus, dicat nomen principis illius altitudinis
                                     et ueniet et alloquetur cum eo.</p>
                             </div>
@@ -1446,7 +1446,7 @@
                                     <pb n="page_28"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-28.jpg"/>non uenerit, tunc cum maxima ueneratione <choice><sic>letis</sic><corr resp="#NC">lotis</corr></choice><!--<app>
                                         <lem resp="#NC">lotis</lem>
-                                        <rdg>letis</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">letis</rdg>
                                     </app>--> manibus aqua rosarum cum sigillo magni Dei, sigilla,
                                     candelas sancti Hahelaon, in pari numero, et postea ad locum
                                     suum repones sigillum et reitera per duas alias uices
@@ -1463,7 +1463,7 @@
                                 <p> « Maximas gratias ago uobis principibus altitudinis », et debet
                                     nominare nomen altitudinis « quoniam meæ <choice><sic>satisfecistis</sic><corr resp="#NC">satisfecisti</corr></choice><!--<app>
                                         <lem resp="#NC">satisfecisti</lem>
-                                        <rdg>satisfecistis</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">satisfecistis</rdg>
                                     </app>--> uoluntati idcirco, o potestas incomprehensibilis, uide
                                     cor meum et pete quiquid uis quoniam sum paratus facere omnia
                                     ».</p>
@@ -1485,7 +1485,7 @@
                             <div n="2" type="section">
                                 <p> Et postquam <choice><sic>siue peris</sic><corr resp="#NC">inceperis</corr></choice><!--<app>
                                         <lem resp="#NC">inceperis</lem>
-                                        <rdg>siue peris</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">siue peris</rdg>
                                     </app>--> suffumigare illam odoribus altitudinis. Et nota quod in
                                     ueste scribere debes nomina et caractera die ☿, id est Mercurii,
                                     et hora solis, luna crescente, in pari numero. </p>
@@ -1548,17 +1548,17 @@
                                 <p> Et postquam sigillum erit completum, suffumigare illud debet
                                     artista cum odoribus ligni aloe, costi, <choice><sic>storauis</sic><corr resp="#NC">storacis</corr></choice><!--<app>
                                         <lem resp="#NC">storacis</lem>
-                                        <rdg>storauis</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">storauis</rdg>
                                     </app>-->
                                     <choice><sic>calamite</sic><corr resp="#NC">calamiti</corr></choice><!--<app>
                                         <lem resp="#NC">calamiti</lem>
-                                        <rdg>calamite</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">calamite</rdg>
                                     </app>-->, <choice><sic>bengioi</sic><corr resp="#NC">benzoini</corr></choice><!--<app>
                                         <lem resp="#NC">benzoini</lem>
-                                        <rdg>bengioi</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">bengioi</rdg>
                                     </app>--> et <choice><sic>olebani</sic><corr resp="#NC">olibani</corr></choice><!--<app>
                                         <lem resp="#NC">olibani</lem>
-                                        <rdg>olebani</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">olebani</rdg>
                                     </app>-->. Finita <del>sul</del> suffumigatione
                                         <del>suffumigare</del> illud reponere in sanctum Hahelaon.
                                 </p>
@@ -1573,7 +1573,7 @@
                                 <p> Scias quod finita suffumigatione cum ueneratione genuflexus
                                     debes <choice><sic>dice</sic><corr resp="#NC">dicere</corr></choice><!--<app>
                                         <lem resp="#NC">dicere</lem>
-                                        <rdg>dice</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">dice</rdg>
                                     </app>--> hanc orationem Deo.</p>
                             </div>
                         </div>
@@ -1584,7 +1584,7 @@
                                         type="divin">A et ω</name>, hoc est principium et finis
                                     absque principio et fine, in quo uiuens homo cognoscit, Rex <choice><sic>sum</sic><corr resp="#NC">summe</corr></choice><!--<app>
                                         <lem resp="#NC">summe</lem>
-                                        <rdg>sum</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">sum</rdg>
                                     </app>--> Imperator excellens qui Deus es, Rex regum, dominantium
                                     Dominus, qui etiam es pius, misericors, clemens, benignus,
                                     gloriosus </p>
@@ -1594,43 +1594,43 @@
                                     tua et conseruas, qui cælorum continens firmamentum, qui tronos
                                     et <choice><sic>abistos</sic><corr resp="#NC">abyssos</corr></choice> <!--<app>
                                         <lem resp="#NC">abyssos</lem>
-                                        <rdg>abistos</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">abistos</rdg>
                                     </app>--> intueris, qui montes ponderas terramque magnam concludis
                                     a palmo, qui fecisti spiritus angelicos flammam ignis </p>
                             </div>
                             <div n="3" type="section">
                                 <p> qui producis uentos de thesauris suis, qui ambulas super <choice><sic>penas</sic><corr resp="#NC">pennas</corr></choice><!--<app>
                                         <lem resp="#NC">pennas</lem>
-                                        <rdg>penas</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">penas</rdg>
                                     </app>--> uentorum, qui <choice><sic>percusisti</sic><corr resp="#NC">percussisti</corr></choice><!--<app>
                                         <lem resp="#NC">percussisti</lem>
-                                        <rdg>percusisti</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">percusisti</rdg>
                                     </app>--> primo genita <choice><sic>Aegipti</sic><corr resp="#NC">Aegypti</corr></choice><!--<app>
                                         <lem resp="#NC">Aegypti</lem>
-                                        <rdg>Aegipti</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">Aegipti</rdg>
                                     </app>--> ab homine usque ad pecus, 
                                      <pb n="page_32"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-32.jpg"/>qui diuisisti lumen a tenebris,
                                     qui fecisti <choice><sic>luminam</sic><corr resp="#NC">luminaria</corr></choice><!--<app>
                                         <lem resp="#NC">luminaria</lem>
-                                        <rdg>luminam</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">luminam</rdg>
                                     </app>--> magna, solem et lunam, </p>
                             </div>
                             <div n="4" type="section">
                                 <p> Deus <choice><sic>totus</sic><corr resp="#NC">totius</corr></choice><!--<app>
                                         <lem resp="#NC">totius</lem>
-                                        <rdg>totus</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">totus</rdg>
                                     </app>-->
                                     <choice><sic>misericordis</sic><corr resp="#NC">misericordiae</corr></choice><!--<app>
                                         <lem resp="#NC">misericordiae</lem>
-                                        <rdg>misericordis</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">misericordis</rdg>
                                     </app>-->, ego famulus tuus N., rogo tuam <choice><sic>pitiosissimam</sic><corr resp="#NC">pretiosissimam</corr></choice><!--<app>
                                         <lem resp="#NC">pretiosissimam</lem>
-                                        <rdg>pitiosissimam</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">pitiosissimam</rdg>
                                     </app>-->
                                     <choice><sic>maiestat</sic><corr resp="#NC">maiestatem</corr></choice><!--<app>
                                         <lem resp="#NC">maiestatem</lem>
-                                        <rdg>maiestat</rdg>
+                                        <rdg wit="#ADIV_5Fb_1">maiestat</rdg>
                                     </app>--> ut petitionem cordis mei concedas mihi per tuam maximam
                                     potentiam. Amen. Fiat, fiat, fiat.</p>
                             </div>
@@ -1642,13 +1642,13 @@
                                 <name type="divin">PIUS</name>
                                 <name type="divin">ANABONA</name>
                                 <name type="divin">ARANITAN</name> Hæc est <choice><sic>segunda></sic><corr resp="#NC">secunda</corr></choice><!--<app>
-                                    <lem>secunda</lem>
-                                    <rdg>segunda</rdg>
+                                    <lem resp="#NC">secunda</lem>
+                                    <rdg wit="#ADIV_5Fb_1">segunda</rdg>
                                 </app>-->
                                 <choice><sic>partis</sic><corr resp="#NC">pars</corr></choice> 
                                 <!--<app>
-                                    <lem>pars</lem>
-                                    <rdg>partis</rdg>
+                                    <lem resp="#NC">pars</lem>
+                                    <rdg wit="#ADIV_5Fb_1">partis</rdg>
                                 </app>--> sigilli <name type="divin">TETHAGRAMMATON</name>
                                 <name type="divin">ANABONA</name>
                                 <name type="divin">IHEHOVA</name>
