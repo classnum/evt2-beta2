@@ -199,12 +199,24 @@
                                     type="divin"><choice><sic>Ijran</sic><corr resp="#NC">Yran</corr></choice><!--<app>
                                     <lem resp="#NC">Yran</lem>
                                     <rdg wit="#ADIV_5Fb_1">Ijran</rdg>--></name>, <name type="divin">Arneth </name>,
-                                    <name type="divin">Zanay</name>, <name type="divin"
-                                    >Aranoy</name>, <del>Susee</del>
-                                <name type="divin">Susceye</name>. </p>
+                                    <name type="divin"><choice><sic>Zanaij</sic><corr resp="#NC">Zanay</corr></choice><!--<app>
+                                    <lem resp="#NC">Zanay</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Zanaij</rdg>
+                                </app>--></name>, <name type="divin"
+                                    ><choice><sic>Aranoij</sic><corr resp="#NC">Aranoy</corr></choice><!--<app>
+                                    <lem resp="#NC">Aranoy</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Aranoij</rdg>
+                                </app>--></name>, <del>Susee</del>
+                                <name type="divin"><choice><sic>Susceije</sic><corr resp="#NC">Susceye</corr></choice><!--<app>
+                                    <lem resp="#NC">Susceye</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Susceije</rdg>
+                                </app>--></name>. </p>
                         </div>
                         <div n="6" type="section">
-                            <p> Quinta altitudo. Hæc uocatur <name type="divin">Cym</name> et
+                            <p> Quinta altitudo. Hæc uocatur <name type="divin"><choice><sic>Cijm</sic><corr resp="#NC">Cym</corr></choice><!--<app>
+                                    <lem resp="#NC">Cym</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Cijm</rdg>
+                                </app>--></name> et
                                 principes qui morantur in ea habent potestatem <del>potentiam</del>
                                 ex officio suo cum motu cæli mouere omnia animantia secundum naturam
                                 ad filios procreandi multiplicandi in genere omnium <choice><sic>spetie earum</sic><corr resp="#NC">specietatum</corr></choice> <!--<app>
@@ -217,10 +229,19 @@
                                     <lem resp="#NC">physica</lem>
                                     <rdg wit="#ADIV_5Fb_1">phisica</rdg>
                                 </app>-->, medicina, alchimia et earum partem. Nomina principum huius
-                                altitudinis sunt <name type="divin">Abnay</name>, <name type="divin"
-                                    >Cercy</name>, <name type="divin">Crahel</name>
+                                altitudinis sunt <name type="divin"><choice><sic>Abnaij</sic><corr resp="#NC">Abnay</corr></choice><!--<app>
+                                    <lem resp="#NC">Abnay</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Abnaij</rdg>
+                                </app>--></name>, <name type="divin"
+                                    ><choice><sic>Cercij</sic><corr resp="#NC">Cercy</corr></choice><!--<app>
+                                    <lem resp="#NC">Cercy</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Cercij</rdg>
+                                </app>--></name>, <name type="divin">Crahel</name>
                                 <del>Erahel</del>, <name type="divin">Monosim</name>, <name
-                                    type="divin">Aurache</name>, <name type="divin">Hanalay</name>.
+                                    type="divin">Aurache</name>, <name type="divin">Hanalay<choice><sic>Hanalaij</sic><corr resp="#NC">Hanalay</corr></choice><!--<app>
+                                    <lem resp="#NC">Hanalay</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Hanalaij</rdg>
+                                </app>--></name>.
                             </p>
                         </div>
                         <div n="7" type="section">
