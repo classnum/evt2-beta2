@@ -67,7 +67,7 @@
             "value": "critical",
             "label": "Critical",
             "title": "Critical edition",
-            "visible": true
+            "visible": false
         },
         {
             "value": "diplomatic",
@@ -79,7 +79,7 @@
             "value": "interpretative",
             "label": "Interpretative",
             "title": "Interpretative edition",
-            "visible": false
+            "visible": true
         }
     ],
     "showDocumentSelector": true,
