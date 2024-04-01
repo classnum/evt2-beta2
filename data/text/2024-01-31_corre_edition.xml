@@ -189,14 +189,18 @@
                                 principes qui morantur in ea habent potestatem, et potentiam super <choice><sic>thesaurisantes</sic><corr resp="#NC">thesaurizantes</corr></choice><!--<app>
                                     <lem resp="#NC">thesaurizantes</lem>
                                     <rdg wit="#ADIV_5Fb_1">thesaurisantes</rdg>
-                                </app>--> successiones, <choice><sic>rera</sic><corr resp="#NC">res</corr></choice> <!--<app>
+                                </app>-->successiones, <choice><sic>rera</sic><corr resp="#NC">res</corr></choice><!--<app>
                                     <lem resp="#NC">res</lem>
                                     <rdg wit="#ADIV_5Fb_1">rera</rdg>
                                 </app>--> et donare dignitates pro ut eis uidetur. Nomina principum
-                                huius altitudinis sunt <name type="divin">Yaræth</name>, <name
-                                    type="divin">Yran</name>, <name type="divin">Arneth </name>,
+                                huius altitudinis sunt <name type="divin"><choice><sic>Ijræth</sic><corr resp="#NC">Yaræth</corr></choice><!--<app>
+                                    <lem resp="#NC">Yaræth</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Ijaræth</rdg>--></name>, <name
+                                    type="divin"><choice><sic>Ijran</sic><corr resp="#NC">Yran</corr></choice><!--<app>
+                                    <lem resp="#NC">Yran</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Ijran</rdg>--></name>, <name type="divin">Arneth </name>,
                                     <name type="divin">Zanay</name>, <name type="divin"
-                                    >Aranoy</name>, <del>susee</del>
+                                    >Aranoy</name>, <del>Susee</del>
                                 <name type="divin">Susceye</name>. </p>
                         </div>
                         <div n="6" type="section">
