@@ -106,7 +106,7 @@
                                     <lem resp="#NC">Christi</lem>
                                     <rdg wit="#ADIV_5Fb_1">Chisti</rdg>
                                 </app>-->. Liber est <name type="divin">Hynothéon</name><note n="1" place="bottom">Ce nom « divin » est vraisemblablement d’origine grecque et pourrait être traduit par « une seule divinité (Henotheon) ». Dans le manuscrit R, il se retrouve aussi sous la forme Hynoytheon, pour être cette fois gravé sur l’autel, le « Saint Hælaon »</note>  sapientissimi
-                                    <persName ref="#Salomon">Salomonis</persName> regis, filii
+                                    <persName ref="#Salomon">Salomonis</persName><note n="2" place="bottom">Un grand nombre de traités de magie sont attribués depuis l’Antiquité au fils de David, considéré par la tradition judéo-chrétienne et musulmane comme un exorciste et un magicien tout-puissant</note>  regis, filii
                                     <persName ref="#David">Dauid</persName>
                                 <persName ref="#Jacob">Israel</persName>, de <choice><sic>
                                 Caldes</sic>
@@ -115,11 +115,11 @@
                                     <lem resp="#NC">Chaldaeo</lem>
                                     <rdg wit="#ADIV_5Fb_1">Caldes</rdg>
                                 </app>-->
-                                in Latinum. Altitudines orientis sunt nouem de quibus in hoc
-                                libro primo tractatu tractandum est, et de illius uirtutibus. In
+                                in Latinum<note n="3" place="bottom">L’auteur confond ici vraisemblablement le chaldéen avec l’araméen, la langue vernaculaire qui s’imposa progressivement face à l’hébreu en Palestine et qui était notamment parlée par Jésus. Selon une tradition médiévale, l’Almandal aurait été directement reçu par Salomon, écrit en hébreu, avant d’être ensuite traduit en grec, puis en latin par Jérôme de Stridon en personne</note>. Altitudines orientis sunt nouem de quibus in hoc
+                                libro primo tractatu tractandum est, et de illius uirtutibus<note n="4" place="bottom">La notion d’ « altitude » renvoie à la fois à une « intelligence » de nature angélique, mais aussi à un lieu apparenté à l’origine aux signes du zodiaque, et où sont cantonnés les princes. Le livre décrit les quatre grandes altitudes du monde (désignées selon les points cardinaux, Nord, Sud, Est, et Ouest), elles-mêmes divisées en différentes altitudes secondaires. Le traité nous apprend quels sont les princes qui y demeurent, ainsi que leurs pouvoirs</note>. In
                                 secundo, est tractandum de altitudinibus occidentalibus, quæ sunt
                                 septem, et meridionalibus quæ sunt quinque, et septentrionalibus quæ
-                                sunt tres. In tertio, de modo faciendi sanctum <name type="divin"
+                                sunt tres<note n="5" place="bottom">La répartition des princes en fonction des altitudes est originale par rapport aux autres traités connus. Traditionnellement, les altitudes sont réparties en fonction des quatre points cardinaux, avec trois anges affectés à chacune des directions. Cette organisation serait inspirée par le passage de l’Apocalypse, 21, 12-13, qui évoque les portes de la Jérusalem céleste</note>. In tertio, de modo faciendi sanctum <name type="divin"
                                     >Hælaon</name>, et de modo <choice><sic>seruandia</sic><corr resp="#NC">seruandi</corr></choice> <!--<app>
                                     <lem resp="#NC">seruandi</lem>
                                     <rdg wit="#ADIV_5Fb_1">seruandia</rdg>
