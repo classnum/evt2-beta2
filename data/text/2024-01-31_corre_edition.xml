@@ -154,7 +154,9 @@
                                 uidetur redditus et pecuniam, habet operationem suam die Solis et
                                 eius hora luna crescente. Nomina principum huius altitudinis sunt
                                     <name type="divin">Pax</name>, <name type="divin"
-                                    >Alpharaym</name>, <name type="divin">Geongereon</name>, <name
+                                    ><choice><sic>Alpharaijm</sic><corr resp="#NC">Alpharaym</corr></choice><!--<app>
+                                        <lem resp="#NC">Alpharaym</lem>
+                                        <rdg wit="#ADIV_5Fb_1">Alpharijm</rdg>--></name>, <name type="divin">Geongereon</name>, <name
                                     type="divin">Armon</name>, <name type="divin"
                                 >Gænerion</name>.</p>
                         </div>
@@ -171,10 +173,14 @@
                                 fluminum, et super mutationem corporalem omnium rerum de loco ad
                                 locum et super omne id quod mouet. Motum localem impediunt et
                                 expediunt prout principibus huius altitudinis placet. Nomina
-                                principum huius altitudinis sunt <name type="divin">Yachanay</name>,
+                                principum huius altitudinis sunt <name type="divin"><choice><sic>Ijachanaij</sic><corr resp="#NC">Yachanay</corr></choice><!--<app>
+                                        <lem resp="#NC">Yachanay</lem>
+                                        <rdg wit="#ADIV_5Fb_1">Ijachanaij</rdg>--></name>,
                                     <name type="divin">Ziziel</name>, <name type="divin"
                                     >Prinuemator</name>
-                                <del>Priuemator</del>, <name type="divin">Yachanay</name>, <name
+                                <del>Priuemator</del>, <name type="divin"><choice><sic>Ijachanaij</sic><corr resp="#NC">Yachanay</corr></choice><!--<app>
+                                        <lem resp="#NC">Yachanay</lem>
+                                        <rdg wit="#ADIV_5Fb_1">Ijachanaij</rdg>--></name>, <name
                                     type="divin">Helem</name>, <name type="divin">Enthithoi</name>.
                             </p>
                         </div>
