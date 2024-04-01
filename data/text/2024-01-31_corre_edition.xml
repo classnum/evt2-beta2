@@ -45,12 +45,24 @@
                 </listWit>
                 <listPerson>
                     <head>Liste des noms</head>
-                      
+                       <person xml:id="#Abraham">
+                        <persName>
+                            <forename>Abraham</forename>
+                        </persName>
+                        <sex>M</sex>
+                        </person>
                      <person xml:id="#David">
                         <persName>
                             <forename>David</forename>
                         </persName>
                         <sex>M</sex>
+                        </person>
+                        <person xml:id="#Jacob">
+<persName>
+<forename>Jacob<forename> 
+<nickname>Israël</nickname>
+                         </persName>
+ <sex>M</sex>
                         </person>
                         <person xml:id="#Jésus">
                         <persName>
@@ -58,10 +70,9 @@
                         </persName>
                         <sex>M</sex>
                         </person>
-                         <person xml:id="#Israël">
+                         <person xml:id="#Moïse">
 <persName>
-<forename>Jacob<forename> 
-<nickname>Israël</nickname>
+<forename>Moïse<forename> 
                          </persName>
  <sex>M</sex>
                         </person>
@@ -98,7 +109,7 @@
                                 </app>-->. Liber est <name type="divin">Hynothéon</name> sapientissimi
                                     <persName ref="#Salomon">Salomonis</persName> regis, filii
                                     <persName ref="#David">Dauid</persName>
-                                <persName ref="#Israël">Israel</persName>, de <choice><sic>
+                                <persName ref="#Jacob">Israel</persName>, de <choice><sic>
                                 Caldes</sic>
                                     <corr resp="#NC">Chaldaeo</corr></choice>
                                  <!--<app>
@@ -960,16 +971,16 @@
                             </div>
                             <div n="3" type="section">
                                 <p> Finita suffumigatione, recitare debet psalmos patris nostri
-                                        <persName>Dauid</persName> scilicet 71 ; 142 ; 85 ; 45 ; 16
+                                        <persName ref=#"David">Dauid</persName> scilicet 71 ; 142 ; 85 ; 45 ; 16
                                     ; 5 ; 1 ; quibus finitis, dicere debet Deo orationem hanc
                                     genibus flexis in medio cubiculi.</p>
                             </div>
                         </div>
                         <div n="10" type="chapitre">
                             <div n="1" type="section">
-                                <p> Oratio. « Deus <persName>Abraham</persName>, Deus
-                                        <persName>Isaac</persName>, Deus <persName>Iacob</persName>,
-                                    Deus <persName>Moisi</persName>, Deus omnium in te sperantium,
+                                <p> Oratio. « Deus <persName ref=#"Abraham">Abraham</persName>, Deus
+                                        <persName ref=#"Isaac">Isaac</persName>, Deus <persName ref=#"Jacob">Iacob</persName>,
+                                    Deus <persName ref=#"Moïse">Moisi</persName>, Deus omnium in te sperantium,
                                     Deus meus et protector uitæ meæ, Domine, o Benignissime, Domine,
                                     rogo tuam diuinam maiestatem quantum rogare possum ut mihi
                                     famulo tuo n. (n. id est nomen <add place="in margine">id est
