@@ -260,9 +260,21 @@
                                 uidelicet musicam, logicam et moralem philosophiam. Nomina principum
                                 huius altitudinis sunt <name type="divin">Heros</name>, <name
                                     type="divin">Bissezeos</name>, <name type="divin">
-                                    Onayora</name>, <name type="divin">Echuel</name>, <name
-                                    type="divin">Oymali</name>, <name type="divin"> Sytain</name>,
-                                    <name type="divin">Ythos</name>, <name type="divin"
+                                    <choice><sic>Onaijora</sic><corr resp="#NC">Onayora</corr></choice><!--<app>
+                                    <lem resp="#NC">Onayora</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Onaijora</rdg>
+                                </app>--></name>, <name type="divin">Echuel</name>, <name
+                                    type="divin"><choice><sic>Oijmali</sic><corr resp="#NC">Oymali</corr></choice><!--<app>
+                                    <lem resp="#NC">Oymali</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Oijmali</rdg>
+                                </app>--></name>, <name type="divin"><choice><sic>Sijtain</sic><corr resp="#NC">Sytain</corr></choice><!--<app>
+                                    <lem resp="#NC">Sytain</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Sijtain</rdg>
+                                </app>--></name>,
+                                    <name type="divin"><choice><sic>Ijthos</sic><corr resp="#NC">Ythos</corr></choice><!--<app>
+                                    <lem resp="#NC">Ythos</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Ijthos</rdg>
+                                </app>--></name>, <name type="divin"
                                     >Alphareth</name>, <name type="divin"><choice><sic>Alaij</sic><corr resp="#NC">Alay</corr></choice><!--<app>
                                     <lem resp="#NC">Alay</lem>
                                     <rdg wit="#ADIV_5Fb_1">Alaij</rdg>
@@ -382,7 +394,9 @@
                                 </app>--></name>.</p>
                         </div>
                         <div n="3" type="section">
-                            <p> Secunda altitudo. Hæc appellatur <name type="divin">Nayn</name>, et
+                            <p> Secunda altitudo. Hæc appellatur <name type="divin"><choice><sic>Naijn</sic><corr resp="#NC">Nayn</corr></choice><!--<app>
+                                    <lem resp="#NC">Nayn</lem><rdg resp="#NC">Naijn</rdg>
+                                </app>--></name>, et
                                 principes qui morantur in ea potestatem habent super inimicos et
                                 amicos, super homines amatores et mulieres amatrices. Et potestatem
                                 habent et uirtutem ex officio faciendi illos et illas inimicari. Et
