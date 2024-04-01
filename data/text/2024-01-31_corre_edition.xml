@@ -263,7 +263,10 @@
                                     Onayora</name>, <name type="divin">Echuel</name>, <name
                                     type="divin">Oymali</name>, <name type="divin"> Sytain</name>,
                                     <name type="divin">Ythos</name>, <name type="divin"
-                                    >Alphareth</name>, <name type="divin">Alay </name>. </p>
+                                    >Alphareth</name>, <name type="divin"><choice><sic>Alaij</sic><corr resp="#NC">Alay</corr></choice><!--<app>
+                                    <lem resp="#NC">Alay</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Alaij</rdg>
+                                </app>--></name>. </p>
                         </div>
                         <div n="8" type="section">
                             <p> Septima altitudo. Hæc altitudo appellatur <name type="divin"
@@ -285,26 +288,42 @@
                                     <rdg wit="#ADIV_5Fb_1">exessent</rdg>
                                 </app>--> mortem et uitam super creaturas et ex dignitate infundere
                                 habent geomantiam, theologiam et magiam. Nomina principum huius
-                                altitudinis sunt <name type="divin"> Amayn</name>, <name
-                                    type="divin">Amas</name>, <name type="divin">Anay</name>, <name
+                                altitudinis sunt <name type="divin"><choice><sic>Amaijn</sic><corr resp="#NC">Amayn</corr></choice><!--<app>
+                                    <lem resp="#NC">Amayn</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Amaijn</rdg>
+                                </app>--></name>, <name
+                                    type="divin">Amas</name>, <name type="divin"><choice><sic>Anaij</sic><corr resp="#NC">Anay</corr></choice><!--<app>
+                                    <lem resp="#NC">Anay</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Anaij</rdg>
+                                </app>--></name>, <name
                                     type="divin">Geomitio </name>, <name type="divin"
-                                    >Gebedonay</name>, <name type="divin">Pas</name>,<add
+                                    ><choice><sic>Gebedonaij</sic><corr resp="#NC">Gebedonay</corr></choice><!--<app>
+                                    <lem resp="#NC">Gebedonay</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Gebedonaij</rdg>
+                                </app>--></name>, <name type="divin">Pas</name>,<add
                                     place="supra linea">ne</add>
                                 <name type="divin">Sarama</name>, <name type="divin"
-                                    >Clyominth</name>. </p>
+                                    ><choice><sic>Clijominth</sic><corr resp="#NC">Clyominth</corr></choice><!--<app>
+                                    <lem resp="#NC">Clyominth</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Clijominth</rdg>
+                                </app>--></name>. </p>
                         </div>
                         <div n="9" type="section">
                             <p> Octaua altitudo. Hæc altitudo appellatur <name type="divin"
                                     >Sapheth</name> et principes qui morantur in ea habent
                                 potestatem et uirtutem infundendi <choice><sic>generationis</sic><corr resp="#NC">generationes</corr></choice><!--<app>
                                     <lem resp="#NC">generationes</lem><rdg resp="#NC">generationis</rdg>
-                                </app>--> elementorum ab animalibus et generationes concedere ad
+                                </app>-->elementorum ab animalibus et generationes concedere ad
                                 animalia et principes huius altitudinis iussu Dei ferunt homines de
                                 regione in regionem cursu uelocissimo et omni motui prædominium
                                 habent. Nomina principum huius altitudinis sunt <name type="divin"
                                     >Zajar</name>, <name type="divin">Zabin</name> , <name
-                                    type="divin">Zadanay</name>, <name type="divin">Arphel</name>,
-                                    <name type="divin">Alphanay</name>, <name type="divin"
+                                    type="divin"><choice><sic>Zadanaij</sic><corr resp="#NC">Zadanay</corr></choice><!--<app>
+                                    <lem resp="#NC">Zadanay</lem><rdg resp="#NC">Zadanaij</rdg>
+                                </app>--></name>, <name type="divin">Arphel</name>,
+                                    <name type="divin"><choice><sic>Alphanaij</sic><corr resp="#NC">Alphanay</corr></choice><!--<app>
+                                    <lem resp="#NC">Alphanay</lem><rdg resp="#NC">Alphanaij</rdg>
+                                </app>--></name>, <name type="divin"
                                     >Ladatin</name>. </p>
                         </div>
                         <div n="10" type="section">
@@ -313,10 +332,20 @@
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-4.jpg"/> et uirtutem dare pecunias hominibus et etiam illas auferre
                                 quomodo illis placet et ex officio faciunt homines pulcherrimos et
                                 etiam uirtutem habent infundendi omnes scientias. Nomina principum
-                                huius altitudinis sunt <name type="divin">Paymon</name>, <name
-                                    type="divin">Egy</name>, <name type="divin">Egysta</name>, <name
-                                    type="divin">Zayn </name>, <name type="divin">Zæthau</name>,
-                                    <name type="divin">Gratyn</name>. </p>
+                                huius altitudinis sunt <name type="divin"><choice><sic>Paijmon</sic><corr resp="#NC">Paymon</corr></choice><!--<app>
+                                    <lem resp="#NC">Paymon</lem><rdg resp="#NC">Paijmon</rdg>
+                                </app>--></name>, <name
+                                    type="divin"><choice><sic>Egij</sic><corr resp="#NC">Egy</corr></choice><!--<app>
+                                    <lem resp="#NC">Egy</lem><rdg resp="#NC">Egij</rdg>
+                                </app>--></name>, <name type="divin"><choice><sic>Egijsta</sic><corr resp="#NC">Egysta</corr></choice><!--<app>
+                                    <lem resp="#NC">Egysta</lem><rdg resp="#NC">Egijsta</rdg>
+                                </app>--></name>, <name
+                                    type="divin"><choice><sic>Zaijn</sic><corr resp="#NC">Zayn</corr></choice><!--<app>
+                                    <lem resp="#NC">Zayn</lem><rdg resp="#NC">Zaijn</rdg>
+                                </app>--></name>, <name type="divin">Zæthau</name>,
+                                    <name type="divin"><choice><sic>Gratijn</sic><corr resp="#NC">Gratyn</corr></choice><!--<app>
+                                    <lem resp="#NC">Gratyn</lem><rdg resp="#NC">Gratijn</rdg>
+                                </app>--></name>. </p>
                         </div>
                         <div n="11" type="section">
                             <p> Et est sciendum quod omnes hæ altitudines habent uirtutem suam die
@@ -344,9 +373,13 @@
                                 mali nisi ordinatione et permissu eorum. Et ex dono Dei possunt
                                 super homines. Nomina principum huius altitudinis sunt <name
                                     type="divin">Melach</name>, <name type="divin">Bedahoih</name>,
-                                    <name type="divin">Gylor</name>, <name type="divin"
+                                    <name type="divin"><choice><sic>Gijlor</sic><corr resp="#NC">Gylor</corr></choice><!--<app>
+                                    <lem resp="#NC">Gylor</lem><rdg resp="#NC">Gijlor</rdg>
+                                </app>--></name>, <name type="divin"
                                     >Vauhael</name>, <name type="divin">Fumabel</name>, <name
-                                    type="divin">Aryl</name>.</p>
+                                    type="divin"><choice><sic>Arijl</sic><corr resp="#NC">Aryl</corr></choice><!--<app>
+                                    <lem resp="#NC">Aryl</lem><rdg resp="#NC">Arijl</rdg>
+                                </app>--></name>.</p>
                         </div>
                         <div n="3" type="section">
                             <p> Secunda altitudo. Hæc appellatur <name type="divin">Nayn</name>, et
@@ -361,7 +394,9 @@
                                 <del>pusilanimos></del>, uictoriosos et non. Nomina principum huius
                                 altitudinis sunt <pb n="page_5"
                                 facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-5.jpg"/><name type="divin">Briel</name>, <name type="divin"
-                                    >Malamacoy</name>, <name type="divin">Malachim</name>, <name
+                                    ><choice><sic>Malamacoij</sic><corr resp="#NC">Malamacoy</corr></choice><!--<app>
+                                    <lem resp="#NC">Malamacoy</lem><rdg resp="#NC">Malamacoij</rdg>
+                                </app>--></name>, <name type="divin">Malachim</name>, <name
                                     type="divin">Radasieh</name>, <name type="divin"
                                     >Baidahath</name>, <name type="divin">Odmachiel</name>.</p>
                         </div>
@@ -371,10 +406,14 @@
                                 omnes infirmitates et ex officio reddunt homines infirmos uel non.
                                 Dant somnum hominibus uel non, et faciunt hæc similia. Nomina
                                 principum huius altitudinis sunt <name type="divin">Selon</name>,
-                                    <name type="divin">Belfry</name>, <name type="divin"
+                                    <name type="divin"><choice><sic>Belfrij</sic><corr resp="#NC">Belfry</corr></choice><!--<app>
+                                    <lem resp="#NC">Belfry</lem><rdg resp="#NC">Belfrij</rdg>
+                                </app>--></name>, <name type="divin"
                                 >Ahey</name>, <name type="divin">Verechiel</name>, <name
                                     type="divin">Pactohabret</name>
-                                <del>Pactohahet</del>, <name type="divin">Machdeynchi</name>, <name
+                                <del>Pactohahet</del>, <name type="divin"><choice><sic>Machdeijnchi</sic><corr resp="#NC">Machdeynchi</corr></choice><!--<app>
+                                    <lem resp="#NC">Machdeynchi</lem><rdg resp="#NC">Machdeijnchi</rdg>
+                                </app>--></name>, <name
                                     type="divin">Nobemarach</name>
                                 <del>Noberiarach</del>. </p>
                         </div>
@@ -388,9 +427,17 @@
                                     <rdg wit="#ADIV_5Fb_1">uirtutem</rdg>
                                 </app>--> omnium herbarum. Nomina principum huius altitudinis sunt
                                     <name type="divin">Galfu</name>, <name type="divin"
-                                    >Melchiel</name>, <name type="divin">Clbeday</name>, <name
-                                    type="divin">Lauyson</name>, <name type="divin">Ratyeh</name>,
-                                    <name type="divin">Alyabith</name>. </p>
+                                    >Melchiel</name>, <name type="divin"><choice><sic>Clbedaij</sic><corr resp="#NC">Clbeday</corr></choice><!--<app>
+                                    <lem resp="#NC">Clbeday</lem><rdg resp="#NC">Clbedaij</rdg>
+                                </app>--></name>, <name
+                                    type="divin"><choice><sic>Lauijson</sic><corr resp="#NC">Lauyson</corr></choice><!--<app>
+                                    <lem resp="#NC">Lauyson</lem><rdg resp="#NC">Lauijson</rdg>
+                                </app>--></name>, <name type="divin"><choice><sic>Ratijeh</sic><corr resp="#NC">Ratyeh</corr></choice><!--<app>
+                                    <lem resp="#NC">Ratyeh</lem><rdg resp="#NC">Ratijeh</rdg>
+                                </app>--></name>,
+                                    <name type="divin"><choice><sic>Alijabith</sic><corr resp="#NC">Alyabith</corr></choice><!--<app>
+                                    <lem resp="#NC">Alyabith</lem><rdg resp="#NC">Alijabith</rdg>
+                                </app>--></name>. </p>
                         </div>
                         <div n="6" type="section">
                             <p> Quinta altitudo. Hæc uocatur <name type="divin">Giephatin</name>, et
@@ -398,11 +445,17 @@
                                 artus super homines et intellectus illustrare uel non, faciunt
                                 homines sapientes et non, et ex officio faciunt homines uictores in
                                 ludo, uel non, sicut illis uidetur. Nomina principum huius
-                                altitudinis sunt Osthos, <name type="divin">Layngyron</name>, <name
+                                altitudinis sunt Osthos, <name type="divin"><choice><sic>Laijngijron</sic><corr resp="#NC">Layngyron</corr></choice><!--<app>
+                                    <lem resp="#NC">Layngyron</lem><rdg resp="#NC">Laijngijron</rdg>
+                                </app>--></name>, <name
                                     type="divin">Pessino</name>, <name type="divin">Fas</name>,
-                                    <name type="divin">Han</name>, <name type="divin">Syachy</name>,
+                                    <name type="divin">Han</name>, <name type="divin"><choice><sic>Sijachij</sic><corr resp="#NC">Syachy</corr></choice><!--<app>
+                                    <lem resp="#NC">Syachy</lem><rdg resp="#NC">Sijachij</rdg>
+                                </app>--></name>,
                                     <name type="divin">Zamnathor</name>, <name type="divin"
-                                    >Camyn</name>. </p>
+                                    ><choice><sic>Camijn</sic><corr resp="#NC">Camyn</corr></choice><!--<app>
+                                    <lem resp="#NC">Camyn</lem><rdg resp="#NC">Camijn</rdg>
+                                </app>--></name>. </p>
                         </div>
                         <div n="7" type="section">
                             <p> Sexta altitudo. Hæc uocatur
@@ -415,9 +468,18 @@
                                     <lem resp="#NC">illa</lem>
                                     <rdg wit="#ADIV_5Fb_1">illas</rdg>
                                 </app>--> uel non, ut illis uidetur. Nomina principum huius altitudinis
-                                sunt <name type="divin">Bachay</name>, <name type="divin"
+                                sunt <name type="divin"><choice><sic>Bachaij</sic><corr resp="#NC">Bachay</corr></choice><!--<app>
+                                    <lem resp="#NC">Bachay</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Bachaij</rdg>
+                                </app>--></name>, <name type="divin"
                                 >Son</name>, <name type="divin"> Balchochanth</name>, <name
-                                    type="divin">Anay</name>, <name type="divin">Anyal</name>, <name
+                                    type="divin"><choice><sic>Anaij</sic><corr resp="#NC">Anay</corr></choice><!--<app>
+                                    <lem resp="#NC">Anay</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Anay</rdg>
+                                </app>--></name>, <name type="divin"><choice><sic>Anijal</sic><corr resp="#NC">Anyal</corr></choice><!--<app>
+                                    <lem resp="#NC">Anyal</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Anyal</rdg>
+                                </app>--></name>, <name
                                     type="divin"> Salmet</name>, <name type="divin"
                                 >Chamael</name>.</p>
                         </div>
@@ -433,7 +495,10 @@
                                     type="divin">Maxuel</name>, <name type="divin">Arahath</name>,
                                     <name type="divin">Sarohoth</name>, <name type="divin"
                                     >Maguth</name>, <name type="divin">Mehestrach</name>, <name
-                                    type="divin">Dyebuzon</name>.</p>
+                                    type="divin"><choice><sic>Dijebuzon</sic><corr resp="#NC">Dyebuzon</corr></choice><!--<app>
+                                    <lem resp="#NC">Dyebuzon</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Dijebuzon</rdg>
+                                </app>--></name>.</p>
                         </div>
                         <div n="9" type="section">
                             <p> Et est sciendum quod omnes hæ altitudines
@@ -473,7 +538,10 @@
                                 et claudare ut illis uidetur. Nomina principum huius altitudinis
                                 sunt <name type="divin">Agariel</name>, <name type="divin"
                                     >Animirnaornus</name>
-                                <del>Anirmirnaornus</del>, <name type="divin">Byleth</name>, <name
+                                <del>Anirmirnaornus</del>, <name type="divin"><choice><sic>Bijleth</sic><corr resp="#NC">Byleth</corr></choice><!--<app>
+                                        <lem resp="#NC">Byleth</lem>
+                                        <rdg wit="#ADIV_5Fb_1">Bijleth</rdg>
+                                    </app>--></name>, <name
                                     type="divin">Sathouiel</name>, <name type="divin"
                                     >Mahardahel</name>.</p>
                         </div>
@@ -554,7 +622,9 @@
                                 huius altitudinis sunt <name type="divin">Lohod</name>, <name
                                     type="divin">Hadid</name>, <name type="divin">Pereon</name>,
                                     <name type="divin">Chelchezub</name>, <name type="divin"
-                                    >Belysuth</name>, <name type="divin">Phetuar</name>, <name
+                                    ><choice><sic>Belijsuth</sic><corr resp="#NC">Belysuth</corr></choice><!--<app>
+                                    <lem resp="#NC">Belysuth</lem><rdg resp="#NC">Belijsuth</rdg>
+                                </app>--></name>, <name type="divin">Phetuar</name>, <name
                                     type="divin">Gadghahor</name>.</p>
                             <div n="2" type="section">
                                 <p> Secunda altitudo. Hæc altitudo uocatur <name type="divin"
