@@ -45,37 +45,37 @@
                 </listWit>
                 <listPerson>
                     <head>Liste des noms</head>
-                       <person xml:id="#Abraham">
+                       <person xml:id="Abraham">
                         <persName>
                             <forename>Abraham</forename>
                         </persName>
                         <sex>M</sex>
                         </person>
-                     <person xml:id="#David">
+                     <person xml:id="David">
                         <persName>
                             <forename>David</forename>
                         </persName>
                         <sex>M</sex>
                         </person>
-                        <person xml:id="#Jacob">
+                        <person xml:id="Jacob">
  <persName>
  <forename>Jacob</forename>
                         </persName>
                         <sex>M</sex>
                         </person>
-                        <person xml:id="#Jésus">
+                        <person xml:id="Jésus">
                         <persName>
                             <forename>Jésus</forename>
                         </persName>
                         <sex>M</sex>
                         </person>
-                         <person xml:id="#Moïse">
+                         <person xml:id="Moïse">
 <persName>
 <forename>Moïse</forename> 
                          </persName>
  <sex>M</sex>
                         </person>
-                    <person xml:id="#Salomon">
+                    <person xml:id="Salomon">
                         <persName>
                             <forename>Salomon</forename>
                         </persName>
