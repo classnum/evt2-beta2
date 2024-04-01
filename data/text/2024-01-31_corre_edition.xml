@@ -105,7 +105,10 @@
                                 <!--<app>
                                     <lem resp="#NC">Christi</lem>
                                     <rdg wit="#ADIV_5Fb_1">Chisti</rdg>
-                                </app>-->. Liber est <name type="divin">Hynothéon</name><note n="1" place="bottom">Ce nom « divin » est vraisemblablement d’origine grecque et pourrait être traduit par « une seule divinité (Henotheon) ». Dans le manuscrit R, il se retrouve aussi sous la forme Hynoytheon, pour être cette fois gravé sur l’autel, le « Saint Hælaon »</note>  sapientissimi
+                                </app>-->. Liber est <name type="divin"><choice><sic>Hijnothéon</sic><corr resp="#NC">Hynothéon</corr></choice><!--<app>
+                                    <lem resp="#NC">Hynothéon</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Hijnothéon</rdg>
+                                </app>--> </name><note n="1" place="bottom">Ce nom « divin » est vraisemblablement d’origine grecque et pourrait être traduit par « une seule divinité (Henotheon) ». Dans le manuscrit R, il se retrouve aussi sous la forme Hynoytheon, pour être cette fois gravé sur l’autel, le « Saint Hælaon »</note>  sapientissimi
                                     <persName ref="#Salomon">Salomonis</persName><note n="2" place="bottom">Un grand nombre de traités de magie sont attribués depuis l’Antiquité au fils de David, considéré par la tradition judéo-chrétienne et musulmane comme un exorciste et un magicien tout-puissant</note>  regis, filii
                                     <persName ref="#David">Dauid</persName>
                                 <persName ref="#Jacob">Israel</persName>, de <choice><sic>
@@ -130,7 +133,10 @@
                         </div>
                         <div n="2" type="section">
                             <p> Prima altitudo orientis. Altitudo prima uocatur <name type="divin"
-                                    >Cynos</name>, et principes huius altitudinis uocantur <name
+                                    >Cynos<choice><sic>Cijnos</sic><corr resp="#NC">Cynos</corr></choice><!--<app>
+                                    <lem resp="#NC">Cynos</lem>
+                                    <rdg wit="#ADIV_5Fb_1">Cijnos</rdg>
+                                </app>--></name>, et principes huius altitudinis uocantur <name
                                     type="divin">Hrauel</name>, <name type="divin">Gabriel</name>,
                                     <name type="divin">Barachiel</name>, <name type="divin"
                                     >Libes</name>, <name type="divin">Heliram</name>, et hæc
