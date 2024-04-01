@@ -58,11 +58,10 @@
                         <sex>M</sex>
                         </person>
                         <person xml:id="#Jacob">
-<persName>
-<forename>Jacob<forename> 
-<nickname>Israël</nickname>
-                         </persName>
- <sex>M</sex>
+ <persName>
+ <forename>Jacob</forename>
+                        </persName>
+                        <sex>M</sex>
                         </person>
                         <person xml:id="#Jésus">
                         <persName>
@@ -72,7 +71,7 @@
                         </person>
                          <person xml:id="#Moïse">
 <persName>
-<forename>Moïse<forename> 
+<forename>Moïse</forename> 
                          </persName>
  <sex>M</sex>
                         </person>
@@ -98,7 +97,7 @@
                         <pb n="page_1"
                             facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-1.jpg"/>
                         <div n="1" type="section">
-                            <p> In nomine domini <name ref="#Iesus">Iesus</name>
+                            <p> In nomine domini <persName ref="#Jésus">Iesus</persName>
                                 <choice>
                                     <sic>Chisti</sic>
                                     <corr resp="#NC">Christi</corr>
@@ -971,16 +970,16 @@
                             </div>
                             <div n="3" type="section">
                                 <p> Finita suffumigatione, recitare debet psalmos patris nostri
-                                        <persName ref=#"David">Dauid</persName> scilicet 71 ; 142 ; 85 ; 45 ; 16
+                                        <persName ref="#David">Dauid</persName> scilicet 71 ; 142 ; 85 ; 45 ; 16
                                     ; 5 ; 1 ; quibus finitis, dicere debet Deo orationem hanc
                                     genibus flexis in medio cubiculi.</p>
                             </div>
                         </div>
                         <div n="10" type="chapitre">
                             <div n="1" type="section">
-                                <p> Oratio. « Deus <persName ref=#"Abraham">Abraham</persName>, Deus
-                                        <persName ref=#"Isaac">Isaac</persName>, Deus <persName ref=#"Jacob">Iacob</persName>,
-                                    Deus <persName ref=#"Moïse">Moisi</persName>, Deus omnium in te sperantium,
+                                <p> Oratio. « Deus <persName ref="#Abraham">Abraham</persName>, Deus
+                                        <persName ref="#Isaac">Isaac</persName>, Deus <persName ref="#Jacob">Iacob</persName>,
+                                    Deus <persName ref="#Moïse">Moisi</persName>, Deus omnium in te sperantium,
                                     Deus meus et protector uitæ meæ, Domine, o Benignissime, Domine,
                                     rogo tuam diuinam maiestatem quantum rogare possum ut mihi
                                     famulo tuo n. (n. id est nomen <add place="in margine">id est
