@@ -423,7 +423,9 @@
                                     <name type="divin"><choice><sic>Belfrij</sic><corr resp="#NC">Belfry</corr></choice><!--<app>
                                     <lem resp="#NC">Belfry</lem><rdg resp="#NC">Belfrij</rdg>
                                 </app>--></name>, <name type="divin"
-                                >Ahey</name>, <name type="divin">Verechiel</name>, <name
+                                ><choice><sic>Aheij</sic><corr resp="#NC">Ahey</corr></choice><!--<app>
+                                    <lem resp="#NC">Ahey</lem><rdg resp="#NC">Aheij</rdg>
+                                </app>--></name>, <name type="divin">Verechiel</name>, <name
                                     type="divin">Pactohabret</name>
                                 <del>Pactohahet</del>, <name type="divin"><choice><sic>Machdeijnchi</sic><corr resp="#NC">Machdeynchi</corr></choice><!--<app>
                                     <lem resp="#NC">Machdeynchi</lem><rdg resp="#NC">Machdeijnchi</rdg>
