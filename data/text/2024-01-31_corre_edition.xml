@@ -45,17 +45,25 @@
                 </listWit>
                 <listPerson>
                     <head>Liste des noms</head>
-                      <person xml:id="Iesus">
+                      
+                     <person xml:id="David">
                         <persName>
-                            <forename>Iesus</forename>
+                            <forename>David</forename>
                         </persName>
                         <sex>M</sex>
                         </person>
-                     <person xml:id="Dauid">
+                        <person xml:id="Jésus">
                         <persName>
-                            <forename>Dauid</forename>
+                            <forename>Jésus</forename>
                         </persName>
                         <sex>M</sex>
+                        </person>
+                         <person xml:id="#Israël">
+<persName>
+<forename>Jacob<forename> 
+<nickname>Israël</nickname>
+                         </persName>
+ <sex>M</sex>
                         </person>
                     <person xml:id="Salomon">
                         <persName>
@@ -89,8 +97,8 @@
                                     <rdg wit="#ADIV_5Fb_1">Chisti</rdg>
                                 </app>-->. Liber est <name type="divin">Hynothéon</name> sapientissimi
                                     <persName ref="#Salomon">Salomonis</persName> regis, filii
-                                    <persName ref="#Dauid">Dauid</persName>
-                                <persName ref="#Israël">Israël</persName>, de <choice><sic>
+                                    <persName ref="#David">Dauid</persName>
+                                <persName ref="#Israël">Israel</persName>, de <choice><sic>
                                 Caldes</sic>
                                     <corr resp="#NC">Chaldaeo</corr></choice>
                                  <!--<app>
