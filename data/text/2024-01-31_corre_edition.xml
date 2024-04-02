@@ -99,13 +99,8 @@
                         <div n="1" type="section">
                             <p> In nomine domini <persName ref="#Jésus">Iesus</persName>
                                 <choice>
-                                    <sic>Chisti</sic>
-                                    <corr resp="#NC">Christi</corr>
-                                </choice>
-                                <!--<app>
-                                    <lem resp="#NC">Christi</lem>
-                                    <rdg wit="#ADIV_5Fb_1">Chisti</rdg>
-                                </app>-->. Liber est <name
+                                    <sic>Chisti</sic><corr resp="#NC">Christi</corr></choice><!--<app><lem resp="#NC">Christi</lem><rdg wit="#ADIV_5Fb_1">Chisti</rdg></app>-->.
+                                     Liber est <name
                                     type="divin"><choice>
                                         <sic>Hijnothéon</sic>
                                         <corr resp="#NC">Hynothéon</corr>
