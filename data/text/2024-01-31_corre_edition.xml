@@ -943,13 +943,13 @@
                                     <lem resp="#NC">Sohamuhahyz</lem><rdg resp="#NC">Sohamuhahijz</rdg>
                                 </app>--></name>,
                                         <name type="divin"><choice>
-                                            <sic>Mothocijhohan</sic>
-                                            <corr resp="#NC">Mothocyhohan</corr>
+                                            <sic>Mothosijhohan</sic>
+                                            <corr resp="#NC">Mothosyhohan</corr>
                                         </choice><!--<app>
                                             <lem resp="#NC">Mothocyhohan</lem>
                                             <rdg wit="#ADIV_5Fb_1">Mothocijhohan</rdg>
                                         </app>--></name>
-                                    Motholijhohan , <name type="divin">Zachohohur</name>, <name
+                                    <del>Motholijhohan</del>, <name type="divin">Zachohohur</name>, <name
                                         type="divin">Neher</name>, <name type="divin">Dahaol</name>
                                     <del>Dahaal</del>, <name type="divin">Bochur</name>.</p>
                             </div>
