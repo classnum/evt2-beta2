@@ -601,7 +601,7 @@
                                     <lem resp="#NC">pusillanimos</lem>
                                     <rdg wit="#ADIV_5Fb_1">pussilanimos</rdg>
                                 </app>-->
-                                <del>pusilanimos></del>, uictoriosos et non. Nomina principum huius
+                                <del>pusilanimos</del>, uictoriosos et non. Nomina principum huius
                                 altitudinis sunt <pb n="page_5"
                                     facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-5.jpg"
                                     /><name type="divin">Briel</name>, <name type="divin"><choice>
@@ -1027,10 +1027,13 @@
                                     </choice><!--<app>
                                         <lem resp="#NC">argenteo</lem>
                                         <rdg wit="#ADIV_5Fb_1">argento</rdg>
-                                    </app>--> nouo ad hoc
+                                    </app>-->nouo ad hoc
                                     fabricato ; et nomina Dei <del>diuini</del> uiui scripti debent
                                     die operationis. In primo foramine, scribatur <name type="divin"
-                                        > Adonay</name>, <name type="divin">Helyon</name>, <name
+                                        ><choice><sic>Adonaij</sic><corr resp="#NC">Adonay</corr></choice><!--<app>
+                                        <lem resp="#NC">Adonay</lem>
+                                        <rdg wit="#ADIV_5Fb_1">Adonaij</rdg>
+                                    </app>--></name>, <name type="divin"><choice><sic>Helijon</sic><corr resp="#NC">Helijon</corr></choice><!--<app><lem resp="#NC">Helyon</lem><rdg wit="#ADIV_5Fb_1">Helijon</rdg></app>-->n</name>, <name
                                         type="divin">Pius</name>. In secundo, <name type="divin"><choice>
                                             <sic>Hhælijm</sic>
                                             <corr resp="#NC">Hhælym</corr>
@@ -1044,12 +1047,27 @@
                                         </choice><!--<app>
                                             <lem resp="#NC">Steloy</lem><rdg wit="#ADIV_5Fb_1">Steloij</rdg>
                                         </app>--></name><del>Stheloij</del>,
-                                        <name type="divin">Stely</name>. In tertio, <name
+                                        <name type="divin"><choice>
+                                            <sic>Stelij</sic>
+                                            <corr resp="#NC">Stely</corr>
+                                        </choice><!--<app>
+                                            <lem resp="#NC">Stely</lem><rdg wit="#ADIV_5Fb_1">Stelij</rdg>
+                                        </app>--></name>. In tertio, <name
                                         type="divin">Ioth</name>, <name type="divin">Beth</name>,
                                         <name type="divin">Agla</name>. In quarto, <name
                                         type="divin">Tethagramaton</name>
-                                    <del>Chethagramaton</del>, <name type="divin">Suday</name> et
-                                        <name type="divin">Ya</name>.</p>
+                                    <del>Chethagramaton</del>, <name type="divin"><choice>
+                                            <sic>Sudaij</sic>
+                                            <corr resp="#NC">Suday</corr>
+                                        </choice><!--<app>
+                                            <lem resp="#NC">Suday</lem><rdg wit="#ADIV_5Fb_1">Sudaij</rdg>
+                                        </app>--></name> et
+                                        <name type="divin"><choice>
+                                            <sic>Ija</sic>
+                                            <corr resp="#NC">Ya</corr>
+                                        </choice><!--<app>
+                                            <lem resp="#NC">Ya</lem><rdg wit="#ADIV_5Fb_1">Ija</rdg>
+                                        </app>--></name>.</p>
                             </div>
                             <div n="2" type="section">
                                 <p> Et est sciendum quod sanctum <name type="divin">Hælaon</name>
