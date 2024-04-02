@@ -125,3 +125,28 @@ body {
 /*.name {
     color: blue;
 }*/
+
+.diplomaticEdition .choice .sic {
+    color: red;
+}
+
+.interpretativeEdition .choice .corr {
+    color: blue;
+}
+
+.interpretativeEdition .del:before {
+    content: ""
+}
+
+.interpretativeEdition .del:after {
+    content: ""
+}
+
+.interpretativeEdition .del {
+    /* text-decoration: line-through; */
+    display: none;
+}
+
+.popover_tooltip {
+    text-align: left;
+}
