@@ -883,10 +883,7 @@
                                         <lem resp="#NC">Pyleth</lem>
                                         <rdg wit="#ADIV_5Fb_1">Pijleth</rdg>
                                     </app>--></name>, <name
-                                    type="divin"><choice>
-                                        <sic>Sacaij</sic>
-                                        <corr resp="#NC"/>
-                                    </choice><!--<app>
+                                    type="divin"><choice><sic>Sacaij</sic><corr resp="#NC">Sacay</corr></choice><!--<app>
                                         <lem resp="#NC">Sacay</lem>
                                         <rdg wit="#ADIV_5Fb_1">Sacaij</rdg>
                                     </app>--></name>.</p>
