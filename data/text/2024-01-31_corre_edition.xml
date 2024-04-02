@@ -118,9 +118,8 @@
                                     attribués depuis l’Antiquité au fils de David, considéré par la
                                     tradition judéo-chrétienne et musulmane comme un exorciste et un
                                     magicien tout-puissant</note> regis, filii <persName
-                                    ref="#David">Dauid</persName>
-                                <persName ref="#Jacob">Israel</persName>, de <choice>
-                                    <sic> Caldes</sic>
+                                    ref="#David">Dauid</persName><persName ref="#Jacob">Israel</persName>, de <choice>
+                                    <sic>Caldes</sic>
                                     <corr resp="#NC">Chaldaeo</corr>
                                 </choice>
                                 <!--<app>
@@ -248,10 +247,7 @@
                                     </app>--></name>, <name
                                     type="divin">Ziziel</name>, <name type="divin"
                                     >Prinuemator</name>
-                                <del>Priuemator</del>, <name type="divin"><choice>
-                                        <sic>Ijachanaij</sic>
-                                        <corr resp="#NC">Yachanay</corr>
-                                    </choice><!--<app>
+                                <del>Priuemator</del>, <name type="divin"><choice><sic>Ijachanaij</sic><corr resp="#NC">Yachanay</corr></choice><!--<app>
                                         <lem resp="#NC">Yachanay</lem>
                                         <rdg wit="#ADIV_5Fb_1">Ijachanaij</rdg>
                                     </app>--></name>, <name
@@ -356,7 +352,7 @@
                                 </app>--></name>, <name
                                     type="divin">Crahel</name>
                                 <del>Erahel</del>, <name type="divin">Monosim</name>, <name
-                                    type="divin">Aurache</name>, <name type="divin">Hanalay<choice>
+                                    type="divin">Aurache</name>, <name type="divin"><choice>
                                         <sic>Hanalaij</sic>
                                         <corr resp="#NC">Hanalay</corr>
                                     </choice><!--<app>
@@ -834,17 +830,13 @@
                                 exercitio, uel non, ita et taliter ut ipsi sonauerint quælibet
                                 genera instrumentorum, uel non, ut illis uidetur. Nomina principum
                                 huius altitudinis sunt <name type="divin">Gebal</name>, <name
-                                    type="divin">Lezioccil</name>, <name type="divin"
-                                    >Vahathicy</name>, <name type="divin"><choice>
-                                        <sic>Ijchenal</sic>
-                                        <corr resp="#NC">Ychehnal</corr>
-                                    </choice><!--<app>
-                                        <lem resp="#NC">Ychehnal</lem>
-                                        <rdg wit="#ADIV_5Fb_1">Ijchenal></rdg>
-                                    </app>-->
-                                </name>
+                                    type="divin">Lezioccil</name>, <name type="divin"><choice><sic>Vahathicij</sic><corr resp="#NC">Vahathicy</corr></choice><!--<app><lem resp="#NC">Vahathicy</lem><rdg wit="#ADIV_5Fb_1">Vahathicij</rdg></app>--></name>,
+                                        <name type="divin"><choice><sic>Ijchenal</sic><corr resp="#NC">Ychehnal</corr></choice><!--<app><lem resp="#NC">Ychehnal</lem><rdg wit="#ADIV_5Fb_1">Ijchenal</rdg></app>--></name>
                                 <del>Ijchehal</del>, <name type="divin">Batthoual</name>, <name
-                                    type="divin">Hyersehul</name>.</p>
+                                    type="divin"><choice><sic>Hijersehul</sic><corr resp="#NC">Hyersehul</corr></choice><!--<app>
+                                        <lem resp="#NC">Hyersehul</lem>
+                                        <rdg wit="#ADIV_5Fb_1">Hyersehul</rdg>
+                                    </app>--></name>.</p>
                         </div>
                         <div n="4" type="section">
                             <p> Quarta altitudo. Hæc uocatur <name type="divin">Saharnahoar</name>,
@@ -938,13 +930,18 @@
                                     type="divin">Phetuar</name>, <name type="divin"
                                 >Gadghahor</name>.</p>
                             <div n="2" type="section">
-                                <p> Secunda altitudo. Hæc altitudo uocatur <name type="divin"
-                                        >Mahasyoth</name>, et principes huius altitudinis habent
+                                <p> Secunda altitudo. Hæc altitudo uocatur <name type="divin"><choice><sic>Mahasijoth</sic><corr resp="#NC">Mahasyoth</corr></choice><!--<app>
+                                    <lem resp="#NC">Mahasyoth</lem><rdg resp="#NC">Mahasijoth</rdg>
+                                </app>--></name>, et principes huius altitudinis habent
                                     uirtutem et potentiam suam super omnes linguas et faciunt, ut
                                     homines loquantur omnes linguas uel non, et faciunt consumare
                                     homines et cuncta animantia et non, pro ut eis uidetur. Nomina
                                     principum huius altitudinis sunt <name type="divin"
-                                        >Hyshahabhel</name>, <name type="divin">Sohamuhahyz</name>,
+                                        ><choice><sic>Hijshahabhel</sic><corr resp="#NC">Hyshahabhel</corr></choice><!--<app>
+                                    <lem resp="#NC">Hyshahabhel</lem><rdg resp="#NC">Hijshahabhel</rdg>
+                                </app>--></name>, <name type="divin"><choice><sic>Sohamuhahijz</sic><corr resp="#NC">Sohamuhahyz</corr></choice><!--<app>
+                                    <lem resp="#NC">Sohamuhahyz</lem><rdg resp="#NC">Sohamuhahijz</rdg>
+                                </app>--></name>,
                                         <name type="divin"><choice>
                                             <sic>Mothocijhohan</sic>
                                             <corr resp="#NC">Mothocyhohan</corr>
