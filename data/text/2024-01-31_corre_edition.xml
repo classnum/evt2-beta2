@@ -1470,7 +1470,7 @@
                                         <rdg wit="#ADIV_5Fb_1">calamitæ</rdg>
                                     </app>-->. Secunda cum
                                     odoribus croci et camphoræ. Tertia cum odoribus thuris et
-                                    myrrhæ. Quarta cum odoribus <choice>
+                                    <choice><sic>mirrhe</sic><corr resp="#NC">myrrhæ</corr></choice>. Quarta cum odoribus <choice>
                                         <sic>bongici</sic>
                                         <corr resp="#NC">benzoini</corr>
                                     </choice><!--<app>
@@ -1816,21 +1816,21 @@
                         </div>
 
                         <div>
-                            <p>Figura tertia. <pb n="page_21"
+                            <p><pb n="page_21"
                                     facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-21.jpg"
-                                /> Sigillum primæ altitudinis orientalis Caractera principum</p>
+                                />Figura tertia.  Sigillum primæ altitudinis orientalis Caractera principum</p>
                         </div>
 
                         <div>
-                            <p>Figura quarta. <pb n="page_22"
+                            <p><pb n="page_22"
                                     facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-22.jpg"
-                                /> Sigillum secundæ altitudinis orientalis 2.</p>
+                                />Figura quarta.  Sigillum secundæ altitudinis orientalis 2.</p>
                         </div>
 
                         <div>
-                            <p>Figura quinta. <pb n="page_23"
+                            <p><pb n="page_23"
                                     facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-23.jpg"
-                                /> Sigillum tertiæ altitudinis</p>
+                                />Figura quinta.  Sigillum tertiæ altitudinis</p>
                         </div>
                         <div>
                             <p>
@@ -1909,9 +1909,21 @@
                                 <p> et omnia alia nomina nobis cognita quae sunt hæc uidelicet <name
                                         type="divin">On</name>, <name type="divin"> Caph</name>,
                                         <name type="divin">Adicarday</name>, <name type="divin"
-                                        >Cby</name>, <name type="divin">On </name>, <name
+                                        ><choice>
+                                        <sic>Cbij</sic>
+                                        <corr resp="#NC">Cby</corr>
+                                    </choice><!--<app>
+                                        <lem resp="#NC">Cby</lem>
+                                        <rdg wit="#ADIV_5Fb_1">Cbij</rdg>
+                                    </app>--></name>, <name type="divin">On </name>, <name
                                         type="divin">Abuinon</name>, <name type="divin"
-                                    >Ydios</name>, <pb n="page_26"
+                                    ><choice>
+                                        <sic>Ijdios</sic>
+                                        <corr resp="#NC">Ydios</corr>
+                                    </choice><!--<app>
+                                        <lem resp="#NC">Ydios</lem>
+                                        <rdg wit="#ADIV_5Fb_1">Ijdios</rdg>
+                                    </app>--></name>, <pb n="page_26"
                                         facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-26.jpg"/>
                                     <name type="divin">Thethagramaton</name>,<del>Hussio, Hel,
                                         Helij, Heloij, Heloa</del>
