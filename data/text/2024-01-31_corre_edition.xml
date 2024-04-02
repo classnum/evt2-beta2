@@ -2212,7 +2212,7 @@
                                 <p> Et in omnibus altitudinibus sunt scribenda nomina et nulla alia
                                     differentia est nisi color et ueste illa potest uti in omnibus
                                     operationibus, multa alia mihi erant dicenda sed quoniam cognoui
-                                    non esse necessaria, idcirco finem ponam Hynothitheo. </p>
+                                    non esse necessaria, idcirco finem ponam <name type="divin"><choice><sic>Hijnothitheo</sic><corr resp="#NC">Hynothitheo</corr></choice><!--<app><lem resp="#NC">Hynothitheo</lem><rdg wit="#ADIV_5Fb_1">Hijnothitheo</rdg></app>--></name>. </p>
                             </div>
                             <div n="5" type="section">
                                 <p> Et scias, o Artista, quod melior est liber hic quam thesaurum,
@@ -2227,9 +2227,9 @@
                         </div>
 
                         <div>
-                            <p>Figura sexta. <pb n="page_29"
+                            <p><pb n="page_29"
                                     facs="data/images/single/5Fb1PetitCahier-FAC-SIMILE_page-29.jpg"
-                                /> Forma uestis artistæ Ex alia parte <name type="divin"
+                                />Figura sexta. Forma uestis artistæ Ex alia parte <name type="divin"
                                     >ELIZBETH</name>
                                 <name type="divin">ABESSALOM</name>
                                 <name type="divin">AVORRA</name>
@@ -2314,7 +2314,8 @@
                         <div n="20" type="chapitre">
                             <div n="1" type="section">
                                 <p> Oratio. O <name type="divin">Adonay</name>, <name type="divin"
-                                        >Saday</name>,<name type="divin">Heloyn</name>, qui es <name
+                                        >Saday</name>,
+                                        <name type="divin"><choice><sic>Heloijn</sic><corr resp="#NC">Heloyn</corr></choice><!--<app><lem resp="#NC">Heloyn</lem><rdg wit="#ADIV_5Fb_1">Heloijn</rdg></app>--></name>, qui es <name
                                         type="divin">A et ω</name>, hoc est principium et finis
                                     absque principio et fine, in quo uiuens homo cognoscit, Rex <choice>
                                         <sic>sum</sic>
