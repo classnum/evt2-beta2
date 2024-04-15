@@ -882,6 +882,7 @@
                                     <lem resp="#NC">Belysuth</lem><rdg resp="#NC">Belijsuth</rdg>
                                 </app>--></name>, <name type="divin"
                             >Phetuar</name>, <name type="divin">Gadghahor</name>.</p>
+                </div>
                     <div n="2" type="section">
                         <p> Secunda altitudo. Hæc altitudo uocatur <name type="divin"><choice>
                                     <sic>Mahasijoth</sic>
@@ -2575,7 +2576,6 @@
                         <name type="divin">ADONA</name>
                     </p>
                 </div>
-            </div>
         </body>
     </text>
 </TEI>
