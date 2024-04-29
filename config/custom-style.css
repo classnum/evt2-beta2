@@ -112,14 +112,41 @@ body {
     text-align: justify;
 }
 
-.name {
-    color: blue;
-}
-
 .p {
     font-size: 1em;
 }
 
 .head {
     font-size: 2em;
+}
+
+
+/*This was included for test purposes only*/
+/*.name {
+    color: blue;
+}*/
+
+.diplomaticEdition .choice .sic {
+    color: red;
+}
+
+.interpretativeEdition .choice .corr {
+    color: blue;
+}
+
+.interpretativeEdition .del:before {
+    content: ""
+}
+
+.interpretativeEdition .del:after {
+    content: ""
+}
+
+.interpretativeEdition .del {
+    /* text-decoration: line-through; */
+    display: none;
+}
+
+.popover_tooltip {
+    text-align: left;
 }

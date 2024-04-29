@@ -14,19 +14,19 @@
     "visCollImageList": "",
     "visCollDataModel": "",
 
-    "defaultViewMode": "imgTxt",
+    "defaultViewMode": "readingTxt",
     "availableViewModes": [
         {
             "label": "READING_TEXT",
             "icon": "reading-txt",
             "viewMode": "readingTxt",
-            "visible": false
+            "visible": true
         },
         {
             "label": "MULTIPLE_RECENSIONS",
             "icon": "mode-versions",
             "viewMode": "versions",
-            "visible": false
+            "visible": true
         },
         {
             "label": "IMAGE_TEXT",
@@ -38,19 +38,19 @@
             "label": "TEXT_TEXT",
             "icon": "mode-txtTxt",
             "viewMode": "txtTxt",
-            "visible": true
+            "visible": false
         },
         {
             "label": "COLLATION",
             "icon": "mode-collation",
             "viewMode": "collation",
-            "visible": false
+            "visible": true
         },
         {
             "label": "SOURCE_TEXT",
             "icon": "mode-srcTxt",
             "viewMode": "srcTxt",
-            "visible": false
+            "visible": true
         },
         {
             "label"    : "3DHOP",
@@ -60,38 +60,38 @@
         }
     ],
 
-    "defaultEdition": "interpretative",
+    "defaultEdition": "critical",
     "showEditionLevelSelector": true,
     "availableEditionLevel": [
         {
             "value": "critical",
             "label": "Critical",
             "title": "Critical edition",
-            "visible": false
+            "visible": true
         },
         {
             "value": "diplomatic",
             "label": "Diplomatic",
             "title": "Diplomatic edition",
-            "visible": true
+            "visible": false
         },
         {
             "value": "interpretative",
             "label": "Interpretative",
             "title": "Interpretative edition",
-            "visible": true
+            "visible": false
         }
     ],
-    "showDocumentSelector": true,
+    "showDocumentSelector": false,
     "enableNavBar": true,
     "initNavBarOpened": true,
     "thumbnailsButton": true,
     "viscollButton": false,
 
-    "toolPinAppEntries": false,
-    "toolImageTextLinking": false,
+    "toolPinAppEntries": true,
+    "toolImageTextLinking": true,
 
-    "namedEntitiesSelector": true,
+    "namedEntitiesSelector": false,
     "namedEntitiesToHandle": [
         {
             "tagName": "persName",
@@ -101,21 +101,15 @@
         {
             "tagName": "placeName",
             "label": "Places",
-            "available": false
+            "available": true
         },
         {
             "tagName": "orgName",
             "label": "Organizations",
-            "available": false
+            "available": true
         }
     ],
     "otherEntitiesToHandle": [
-        {
-            "tagName": "name",
-            "label": "Noms divins",
-            "available": true,
-            "color": "yellow"
-        },
         {
             "tagName": "rolename",
             "label": "Role Name",
@@ -164,9 +158,9 @@
     "showInlineCriticalApparatus": false,
     "showInlineSources": false,
     "showInlineAnalogues": false,
-    "showReadingExponent": false,
+    "showReadingExponent": true,
 
-    "toolHeatMap": true,
+    "toolHeatMap": false,
 
     "versions": [
         "rec2",

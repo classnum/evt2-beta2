@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="normal">Steganographie</title>
+                <title type="source">Manuscrit Amsterdam, BPH 277</title>
+                <title type="medium">transcription électronique</title>
+                <author>inconnu</author>
+                <respStmt>
+                    <resp>Transcription du manuscrit, encodage XML</resp>
+                    <name type="person" xml:id="NC">Nicolas Corre</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Pays Bas</country>
+                        <settlement>Amsterdam</settlement>
+                        <repository>BPH</repository>
+                        <idno>BPH 277</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>papier</support>
+                                <extent>
+                                    <dimensions unit="mm">
+                                        <height></height>
+                                        <width></width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="transcription" xml:lang="french">
+                <head>Steganographie</head>
+                <div>
+
+                    <div n="1" type="chapitre">
+<p>Outre ce que dessus, faut sçavoir que Dieu le Tout-puissant a choizi parmi les Sts Anges 12 des Principaux qu’il a distribué 
+aux 4 Parties du monde, sçavoir trois à l’orient, 3 au midi, 3 au couchant, et 3 au septentrion, et ces 12 Intelligences 
+compozent douze Ordres auxquels Dieu à donné diverses puissances.</p></div>
+<div n="2" type="chapitre"><p>Premier Ordre
+(in margine : <name type="divin">Chaor</name> à son opération le Dimanche). L’Intelligence, où Prince du Premier Ordre en la partie de l’orient 
+est nommé <name type="divin">Chaor</name> qui à son opération et sa puissance le jour du Soleil qui est le dimanche, c’est par lui que sont dispozés 
+les commancement de la naissance des enfans à bonne ou mauvaize fin, il est le Prince de la Porte Céleste de côté de l’orient,
+ c’est lui qui distribue comme il lui plaît sa gratuité à tous les êtres naissans et par la puissance duquel sont liez ou lâchés 
+ les fécondités des créatures, comme par exemple à une femme la dispozition de concevoir, de même qu’aux arbres de porter fruit,
+  où de n’en point porter. 
+(in margine : Nota). Il faut que votre demande soit écrite sur du parchemin vierge préparé suivant l’Art, prenant garde 
+de ne pas demander aucune choze qui n’appartienne pas à ce Prince de cet ordre ni à son office, mais invoquans les noms 
+d’icelui  qui sont <name type="divin">Arivel</name>, <name type="divin">Gabriel</name>, <name type="divin">Carachiel</name>, <name type="divin">Hybel</name>, 
+<name type="divin">Heliza</name>, dizant l’invocation :
+« J’adore le St nom de Dieu adorable à toute Eternité, par lequel vous ô céleste puissances et vertus Angélique venez 
+et obéïssez à nôtre créateur . Je vous adjure, je vous suplie et vous demande par le Dieu saint, par le vrai Dieu et 
+par le Dieu vivant de toutes les créatures tant vizibles qu’invizibles, par son St et Sacré nom exprimé par ces 4 lettres 
+<name type="divin">Joth</name>, <name type="divin">Beth</name>, <name type="divin">Agla</name>, <name type="divin">Enaym</name>, 
+qu’il vous plaize de m’accorder la demande que je vous fais, et qui est de vôtre office d’accomplir, 
+c’est ce dont je vous suplie, ô Anges Saint bien-aimez de Dieu par lui Elus et Préordonné, soyez prézant et accomplissez ma Demande.
+ Ainsi soit-il.</p></div> 
+<div n="3" type="chapitre"><p>L’APPARITION DE L’ANGE
+Alors l’Ange apparaitra portant à sa main un étendars avec une croix, vêtus d’une chappe plus blanche et luizante qu’une étoile,
+ ayant la forme d’un très bel enfant, ayant sur sa tête des fleurs de rozes en forme de couronne, et tel que son étoile est blanche 
+ et brillante de fleurs, et cette apparition sera en l’air. 
+Il faut ici observer sur la remarque ci-devant à l’égard du parchemin vierge, s’entend aussi sur tout ce qui en dépend, 
+comme la plume, l’ancre, et tout ce qui dépend de l’Art, ce qui est indiqué ci-devant en nos clavicules, et H(enri) C(orneille) Agr(ippa)</p></div>
+
+<div n="3" type="chapitre"><p>
+Second Ordre à l’Orient
+Ce second ordre est nommé <name type="divin">Corona</name>, et les Princes de cet ordre ont pouvoir sur toutes acquizitions de biens, 
+le principe commance par eux et le chef de cet ordre à le pouvoir de distribuer ses biens comme il lui plaît,
+ de les transférer en d’autres mains, de donner aux hommes comme il jugera à propos, de faire venir les revenus etc. 
+Il faut sçavoir que cet ordre à son opération le jour du Soleil qui est le Dimanche et la manière d’opérer est semblable à la précédente,
+ il faut bien se garder de demander quoique ce soit qui ne soit pas de l’office de cet ordre de vous l’accorder et qui soit 
+ contre la volonté de Dieu, et qui pourait lui déplaire, exepté seulement ce que Dieu accorde aux homme selon le cours de la nature. 
+Observez qu’en cette opération, il faut appeller le nom de cet ordre et le nom des Princes qui sont en icelui qui sont ainsi,
+ <name type="divin">Alpharam</name>, <name type="divin">Geon</name>, <name type="divin">Gerreon</name>, <name type="divin">Armon</name> et <name type="divin">Geremon</name>.
+  Puis vous les invoquerez de la manière susdite étant à genoux,
+  et alors il vous apparaitra un Ange avec les autres ayant un habit de couleur de rozes portant des étoiles devant et derrière avec des fleurs sur la tête en forme de couronne semblable à la couleur de pavot champêtre ; et aussitôt qu’il aura aparu, il sera semblable à un très bel enfant de l’âge environ de 3 ans ayant les mains et le vizage de couleur tirant au rouge qui désigne l’ardeur d’une dilection divine. 
+D. : « Que demandez-vous et pour quel sujet avez-vous appellez les Princes de mon Ordre ? ». (in margine : réponce de l’opérant, 
+celle de l’ange) 
+R. : « C’est afin que ma demande soit exaucé en ce qui dépend de vôtre office et vocation ». 
+L’ange  répond : « il sera fait selon vôtre dézir ».
+Il faut scavoir que cet Esprit céleste qui aparait en forme d’enfant et les autres princes du même ordre sont entièrement amiables. 
+L’Ange dit à l’opérant : « Que pui-je faire pour vous ? ». Il ne faut pas que l’opérant se trouble, étant armé de courage et de foi, 
+qu’il demande l’accomplissement de sa prière selon leur office et il l’obtiendra. Et l’Ange en se retirant à coutume de dire à l’opérant :
+ « Je suis Vôtre Ami ».
+Il faut savoir aussi qu’il y a pluzieurs Princes dans ce même ordre ; mais qu’il n’en apparait jamais qu’un, parce qu’au tems 
+de leur Domination, il sont séparés les uns d’avec les autres et que chacun d’entr’eux à sa Domination pendant 30 jours de l’année, 
+et qu’au moment de vôtre invocation, il ni à que celui qui est dans sa Domination qui pourra vous apparaître. 
+Or donc il faut observer que nul ordre ni aucun Prince ne doit être appellé, si ce n’est dans le tems de sa Domination, 
+dans les parties du monde, et ce signe est donné selon que sont les 12 signes célestes qui ont correspondance avec les 12 ordres 
+; de telle manière qu’il faut appeller le premier ordre quand il est dans sa Domination, qui commance à l’entrée du premier signe auquel
+ le Soleil demeure en ce tems-la, en sorte que le Soleil sortant de ce signe, et entre dans un autre. Il faut aussi apeller 
+ et s’adresser à un autre ordre, et ainsi du reste ; et par conséquent pendant 12 mois, l’on pourra voir les 12 ordres. 
+Il faut encore observer à ce nom du Dieu vivant fixe en la substance du Ciel en forme de caractère ; 
+il faut aussi savoir que conformement aux 12 ordres, il y à aussi 12 noms de Dieu qui exprime tout à plein toute 
+l’essence de la divinité, qui sont des chozes cachées aux mauvais Esprits ou Démons.</p></div> 
+
+<div n="4" type="chapitre"><p>
+Troizième Ordre à l’Orient
+Ce Troizième Ordre à l’Orient est appellé <name type="divin">Hermon</name>, et et les Princes de cet Ordre ont puissance sur les amis,
+ les freres, les proches, les voizins, et sur le mouvement de tout les eaux tant de la mer que de toutes les rivières, 
+ et sur les changement de toutes chozes de lieu en autre et sur le mouvement des Elémens dans les générations et corruptions,
+  et sur le mouvement céleste, savoir est celui du ciel, des étoiles, et leurs rayons, et sur tout ce qui se meut d’un mouvement
+   local, et finalement empêchent où font arriver les chozes comme ils leur plait. Les Princes de cet ordre sont :
+    « <name type="divin">Yathanael</name>, <name type="divin">Coynyel</name>, <name type="divin">Prymaton</name>, <name type="divin">Yashanayel</name>, 
+    <name type="divin">Helen</name>, <name type="divin">Enshytey</name> ». Aussitôt que l’opérant aura fait sa demande, l’Ange 
+    lui aparait et commancera à parler, étant sous la forme d’un soldat, orné et de très pur or, sa chair semblable
+     vous semblera jetter des rayons de même que fait l’or, avec laqu’elle il parlera et témoignera à l’opérant une grande douceur,
+      et grande amitié, lui demandant avec une éloquence extraordinaire : « Que demandez-vous ? ». 
+En même tems communiquera gratuitement à l’opérant une si grande que pendant toute sa vie, 
+il aura le pouvoir d’obliger quelque homme que ce puisse être à l’aimer. De plus, il recevra aussi  des lumières 
+et clartés d’esprit surprenantes. Mais il faut savoir que cet admirable secret est figuré dans l’art notoire de Salomon, 
+et est caché parmi tout les hommes sages, prudens, et discrèts. C’est un secret précieux, qui est au-dessus 
+de toutes les sciences humaine, la raîne secrette de tous les Arts encyclopédiquement. Et un trézor qui est sûr et immanquable.
+ Et est incomparable.</p></div>
+
+<div n="5" type="chapitre"><p>
+Quatrième Ordre
+Ce quatrième ordre est nommé <name type="divin">Partheon</name>, et les princes qui sont cet ordre ont puissance sur tout les trézors,
+ et sur les successions, or donc ce 4e ordre à été placé en la partie méridionale du Ciel, 
+ laqu’elle par quelque dignité naturelle qui lui a été donnée par le St Esprit, à la pouvoir d’infuzer 
+ les arts dans les esprits des hommes, et principalement la rhétorique, et la grammaire. 
+ Il faut donc que l’opérant fasse son invocation, laqu’elle étant faite, la céleste intelligence s’aparaîtra de couleur azure 
+ et s’adressera à l’opérant avec une parole tès douce, et il obtiendra toutes les chozes employez en sa demande. 
+ Les noms des Princes de cet ordre sont : « <name type="divin">Yrath</name>, <name type="divin">Yaram</name>, <name type="divin">Armeth</name>, 
+ <name type="divin">Zaremy</name>, <name type="divin">Lux</name>, <name type="divin">Ehiel</name> ».</p></div> 
+
+<div n="6" type="chapitre"><p>
+INSTRUCTION DES DIFFERENS OBJETS QU’IL FAUT SÇAVOIR POUR PARVENIR A L’ACCOMPLISSEMENT DE L’ART
+Premièrement, il faut savoir que tous ces trois ordres ont Mars et son heure, il faut savoir, en outre que 
+tant les ordres orientaux que ces trois qui sont méridionaux doivent commancer depuis le premier jour de la Lune jusqu’au 15, 
+jusqu’à la fin de la Lune, et qu’aussitôt que la demande de l’opérant aura été accordé, l’Ange se retire,
+ Il faut encore savoir qu’on ne doit appeler aucun ordre, si ce n’est en jour et en tems clair et serain ;
+  et toutes fois les ordres de l’Orient et du Midi, doivent être appelés depuis la Première Heure du Jour jusqu’à midi, 
+  et les Occidentaux et Septentrionaux depuis Midi jusqu’à la fin du jour.</p></div> 
+
+<div n="7" type="chapitre"><p>
+Cinquième Ordre
+Ce cinquième ordre se nomme <name type="divin">Eyam</name> où <name type="divin">Heyny</name>. Et les Princes de cet ordre ont de leur office en leur pouvoir 
+le mouvement du premier ciel où premier mobile, comme aussi d’émouvoir tous les animaux, chacun selon sa nature,
+ et son espèce à la génération pour multiplier, comme aussi les poissons, et les oyzeaux, lesquels tous ils reglent les mouvemens,
+  et par un don de Dieu ils ont le pouvoir le pouvoir d’infuzer 
+  les sciences naturelles comme sont la fizique, la médecine, et chimie en toutes leurs parties. 
+Voici les noms des princes de cet ordre : <name type="divin">Altray</name>, <name type="divin">Ezei</name>, <name type="divin">Zabel</name>, 
+<name type="divin">Monoyn</name>, <name type="divin">Aurash</name>, <name type="divin">Boulay</name>. 
+	Si quelqu’un veut opérer par le ministère des princes de cet ordre, il faut qu’il fasse un <name type="divin">Almadel</name> de cire verte, 
+    et qu’il nomme par trois fois
+     le nom des princes de cet ordre avec l’invocation et l’intelligence céleste lui apparaîtra vêtu d’une couleur très verte ayant des fleurs sur sa tête,
+      alors ayant fait la fumigation sous l’<name type="divin">Almadel</name>, l’ange dira amicablement et d’un air afable à l’opérant 
+D. Que me demandez-vous ?
+R. Alors l’opérant répondra avec humilté : Qu’il plaize à vôtre dignité m’accorder ce qui expozé sur le saint <name type="divin">Almadel</name>. 
+Et aussitôt l’ange lui accorder sa demande. L’opérant peut encore demander autre choze, comme d’être par lui recommandé à Dieu, 
+ce qui sera à l’instant, et aussitôt après, il se retirera, laissant un odeur comme de musque.</p></div>
+
+<div n="9" type="chapitre"><p>
+Sixième ordre.
+Ce sixième ordre est nommé <name type="divin">Mehym</name>, et les princes de cet ordre par le commandement de Dieu, ont chacun leur office, et leur pouvoir est sur l’état de tout le monde, 
+remuant, mouvant et changeant les monarchies, les empires et toutes les principautés du monde, de région en région, par un mouvement 
+et une ordination céleste distinguent les maîtres et les seigneurs d’avec les serviteurs, et les remplizent de vertus et de mœurs des plus illustres, 
+réduizent les sujets sous la puissance de leurs maîtres où seigneurs, de changer comme ils veulent les serviteurs en maîtres, et les maîtres en serviteurs ; 
+ils gouvernent les démons et les assujetissent et deffendent les hommes de leurs illuzions, ils ont le pouvoir d’infuzer 
+  trois sciences, scavoir la muzique, la logique et la filozofie, 
+  les noms des Princes sont ainsi : « <name type="divin">Horos</name>, <name type="divin">Visseros</name>, <name type="divin">Onay</name>, 
+  <name type="divin">Ornelh</name>, <name type="divin">Yaresh</name>, <name type="divin">Alay</name> ».
+Celui qui voudra opérer dans cet ordre, faut qu’il fasse un <name type="divin">Almadel</name> de cire violette,
+ et qu’il se gouverne en cela de la même manière que dans les autres ordres ; 
+ cela étant fait, qu’il nomme les noms des Princes de cet ordre, et qu’il dize son invocation. 
+ Et peu de tems après, l’Ange s’apparaîtra sur l’<name type="divin">Almadel</name> en forme de Seraphin ayant six ailes entremêlées de divers couleurs très belles 
+ ; alors l’opérant fera sa fumigation, comme il est déjà dit, au dessous de l’<name type="divin">Almadel</name>, avec de l’encens et du mastic, 
+ alors l’Ange parlera et donnera à l’opérant ce qu’il demande, puis se retirant il laissera en l’air une grande odeur 
+ comme si c’était du beaume et du cinamome.</p></div>
+
+<div n="9" type="chapitre"><p>
+Septième ordre
+Cet ordre se nomme <name type="divin">Goffor</name>, est le premier ordre du côté de l’Occident et les princes de cet ordre ont leur pouvoir 
+sur les amitiés et les inimitiés de toutes les créatures, sur les guerres, les batailles, les constations et les outrages, 
+particulièrement sur les armées, ils peuvent faire porter les armes dans toutes les parties du monde, 
+et rien de bien ou de mal ne peut arriver dans leur ordination où permission, ils ont par un don de Dieu le pouvoir d’infuzer 
+dans l’esprit des hommes l’astrologie, la géométrie, et l’arithmétique. Les Princes se nomment ainsi :
+ « <name type="divin">Ay</name>, <name type="divin">Albayn</name>, <name type="divin">Roel</name>, <name type="divin">Albanay</name>, 
+ <name type="divin">Ratan</name>, <name type="divin">Corozay</name> ». Si quelqu’un veut opérer par le moyen de cet ordre,
+  il faut qu’il fasse un saint Almadel avec de la cire colombine, les cierges et chandelliers de mêmes, ainsi qu’il est prescrit. 
+  Et après avoir appellez les Anges et Princes de cet ordre, l’Ange apparaîtra avec un vizage splendide
+   et agréable ayant des franges sur sa cuisse, tenant un sceptre, alors qu’il faut que l’opérant 
+   fasse la fumigation de thimiane et d’encens sous l’Almadel, et lui accordera sa demande autant qu’il dependra de son pouvoir et de son office, 
+   et l’Ange se retirant laisse une grande odeur très suave, comme celle de lys et lauriers. </p></div>
+
+<div n="10" type="chapitre"><p>
+Huitième Ordre
+Cet ordre s’appelle <name type="divin">Eroy</name>, et les Princes de cet ordre ont le pouvoir sur toutes sortes de pactes et conventions 
+qui se font entre les créatures et les forcent sous des peines rigoureuzes d’observer les conventions 
+faites avec les hommes, et celles des hommes avec les démons, et permettent où punissent l’un où l’autre, 
+où tous les deux ensemble, et ainsi qu’il leur plait, par le commandement de Dieu, ils ont pouvoir sur les ames, 
+ils les gouvernent, et dirigent à une bonne fin, il sont arbitre de la vie et de la mort, de toutes les créatures,
+ et par un effet de leur dignité, ils ont le pouvoir d’infuzer la théologie, la geometrie, et la métaphizique.
+  Voici les noms des Princes de cet ordre : « <name type="divin">Amayn</name>, <name type="divin">Anay</name>, <name type="divin">Gelomissus</name>, 
+  <name type="divin">Gedobanu</name>, <name type="divin">Isaramana</name>, <name type="divin">Eloumish</name> ».
+   Si l’opérant veut opérer par cet ordre, faut qu’il fasse l’<name type="divin">Almadel</name> comme il a été prescrit de cire blanches,
+    et les cierges et les chandeliers de même, et ayant appellé les Princes de cet ordre, et mis sa demande sur l’<name type="divin">Almadel</name>,
+     l’Ange apparaîtra en forme de colombe blanche, ayant fait la fumigation avec encens et mastic,
+      on verra la colombe portant sur sa tête une couronne de douze pierres précieuses, et ayant en sa bouche onze sou-bec
+       (?) un signe de croix enlacé d’un fil d’or, et ayant demandé à l’opérant qu’elle est sa demande, 
+       l’Ange lui accordera sa demande, et à son départ, il laissera en l’air une oceur douce et très agréable, 
+       comme celle de lys et de beaume.</p></div> 
+
+<div n="11" type="chapitre"><p>
+Neuvième Ordre
+Cet ordre est nommé <name type="divin">Sapheron</name> où <name type="divin">Saphor</name>, et les noms des princes qui y règnent sont ainsi :
+ « <name type="divin">Zaan</name>, <name type="divin">Zabut</name>, <name type="divin">Zadanay</name>, <name type="divin">Arphel</name>, 
+ <name type="divin">Alxahaney</name>, <name type="divin">Zadam</name> ». Ils ont leur pouvoir sur les générations des animaux, 
+ et le mélange des éléments, ils portent les hommes de passer de relion en religion promptement 
+ et ont leur domination sur toutes sortes de mouvemens. Si on veut opérer par le manière des princes de cet ordre
+  il faut faire l’<name type="divin">Almadel</name> de cire verte et lucide partie égales et les cierges et les chandeliers de même,
+   il faut faire la fumigation avec du musque, du safran et de l’oliban, et l’ange apparaitra en forme d’aigle d’une couleur céleste, 
+   et il accordera à l’opérant ce qu’il dézir. </p></div>
+
+<div n="12" type="chapitre"><p>
+Dixième Ordre
+Cet ordre se nomme <name type="divin">Razan</name>, et princes de cet ordre se nomment <name type="divin">Antypin</name>, <name type="divin">Anab</name>, 
+<name type="divin">Beyt</name>, <name type="divin">Salut</name>, <name type="divin">Patience</name>. 
+Et par un effet de la dignité en laqu’elle Dieu les à établis, ils ont le pouvoir sur les dignités temporelles, 
+celles de l’esprit naturel, et les vertus que Dieu avait donnée à <name>Adam</name> dans l’état d’innocence
+ qu’il donna encore à la nature humaine au tems de la Passion de <name type="divin">Jesus-Christ</name>, nôtre sauveur, 
+ et quelqu’autres les sens humains n’ont sçù comprendre, et ne comprendrons jamais. Cet ordre est attribué 
+ au commancement de la partie du Septentrion. Et si quelqu’un veut opérer par le ministère des Princes de cet ordre, 
+ il faut faire l’<name type="divin">Almadel</name> et la fumigation, et l’ange apparaîtra en forme d’agneau avec divers marques rouges 
+ et accordera à l’opérant tout ce qu’il dézire</p></div>
+
+<div n="13" type="chapitre"><p>
+Onzième ordre
+Cet ordre se nomme Zarvish où <name type="divin">Zarviesh</name> et les boms des prince <name type="divin">Zarvish</name> où <name type="divin">Zarviesh</name>, 
+et les noms des princes de 
+cet onzième ordre sont tels qui suit <name type="divin">Alphanes</name>, <name type="divin">Alphanay</name>, <name type="divin">Azer</name>, <name type="divin">Surnesh</name>
+, <name type="divin">Almeos</name>, <name type="divin">Saphrayn</name>. Il faut faire l’<name type="divin">Almadel</name> pur 
+et net et séparé de toutes ordures, après avoir fait et récité l’invocation et que vous aurez mis la demande sur l’<name type="divin">Almadel</name>, 
+l’Ange vous apparaitra en forme d’un jeune homme, et selon son office il exerce les jugemens de Dieu sur les hommes, 
+selon la chaire où le monde, il rend l’homme de bon esprit, et s’il est interrogé sur quelques articles de piété, 
+comme sur l’incarnation de <name type="divin">Jésus-Christ</name>, il vous en declarera le mmystère de ce qui est caché à tout le rest des hommes.</p></div>
+
+<div n="14" type="chapitre"><p>
+Douzième Ordre
+Ce douzième et dernier ordre se nomme <name type="divin">Elizay</name>, et les princes de cet ordre se nomment comme il s’en suit :
+ « <name type="divin">Salushiel</name>, <name type="divin">Alymos</name>, <name type="divin">Alibyn</name>, <name type="divin">Lubirael</name>, 
+ <name type="divin">Ana</name> où <name type="divin">Anay</name>. Il faut faire l’<name type="divin">Almadel</name> de cire blanche mêlée de vert et de rouge, 
+ parties egalles, il faut faire l’invocation et la mettre sur l’<name type="divin">Almadel</name>, et faire la fumigation,
+  ensuite l’ange apparaitra à l’opérant. Faut remarquer que les Princes de cet ordre sont très-haut en dignité, 
+  étant de l’Hyerarchie des Dominations ; ils tiennent <name type="divin">Lucifer</name> dans la chaîne et contraignent violemment 
+  tous les Esprits d’observer les ordres et les commandemens de Dieu s’ils sont appellés pour cela, 
+  ils gouvernent les Elus de Dieu, et les prézervent des mauvais Esprits, les Démons les craignent beaucoup, 
+  parce qu’ils sont tous les jours tourmentés d’eux. Au jour du Jugement Dernier, ces Princes feront assembler 
+  toutes les nations des quatre parties de la Terre, le principal Ange de cet ordre apparaîtra en forme de soldat,
+   tenant un rameau d’olivier en sa main Adjuration
+O Princes qui êtes constitués dans cet ordre et Elus de Dieu, je vous adjure et vous suplie par le nom de <name type="divin">Saday</name> du Dieu vivant, 
+par celui de <name type="divin">Helezon</name>, et par celui d’<name type="divin">Athanatos</name>, par celui d’<name type="divin">Esquiros</name>,
+ qu’il vous plaize, O bienheureux anges, princes et conseillers,
+ et par celui d’<name type="divin">Adonay</name> d’avoir pitié d’une très humble créatures de revoir ma prière, de l’agréer et de m’en accorder un heureux succès. 
+Nota. Il faut observer qu’en toutes opérations et tel ordre que ce soit ci-devant prescrits, il faut faire un <name type="divin">Almadel</name> 
+qui sera fait de cire de la couleur prescrites pour chaque ordre.</p></div> 
+
+<div n="15" type="chapitre"><p>
+FIGURE DU SAINT ET PRECIEUX <name type="divin">ALMADEL</name>
+L’<name type="divin">Almadel</name> est une petite table de cire d’un demi pied en quarré de l’épaisseur de deux écus ou environt 
+qui doit être percé d’autant de trous qu’il y a d’angles qui s’y rencontre dans les figures lesquels trous sont 
+figurés par autant d’o que vous voyez dans la figure ci-à-côté.</p></div>
+
+<div n="16" type="chapitre"><p>
+DES CHANDELIERS, DES CIERGES, ET DU TROU DU CHANDELIER
+Faut sçavoir que l’un à bezoin de 4 chandeliers fait de cire, mais si adroitement que deux parties surpassent 
+la hauteur de l’<name type="divin">Almadel</name> et que la troizième parties soit dessous de telle manière qu’il y ait quelque rebord 
+en chaque chandelier correspondant de l’un à l’autre en proportion égale pour y pouvoir placer le Saint <name type="divin">Almadel</name> de <name>Salomon</name>. 
+A l’égard des 4 cierges, il faut qu’ils soient faits de même cire, au sommet du chandelier, il faut qu’il y ait un trou 
+pour y pouvoir pozer le cierge.</p></div> 
+
+<div n="17" type="chapitre"><p>
+DU SCEAU ET DE L’ECRITURE
+Pour former la demande, il faut bien prendre garde de n’allumer aucun des cierges si ce n’est pozitivement 
+au tems pour faire la demande, et lorsque l’<name type="divin">Almadel</name> serait et composé, il faut y faire un sceau dans lesquels seront gravés
+ à l’envers les noms <name type="divin">Heloyn</name>, <name type="divin">Adonay</name>, comme on peut le voir dans la figure, avec une aiguille d’argent où d’or pur, 
+ et au tems de l’opération, mettez vôtre demande sur l’<name type="divin">Almadel</name>, en lieu propre et séparé de toutes saletés et d’ordures.
+  Allumez les cierges et invoquez les noms des anges du premier ordre qui sont <name type="divin">Arivel</name>, <name type="divin">Gabriel</name>, 
+  <name type="divin">Carachuel</name>, où <name type="divin">Barachiel</name>, 
+  <name type="divin">Hybel</name> où <name type="divin">Libes</name>, <name type="divin">Heliza</name>, dizant l’invocation à la page 202 : j’adore les St noms etc.</p></div>
+
+<div n="18" type="chapitre"><p>
+DES CENDRES.
+Il faut que l’opérant aye un vâse de terre bien net et bien poli dans lequel il mettra des cendres chaudes, 
+mais il ne faut pas qu’elle soient trop chaudes, crainte qu’elles ne fassent fondre la cirde, et pozer ce vâse sous l’<name type="divin">Almadel</name>, 
+mettez dans ces cendres 4 grains de mastic, en telle sorte que l’odeur et la fumée passe les petits trous de l’<name type="divin">Almadel</name> 
+et puisse monter en l’air, au devant de l’Ange, descendant du ciel qui vous apparaîtra et satisfera à vôtre demande. 
+L’opérant doit être vêtu de la même couleur que sera fait l’<name type="divin">Almadel</name>, les chandeliers et et les cierges. Fin</p></div>
+<div n="19" type="chapitre"><p>
+LES REGIONS DES 4 ELEMENS
+Région du feu : 
+Empereur est <name type="divin">Gargatel</name>, c’est <name type="divin">Camael</name> où <name type="divin">Michael</name>
+<name type="divin">Tariel</name>, prince
+<name type="divin">Tubliel</name>, prince
+<name type="divin">Gaviel</name>, prince
+<name type="divin">Ruel</name>
+
+Celle de l’air :
+<name type="divin">Raphael</name>, prin(ce) sou(verain)
+<name type="divin">Miel</name>, prince
+<name type="divin">Seraphiel</name>, prin(ce)
+
+Celle de l’eau :
+<name type="divin">Gabriel</name>, gra(nd) pri(nce)
+<name type="divin">Samael</name>, prince
+<name type="divin">Madiel</name>, prince
+<name type="divin">Mael</name>, prince
+
+Celle de la terre : 
+<name type="divin">Tarquael</name> emper(eur)
+<name type="divin">Anael</name>
+<name type="divin">Uriel</name>, gr(and) pri(nce)
+<name type="divin">Cassiel</name>, prince
+<name type="divin">Sachiel</name>, prince
+<name type="divin">Asasiel</name>, prince
+</p>
+</div>
+</div>
+</div>
+</body>
+</text>
+</TEI>
