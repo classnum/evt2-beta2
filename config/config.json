@@ -2,7 +2,7 @@
     "indexTitle": "Test EVT",
     "webSite": "",
     "logoUrl": "",
-    "dataUrl": "data/text/test.xml",
+    "dataUrl": "data/text/archestratus_test.xml",
     "sourcesUrl": "data/text/sources.xml",
     "analoguesUrl": "data/text/analogues.xml",
     "sourcesTextsUrl": "data/text/sources/",
@@ -38,7 +38,7 @@
             "label": "TEXT_TEXT",
             "icon": "mode-txtTxt",
             "viewMode": "txtTxt",
-            "visible": false
+            "visible": true
         },
         {
             "label": "COLLATION",
@@ -60,7 +60,7 @@
         }
     ],
 
-    "defaultEdition": "critical",
+    "defaultEdition": "readingTxt",
     "showEditionLevelSelector": true,
     "availableEditionLevel": [
         {
@@ -91,7 +91,7 @@
     "toolPinAppEntries": true,
     "toolImageTextLinking": true,
 
-    "namedEntitiesSelector": false,
+    "namedEntitiesSelector": true,
     "namedEntitiesToHandle": [
         {
             "tagName": "persName",
@@ -106,7 +106,7 @@
         {
             "tagName": "orgName",
             "label": "Organizations",
-            "available": true
+            "available": false
         }
     ],
     "otherEntitiesToHandle": [
@@ -132,30 +132,19 @@
         {
             "groupName": "Group 1",
             "witnesses": [
-                "V",
-                "P",
-                "N",
-                "M",
-                "G",
-                "C",
-                "R"
+                "A"
             ]
         },
         {
             "groupName": "Group 2",
             "witnesses": [
-                "F",
-                "D",
-                "O",
-                "W",
-                "M5mg",
-                "B",
-                "U"
+                "C",
+                "E"
             ]
         }
     ],
 
-    "showInlineCriticalApparatus": false,
+    "showInlineCriticalApparatus": true,
     "showInlineSources": false,
     "showInlineAnalogues": false,
     "showReadingExponent": true,
